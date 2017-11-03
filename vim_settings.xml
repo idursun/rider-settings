@@ -48,7 +48,6 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxController.js" timestamp="1505730684743">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1509556304406" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1506083940117">
         <mark key="'" line="70" column="27" />
       </file>
@@ -145,9 +144,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/SqlServers/RawSqlServerDataPresenterFactory.cs" timestamp="1506522859405">
         <mark key="'" line="171" column="46" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/SingleAlertState.cs" timestamp="1506069977171">
-        <mark key="'" line="172" column="29" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelBuilder.cs" timestamp="1508837679231">
         <mark key="'" line="87" column="22" />
