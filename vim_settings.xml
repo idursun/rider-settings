@@ -1,0 +1,570 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" timestamp="1509025761955">
+        <mark key="'" line="31" column="43" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/RawGlobalDataPresenterFactory.cs" timestamp="1506523641013">
+        <mark key="'" line="33" column="47" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedInboxSelectionModel.cs" timestamp="1508492081903">
+        <mark key="'" line="8" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Program.cs" timestamp="1504533175190">
+        <mark key="'" line="98" column="46" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" timestamp="1506354175547">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/Sql/TransactionIsolatedLocalDbTestSuite.cs" timestamp="1503654407050">
+        <mark key="'" line="47" column="61" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1504688401525">
+        <mark key="'" line="146" column="39" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/IGroupedAlertModelMapper.cs" timestamp="1505304525910">
+        <mark key="'" line="7" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/MultiMonitoredEntitiesDataPresenterFactory.cs" timestamp="1504533394265">
+        <mark key="'" line="41" column="50" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Util/ObjectTypes.cs" timestamp="1503577701421">
+        <mark key="'" line="150" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/GlobalDashboard/GlobalDashboard.cshtml" timestamp="1507560810097">
+        <mark key="'" line="260" column="40" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DataCollectionScheduler.cs" timestamp="1504698201421">
+        <mark key="'" line="409" column="35" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ChannelTree.ascx" timestamp="1504625113776">
+        <mark key="'" line="0" column="74" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" timestamp="1507563643408">
+        <mark key="'" line="326" column="55" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxController.js" timestamp="1505730684743">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1509556304406" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1506083940117">
+        <mark key="'" line="70" column="27" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertControllerHelper.cs" timestamp="1503588785502">
+        <mark key="'" line="56" column="24" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/UnaryEvaluator.cs" timestamp="1509455323870">
+        <mark key="'" line="29" column="77" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/ChannelInstanceAlertState.cs" timestamp="1509462764780">
+        <mark key="'" line="69" column="111" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInbox.js" timestamp="1507560193737">
+        <mark key="'" line="62" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Trace/TraceController.cs" timestamp="1504787449695">
+        <mark key="'" line="147" column="92" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Web.config" timestamp="1503490031365">
+        <mark key="'" line="0" column="9" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Configuration/DeploymentSettingsSectionTests.cs" timestamp="1506348854496">
+        <mark key="'" line="59" column="69" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AsyncDataCollector.cs" timestamp="1506083853252">
+        <mark key="'" line="77" column="41" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertConfigMethodsSane.cs" timestamp="1506422148066">
+        <mark key="'" line="24" column="41" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowDiskSpaceAlertor.cs" timestamp="1509460290012">
+        <mark key="'" line="42" column="17" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
+        <mark key="'" line="22" column="49" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertConfigExtensionMethods.cs" timestamp="1504278890594">
+        <mark key="'" line="19" column="55" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/BuiltInAlertTypeDefinitions.cs" timestamp="1509455885218">
+        <mark key="'" line="607" column="74" />
+        <mark key="[" line="216" column="64" />
+        <mark key="]" line="216" column="92" />
+        <mark key="." line="216" column="92" />
+        <mark key="^" line="216" column="92" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowResourceAlertor.cs" timestamp="1509460325732">
+        <mark key="'" line="6" column="55" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SpecializedWmiDataPresenter.cs" timestamp="1506523711196">
+        <mark key="'" line="23" column="65" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertor.cs" timestamp="1505988315590">
+        <mark key="'" line="56" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" timestamp="1505119088298">
+        <mark key="'" line="224" column="86" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" timestamp="1509454606186">
+        <mark key="'" line="134" column="15" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/GlobalDashboard/GlobalDashboard.js" timestamp="1507560831194">
+        <mark key="'" line="225" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/FullAlertType.cs" timestamp="1504279547543">
+        <mark key="'" line="11" column="21" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" timestamp="1503589664557">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/AlertsAreaRegistration.cs" timestamp="1504687769159">
+        <mark key="'" line="37" column="40" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" timestamp="1505313177053">
+        <mark key="'" line="12" column="47" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertingInformation.cs" timestamp="1509556543231">
+        <mark key="'" line="7" column="37" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/SqlAlertInstanceRetriever.cs" timestamp="1505315823885">
+        <mark key="'" line="20" column="33" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Mvvm.js" timestamp="1507636385813">
+        <mark key="'" line="95" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/CachingPerformanceSource.cs" timestamp="1503303951423">
+        <mark key="'" line="12" column="133" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Process/ProcessSampler.cs" timestamp="1504779033411">
+        <mark key="'" line="30" column="39" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Trace/TraceManager.cs" timestamp="1504787437008">
+        <mark key="'" line="48" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/SqlServers/RawSqlServerDataPresenterFactory.cs" timestamp="1506522859405">
+        <mark key="'" line="171" column="46" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/SingleAlertState.cs" timestamp="1506069977171">
+        <mark key="'" line="172" column="29" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelBuilder.cs" timestamp="1508837679231">
+        <mark key="'" line="87" column="22" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/FilterAndPagingBar.ascx" timestamp="1504186700763">
+        <mark key="'" line="23" column="42" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/ProcessorDataPresenter.cs" timestamp="1506523702955">
+        <mark key="'" line="17" column="54" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstanceRefExtensions.cs" timestamp="1504626082160">
+        <mark key="'" line="13" column="69" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Cluster.cs" timestamp="1505134524173">
+        <mark key="'" line="6" column="37" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/Machines/RawMachineDataPresenterFactory.cs" timestamp="1506523738979">
+        <mark key="'" line="34" column="62" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlServerCommunicatorFactory.cs" timestamp="1504796573312">
+        <mark key="'" line="37" column="52" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1509556722480" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureEmailServer.js" timestamp="1504618378917">
+        <mark key="'" line="51" column="55" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryCommitter.cs" timestamp="1505394605368">
+        <mark key="'" line="378" column="79" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Names/QualifiedChannelName.cs" timestamp="1508771532146">
+        <mark key="'" line="285" column="64" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1507561567057">
+        <mark key="'" line="15" column="59" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" timestamp="1509459804749">
+        <mark key="'" line="29" column="93" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/Machine/LogicalDisk/ChannelConfig.xml" timestamp="1509444821349" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
+        <mark key="'" line="111" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Process/ChannelConfig.xml" timestamp="1504780523146">
+        <mark key="'" line="123" column="92" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" timestamp="1509463374779">
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/BaseApiController.cs" timestamp="1504093278167">
+        <mark key="'" line="9" column="10" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DataCollector.cs" timestamp="1506522777168">
+        <mark key="'" line="159" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSourceFactory.cs" timestamp="1503303948151">
+        <mark key="'" line="6" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
+        <mark key="'" line="38" column="29" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueConfig.cs" timestamp="1509455670125" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1504533061446">
+        <mark key="'" line="72" column="46" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1504090606741">
+        <mark key="'" line="31" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchema/Functions/utils.GetGroupCir.sql" timestamp="1504085413149">
+        <mark key="'" line="16" column="16" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureNotifications/Index.aspx" timestamp="1504618319037">
+        <mark key="'" line="238" column="47" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/PerDatabaseSqlTableSampler.cs" timestamp="1509454545083">
+        <mark key="'" line="13" column="56" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlBulkCopyExtensions.cs" timestamp="1505394362160">
+        <mark key="'" line="29" column="30" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertEngineRepository.cs" timestamp="1509095524255">
+        <mark key="'" line="141" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Functional/Option.cs" timestamp="1506431425512">
+        <mark key="'" line="35" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" timestamp="1508771422740">
+        <mark key="'" line="246" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/SqlServers/SqlServerProviderFactory.cs" timestamp="1509454706082">
+        <mark key="'" line="123" column="31" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/SqlServer.cs" timestamp="1505134547494">
+        <mark key="'" line="6" column="35" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Authorization/ClustersAndGroups.cs" timestamp="1505487620896">
+        <mark key="'" line="17" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
+        <mark key="'" line="67" column="15" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
+        <mark key="'" line="17" column="72" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypes.cs" timestamp="1505986422847">
+        <mark key="'" line="40" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureAuthentication/Index.cshtml" timestamp="1503491007861">
+        <mark key="'" line="3" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/Machine/Network/ChannelConfig.xml" timestamp="1509449715001">
+        <mark key="'" line="3" column="12" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/Clusters/ClusterProviderFactory.cs" timestamp="1506523949884">
+        <mark key="'" line="34" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
+        <mark key="'" line="37" column="51" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Column.Master" timestamp="1503491648179">
+        <mark key="'" line="0" column="63" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ConfigureAuthentication/ConfirmAuthenticationTypeViewModel.js" timestamp="1503493003443">
+        <mark key="'" line="107" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/DatabaseDataPresenter.cs" timestamp="1506507239411">
+        <mark key="'" line="15" column="93" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
+        <mark key="'" line="11" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509460099104">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Pickle/Pickler.cs" timestamp="1507642432788">
+        <mark key="'" line="51" column="29" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/GraphsController.cs" timestamp="1509444097013">
+        <mark key="'" line="42" column="140" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StateMachines/StateStats.cs" timestamp="1504279389440">
+        <mark key="'" line="22" column="17" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/SqlProcess/ChannelConfig.xml" timestamp="1505394491130">
+        <mark key="'" line="177" column="24" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Controllers/ReportController.cs" timestamp="1503485590468">
+        <mark key="'" line="47" column="46" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/AboutController.cs" timestamp="1504863511316">
+        <mark key="'" line="53" column="55" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlResultSetSampler.cs" timestamp="1509454526234" />
+      <file name="D:/repositories/dotnet/MvcApplication1/MvcApplication1/MvcApplication1/webpack.config.js" timestamp="1502453536357">
+        <mark key="'" line="68" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureNotificationsController.cs" timestamp="1504618291172">
+        <mark key="'" line="43" column="19" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Extensions/HttpContextExtensions.cs" timestamp="1504090374161">
+        <mark key="'" line="21" column="148" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="62" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInbox.js" />
+      <jump line="260" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/GlobalDashboard/GlobalDashboard.cshtml" />
+      <jump line="225" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/GlobalDashboard/GlobalDashboard.js" />
+      <jump line="251" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" />
+      <jump line="912" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
+      <jump line="15" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
+      <jump line="228" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Mvvm.js" />
+      <jump line="326" column="55" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" />
+      <jump line="278" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
+      <jump line="270" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
+      <jump line="302" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="288" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
+      <jump line="95" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Mvvm.js" />
+      <jump line="159" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
+      <jump line="46" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
+      <jump line="52" column="20" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
+      <jump line="51" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Pickle/Pickler.cs" />
+      <jump line="38" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
+      <jump line="29" column="93" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" />
+      <jump line="157" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="138" column="30" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
+      <jump line="70" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
+      <jump line="48" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
+      <jump line="4" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedAlertModel.cs" />
+      <jump line="99" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
+      <jump line="8" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedInboxSelectionModel.cs" />
+      <jump line="22" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/GroupedAlertModelMapper.cs" />
+      <jump line="316" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="115" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/GroupedAlertModelMapperTests.cs" />
+      <jump line="122" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/GroupedAlertModelMapperTests.cs" />
+      <jump line="69" column="16" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
+      <jump line="276" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
+      <jump line="24" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="303" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
+      <jump line="27" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="562" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
+      <jump line="28" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="246" column="32" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" />
+      <jump line="32" column="85" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="285" column="64" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Names/QualifiedChannelName.cs" />
+      <jump line="41" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="51" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="42" column="18" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="87" column="22" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelBuilder.cs" />
+      <jump line="279" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
+      <jump line="75" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="57" column="59" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/VMwarePerformanceSourceTests.cs" />
+      <jump line="46" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSource.cs" />
+      <jump line="159" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSource.cs" />
+      <jump line="112" column="33" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareCommunicator.cs" />
+      <jump line="82" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareCommunicator.cs" />
+      <jump line="71" column="56" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/VMwarePerformanceSourceTests.cs" />
+      <jump line="31" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" />
+      <jump line="25" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareCommunicator.cs" />
+      <jump line="19" column="7" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/FIleUsageHistoryRepository.cs" />
+      <jump line="54" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/FIleUsageHistoryRepository.cs" />
+      <jump line="40" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="98" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="117" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="33" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="31" column="70" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
+      <jump line="341" column="95" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="483" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="141" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertEngineRepository.cs" />
+      <jump line="482" column="56" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="342" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="481" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="491" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="55" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
+      <jump line="364" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="725" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="727" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="10" column="17" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareCommunicator.cs" />
+      <jump line="11" column="17" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" />
+      <jump line="361" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="101" column="63" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
+      <jump line="347" column="70" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="351" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="343" column="50" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="269" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/GraphsController.cs" />
+      <jump line="42" column="140" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/GraphsController.cs" />
+      <jump line="44" column="40" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
+      <jump line="3" column="12" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/Machine/Network/ChannelConfig.xml" />
+      <jump line="97" column="21" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
+      <jump line="96" column="76" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
+      <jump line="13" column="56" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/PerDatabaseSqlTableSampler.cs" />
+      <jump line="134" column="15" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" />
+      <jump line="123" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/SqlServers/SqlServerProviderFactory.cs" />
+      <jump line="29" column="77" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/UnaryEvaluator.cs" />
+      <jump line="33" column="29" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/BuiltInAlertTypeDefinitions.cs" />
+      <jump line="607" column="74" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/BuiltInAlertTypeDefinitions.cs" />
+      <jump line="42" column="17" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowDiskSpaceAlertor.cs" />
+      <jump line="6" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowResourceAlertor.cs" />
+      <jump line="256" column="60" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" />
+      <jump line="226" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" />
+      <jump line="69" column="111" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/ChannelInstanceAlertState.cs" />
+      <jump line="58" column="5" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" />
+      <jump line="65" column="70" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
+      <jump line="7" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertingInformation.cs" />
+      <jump line="531" column="86" filename="D:/workspace/sqlmonitor/Source/UI/Website/Repositories/GraphableMetricsRepository.cs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>DatabaseName</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxQcm9wZXJ0eURlY2wgTmFtZT0iVXNlZFNpemUiIEtpbmQ9IlVuc3RhYmxlU2FtcGxlIiBUeXBlPSJJbnRlZ2VyIj4KICAgICAgPERpc3BsYXk+CiAgICAgICAgPE5hbWU+VXNlZCBzaXplIGluIGZpbGU8L05hbWU+CiAgICAgICAgPERlc2M+VXNlZCBzaXplIGluIGZpbGU8L0Rlc2M+CiAgICAgICAgPEhlbHAgLz4KICAgICAgPC9EaXNwbGF5PgogICAgPC9Qcm9wZXJ0eURlY2w+Cg==</text>
+      </register>
+      <register name="1" type="8">
+        <text>m_AlertState
+m_AlertState
+m_AlertState
+m_AlertState
+m_AlertState
+m_AlertState
+m_AlertState
+m_AlertState</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9CaW5hcnlFeHByPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEJpbmFyeUV4cHIgQmluYXJ5T3A9Ik11bHRpcGx5Ij4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29uc3RhbnRFeHByIFR5cGU9IkRvdWJsZSI+MTAwPC9Db25zdGFudEV4cHI+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJJbnRlZ2VyIj5bQ2x1c3Rlcl0uW1NxbFNlcnZlcl0uW0RhdGFiYXNlXS5bRmlsZV0uW1NpemVdPC9Qcm9wZXJ0eUV4cHI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RXhwcj48L0V4cHI+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJJbnRlZ2VyIj5bQ2x1c3Rlcl0uW1NxbFNlcnZlcl0uW0RhdGFiYXNlXS5bRmlsZV0uW1VzZWRTaXplXTwvUHJvcGVydHlFeHByPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RXhwcj48L0V4cHI+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>DatabaseName</last-search>
+      <last-offset />
+      <last-pattern>DatabaseName</last-pattern>
+      <last-replace />
+      <last-substitute>)</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>&quot;Event&quot;</entry>
+        <entry>alertViewModel</entry>
+        <entry>;</entry>
+        <entry>Single</entry>
+        <entry>Query Text</entry>
+        <entry>Issues</entry>
+        <entry encoding="base64">XDxQZXJjZW50VXNlclRpbWVcPg==</entry>
+        <entry>Key</entry>
+        <entry>LastRaised</entry>
+        <entry>SqlHandle</entry>
+        <entry>Name</entry>
+        <entry>AlertGrouper</entry>
+        <entry>ko.observable(</entry>
+        <entry>)</entry>
+        <entry>Custom</entry>
+        <entry>.hash</entry>
+        <entry>hash</entry>
+        <entry>AlertInboxUrl</entry>
+        <entry>PercentUtilization</entry>
+        <entry>DatabaseName</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoLy9n</entry>
+        <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
