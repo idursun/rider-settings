@@ -81,13 +81,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AsyncDataCollector.cs" timestamp="1506083853252">
         <mark key="'" line="77" column="41" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/FIleUsageHistoryRepository.cs" timestamp="1509028023395">
-        <mark key="'" line="53" column="24" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="57" column="63" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertConfigMethodsSane.cs" timestamp="1506422148066">
         <mark key="'" line="24" column="41" />
       </file>
@@ -107,22 +100,8 @@
         <mark key="." line="216" column="92" />
         <mark key="^" line="216" column="92" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryTests.cs" timestamp="1506349946304">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="87" column="146" />
-        <mark key="]" line="87" column="145" />
-        <mark key="." line="87" column="145" />
-        <mark key="^" line="87" column="145" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowResourceAlertor.cs" timestamp="1509460325732">
         <mark key="'" line="6" column="55" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/GroupedAlertModelMapperTests.cs" timestamp="1508492805760">
-        <mark key="'" line="122" column="53" />
-        <mark key="[" line="123" column="68" />
-        <mark key="]" line="123" column="102" />
-        <mark key="." line="124" column="41" />
-        <mark key="^" line="124" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SpecializedWmiDataPresenter.cs" timestamp="1506523711196">
         <mark key="'" line="23" column="65" />
@@ -133,18 +112,16 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" timestamp="1505119088298">
         <mark key="'" line="224" column="86" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertTypeDefinitionTests.cs" timestamp="1505999750220">
-        <mark key="'" line="19" column="49" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="20" column="71" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" timestamp="1509454606186">
         <mark key="'" line="134" column="15" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/GlobalDashboard/GlobalDashboard.js" timestamp="1507560831194">
         <mark key="'" line="225" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DataFileGrowthViewModel.ascx" timestamp="1509725667212">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/FullAlertType.cs" timestamp="1504279547543">
         <mark key="'" line="11" column="21" />
@@ -191,13 +168,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstanceRefExtensions.cs" timestamp="1504626082160">
         <mark key="'" line="13" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" timestamp="1509031076310">
-        <mark key="'" line="31" column="70" />
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="41" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Cluster.cs" timestamp="1505134524173">
         <mark key="'" line="6" column="37" />
       </file>
@@ -209,13 +179,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1509722559159">
         <mark key="'" line="910" column="12" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alertor/AlertGroupKeyDeciderTests.cs" timestamp="1506440210294">
-        <mark key="'" line="119" column="17" />
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="102" column="61" />
-        <mark key="." line="102" column="61" />
-        <mark key="^" line="102" column="85" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureEmailServer.js" timestamp="1504618378917">
         <mark key="'" line="51" column="55" />
@@ -278,35 +241,14 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertEngineRepository.cs" timestamp="1509095524255">
         <mark key="'" line="141" column="23" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/GroupedAlertModelMapper.cs" timestamp="1508492642224">
-        <mark key="'" line="22" column="43" />
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="34" column="57" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Functional/Option.cs" timestamp="1506431425512">
         <mark key="'" line="35" column="32" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" timestamp="1508771422740">
         <mark key="'" line="246" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" timestamp="1508492584849">
-        <mark key="'" line="69" column="16" />
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="70" column="53" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/SqlServers/SqlServerProviderFactory.cs" timestamp="1509454706082">
         <mark key="'" line="123" column="31" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" timestamp="1507625459236">
-        <mark key="'" line="288" column="43" />
-        <mark key="[" line="282" column="23" />
-        <mark key="]" line="282" column="32" />
-        <mark key="^" line="282" column="32" />
-        <mark key="." line="282" column="32" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/SqlServer.cs" timestamp="1505134547494">
         <mark key="'" line="6" column="35" />
@@ -335,13 +277,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
         <mark key="'" line="37" column="51" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" timestamp="1506070328862">
-        <mark key="'" line="53" column="68" />
-        <mark key="[" line="44" column="60" />
-        <mark key="]" line="44" column="60" />
-        <mark key="^" line="44" column="23" />
-        <mark key="." line="44" column="60" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Column.Master" timestamp="1503491648179">
         <mark key="'" line="0" column="63" />
       </file>
@@ -357,24 +292,17 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509722713696">
+      <file name="/Dummy.txt" timestamp="1509725671165">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="69" />
+        <mark key="^" line="0" column="69" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Pickle/Pickler.cs" timestamp="1507642432788">
         <mark key="'" line="51" column="29" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/GraphsController.cs" timestamp="1509444097013">
         <mark key="'" line="42" column="140" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxController.cs" timestamp="1507552005427">
-        <mark key="'" line="84" column="24" />
-        <mark key="[" line="125" column="84" />
-        <mark key="]" line="125" column="85" />
-        <mark key="." line="125" column="85" />
-        <mark key="^" line="125" column="90" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StateMachines/StateStats.cs" timestamp="1504279389440">
         <mark key="'" line="22" column="17" />
@@ -385,18 +313,18 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Controllers/ReportController.cs" timestamp="1503485590468">
         <mark key="'" line="47" column="46" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" timestamp="1509113132418">
-        <mark key="'" line="71" column="63" />
-        <mark key="[" line="71" column="78" />
-        <mark key="]" line="71" column="77" />
-        <mark key="^" line="71" column="77" />
-        <mark key="." line="71" column="77" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/AboutController.cs" timestamp="1504863511316">
         <mark key="'" line="53" column="55" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" timestamp="1509726042703">
+        <mark key="'" line="75" column="44" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="95" column="72" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlResultSetSampler.cs" timestamp="1509454526234" />
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DataFileGrowthViewModel.cs" timestamp="1509722623673">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DataFileGrowthViewModel.cs" timestamp="1509726155489">
         <mark key="'" line="56" column="52" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -414,11 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
-      <jump line="270" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
-      <jump line="302" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
-      <jump line="288" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
-      <jump line="95" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Mvvm.js" />
       <jump line="159" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
       <jump line="46" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
       <jump line="52" column="20" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
@@ -514,49 +437,54 @@
       <jump line="100" column="21" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/CpuViewModel.cs" />
       <jump line="56" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DataFileGrowthViewModel.cs" />
       <jump line="910" column="12" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
+      <jump line="43" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" />
+      <jump line="44" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" />
+      <jump line="50" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" />
+      <jump line="46" column="28" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" />
+      <jump line="60" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZWRTaXplID0gZGF0YWJhc2VGaWxlLlVzZWRTaXplLkxhc3RWYWx1ZU9yTm9uZU9yVW5kZWZpbmVkLkNvbGxhcHNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzIHN0aWZmIGdvZXMgaGVyZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>LastValueOrNoneOrUndefined.Collapse().Match(ToGigaBytes, 0);</text>
+        <text>c_DataFilePath</text>
       </register>
       <register name="/" type="4">
         <text>Collapse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZWRTaXplID0gZGF0YWJhc2VGaWxlLlVzZWRTaXplLkxhc3RWYWx1ZU9yTm9uZU9yVW5kZWZpbmVkLkNvbGxhcHNlKCkuTWF0Y2goVG9HaWdhQnl0ZXMsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0X1JlbmRlcnNfRGF0YUZpbGVJbmZvcm1hdGlvbigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbW9ja0RhdGFQcmVzZW50ZXJCdWlsZGVyID0gbmV3IE1vY2tEYXRhUHJlc2VudGVyQnVpbGRlcihtX0RhdGVUaW1lKS5DbHVzdGVyKGNfQ2x1c3Rlck5hbWUsIGMgPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYy5TcWxTZXJ2ZXIoY19TcWxJbnN0YW5jZU5hbWUsIHMgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzLkRhdGFiYXNlKGNfRGF0YWJhc2VOYW1lLCBkID0+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBkLkZpbGUoY19EYXRhRmlsZU5hbWUsIGZpbGUgPT4KICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5BZGRGaWxlTmFtZVNhbXBsZShtX0RhdGVUaW1lLCBjX0RhdGFGaWxlUGF0aCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlLkFkZFNpemVTYW1wbGUobV9EYXRlVGltZSwgMkwgKiAxMDI0ICogMTAyNCAqIDEwMjQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5BZGRVc2VkU2l6ZVNhbXBsZShtX0RhdGVUaW1lLCAxTCogMTAyNCAqIDEwMjQgKiAxMDI0KTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICB2YXIgdmlld01vZGVsID0gbmV3IERhdGFGaWxlR3Jvd3RoVmlld01vZGVsKEJ1aWx0SW5BbGVydFR5cGVEZWZpbml0aW9ucy5GaW5kKEJ1aWx0SW5BbGVydFR5cGVzLkRhdGFGaWxlR3Jvd3RoKSwgbV9BbGVydEluc3RhbmNlLCBtb2NrRGF0YVByZXNlbnRlckJ1aWxkZXIuQnVpbGREYXRhUHJlc2VudGVyKCkpOwoKICAgICAgICAgICAgdmFyIGxpbmVzID0gbmV3IExpc3Q8c3RyaW5nPigpOwogICAgICAgICAgICBtX0h0bWxFbmNvZGVyTW9jay5TZXR1cCh4ID0+IHguRW5jb2RlKEl0LklzQW55PHN0cmluZz4oKSkpLkNhbGxiYWNrPHN0cmluZz4obGluZXMuQWRkKTsKICAgICAgICAgICAgdmlld01vZGVsLkRpc3BsYXlUYWJsdWFySW5mb3JtYXRpb24obV9IdG1sRW5jb2Rlck1vY2suT2JqZWN0KTsKCiAgICAgICAgICAgIEFzc2VydC5UaGF0KGxpbmVzLCBJcy5Ob3QuRW1wdHkpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1swXSwgSXMuRXF1YWxUbyhjX0RhdGFGaWxlUGF0aCkpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1sxXSwgRG9lcy5Db250YWluKCIxLjAwIEdCIikpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1sxXSwgRG9lcy5Db250YWluKCI1MC4wMCUiKSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KGxpbmVzWzJdLCBEb2VzLkNvbnRhaW4oIjIuMDAgR0IiKSk7CgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZWRTaXplID0gZGF0YWJhc2VGaWxlLlVzZWRTaXplLkxhc3RWYWx1ZU9yTm9uZU9yVW5kZWZpbmVkLkNvbGxhcHNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzIHN0aWZmIGdvZXMgaGVyZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZWRTaXplMiA9IGRhdGFiYXNlRmlsZS5Vc2VkU2l6ZS5MYXN0T3JOb25lKCkuU2VsZWN0KHggPT4geC5WYWx1ZSkuQ29sbGFwc2UoKQo=</text>
+        <text encoding="base64">ICAgIHNvbWUgb3RoZXIgc3R1ZmYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQobGluZXNbMV0sIERvZXMuQ29udGFpbigiMS4wMCBHQiIpKTsKICAgICAgICAgICAgQXNzZXJ0LlRoYXQobGluZXNbMV0sIERvZXMuQ29udGFpbigiNTAuMDAlIikpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1syXSwgRG9lcy5Db250YWluKCIyLjAwIEdCIikpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLldlYi5VSS5XZWJDb250cm9sczsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">LkNsdXN0ZXIoY19DbHVzdGVyTmFtZSwgYyA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjLlNxbFNlcnZlcihjX1NxbEluc3RhbmNlTmFtZSwgcyA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHMuRGF0YWJhc2UoY19EYXRhYmFzZU5hbWUsIGQgPT4KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGQuRmlsZShjX0RhdGFGaWxlTmFtZSwgZmlsZSA9PgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlLkFkZEZpbGVOYW1lU2FtcGxlKG1fRGF0ZVRpbWUsIGNfRGF0YUZpbGVQYXRoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGUuQWRkU2l6ZVNhbXBsZShtX0RhdGVUaW1lLCAyTCAqIDEwMjQgKiAxMDI0ICogMTAyNCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlLkFkZFVzZWRTaXplU2FtcGxlKG1fRGF0ZVRpbWUsIDFMKiAxMDI0ICogMTAyNCAqIDEwMjQpOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIFRvR2lnYUJ5dGVzKGxvbmcgeCkgPT4geCAvIDEwMjQuMCAvIDEwMjQuMCAvIDEwMjQuMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV9IdG1sRW5jb2Rlck1vY2sgPSBuZXcgTW9jazxJSHRtbEVuY29kZXI+KCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBbGVydERldGFpbHNSb3coIkZpbGUgbmFtZSIsIGZpbGVOYW1lKSwKICAgICAgICAgICAgICAgIG5ldyBBbGVydERldGFpbHNSb3coIkZpbGUgc3BhY2UgdXNlZCIsIHVzZWRTaXplKSwKICAgICAgICAgICAgICAgIG5ldyBBbGVydERldGFpbHNSb3coIlRvdGFsIGZpbGUgc2l6ZSIsICQie3NpemUgLyAxMDI0LjAgLyAxMDI0LjAgLyAxMDI0LjB9IEdCIik=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0bWxFbmNvZGVyTW9jayA9IG5ldyBNb2NrPElIdG1sRW5jb2Rlcj4oKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhyZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZXNob2xkVW5pdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtleUNvbGxlY3Rpb25EYXRlID0gRGF0ZVRpbWUuVXRjTm93Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -656,6 +584,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
