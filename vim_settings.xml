@@ -300,6 +300,12 @@
         <mark key="'" line="53" column="55" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlResultSetSampler.cs" timestamp="1509454526234" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DataFileGrowthViewModel.cs" timestamp="1509718837082">
+        <mark key="[" line="24" column="108" />
+        <mark key="]" line="24" column="107" />
+        <mark key="." line="24" column="107" />
+        <mark key="^" line="24" column="107" />
+      </file>
       <file name="D:/repositories/dotnet/MvcApplication1/MvcApplication1/MvcApplication1/webpack.config.js" timestamp="1502453536357">
         <mark key="'" line="68" column="0" />
       </file>
@@ -414,18 +420,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.AddMinutes(10)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.AddMinutes(10)</text>
       </register>
       <register name="/" type="4">
         <text>DatabaseName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxQcm9wZXJ0eURlY2wgTmFtZT0iVXNlZFNpemUiIEtpbmQ9IlVuc3RhYmxlU2FtcGxlIiBUeXBlPSJJbnRlZ2VyIj4KICAgICAgPERpc3BsYXk+CiAgICAgICAgPE5hbWU+VXNlZCBzaXplIGluIGZpbGU8L05hbWU+CiAgICAgICAgPERlc2M+VXNlZCBzaXplIGluIGZpbGU8L0Rlc2M+CiAgICAgICAgPEhlbHAgLz4KICAgICAgPC9EaXNwbGF5PgogICAgPC9Qcm9wZXJ0eURlY2w+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5UmFuZ2UgPSBuZXcgUXVlcnlSYW5nZShEYXRlVGltZS5VdGNOb3cuQWRkRGF5cygtMiksIERhdGVUaW1lLlV0Y05vdy5BZGREYXlzKDEpKTsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5UmFuZ2UgPSBuZXcgUXVlcnlSYW5nZShEYXRlVGltZS5VdGNOb3cuQWRkRGF5cygtMiksIERhdGVUaW1lLlV0Y05vdy5BZGREYXlzKDEpKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>m_AlertState
 m_AlertState
 m_AlertState
@@ -435,32 +447,26 @@ m_AlertState
 m_AlertState
 m_AlertState</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9CaW5hcnlFeHByPgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPEJpbmFyeUV4cHIgQmluYXJ5T3A9Ik11bHRpcGx5Ij4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8Q29uc3RhbnRFeHByIFR5cGU9IkRvdWJsZSI+MTAwPC9Db25zdGFudEV4cHI+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJJbnRlZ2VyIj5bQ2x1c3Rlcl0uW1NxbFNlcnZlcl0uW0RhdGFiYXNlXS5bRmlsZV0uW1NpemVdPC9Qcm9wZXJ0eUV4cHI+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RXhwcj48L0V4cHI+Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJJbnRlZ2VyIj5bQ2x1c3Rlcl0uW1NxbFNlcnZlcl0uW0RhdGFiYXNlXS5bRmlsZV0uW1VzZWRTaXplXTwvUHJvcGVydHlFeHByPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RXhwcj48L0V4cHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RXhwcj48L0V4cHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJJbnRlZ2VyIj5bQ2x1c3Rlcl0uW1NxbFNlcnZlcl0uW0RhdGFiYXNlXS5bRmlsZV0uW1VzZWRTaXplXTwvUHJvcGVydHlFeHByPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RXhwcj48L0V4cHI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
