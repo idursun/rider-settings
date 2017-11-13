@@ -332,6 +332,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Components/DeadlockComponentTests.js" timestamp="1510571260227">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/GroupedAlert.cs" timestamp="1508492455424">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
@@ -375,6 +381,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
         <mark key="'" line="38" column="29" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" timestamp="1510570911235">
+        <mark key="'" line="486" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Actors.cs" timestamp="1506525711301">
         <mark key="[" line="6" column="15" />
@@ -634,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="20" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
       <jump line="51" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Pickle/Pickler.cs" />
       <jump line="38" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
       <jump line="29" column="93" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" />
@@ -734,19 +742,20 @@
       <jump line="60" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" />
       <jump line="57" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/ConfigurationViewModels/ThresholdConfigurationViewModel.cs" />
       <jump line="105" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DataFileGrowthViewModel.cs" />
+      <jump line="486" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>jquery</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>jquery</text>
       </register>
       <register name="/" type="4">
         <text>Collapse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0X1JlbmRlcnNfRGF0YUZpbGVJbmZvcm1hdGlvbigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbW9ja0RhdGFQcmVzZW50ZXJCdWlsZGVyID0gbmV3IE1vY2tEYXRhUHJlc2VudGVyQnVpbGRlcihtX0RhdGVUaW1lKS5DbHVzdGVyKGNfQ2x1c3Rlck5hbWUsIGMgPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYy5TcWxTZXJ2ZXIoY19TcWxJbnN0YW5jZU5hbWUsIHMgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzLkRhdGFiYXNlKGNfRGF0YWJhc2VOYW1lLCBkID0+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBkLkZpbGUoY19EYXRhRmlsZU5hbWUsIGZpbGUgPT4KICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5BZGRGaWxlTmFtZVNhbXBsZShtX0RhdGVUaW1lLCBjX0RhdGFGaWxlUGF0aCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlLkFkZFNpemVTYW1wbGUobV9EYXRlVGltZSwgMkwgKiAxMDI0ICogMTAyNCAqIDEwMjQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5BZGRVc2VkU2l6ZVNhbXBsZShtX0RhdGVUaW1lLCAxTCogMTAyNCAqIDEwMjQgKiAxMDI0KTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICB2YXIgdmlld01vZGVsID0gbmV3IERhdGFGaWxlR3Jvd3RoVmlld01vZGVsKEJ1aWx0SW5BbGVydFR5cGVEZWZpbml0aW9ucy5GaW5kKEJ1aWx0SW5BbGVydFR5cGVzLkRhdGFGaWxlR3Jvd3RoKSwgbV9BbGVydEluc3RhbmNlLCBtb2NrRGF0YVByZXNlbnRlckJ1aWxkZXIuQnVpbGREYXRhUHJlc2VudGVyKCkpOwoKICAgICAgICAgICAgdmFyIGxpbmVzID0gbmV3IExpc3Q8c3RyaW5nPigpOwogICAgICAgICAgICBtX0h0bWxFbmNvZGVyTW9jay5TZXR1cCh4ID0+IHguRW5jb2RlKEl0LklzQW55PHN0cmluZz4oKSkpLkNhbGxiYWNrPHN0cmluZz4obGluZXMuQWRkKTsKICAgICAgICAgICAgdmlld01vZGVsLkRpc3BsYXlUYWJsdWFySW5mb3JtYXRpb24obV9IdG1sRW5jb2Rlck1vY2suT2JqZWN0KTsKCiAgICAgICAgICAgIEFzc2VydC5UaGF0KGxpbmVzLCBJcy5Ob3QuRW1wdHkpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1swXSwgSXMuRXF1YWxUbyhjX0RhdGFGaWxlUGF0aCkpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1sxXSwgRG9lcy5Db250YWluKCIxLjAwIEdCIikpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChsaW5lc1sxXSwgRG9lcy5Db250YWluKCI1MC4wMCUiKSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KGxpbmVzWzJdLCBEb2VzLkNvbnRhaW4oIjIuMDAgR0IiKSk7CgogICAgICAgIH0K</text>
+        <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIvU2NyaXB0cy9qcXVlcnkuanMiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAsCg==</text>
