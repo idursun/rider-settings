@@ -66,6 +66,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" timestamp="1507563643408">
         <mark key="'" line="326" column="55" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/AlertTypeDefinitionTimeConfigFromSingle.cs" timestamp="1510588987606">
+        <mark key="[" line="19" column="72" />
+        <mark key="]" line="19" column="99" />
+        <mark key="." line="19" column="99" />
+        <mark key="^" line="19" column="99" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxController.js" timestamp="1505730684743">
         <mark key="'" line="0" column="0" />
       </file>
@@ -367,6 +373,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/BaseApiController.cs" timestamp="1504093278167">
         <mark key="'" line="9" column="10" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/AvailabilityGroupDatabaseNotHealthyAlertT.cs" timestamp="1510589000383">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DataCollector.cs" timestamp="1506522777168">
         <mark key="'" line="159" column="48" />
       </file>
@@ -526,12 +538,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
         <mark key="'" line="37" column="51" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" timestamp="1506070328862">
-        <mark key="'" line="53" column="68" />
-        <mark key="[" line="44" column="60" />
-        <mark key="]" line="44" column="60" />
-        <mark key="^" line="44" column="23" />
-        <mark key="." line="44" column="60" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" timestamp="1510589119894">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Services/IGroupedAlertInboxService.cs" timestamp="1505309276613">
         <mark key="[" line="15" column="14" />
@@ -635,13 +647,17 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureNotificationsController.cs" timestamp="1504618291172">
         <mark key="'" line="43" column="19" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/AvailabilityGroupDelayedQueryAlerterT.cs" timestamp="1510589013785">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Extensions/HttpContextExtensions.cs" timestamp="1504090374161">
         <mark key="'" line="21" column="148" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
-      <jump line="138" column="30" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="70" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
       <jump line="48" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
       <jump line="4" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedAlertModel.cs" />
@@ -740,19 +756,21 @@
       <jump line="536" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
       <jump line="79" column="94" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
       <jump line="169" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
+      <jump line="32" column="17" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" />
+      <jump line="94" column="4" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVuYW1pbmcnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>bool</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
         <text>knockout-latest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIvU2NyaXB0cy9qcXVlcnkuanMiLz4K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBEZWZhdWx0T24geyBnZXQ7IHByaXZhdGUgc2V0OyB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVuYW1pbmcnKTsK</text>
