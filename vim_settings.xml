@@ -332,7 +332,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Components/DeadlockComponentTests.js" timestamp="1510571260227">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Components/DeadlockComponentTests.js" timestamp="1510572674189">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
@@ -382,8 +382,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
         <mark key="'" line="38" column="29" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" timestamp="1510570911235">
-        <mark key="'" line="486" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" timestamp="1510573532967">
+        <mark key="'" line="169" column="46" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
+        <mark key="^" line="402" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Actors.cs" timestamp="1506525711301">
         <mark key="[" line="6" column="15" />
@@ -569,7 +573,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510567744546">
+      <file name="/Dummy.txt" timestamp="1510573631568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
@@ -643,9 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Pickle/Pickler.cs" />
-      <jump line="38" column="29" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" />
-      <jump line="29" column="93" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" />
       <jump line="157" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="138" column="30" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="70" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
@@ -743,58 +744,61 @@
       <jump line="57" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/ConfigurationViewModels/ThresholdConfigurationViewModel.cs" />
       <jump line="105" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DataFileGrowthViewModel.cs" />
       <jump line="486" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
+      <jump line="536" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
+      <jump line="79" column="94" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
+      <jump line="169" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jquery</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVuYW1pbmcnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>jquery</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Collapse</text>
+        <text>knockout-latest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIvU2NyaXB0cy9qcXVlcnkuanMiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVuYW1pbmcnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhdGguYmFzZW5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGguc2NyaXB0Um9vdCgiU2NhbGluZy5qcyIpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB4IC8gMTAyNC4wIC8gMTAyNC4wIC8gMTAyNC4wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZXNob2xkVW5pdC5QaWNrQXBwcm9wcmlhdGVVbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVzaG9sZFVuaXQuVW5pdE5hbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB4IC8gMTAyNC4wIC8gMTAyNC4wIC8gMTAyNC4wOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Collapse</last-search>
+      <last-search>knockout-latest</last-search>
       <last-offset />
-      <last-pattern>Collapse</last-pattern>
+      <last-pattern>knockout-latest</last-pattern>
       <last-replace />
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -802,7 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>Single</entry>
         <entry>Query Text</entry>
         <entry>Issues</entry>
@@ -822,6 +825,7 @@
         <entry>DatabaseName</entry>
         <entry>collapse</entry>
         <entry>Collapse</entry>
+        <entry>knockout-latest</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
