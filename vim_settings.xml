@@ -200,12 +200,12 @@
         <mark key="." line="8" column="134" />
         <mark key="^" line="8" column="134" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1510653140990">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1510654887603">
         <mark key="'" line="16" column="14" />
-        <mark key="[" line="24" column="88" />
-        <mark key="]" line="24" column="91" />
+        <mark key="[" line="24" column="87" />
+        <mark key="]" line="24" column="87" />
         <mark key="^" line="24" column="91" />
-        <mark key="." line="24" column="91" />
+        <mark key="." line="24" column="87" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertor.cs" timestamp="1505988315590">
         <mark key="'" line="56" column="8" />
