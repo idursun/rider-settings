@@ -27,7 +27,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/Sql/TransactionIsolatedLocalDbTestSuite.cs" timestamp="1503654407050">
         <mark key="'" line="47" column="61" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1510668342178">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1510677463352">
         <mark key="[" line="11" column="118" />
         <mark key="]" line="11" column="119" />
         <mark key="." line="11" column="119" />
@@ -376,7 +376,6 @@
         <mark key="^" line="5" column="80" />
         <mark key="." line="5" column="80" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageConfig.cs" timestamp="1510663062785" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/ReadOnlyAPIAccess/ReadOnlyMethodWhitelist.cs" timestamp="1505119218791">
         <mark key="[" line="95" column="149" />
         <mark key="]" line="95" column="159" />
@@ -453,7 +452,7 @@
         <mark key="'" line="238" column="47" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" timestamp="1510667954438">
-        <mark key="'" line="294" column="52" />
+        <mark key="'" line="291" column="52" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/PerDatabaseSqlTableSampler.cs" timestamp="1509454545083">
         <mark key="'" line="13" column="56" />
@@ -532,6 +531,13 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510677281435">
+        <mark key="'" line="53" column="17" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
@@ -615,6 +621,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/GraphsController.cs" timestamp="1509444097013">
         <mark key="'" line="42" column="140" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" timestamp="1510677307531">
+        <mark key="[" line="74" column="57" />
+        <mark key="]" line="74" column="71" />
+        <mark key="^" line="74" column="71" />
+        <mark key="." line="74" column="71" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxController.cs" timestamp="1507552005427">
         <mark key="'" line="84" column="24" />
         <mark key="[" line="125" column="84" />
@@ -677,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
       <jump line="246" column="32" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" />
       <jump line="32" column="85" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
       <jump line="285" column="64" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Names/QualifiedChannelName.cs" />
@@ -777,49 +788,50 @@
       <jump line="200" column="69" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" />
       <jump line="127" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
       <jump line="294" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
+      <jump line="51" column="17" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>knockout-latest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBEZWZhdWx0T24geyBnZXQ7IHByaXZhdGUgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8bG9uZ1tdPiBGaWxlU2l6ZUJ5dGVzUG9pbnRzIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVuYW1pbmcnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhdGguYmFzZW5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVuYW1pbmcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGguc2NyaXB0Um9vdCgiU2NhbGluZy5qcyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhdGguYmFzZW5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAK</text>
+        <text encoding="base64">ICAgIHBhdGguc2NyaXB0Um9vdCgiU2NhbGluZy5qcyIpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHVyYm9UaHJlc2hvbGQ6IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB4IC8gMTAyNC4wIC8gMTAyNC4wIC8gMTAyNC4wOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
