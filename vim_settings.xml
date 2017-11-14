@@ -200,8 +200,8 @@
         <mark key="." line="8" column="134" />
         <mark key="^" line="8" column="134" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1510654887603">
-        <mark key="'" line="16" column="14" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1510662842103">
+        <mark key="'" line="13" column="74" />
         <mark key="[" line="24" column="87" />
         <mark key="]" line="24" column="87" />
         <mark key="^" line="24" column="91" />
@@ -327,6 +327,13 @@
         <mark key="." line="102" column="61" />
         <mark key="^" line="102" column="85" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueOrTimeLeftConfig.cs" timestamp="1510663080902">
+        <mark key="'" line="6" column="53" />
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureEmailServer.js" timestamp="1504618378917">
         <mark key="'" line="51" column="55" />
       </file>
@@ -366,6 +373,7 @@
         <mark key="^" line="5" column="80" />
         <mark key="." line="5" column="80" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageConfig.cs" timestamp="1510663062785" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/ReadOnlyAPIAccess/ReadOnlyMethodWhitelist.cs" timestamp="1505119218791">
         <mark key="[" line="95" column="149" />
         <mark key="]" line="95" column="159" />
@@ -390,13 +398,6 @@
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigurationRepository.cs" timestamp="1510591248440">
-        <mark key="'" line="130" column="42" />
-        <mark key="[" line="126" column="12" />
-        <mark key="]" line="126" column="11" />
-        <mark key="^" line="126" column="11" />
-        <mark key="." line="126" column="11" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSourceFactory.cs" timestamp="1503303948151">
         <mark key="'" line="6" column="23" />
       </file>
@@ -420,6 +421,9 @@
         <mark key="]" line="279" column="161" />
         <mark key="^" line="279" column="161" />
         <mark key="." line="279" column="161" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueConfig.cs" timestamp="1510663016382">
+        <mark key="'" line="6" column="43" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1504533061446">
         <mark key="'" line="72" column="46" />
@@ -670,10 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/GroupedAlertModelMapperTests.cs" />
-      <jump line="122" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/GroupedAlertModelMapperTests.cs" />
-      <jump line="69" column="16" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
-      <jump line="276" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="24" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
       <jump line="303" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="27" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
@@ -770,13 +770,17 @@
       <jump line="142" column="64" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
       <jump line="16" column="14" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="32" column="14" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" />
+      <jump line="13" column="74" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="16" column="15" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueConfig.cs" />
+      <jump line="6" column="43" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueConfig.cs" />
+      <jump line="6" column="53" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueOrTimeLeftConfig.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>File</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>knockout-latest</text>
