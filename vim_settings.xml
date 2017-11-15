@@ -18,6 +18,13 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedInboxSelectionModel.cs" timestamp="1508492081903">
         <mark key="'" line="8" column="20" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1510757676982">
+        <mark key="'" line="39" column="61" />
+        <mark key="[" line="40" column="129" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Program.cs" timestamp="1504533175190">
         <mark key="'" line="98" column="46" />
       </file>
@@ -215,7 +222,7 @@
         <mark key="." line="8" column="134" />
         <mark key="^" line="8" column="134" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1510754835521">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1510757190172">
         <mark key="'" line="64" column="57" />
         <mark key="[" line="57" column="28" />
         <mark key="]" line="57" column="34" />
@@ -583,8 +590,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
         <mark key="'" line="37" column="51" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" timestamp="1510593469293">
-        <mark key="'" line="32" column="14" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" timestamp="1510757258940">
+        <mark key="'" line="82" column="31" />
         <mark key="[" line="37" column="71" />
         <mark key="]" line="37" column="80" />
         <mark key="." line="37" column="80" />
@@ -709,9 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
-      <jump line="57" column="59" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/VMwarePerformanceSourceTests.cs" />
-      <jump line="46" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSource.cs" />
       <jump line="159" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSource.cs" />
       <jump line="112" column="33" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareCommunicator.cs" />
       <jump line="82" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareCommunicator.cs" />
@@ -809,13 +813,16 @@
       <jump line="75" column="72" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="78" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="64" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="146" column="188" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
+      <jump line="82" column="31" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" />
+      <jump line="39" column="61" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Move GetCondition utility method to PercentageOrValueConfig class</text>
+        <text>BuiltInAlertTypeDefinitions.Find(BuiltInAlertTypes.DatabaseFileUsage);</text>
       </register>
       <register name="-" type="4">
-        <text>Move GetCondition utility method to PercentageOrValueConfig class</text>
+        <text>BuiltInAlertTypeDefinitions.Find(BuiltInAlertTypes.DatabaseFileUsage);</text>
       </register>
       <register name="/" type="4">
         <text>Worst</text>
@@ -824,34 +831,34 @@
         <text>GetAbsoluteValueConfig(firstSeverity), 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5Db21tb24uRG9tYWluLkFsZXJ0LkNvbmZpZ3VyYXRpb24uWG1sLlYwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuUmVzcG9uc2UuQ29tbW9uLkRvbWFpbi5BbGVydCIgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgWG1sU2VyaWFsaXplcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV9Nb2NrQWxlcnRDCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHN1aXRhYmxlQnl0ZXNTY2FsZUZvcm1hdHRlciA9IG5ldyBTdWl0YWJsZUJ5dGVzU2NhbGVGb3JtYXR0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuUmVzcG9uc2UuQ29tbW9uLkRvbWFpbi5BbGVydCIgJT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29uZGl0aW9uID09IFBlcmNlbnRhZ2VPclZhbHVlQ29uZmlnLkNvbmRpdGlvbi5QZXJjZW50T25seSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSAoc2l6ZUF0U2V2ZXJpdHlUaW1lICogR2V0UGVyY2VudGFnZUNvbmZpZyhmaXJzdFNldmVyaXR5KSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBHZXRBYnNvbHV0ZVZhbHVlQ29uZmlnKGZpcnN0U2V2ZXJpdHkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHN1aXRhYmxlQnl0ZXNTY2FsZUZvcm1hdHRlciA9IG5ldyBTdWl0YWJsZUJ5dGVzU2NhbGVGb3JtYXR0ZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU2V2ZXJpdHkuTWVkaXVtOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBjb25maWcuTWVkaXVtQWJzb2x1dGVUaHJlc2hvbGQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkxvdzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlc2hvbGQgPSAobG9uZykgY29uZmlnLkxvd0Fic29sdXRlVGhyZXNob2xkOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoIChmaXJzdFNldmVyaXR5KQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkhpZ2g6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29uZGl0aW9uID09IFBlcmNlbnRhZ2VPclZhbHVlQ29uZmlnLkNvbmRpdGlvbi5QZXJjZW50T25seSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSAoc2l6ZUF0U2V2ZXJpdHlUaW1lICogR2V0UGVyY2VudGFnZUNvbmZpZyhmaXJzdFNldmVyaXR5KSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBHZXRBYnNvbHV0ZVZhbHVlQ29uZmlnKGZpcnN0U2V2ZXJpdHkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
