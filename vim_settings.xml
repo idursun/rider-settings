@@ -552,12 +552,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510753999997">
-        <mark key="'" line="79" column="53" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="79" column="123" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510756756606">
+        <mark key="'" line="80" column="53" />
+        <mark key="[" line="84" column="58" />
+        <mark key="]" line="84" column="58" />
+        <mark key="." line="84" column="58" />
+        <mark key="^" line="84" column="58" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
@@ -623,7 +623,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510755616762">
+      <file name="/Dummy.txt" timestamp="1510756886238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -811,47 +811,47 @@
       <jump line="64" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuUmVzcG9uc2UuQ29tbW9uLkRvbWFpbi5BbGVydCIgJT4K</text>
+      <register name="&quot;" type="4">
+        <text>Move GetCondition utility method to PercentageOrValueConfig class</text>
       </register>
       <register name="-" type="4">
-        <text>Reference underscore.js in Deadlock component tests</text>
+        <text>Move GetCondition utility method to PercentageOrValueConfig class</text>
       </register>
       <register name="/" type="4">
         <text>Worst</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZXNob2xkTGFiZWwgPSAkIntUaHJlc2hvbGR9ICh7cGVyY2VudGFnZX0lKSI7Cg==</text>
+      <register name="0" type="4">
+        <text>GetAbsoluteValueConfig(firstSeverity), 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuUmVzcG9uc2UuQ29tbW9uLkRvbWFpbi5BbGVydCIgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuUmVzcG9uc2UuQ29tbW9uLkRvbWFpbi5BbGVydCIgJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHN1aXRhYmxlQnl0ZXNTY2FsZUZvcm1hdHRlciA9IG5ldyBTdWl0YWJsZUJ5dGVzU2NhbGVGb3JtYXR0ZXIoKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHN1aXRhYmxlQnl0ZXNTY2FsZUZvcm1hdHRlciA9IG5ldyBTdWl0YWJsZUJ5dGVzU2NhbGVGb3JtYXR0ZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29uZGl0aW9uID09IFBlcmNlbnRhZ2VPclZhbHVlQ29uZmlnLkNvbmRpdGlvbi5QZXJjZW50T25seSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSAoc2l6ZUF0U2V2ZXJpdHlUaW1lICogR2V0UGVyY2VudGFnZUNvbmZpZyhmaXJzdFNldmVyaXR5KSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBHZXRBYnNvbHV0ZVZhbHVlQ29uZmlnKGZpcnN0U2V2ZXJpdHkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29uZGl0aW9uID09IFBlcmNlbnRhZ2VPclZhbHVlQ29uZmlnLkNvbmRpdGlvbi5QZXJjZW50T25seSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSAoc2l6ZUF0U2V2ZXJpdHlUaW1lICogR2V0UGVyY2VudGFnZUNvbmZpZyhmaXJzdFNldmVyaXR5KSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBHZXRBYnNvbHV0ZVZhbHVlQ29uZmlnKGZpcnN0U2V2ZXJpdHkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU2V2ZXJpdHkuTWVkaXVtOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBjb25maWcuTWVkaXVtQWJzb2x1dGVUaHJlc2hvbGQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkxvdzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlc2hvbGQgPSAobG9uZykgY29uZmlnLkxvd0Fic29sdXRlVGhyZXNob2xkOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoIChmaXJzdFNldmVyaXR5KQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkhpZ2g6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU2V2ZXJpdHkuTWVkaXVtOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRocmVzaG9sZCA9IChsb25nKSBjb25maWcuTWVkaXVtQWJzb2x1dGVUaHJlc2hvbGQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkxvdzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlc2hvbGQgPSAobG9uZykgY29uZmlnLkxvd0Fic29sdXRlVGhyZXNob2xkOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoIChmaXJzdFNldmVyaXR5KQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkhpZ2g6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZXNob2xkID0gKGxvbmcpIChzaXplQXRTZXZlcml0eVRpbWUgKiBjb25maWcuSGlnaFRocmVzaG9sZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5Lk1lZGl1bToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlc2hvbGQgPSAobG9uZykgKHNpemVBdFNldmVyaXR5VGltZSAqIGNvbmZpZy5NZWRpdW1UaHJlc2hvbGQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBTZXZlcml0eS5Mb3c6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZXNob2xkID0gKGxvbmcpIChzaXplQXRTZXZlcml0eVRpbWUgKiBjb25maWcuTG93VGhyZXNob2xkKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3dpdGNoIChmaXJzdFNldmVyaXR5KQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkhpZ2g6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
