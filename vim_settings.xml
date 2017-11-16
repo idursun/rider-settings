@@ -18,8 +18,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedInboxSelectionModel.cs" timestamp="1508492081903">
         <mark key="'" line="8" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1510766558684">
-        <mark key="'" line="36" column="26" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1510827882032">
+        <mark key="'" line="89" column="0" />
         <mark key="[" line="155" column="9" />
         <mark key="]" line="160" column="11" />
         <mark key="." line="160" column="11" />
@@ -576,9 +576,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510766406809">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510827564092">
         <mark key="'" line="72" column="43" />
-        <mark key="[" line="72" column="88" />
+        <mark key="[" line="92" column="100" />
+        <mark key="]" line="92" column="100" />
+        <mark key="." line="92" column="100" />
+        <mark key="^" line="92" column="100" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
@@ -736,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
       <jump line="31" column="70" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" />
       <jump line="341" column="95" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
       <jump line="483" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
@@ -836,13 +838,14 @@
       <jump line="72" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="91" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="36" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
+      <jump line="89" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhhbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>percentageOrValueConfig</text>
+        <text encoding="base64">dGhhbiA=</text>
       </register>
       <register name="/" type="4">
         <text>Worst</text>
@@ -881,7 +884,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmaXJzdFNldmVyaXR5ID0gQWxlcnRJbnN0YW5jZS5TZXZlcml0eQogICAgICAgICAgICAgICAgICAgIC5GaXJzdE9yTm9uZSh4ID0+IHguSXRlbTEgPT0gQWxlcnRJbnN0YW5jZS5GaXJzdFNldmVyaXR5VGltZSkKICAgICAgICAgICAgICAgICAgICAuTWF0Y2goeCA9PiB4Lkl0ZW0yLCBTZXZlcml0eS5Ob25lKTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -921,8 +924,8 @@
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoLy9n</entry>
         <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
