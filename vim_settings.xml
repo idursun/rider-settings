@@ -148,10 +148,10 @@
         <mark key="^" line="68" column="131" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/FragmentedIndexViewModel.cs" timestamp="1510745892531">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="108" />
-        <mark key="^" line="31" column="199" />
-        <mark key="." line="31" column="199" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="108" />
+        <mark key="^" line="28" column="199" />
+        <mark key="." line="28" column="199" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AsyncDataCollector.cs" timestamp="1506083853252">
         <mark key="'" line="77" column="41" />
@@ -221,8 +221,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" timestamp="1510667863998">
         <mark key="'" line="200" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" timestamp="1510847903789">
-        <mark key="'" line="105" column="44" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" timestamp="1510851955304">
+        <mark key="'" line="234" column="50" />
         <mark key="[" line="234" column="112" />
         <mark key="]" line="234" column="111" />
         <mark key="^" line="234" column="111" />
@@ -392,6 +392,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1510838014555" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Components/DeadlockComponentTests.js" timestamp="1510572674189">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="38" />
@@ -468,8 +469,8 @@
         <mark key="^" line="84" column="47" />
         <mark key="." line="84" column="47" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1510847983153">
-        <mark key="'" line="570" column="52" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1510851919685">
+        <mark key="'" line="570" column="65" />
         <mark key="[" line="279" column="108" />
         <mark key="]" line="279" column="161" />
         <mark key="^" line="279" column="161" />
@@ -512,6 +513,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
+      <file name="/DatabaseFileUsageViewModel.cs" timestamp="1510852236223" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureNotifications/Index.aspx" timestamp="1504618319037">
         <mark key="'" line="238" column="47" />
       </file>
@@ -612,7 +614,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510827564092">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510852356095">
         <mark key="'" line="72" column="43" />
         <mark key="[" line="92" column="100" />
         <mark key="]" line="92" column="100" />
@@ -683,7 +685,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510847871257">
+      <file name="/Dummy.txt" timestamp="1510852200194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -781,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" />
-      <jump line="69" column="111" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/ChannelInstanceAlertState.cs" />
       <jump line="58" column="5" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" />
       <jump line="65" column="70" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
       <jump line="7" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertingInformation.cs" />
@@ -879,8 +879,10 @@
       <jump line="145" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
       <jump line="132" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
       <jump line="105" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
-      <jump line="570" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="27" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
+      <jump line="570" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
+      <jump line="46" column="62" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
+      <jump line="234" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
