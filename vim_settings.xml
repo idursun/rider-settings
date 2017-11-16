@@ -168,7 +168,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowDiskSpaceAlertor.cs" timestamp="1509460290012">
         <mark key="'" line="42" column="17" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/ThresholdConfigurationViewModel.cshtml" timestamp="1505472231775">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/ThresholdConfigurationViewModel.cshtml" timestamp="1510838090188">
+        <mark key="'" line="13" column="29" />
         <mark key="[" line="22" column="93" />
         <mark key="]" line="22" column="115" />
         <mark key="^" line="22" column="115" />
@@ -378,6 +379,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1510838014555" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Components/DeadlockComponentTests.js" timestamp="1510572674189">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="38" />
@@ -656,7 +658,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510837503287">
+      <file name="/Dummy.txt" timestamp="1510838027435">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -748,7 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
       <jump line="491" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
       <jump line="55" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
       <jump line="364" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
@@ -848,6 +849,7 @@
       <jump line="103" column="8" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="139" column="55" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="110" column="19" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
+      <jump line="13" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/ThresholdConfigurationViewModel.cshtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
