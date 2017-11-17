@@ -688,10 +688,10 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510911319988">
+      <file name="/Dummy.txt" timestamp="1510923706472">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
@@ -889,11 +889,11 @@
       <jump line="56" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Remove opiniated default value for Threshold</text>
       </register>
       <register name="-" type="4">
-        <text>GetAbsoluteValueThresholdFor(firstSeverity);</text>
+        <text>Remove opiniated default value for Threshold</text>
       </register>
       <register name="/" type="4">
         <text>Key</text>
