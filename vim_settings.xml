@@ -264,6 +264,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="85" column="79" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/SqlProcessDataPresenter.cs" timestamp="1510916641868" />
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1509722559159">
         <mark key="'" line="910" column="12" />
       </file>
@@ -514,6 +515,7 @@
       <file name="D:/repositories/dotnet/MvcApplication1/MvcApplication1/MvcApplication1/webpack.config.js" timestamp="1502453536357">
         <mark key="'" line="68" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" timestamp="1510916674578" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureNotificationsController.cs" timestamp="1504618291172">
         <mark key="'" line="43" column="19" />
       </file>
