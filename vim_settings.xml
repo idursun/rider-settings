@@ -34,18 +34,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/Sql/TransactionIsolatedLocalDbTestSuite.cs" timestamp="1503654407050">
         <mark key="'" line="47" column="61" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1510764910417">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1510924383812">
         <mark key="[" line="11" column="118" />
         <mark key="]" line="11" column="119" />
         <mark key="." line="11" column="119" />
         <mark key="^" line="11" column="118" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/DatabaseFileUsedConfigViewModelAdapter.cs" timestamp="1510841386299">
-        <mark key="'" line="43" column="155" />
-        <mark key="[" line="43" column="162" />
-        <mark key="]" line="43" column="162" />
-        <mark key="." line="43" column="162" />
-        <mark key="^" line="43" column="155" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/TopQueries.css" timestamp="1504694495669">
         <mark key="[" line="652" column="1" />
@@ -127,13 +120,6 @@
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
         <mark key="^" line="15" column="8" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/ConfigurationViewModels/ThresholdConfigurationViewModel.cs" timestamp="1510841250304">
-        <mark key="'" line="141" column="23" />
-        <mark key="[" line="141" column="8" />
-        <mark key="]" line="141" column="7" />
-        <mark key="^" line="141" column="7" />
-        <mark key="." line="141" column="7" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Configuration/DeploymentSettingsSectionTests.cs" timestamp="1506348854496">
         <mark key="'" line="59" column="69" />
@@ -321,6 +307,7 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/ConfigurationViewModels/AbsoluteOrPercentThresholdConfigurationViewModel.cs" timestamp="1510840429403">
         <mark key="'" line="8" column="39" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/SingleAlertState.cs" timestamp="1510924577759" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/FilterAndPagingBar.ascx" timestamp="1504186700763">
         <mark key="'" line="23" column="42" />
       </file>
@@ -345,13 +332,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlServerCommunicatorFactory.cs" timestamp="1504796573312">
         <mark key="'" line="37" column="52" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertConfigurationClientStub.cs" timestamp="1510759922926">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="85" column="79" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/SqlProcessDataPresenter.cs" timestamp="1510916641868" />
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1509722559159">
@@ -443,13 +423,6 @@
         <mark key="]" line="23" column="37" />
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="37" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigurationRepository.cs" timestamp="1510847703712">
-        <mark key="'" line="57" column="62" />
-        <mark key="[" line="116" column="79" />
-        <mark key="]" line="116" column="79" />
-        <mark key="." line="116" column="79" />
-        <mark key="^" line="116" column="79" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwarePerformanceSourceFactory.cs" timestamp="1503303948151">
         <mark key="'" line="6" column="23" />
@@ -648,13 +621,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
         <mark key="'" line="37" column="51" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" timestamp="1510841881164">
-        <mark key="'" line="82" column="31" />
-        <mark key="[" line="37" column="71" />
-        <mark key="]" line="37" column="80" />
-        <mark key="." line="37" column="80" />
-        <mark key="^" line="37" column="80" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Services/IGroupedAlertInboxService.cs" timestamp="1505309276613">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="42" column="101" />
@@ -688,10 +654,10 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510923706472">
+      <file name="/Dummy.txt" timestamp="1510924991112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
@@ -731,7 +697,7 @@
         <mark key="^" line="108" column="70" />
         <mark key="." line="108" column="70" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" timestamp="1510839038045">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" timestamp="1510925274539">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
