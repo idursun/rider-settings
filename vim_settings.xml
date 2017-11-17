@@ -89,9 +89,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Trace/TraceController.cs" timestamp="1504787449695">
         <mark key="'" line="147" column="92" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTest.cs" timestamp="1510840064351">
-        <mark key="'" line="1" column="44" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Web.config" timestamp="1503490031365">
         <mark key="'" line="0" column="9" />
       </file>
@@ -387,7 +384,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Functional/Option.cs" timestamp="1506431425512">
         <mark key="'" line="35" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" timestamp="1508771422740">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" timestamp="1510914693072">
         <mark key="'" line="246" column="32" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" timestamp="1508492584849">
