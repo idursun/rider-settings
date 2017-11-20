@@ -209,8 +209,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
         <mark key="'" line="38" column="29" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" timestamp="1511186463986">
-        <mark key="'" line="9" column="36" />
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" timestamp="1511187898521">
+        <mark key="'" line="74" column="27" />
         <mark key="[" line="75" column="49" />
         <mark key="]" line="75" column="49" />
         <mark key="^" line="75" column="49" />
@@ -298,10 +298,10 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511179588619">
+      <file name="/Dummy.txt" timestamp="1511188026024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="35" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
@@ -803,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="82" column="12" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="93" column="14" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="23" column="15" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageConfig.cs" />
@@ -903,13 +902,14 @@
       <jump line="89" column="72" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
       <jump line="9" column="36" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Config/ChannelConfigTreeValidator.cs" />
+      <jump line="74" column="27" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFN1cGVyQ2hhbm5lbE1hcHBpbmc+CiAgICAgICAgPFByb3BlcnR5RGVmIE5hbWU9Ik5hbWUiPgogICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJTdHJpbmciPltDbHVzdGVyXS5bU3FsU2VydmVyXS5bRGF0YWJhc2VdLltGaWxlXS5bTmFtZV08L1Byb3BlcnR5RXhwcj4KICAgICAgICA8L1Byb3BlcnR5RGVmPgogICAgICA8L1N1cGVyQ2hhbm5lbE1hcHBpbmc+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Use DatabaseFileUsedConfig</text>
       </register>
       <register name="-" type="4">
-        <text>DatabaseName</text>
+        <text>Use DatabaseFileUsedConfig</text>
       </register>
       <register name="/" type="4">
         <text>Key</text>
