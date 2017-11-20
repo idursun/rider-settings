@@ -114,8 +114,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/Machines/RawMachineDataPresenterFactory.cs" timestamp="1506523738979">
         <mark key="'" line="34" column="62" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1511173863008">
-        <mark key="'" line="346" column="19" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1511177605596">
+        <mark key="'" line="349" column="42" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alertor/AlertGroupKeyDeciderTests.cs" timestamp="1506440210294">
         <mark key="'" line="119" column="17" />
@@ -144,13 +144,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
         <mark key="'" line="38" column="29" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511171102973">
-        <mark key="'" line="31" column="40" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="52" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1504533061446">
         <mark key="'" line="72" column="46" />
@@ -210,6 +203,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Machine/CpuAlerter.cs" timestamp="1511171943623">
         <mark key="'" line="97" column="41" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" timestamp="1511176673838">
+        <mark key="'" line="40" column="55" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" timestamp="1509025761955">
         <mark key="'" line="31" column="43" />
@@ -295,17 +291,14 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" timestamp="1510667863998">
         <mark key="'" line="200" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511170830309">
-        <mark key="'" line="49" column="55" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511177411116">
+        <mark key="'" line="52" column="66" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertor.cs" timestamp="1505988315590">
         <mark key="'" line="56" column="8" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" timestamp="1509454606186">
-        <mark key="'" line="134" column="15" />
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" timestamp="1511177646669">
+        <mark key="'" line="167" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/GlobalDashboard/GlobalDashboard.js" timestamp="1507560831194">
         <mark key="'" line="225" column="0" />
@@ -440,22 +433,23 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ConfigureAuthentication/ConfirmAuthenticationTypeViewModel.js" timestamp="1503493003443">
         <mark key="'" line="107" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" timestamp="1511177523252">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="88" column="34" />
+        <mark key="]" line="88" column="33" />
+        <mark key="^" line="88" column="33" />
+        <mark key="." line="88" column="33" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StateMachines/StateStats.cs" timestamp="1504279389440">
         <mark key="'" line="22" column="17" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/SqlProcess/ChannelConfig.xml" timestamp="1505394491130">
-        <mark key="'" line="177" column="24" />
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/SqlProcess/ChannelConfig.xml" timestamp="1511177709660">
+        <mark key="'" line="25" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" timestamp="1511171455956">
-        <mark key="'" line="33" column="89" />
-        <mark key="[" line="33" column="75" />
-        <mark key="]" line="33" column="75" />
-        <mark key="." line="33" column="75" />
-        <mark key="^" line="33" column="120" />
-      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" timestamp="1511177230688" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Controllers/ReportController.cs" timestamp="1503485590468">
         <mark key="'" line="47" column="46" />
       </file>
@@ -484,15 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
-      <jump line="64" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
-      <jump line="146" column="188" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="82" column="31" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypeDefinition.cs" />
-      <jump line="39" column="61" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="68" column="0" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertConfigurationClientStub.cs" />
-      <jump line="461" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
-      <jump line="474" column="79" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
-      <jump line="116" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="43" column="72" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="136" column="178" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="148" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
@@ -519,11 +504,9 @@
       <jump line="8" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/ConfigurationViewModels/AbsoluteOrPercentThresholdConfigurationViewModel.cs" />
       <jump line="43" column="155" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/DatabaseFileUsedConfigViewModelAdapter.cs" />
       <jump line="53" column="79" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/PercentageOrValueConfigViewModelAdapter.cs" />
-      <jump line="13" column="66" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="68" column="76" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="25" column="12" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="69" column="22" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
-      <jump line="36" column="91" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="103" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigurationRepository.cs" />
       <jump line="60" column="227" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
       <jump line="27" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigurationRepository.cs" />
@@ -583,14 +566,25 @@
       <jump line="97" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Machine/CpuAlerter.cs" />
       <jump line="45" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/HighCpuT.cs" />
       <jump line="336" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
-      <jump line="346" column="19" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
+      <jump line="13" column="84" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="17" column="27" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" />
+      <jump line="40" column="55" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" />
+      <jump line="36" column="63" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="47" column="71" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="316" column="38" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
+      <jump line="346" column="22" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
+      <jump line="52" column="66" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="89" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" />
+      <jump line="349" column="42" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
+      <jump line="167" column="41" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" />
+      <jump line="25" column="15" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/SqlProcess/ChannelConfig.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.Instance()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.Instance()</text>
+        <text>ChannelInstanceData.ValueStreams.GetPropertyValueOrNone()</text>
       </register>
       <register name="/" type="4">
         <text>Key</text>
@@ -599,34 +593,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxJbnN0YW5jZVJlZiA9IG5ldyBDaGFubmVsSW5zdGFuY2VSZWYoQ2hhbm5lbFJlZi5Sb290LCBjaGFubmVsSW5zdGFuY2UuQ2hhbm5lbEtleSk7CgogICAgICAgICAgICB2YXIgcGlja2xlID0gY2hhbm5lbEluc3RhbmNlUmVmLlBpY2tsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEluc3RhbmNlUmVmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEluc3RhbmNlUmVmLgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgIEdldENvbmRpdGlvbigpCiAgICAgICAgewogICAgICAgICAgICBpZiAoSGlnaEVuYWJsZWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBIaWdoQ29uZGl0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChNZWRpdW1FbmFibGVkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTWVkaXVtQ29uZGl0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBMb3dDb25kaXRpb247CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIEdldFBlcmNlbnRUaHJlc2hvbGRGb3IoU2V2ZXJpdHkgc2V2ZXJpdHksIFBlcmNlbnRGdWxsVGhyZXNob2xkIHRocmVzaG9sZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc3dpdGNoIChzZXZlcml0eSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkhpZ2g6IHJldHVybiB0aHJlc2hvbGQuSGlnaFRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5Lk1lZGl1bTogcmV0dXJuIHRocmVzaG9sZC5NZWRpdW1UaHJlc2hvbGQ7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBTZXZlcml0eS5Mb3c6IHJldHVybiB0aHJlc2hvbGQuTG93VGhyZXNob2xkOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHJldHVybiAwOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBsb25nIEdldEFic29sdXRlVmFsdWVUaHJlc2hvbGRGb3IoU2V2ZXJpdHkgc2V2ZXJpdHkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAoc2V2ZXJpdHkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBTZXZlcml0eS5IaWdoOiByZXR1cm4gY29uZmlnLkhpZ2hBYnNvbHV0ZVRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5Lk1lZGl1bTogcmV0dXJuIGNvbmZpZy5NZWRpdW1BYnNvbHV0ZVRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkxvdzogcmV0dXJuIGNvbmZpZy5Mb3dBYnNvbHV0ZVRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OiByZXR1cm4gMDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgIEdldENvbmRpdGlvbigpCiAgICAgICAgewogICAgICAgICAgICBpZiAoSGlnaEVuYWJsZWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBIaWdoQ29uZGl0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChNZWRpdW1FbmFibGVkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTWVkaXVtQ29uZGl0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBMb3dDb25kaXRpb247CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmRpdGlvbiA9IGNvbmZpZy5BbGVydE1vZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwZXJjZW50YWdlID0gR2V0UGVyY2VudFRocmVzaG9sZEZvcihmaXJzdFNldmVyaXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIEdldFBlcmNlbnRUaHJlc2hvbGRGb3IoU2V2ZXJpdHkgc2V2ZXJpdHksIFBlcmNlbnRGdWxsVGhyZXNob2xkIHRocmVzaG9sZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc3dpdGNoIChzZXZlcml0eSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkhpZ2g6IHJldHVybiB0aHJlc2hvbGQuSGlnaFRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5Lk1lZGl1bTogcmV0dXJuIHRocmVzaG9sZC5NZWRpdW1UaHJlc2hvbGQ7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBTZXZlcml0eS5Mb3c6IHJldHVybiB0aHJlc2hvbGQuTG93VGhyZXNob2xkOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHJldHVybiAwOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBsb25nIEdldEFic29sdXRlVmFsdWVUaHJlc2hvbGRGb3IoU2V2ZXJpdHkgc2V2ZXJpdHkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAoc2V2ZXJpdHkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBTZXZlcml0eS5IaWdoOiByZXR1cm4gY29uZmlnLkhpZ2hBYnNvbHV0ZVRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5Lk1lZGl1bTogcmV0dXJuIGNvbmZpZy5NZWRpdW1BYnNvbHV0ZVRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBjYXNlIFNldmVyaXR5LkxvdzogcmV0dXJuIGNvbmZpZy5Mb3dBYnNvbHV0ZVRocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OiByZXR1cm4gMDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
