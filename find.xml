@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*S.cs</mask>
-      <mask>*D.cs</mask>
-      <mask>*Da.cs</mask>
-      <mask>*Dat.cs</mask>
       <mask>*Data.cs</mask>
       <mask>*DataP.cs</mask>
       <mask>*DataPr.cs</mask>
@@ -32,8 +29,12 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
