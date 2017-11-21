@@ -238,8 +238,8 @@
         <mark key="." line="8" column="134" />
         <mark key="^" line="8" column="134" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511177411116">
-        <mark key="'" line="1" column="66" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511279212870">
+        <mark key="'" line="53" column="65" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertor.cs" timestamp="1505988315590">
         <mark key="'" line="56" column="8" />
@@ -761,7 +761,7 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" timestamp="1511176673838">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" timestamp="1511279196232">
         <mark key="'" line="40" column="55" />
       </file>
       <file name="D:/repositories/dotnet/MvcApplication1/MvcApplication1/MvcApplication1/webpack.config.js" timestamp="1502453536357">
@@ -787,7 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="15" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageConfig.cs" />
       <jump line="103" column="8" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="139" column="55" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="110" column="19" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
@@ -887,6 +886,7 @@
       <jump line="74" column="27" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/ChannelConfig.xml" />
       <jump line="144" column="32" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" />
       <jump line="73" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/DatabaseDataPresenter.cs" />
+      <jump line="53" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
