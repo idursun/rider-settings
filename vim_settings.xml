@@ -88,8 +88,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1510840123760">
         <mark key="'" line="98" column="70" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1506083940117">
-        <mark key="'" line="70" column="27" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1511344299223">
+        <mark key="'" line="144" column="12" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertControllerHelper.cs" timestamp="1503588785502">
         <mark key="'" line="56" column="24" />
@@ -237,9 +237,6 @@
         <mark key="]" line="8" column="134" />
         <mark key="." line="8" column="134" />
         <mark key="^" line="8" column="134" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511279212870">
-        <mark key="'" line="10" column="65" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertor.cs" timestamp="1505988315590">
         <mark key="'" line="56" column="8" />
@@ -613,11 +610,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1510922480627">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="88" column="105" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1511345003434">
+        <mark key="'" line="96" column="36" />
+        <mark key="[" line="96" column="71" />
+        <mark key="]" line="96" column="70" />
+        <mark key="." line="96" column="70" />
+        <mark key="^" line="96" column="70" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
@@ -679,7 +677,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511191941427">
+      <file name="/Dummy.txt" timestamp="1511345080111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -787,9 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
-      <jump line="139" column="55" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
-      <jump line="110" column="19" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" />
       <jump line="13" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/ThresholdConfigurationViewModel.cshtml" />
       <jump line="69" column="75" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="71" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
@@ -887,13 +882,16 @@
       <jump line="144" column="32" filename="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/ChannelConfig.xml" />
       <jump line="73" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/DatabaseDataPresenter.cs" />
       <jump line="53" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="144" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="48" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
+      <jump line="96" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IE11dGFibGVWYWx1ZVN0cmVhbTxsb25nPihmYWxzZSwgKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydGllcy5Gb3JFYWNoKHggPT4gcXVlcnlCdWlsZGVyLkFkZCh4KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IE11dGFibGVWYWx1ZVN0cmVhbTxsb25nPihmYWxzZSwgKTs=</text>
+        <text>90</text>
       </register>
       <register name="/" type="4">
         <text>Key</text>
@@ -902,34 +900,34 @@
         <text>The date and time that the file is predicted to be full</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydGllcy5Gb3JFYWNoKHggPT4gcXVlcnlCdWlsZGVyLkFkZCh4KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5Q29udGV4dAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBxdWVyeUJ1aWxkZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlCdWlsZGVyLkFkZChwcm9wZXJ0aWVzWzBdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxQcm9wZXJ0eURlY2wgTmFtZT0iRnVsbEluIiBLaW5kPSJVbnN0YWJsZVNhbXBsZSIgVHlwZT0iSW50ZWdlciI+CiAgICAgIDxEaXNwbGF5PgogICAgICAgIDxOYW1lLz4KICAgICAgICA8RGVzYy8+CiAgICAgICAgPEhlbHAgLz4KICAgICAgPC9EaXNwbGF5PgogICAgPC9Qcm9wZXJ0eURlY2w+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8VW4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFN1cGVyQ2hhbm5lbE1hcHBpbmc+CiAgICAgICAgPFByb3BlcnR5RGVmIE5hbWU9Ik5hbWUiPgogICAgICAgICAgPFByb3BlcnR5RXhwciBUeXBlPSJTdHJpbmciPltDbHVzdGVyXS5bU3FsU2VydmVyXS5bRGF0YWJhc2VdLltGaWxlXS5bTmFtZV08L1Byb3BlcnR5RXhwcj4KICAgICAgICA8L1Byb3BlcnR5RGVmPgogICAgICA8L1N1cGVyQ2hhbm5lbE1hcHBpbmc+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlCdWlsZGVyCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCF2YWx1ZVN0cmVhbS5Jc0RlZmluZWQgfHwgIXZhbHVlU3RyZWFtLklzTXV0YWJsZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIFZhbHVlU3RyZWFtPFRSZXN1bHQ+LlVuZGVmaW5lZDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgRnVuYzxPcHRpb248VFZhbHVlPiwgT3B0aW9uPFRWYWx1ZT4sIE9wdGlvbjxUUmVzdWx0Pj4gc3VidHJhY3RPck5vbmUgPSAoeCwgeSkgPT4geC5Jc1NvbWUgJiYgeS5Jc1NvbWUgPyBzdWJ0cmFjdCh4LlZhbHVlLCB5LlZhbHVlKSA6IE9wdGlvbjxUUmVzdWx0Pi5Ob25lOwogICAgICAgICAgICB2YXIgc3VidHJhY3RPck5vbmVPclVuZGVmaW5lZCA9IE9wdGlvbi5MaWZ0TShzdWJ0cmFjdE9yTm9uZSk7CgogICAgICAgICAgICB2YXIgY29sbGVjdGlvbkRhdGVUb1ZhbHVlT3JOb25lID0gbmV3IFNvcnRlZERpY3Rpb25hcnk8RGF0ZVRpbWUsIE9wdGlvbjxUUmVzdWx0Pj4oKTsKCiAgICAgICAgICAgIHZhciBjb2xsZWN0aW9uRGF0ZUVudW1lcmF0b3IgPSB2YWx1ZVN0cmVhbS5Db2xsZWN0aW9uRGF0ZXMuR2V0RW51bWVyYXRvcigpOwogICAgICAgICAgICBpZiAoY29sbGVjdGlvbkRhdGVFbnVtZXJhdG9yLk1vdmVOZXh0KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBwcmV2Q29sbGVjdGlvbkRhdGUgPSBjb2xsZWN0aW9uRGF0ZUVudW1lcmF0b3IuQ3VycmVudDsKICAgICAgICAgICAgICAgIHZhciBwcmV2VmFsdWVPck5vbmVPclVuZGVmaW5lZCA9IHZhbHVlU3RyZWFtLkdldFZhbHVlT3JOb25lT3JVbmRlZmluZWQocHJldkNvbGxlY3Rpb25EYXRlKTsKCiAgICAgICAgICAgICAgICB3aGlsZSAoY29sbGVjdGlvbkRhdGVFbnVtZXJhdG9yLk1vdmVOZXh0KCkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGNvbGxlY3Rpb25EYXRlID0gY29sbGVjdGlvbkRhdGVFbnVtZXJhdG9yLkN1cnJlbnQ7CiAgICAgICAgICAgICAgICAgICAgdmFyIHZhbHVlT3JOb25lT3JVbmRlZmluZWQgPSB2YWx1ZVN0cmVhbS5HZXRWYWx1ZU9yTm9uZU9yVW5kZWZpbmVkKGNvbGxlY3Rpb25EYXRlKTsKICAgICAgICAgICAgICAgICAgICB2YXIgZGVsdGFWYWx1ZU9yTm9uZU9yVW5kZWZpbmVkID0gc3VidHJhY3RPck5vbmVPclVuZGVmaW5lZCh2YWx1ZU9yTm9uZU9yVW5kZWZpbmVkLCBwcmV2VmFsdWVPck5vbmVPclVuZGVmaW5lZCk7CgogICAgICAgICAgICAgICAgICAgIGlmIChwcmV2VmFsdWVPck5vbmVPclVuZGVmaW5lZC5Jc1NvbWUpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBjb2xsZWN0aW9uRGF0ZVRvVmFsdWVPck5vbmUuQWRkKGNvbGxlY3Rpb25EYXRlLCBkZWx0YVZhbHVlT3JOb25lT3JVbmRlZmluZWQuVmFsdWUpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgcHJldlZhbHVlT3JOb25lT3JVbmRlZmluZWQgPSB2YWx1ZU9yTm9uZU9yVW5kZWZpbmVkOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
