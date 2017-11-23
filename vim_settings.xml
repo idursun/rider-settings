@@ -89,13 +89,13 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1510840123760">
         <mark key="'" line="98" column="70" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1511443460965">
-        <mark key="a" line="1191" column="0" />
-        <mark key="'" line="1163" column="31" />
-        <mark key="[" line="1209" column="0" />
-        <mark key="]" line="1209" column="0" />
-        <mark key="." line="1209" column="0" />
-        <mark key="^" line="1163" column="62" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1511444277495">
+        <mark key="a" line="1189" column="0" />
+        <mark key="'" line="1152" column="31" />
+        <mark key="[" line="1192" column="0" />
+        <mark key="]" line="1192" column="0" />
+        <mark key="^" line="1152" column="32" />
+        <mark key="." line="1192" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertControllerHelper.cs" timestamp="1503588785502">
         <mark key="'" line="56" column="24" />
@@ -477,12 +477,12 @@
         <mark key="^" line="279" column="161" />
         <mark key="." line="279" column="161" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Models/Overview/DatabaseOverview/DatabaseFileModel.cs" timestamp="1511443511739">
-        <mark key="'" line="10" column="111" />
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="20" column="63" />
-        <mark key="." line="20" column="63" />
-        <mark key="^" line="20" column="63" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Models/Overview/DatabaseOverview/DatabaseFileModel.cs" timestamp="1511444562851">
+        <mark key="'" line="9" column="111" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="19" column="96" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1504533061446">
         <mark key="'" line="72" column="46" />
@@ -699,7 +699,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511431571748">
+      <file name="/Dummy.txt" timestamp="1511444549539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -807,7 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="185" column="23" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="167" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="226" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
@@ -907,13 +906,14 @@
       <jump line="9" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
       <jump line="185" column="45" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
       <jump line="1163" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="1165" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>timeUntilFull.HasValue ? timeUntilFull.Value.ToHumanReadableString() : &quot;Infinity&quot;;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5VSS5XZWJzaXRlLkNvbnRyb2xsZXJzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>timeUntilFull.HasValue ? timeUntilFull.Value.ToHumanReadableString() : &quot;Infinity&quot;;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>extended</text>
@@ -922,34 +922,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWwgPSBEYXRhUHJlc2VudGVyLkdldERhdGFiYXNlQ2hhbm5lbCgKICAgICAgICAgICAgICAgIG5ldyBRdWVyeU9wdGlvbnMobmV3IFF1ZXJ5UmFuZ2UobWF4RGF0ZS5BZGREYXlzKC0zMCksIG1heERhdGUpKSwKICAgICAgICAgICAgICAgIGNsdXN0ZXJOYW1lLAogICAgICAgICAgICAgICAgc3FsU2VydmVyTmFtZSwKICAgICAgICAgICAgICAgIGRhdGFiYXNlTmFtZSwKICAgICAgICAgICAgICAgIG5ldyBRdWFsaWZpZWRQcm9wZXJ0eU5hbWVbXQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuRGF0YWJhc2UuRmlsZS5OYW1lLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuRGF0YWJhc2UuRmlsZS5Vc2VkU2l6ZSwKICAgICAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuU3FsU2VydmVyLkRhdGFiYXNlLkZpbGUuU2l6ZQogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICB2YXIgZmlsZXMgPSBEYXRhLl9Sb290LkZyb21DaGFubmVsKGNoYW5uZWwpLkNsdXN0ZXIuU2luZ2xlKCkuU3FsU2VydmVyLlNpbmdsZSgpLkRhdGFiYXNlLlNpbmdsZSgpLkZpbGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFiYXNlRmlsZU1vZGVsLkNyZWF0ZURhdGFiYXNlRmlsZQo=</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5VSS5XZWJzaXRlLkNvbnRyb2xsZXJzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWYWx1ZVN0cmVhbS5BZGQoKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBQcm9qZWN0aW9uTW9kZWwKICAgIHsKICAgICAgICBwdWJsaWMgUHJvamVjdGlvbk1vZGVsKFZhbHVlU3RyZWFtPGxvbmc+IHBvaW50cywgbG9uZyB0YXJnZXRZKQogICAgICAgIHsKICAgICAgICAgICAgUG9pbnRzID0gcG9pbnRzOwogICAgICAgICAgICBUYXJnZXRZID0gdGFyZ2V0WTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBWYWx1ZVN0cmVhbTxsb25nPiBQb2ludHMgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBsb25nIFRhcmdldFkgeyBnZXQ7IHNldDsgfQogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgcHJvamVjdGlvbk1vZGVscyA9IEdldERhdGFiYXNlRmlsZUhpc3RvcnlGb3JQcm9qZWN0aW9uKGNsdXN0ZXJOYW1lLCBzcWxTZXJ2ZXJOYW1lLCBkYXRhYmFzZU5hbWUsIG1heERhdGUpCi8vICAgICAgICAgICAgICAgIC5Ub0RpY3Rpb25hcnkoZiA9PiBmLk5hbWUsIGYgPT4gbmV3IFByb2plY3Rpb25Nb2RlbChmLlVzZWRTaXplLCBmLlNpemUuR2V0TGFzdFZhbHVlT3JEZWZhdWx0KDApKSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC5WaXNpdFBhdGgoTmFtZXMuUm9vdC5DbHVzdGVyLlNxbFNlcnZlci5EYXRhYmFzZS5GaWxlLCAoY2lyLCBpbnN0YW5jZSkgPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgaW5zdGFuY2UuIAogICAgICAgICAgICB9KTsKCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHB1YmxpYyBEYXRhYmFzZUZpbGVNb2RlbChEYXRhLl9Sb290Ll9DbHVzdGVyLl9TcWxTZXJ2ZXIuX0RhdGFiYXNlLl9GaWxlIGZpbGUsIFByb2plY3Rpb25Nb2RlbCBwcm9qZWN0aW9uTW9kZWwpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgTmFtZSA9IGZpbGUuTmFtZTsKLy8gICAgICAgICAgICBGaWxlTmFtZSA9IGZpbGUuRmlsZU5hbWUuR2V0TGFzdFZhbHVlQXNTdHJpbmcoKTsKLy8gICAgICAgICAgICBTcGFjZVVzZWQgPSBmaWxlLlVzZWRTaXplLkdldExhc3RWYWx1ZUFzU3RyaW5nKEdldEJ5dGVzVG9NZWdhYnl0ZXNTdHJpbmcpOwovLyAgICAgICAgICAgIFBlcmNlbnRVc2VkID0gZmlsZS5QZXJjZW50VXNlZC5HZXRMYXN0VmFsdWVBc0Zvcm1hdGVkU3RyaW5nKFN0cmluZ0NvbnN0YW50cy5Mb25nRm9ybWF0KSArICIlIjsKLy8gICAgICAgICAgICBTaXplID0gZmlsZS5TaXplLkdldExhc3RWYWx1ZUFzU3RyaW5nKEdldEJ5dGVzVG9NZWdhYnl0ZXNTdHJpbmcpOwovLyAgICAgICAgICAgIFR5cGUgPSBmaWxlLlR5cGUuR2V0TGFzdFZhbHVlQXNTdHJpbmcoR2V0RmlsZVR5cGVOYW1lKTsKLy8gICAgICAgICAgICBUaW1lVW50aWxGdWxsID0gQ2FsY3VsYXRlVGltZVVudGlsRnVsbChwcm9qZWN0aW9uTW9kZWwpOwovLyAgICAgICAgICAgIFNldEF1dG9Hcm93dGgoZmlsZSk7Ci8vICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbGVOYW1lVG9UaW1lVW50aWxGdWxsID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBUaW1lU3Bhbj8+KCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBmaWxlIGluIGZpbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcHJvamVjdGlvblNlcnZpY2UgPSBuZXcgUHJvamVjdGlvblNlcnZpY2UoKTsKICAgICAgICAgICAgICAgIHZhciB2YWx1ZVR1cGxlcyA9IGZpbGUuVXNlZFNpemUuVG9UaW1lU2VyaWVzKCk7CiAgICAgICAgICAgICAgICB2YXIgcHJvamVjdFRvWSA9IHByb2plY3Rpb25TZXJ2aWNlLlByb2plY3RUb1kodmFsdWVUdXBsZXMsIGZpbGUuU2l6ZS5HZXRMYXN0VmFsdWVPckRlZmF1bHQoMCkpOwogICAgICAgICAgICAgICAgaWYgKHByb2plY3RUb1kuSGFzVmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGRhdGVXaGVuRnVsbCA9IG5ldyBEYXRlVGltZShDb252ZXJ0LlRvSW50NjQocHJvamVjdFRvWS5WYWx1ZSksIERhdGVUaW1lS2luZC5VdGMpOwogICAgICAgICAgICAgICAgICAgIHZhciB0aW1lVW50aWxGdWxsID0gZGF0ZVdoZW5GdWxsIC0gRGF0ZVRpbWUuVXRjTm93OwoKICAgICAgICAgICAgICAgICAgICBmaWxlTmFtZVRvVGltZVVudGlsRnVsbFtmaWxlLk5hbWVdID0gdGltZVVudGlsRnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBmaWxlTmFtZVRvVGltZVVudGlsRnVsbFtmaWxlLk5hbWVdID0gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlTmFtZVRvVGltZVVudGlsRnVsbFtmaWxlLk5hbWVdID0gbnVsbDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgZmlsZU5hbWVUb1RpbWVVbnRpbEZ1bGwgPSBDcmVhdGVEYXRhYmFzZUZpbGVUaW1lVW50aWxGdWxsUHJvamVjdGlvbnMoY2x1c3Rlck5hbWUsIHNxbFNlcnZlck5hbWUsIGRhdGFiYXNlTmFtZSwgbWF4RGF0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
