@@ -733,6 +733,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Controllers/ReportController.cs" timestamp="1503485590468">
         <mark key="'" line="47" column="46" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1511430474058">
+        <mark key="[" line="108" column="116" />
+        <mark key="]" line="108" column="118" />
+        <mark key="." line="108" column="118" />
+        <mark key="^" line="108" column="118" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" timestamp="1509113132418">
         <mark key="'" line="71" column="63" />
         <mark key="[" line="71" column="78" />
