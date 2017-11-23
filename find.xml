@@ -3,24 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Data.cs</mask>
-      <mask>*DataP.cs</mask>
-      <mask>*DataPr.cs</mask>
-      <mask>*DataPre.cs</mask>
-      <mask>*DataPres.cs</mask>
-      <mask>*DataPrese.cs</mask>
-      <mask>*DataPresent.cs</mask>
-      <mask>*DataPresente.cs</mask>
-      <mask>*DataPresenter.cs</mask>
-      <mask>*</mask>
-      <mask>*.wix</mask>
-      <mask>*.wi</mask>
-      <mask>*.wxs</mask>
-      <mask>*.wx</mask>
-      <mask>*.w</mask>
-      <mask>*.conf</mask>
-      <mask>*.config</mask>
       <mask>*.cshtm</mask>
       <mask>*.cshtml</mask>
       <mask>*.ss</mask>
@@ -33,6 +17,23 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
+      <mask>.xml</mask>
+      <mask>c.xml</mask>
+      <mask>co.xml</mask>
+      <mask>con.xml</mask>
+      <mask>confi.xml</mask>
+      <mask>config.xml</mask>
+      <mask>onfig.xml</mask>
+      <mask>Config.xml</mask>
+      <mask>Coonfig.xml</mask>
+      <mask>Cononfig.xml</mask>
+      <mask>Confonfig.xml</mask>
+      <mask>Confionfig.xml</mask>
+      <mask>Configonfig.xml</mask>
+      <mask>*.config.onfig.xml</mask>
+      <mask>*.configonfig.xml</mask>
+      <mask>*.onfig.xml</mask>
+      <mask>*..xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>

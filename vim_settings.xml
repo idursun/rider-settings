@@ -204,7 +204,8 @@
         <mark key="." line="216" column="92" />
         <mark key="^" line="216" column="92" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/DatabaseFileDataPresenter.cs" timestamp="1511190709589">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/DatabaseFileDataPresenter.cs" timestamp="1511447524622">
+        <mark key="'" line="20" column="53" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -525,6 +526,9 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" timestamp="1511447533324">
+        <mark key="'" line="174" column="48" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelKey.cs" timestamp="1511171379634">
         <mark key="'" line="116" column="8" />
       </file>
@@ -707,7 +711,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511444549539">
+      <file name="/Dummy.txt" timestamp="1511447706228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -815,8 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="47" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="90" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="46" column="62" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
       <jump line="234" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
       <jump line="491" column="21" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" />
@@ -915,6 +917,8 @@
       <jump line="122" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="34" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/ProjectionService.cs" />
       <jump line="18" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/ProjectionService.cs" />
+      <jump line="20" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/DatabaseFileDataPresenter.cs" />
+      <jump line="174" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
