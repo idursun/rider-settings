@@ -705,7 +705,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511515979860">
+      <file name="/Dummy.txt" timestamp="1511524499520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -722,6 +722,12 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/GraphsController.cs" timestamp="1509444097013">
         <mark key="'" line="42" column="140" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" timestamp="1511524409796">
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="66" column="56" />
+        <mark key="." line="66" column="56" />
+        <mark key="^" line="65" column="27" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxController.cs" timestamp="1507552005427">
         <mark key="'" line="84" column="24" />
@@ -916,43 +922,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">V2hlcmUoeCA9PiB4LlZhbHVlLklzU29tZSkuU2VsZWN0KHggPT4gKChkb3VibGUpIHguS2V5LlRpY2tzLCAoZG91YmxlKSB4LlZhbHVlLlZhbHVlKSkuVG9BcnJheSgpOw==</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V2hlcmUoeCA9PiB4LlZhbHVlLklzU29tZSkuU2VsZWN0KHggPT4gKChkb3VibGUpIHguS2V5LlRpY2tzLCAoZG91YmxlKSB4LlZhbHVlLlZhbHVlKSkuVG9BcnJheSgpOw==</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>extended</text>
       </register>
       <register name="0" type="4">
-        <text>(DateTime sampleDate, long size, long spaceUsed)[]</text>
+        <text>this.series.userOptions.id === 'file_usage'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSGlnaEVuYWJsZWQgPSBmYWxzZSwKICAgICAgICAgICAgICAgIE1lZGl1bUVuYWJsZWQgPSB0cnVlLAogICAgICAgICAgICAgICAgTG93RW5hYmxlZCA9IGZhbHNlCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIGlkOiAnZmlsZV91c2FnZV9wcm9qZWN0aW9uJywKICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ0ZpbGUgdXNhZ2UgcHJvamVjdGlvbicsCiAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICdsaW5lJywKICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjZmM5MDAzJywKICAgICAgICAgICAgICAgICAgICAgZGFzaFN0eWxlOiAnZG90JywKICAgICAgICAgICAgICAgICAgICAgZGF0YTogPCU9IEpzb24uRW5jb2RlKE1vZGVsLlVzZWRTaXplQnl0ZXNQcm9qZWN0ZWRQb2ludHMpICU+CiAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBQZXJjZW50RnVsbFRocmVzaG9sZCBDcmVhdGVQZXJjZW50YWdlQ29uZmlnKGRvdWJsZSB0aHJlc2hvbGQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFBlcmNlbnRGdWxsVGhyZXNob2xkKDAsIHRocmVzaG9sZCwgMCk7CiAgICAgICAgfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgSGlnaEVuYWJsZWQgPSBmYWxzZSwKICAgICAgICAgICAgICAgIE1lZGl1bUVuYWJsZWQgPSB0cnVlLAogICAgICAgICAgICAgICAgTG93RW5hYmxlZCA9IGZhbHNlCiAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBQZXJjZW50RnVsbFRocmVzaG9sZCBDcmVhdGVQZXJjZW50YWdlQ29uZmlnKGRvdWJsZSB0aHJlc2hvbGQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFBlcmNlbnRGdWxsVGhyZXNob2xkKDAsIHRocmVzaG9sZCwgMCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYWJzdHJhY3QgCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYWJzdHJhY3QgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
