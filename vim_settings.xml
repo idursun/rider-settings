@@ -512,7 +512,6 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="57" column="35" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertConfigChannelHolderTests.cs" timestamp="1511534712400" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/Database/DatabaseFileBytesRemainingAlerterTests.cs" timestamp="1510839306417">
         <mark key="[" line="40" column="23" />
         <mark key="]" line="41" column="62" />
