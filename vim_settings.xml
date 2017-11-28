@@ -222,11 +222,11 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1507561567057">
         <mark key="'" line="15" column="59" />
       </file>
-      <file name="D:/repositories/safe-stack/src/Client/components/Counter.fs" timestamp="1511880983054">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="10" />
+      <file name="D:/repositories/safe-stack/src/Client/components/Counter.fs" timestamp="1511884911220">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
         <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
@@ -817,11 +817,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="D:/repositories/safe-stack/src/Client/App.fs" timestamp="1511881049844">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
-        <mark key="^" line="11" column="13" />
+      <file name="D:/repositories/safe-stack/src/Client/App.fs" timestamp="1511884909554">
+        <mark key="'" line="17" column="50" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StateMachines/StateStats.cs" timestamp="1504279389440">
         <mark key="'" line="22" column="17" />
@@ -873,7 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
       <jump line="28" column="53" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelRef.cs" />
       <jump line="33" column="89" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" />
       <jump line="116" column="8" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelKey.cs" />
@@ -973,13 +973,14 @@
       <jump line="27" column="11" filename="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" />
       <jump line="30" column="20" filename="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" />
       <jump line="11" column="20" filename="D:/repositories/SAFE-BookStore/src/Client/Style.fs" />
+      <jump line="17" column="50" filename="D:/repositories/safe-stack/src/Client/App.fs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3BlbiBBcHAuQ291bnRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Counter</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
