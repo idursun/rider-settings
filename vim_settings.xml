@@ -222,6 +222,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1507561567057">
         <mark key="'" line="15" column="59" />
       </file>
+      <file name="D:/repositories/safe-stack/src/Client/components/Counter.fs" timestamp="1511880983054">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
       </file>
@@ -437,14 +443,6 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1510840123760">
         <mark key="'" line="98" column="70" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1511790868640">
-        <mark key="a" line="1189" column="0" />
-        <mark key="'" line="1174" column="43" />
-        <mark key="[" line="1192" column="0" />
-        <mark key="]" line="1192" column="0" />
-        <mark key="^" line="1152" column="32" />
-        <mark key="." line="1192" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/UnaryEvaluator.cs" timestamp="1511179049896">
         <mark key="'" line="29" column="77" />
         <mark key="[" line="38" column="102" />
@@ -504,6 +502,12 @@
         <mark key="]" line="216" column="92" />
         <mark key="." line="216" column="92" />
         <mark key="^" line="216" column="92" />
+      </file>
+      <file name="D:/repositories/safe-stack/src/Client/Counter.fs" timestamp="1511880848211">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" timestamp="1510667863998">
         <mark key="'" line="200" column="69" />
@@ -813,6 +817,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
+      <file name="D:/repositories/safe-stack/src/Client/App.fs" timestamp="1511881049844">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StateMachines/StateStats.cs" timestamp="1504279389440">
         <mark key="'" line="22" column="17" />
       </file>
@@ -965,13 +975,11 @@
       <jump line="11" column="20" filename="D:/repositories/SAFE-BookStore/src/Client/Style.fs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Handle the case when there is not enough data for linear projection
-
-When there is only one data point, it throws an exception and does not display anything</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3BlbiBBcHAuQ291bnRlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>, new {alertId = 0}</text>
+        <text>Counter</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -979,37 +987,37 @@ When there is only one data point, it throws an exception and does not display a
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gb3B0aW9ucy5VcmxzLkFsZXJ0RGV0YWlsc1VybCArIGVsZW1lbnQuQWxlcnRJZDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Handle the case when there is not enough data for linear projection
-
-When there is only one data point, it throws an exception and does not display anything</text>
+      <register name="1" type="2">
+        <text encoding="base64">b3BlbiBBcHAuQ291bnRlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudC5BbGVydERldGFpbHNVcmw7Cg==</text>
+        <text encoding="base64">b3BlbiBBcHAuQ291bnRlcgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5VSS5XZWJzaXRlLk1vZGVsczsK</text>
+      <register name="3" type="4">
+        <text>Handle the case when there is not enough data for linear projection
+
+When there is only one data point, it throws an exception and does not display anything</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudC5BbGVydERldGFpbHNVcmw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbV9Db250ZXh0UHJvdmlkZXIuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVybEhlbHBlcigpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbGVydERldGFpbHNVcmwgPSBVcmwuQWN0aW9uKCJTaG93QWxlcnREZXRhaWxzIiwgIkFsZXJ0RGV0YWlscyIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5VSS5XZWJzaXRlLk1vZGVsczsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbV9Db250ZXh0UHJvdmlkZXIuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVybEhlbHBlcigpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0RGV0YWlsc1VybCA9IFVybC5BCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbGVydERldGFpbHNVcmwgPSBVcmwuQWN0aW9uKCJTaG93QWxlcnREZXRhaWxzIiwgIkFsZXJ0RGV0YWlscyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
