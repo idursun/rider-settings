@@ -152,6 +152,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" timestamp="1503589664557">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/repositories/SAFE-BookStore/src/Client/Style.fs" timestamp="1511875243644">
+        <mark key="'" line="11" column="20" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/AlertsAreaRegistration.cs" timestamp="1511805145918">
         <mark key="'" line="15" column="40" />
         <mark key="[" line="15" column="81" />
@@ -190,6 +193,9 @@
         <mark key="]" line="49" column="41" />
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="41" />
+      </file>
+      <file name="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" timestamp="1511875230162">
+        <mark key="'" line="30" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/Machines/RawMachineDataPresenterFactory.cs" timestamp="1506523738979">
         <mark key="'" line="34" column="62" />
@@ -239,6 +245,12 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1504533061446">
         <mark key="'" line="72" column="46" />
+      </file>
+      <file name="D:/repositories/SAFE-BookStore/src/Server/Program.fs" timestamp="1511875307296">
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchema/Functions/utils.GetGroupCir.sql" timestamp="1504085413149">
         <mark key="'" line="16" column="16" />
@@ -851,9 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
-      <jump line="199" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
-      <jump line="49" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="30" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
       <jump line="28" column="53" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelRef.cs" />
       <jump line="33" column="89" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" />
@@ -951,6 +960,9 @@
       <jump line="316" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="14" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" />
       <jump line="43" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" />
+      <jump line="27" column="11" filename="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" />
+      <jump line="30" column="20" filename="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" />
+      <jump line="11" column="20" filename="D:/repositories/SAFE-BookStore/src/Client/Style.fs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
