@@ -240,8 +240,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/LowDiskSpaceViewModel.cs" timestamp="1510918720373">
         <mark key="'" line="105" column="52" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" timestamp="1511956353568">
-        <mark key="'" line="69" column="26" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" timestamp="1511959884715">
+        <mark key="'" line="48" column="49" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
         <mark key="'" line="38" column="29" />
@@ -249,12 +249,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupBackupTrackerProvider.cs" timestamp="1511955573573">
         <mark key="'" line="109" column="112" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511955977327">
-        <mark key="'" line="29" column="23" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="69" column="11" />
-        <mark key="." line="73" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511961086726">
+        <mark key="[" line="85" column="59" />
+        <mark key="]" line="85" column="70" />
+        <mark key="^" line="85" column="70" />
+        <mark key="." line="85" column="70" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1504533061446">
         <mark key="'" line="72" column="46" />
@@ -347,7 +346,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511956131158">
+      <file name="/Dummy.txt" timestamp="1511960414439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -534,12 +533,12 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511955963074">
-        <mark key="'" line="56" column="59" />
-        <mark key="[" line="78" column="13" />
-        <mark key="]" line="79" column="11" />
-        <mark key="." line="79" column="11" />
-        <mark key="^" line="79" column="11" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511960796104">
+        <mark key="'" line="58" column="44" />
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="57" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="57" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/IAlertor.cs" timestamp="1505988315590">
         <mark key="'" line="56" column="8" />
@@ -826,6 +825,10 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
         <mark key="'" line="37" column="51" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/TimeRemainingDataPresenter.cs" timestamp="1511960263240">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="37" column="61" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Services/IGroupedAlertInboxService.cs" timestamp="1505309276613">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="42" column="101" />
@@ -915,8 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
-      <jump line="48" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="96" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="62" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="89" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
@@ -993,7 +994,6 @@
       <jump line="19" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" />
       <jump line="24" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" />
       <jump line="34" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/SqlDeadlockAlerter.cs" />
-      <jump line="58" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="64" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
       <jump line="130" column="105" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
       <jump line="109" column="112" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupBackupTrackerProvider.cs" />
@@ -1001,7 +1001,6 @@
       <jump line="45" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" />
       <jump line="54" column="59" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="29" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" />
-      <jump line="56" column="59" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="29" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
       <jump line="69" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
       <jump line="10" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/LogBackupOverdueAlerterT.cs" />
@@ -1015,51 +1014,53 @@
       <jump line="74" column="55" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
       <jump line="144" column="34" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
       <jump line="10" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseNotBackedUpT.cs" />
+      <jump line="48" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
+      <jump line="56" column="79" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="58" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="34" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>overdue\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFEYXRhYmFzZUZpbGVVc2FnZUFsZXJ0RGVmaW5pdGlvbi5EYXRhYmFzZUluUHJpbWFyeUF2YWlsYWJpbGl0eUdyb3VwKGRhdGFiYXNlKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBtX0RhdGFQcmVzZW50ZXIuUXVlcnkoVW5pdC5WYWx1ZSwgTnVsbFN0YXR1c0xvZ2dlci5JbnN0YW5jZSwgcXVlcnlCdWlsZGVyLlRvQ2hhbm5lbFF1ZXJ5VHJlZSgpKTsKCiAgICAgICAgICAgIHZhciBmaWxlID0gRGF0YS5fUm9vdC5Gcm9tQ2hhbm5lbChkYXRhKQogICAgICAgICAgICAgICAgLkNsdXN0ZXIuRmlyc3RPck5vbmUoKQogICAgICAgICAgICAgICAgLlNlbGVjdCh4ID0+IHguU3FsU2VydmVyLkZpcnN0T3JOb25lKCkpLkNvbGxhcHNlKCkKICAgICAgICAgICAgICAgIC5TZWxlY3QoeCA9PiB4LkRhdGFiYXNlLkZpcnN0T3JOb25lKCkpLkNvbGxhcHNlKCkKICAgICAgICAgICAgICAgIC5TZWxlY3QoeCA9PiB4LkZpbGUuRmlyc3RPck5vbmUoKSkuQ29sbGFwc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoeCA9PiB4LkZpbGUuRmlyc3RPck5vbmUoKSkuQ29sbGFwc2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGFiYXNlLklzT25saW5lKCkgJiYgIWRhdGFiYXNlLklzSW5TdGFuZGJ5KCkgJiYgIWRhdGFiYXNlLklzUmVhZG9ubHkoKSAmJiAhZGF0YWJhc2UuSXNTbmFwc2hvdERhdGFiYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENoYW5uZWxRdWVyeVRyZWVCdWlsZGVyKG5ldyBRdWVyeVJhbmdlKEFsZXJ0SW5WKSkKICAgICAgICAgICAgbV9EYXRhUHJlc2VudGVyLlF1ZXJ5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcGxpY2FSb2xlIHJvbGUgPSAoUmVwbGljYVJvbGUpIGF2YWlsYWJpbGl0eUdyb3VwUm9sZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3BlbiBBcHAuQ291bnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3BlbiBBcHAuQ291bnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGFiYXNlLklzT25saW5lKCkgJiYgIWRhdGFiYXNlLklzSW5TdGFuZGJ5KCkgJiYgIWRhdGFiYXNlLklzUmVhZG9ubHkoKSAmJiAhZGF0YWJhc2UuSXNTbmFwc2hvdERhdGFiYXNlKCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Handle the case when there is not enough data for linear projection
-
-When there is only one data point, it throws an exception and does not display anything</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcGxpY2FSb2xlIHJvbGUgPSAoUmVwbGljYVJvbGUpIGF2YWlsYWJpbGl0eUdyb3VwUm9sZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudC5BbGVydERldGFpbHNVcmw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
