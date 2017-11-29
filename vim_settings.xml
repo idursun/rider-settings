@@ -335,6 +335,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" timestamp="1511805353074">
         <mark key="'" line="316" column="43" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/SqlDeadlockAlerter.cs" timestamp="1511950596911">
+        <mark key="'" line="34" column="45" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Column.Master" timestamp="1503491648179">
         <mark key="'" line="0" column="63" />
       </file>
@@ -895,7 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
       <jump line="13" column="84" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="17" column="27" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" />
       <jump line="40" column="55" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsageAlertConfig.cs" />
@@ -995,6 +997,7 @@
       <jump line="67" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
       <jump line="19" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" />
       <jump line="24" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" />
+      <jump line="34" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/SqlDeadlockAlerter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
