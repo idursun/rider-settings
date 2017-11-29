@@ -260,11 +260,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1511967983663">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1511968767217">
         <mark key="'" line="264" column="35" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
+        <mark key="[" line="248" column="128" />
+        <mark key="]" line="248" column="149" />
+        <mark key="." line="248" column="149" />
+        <mark key="^" line="248" column="149" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" timestamp="1511805353074">
         <mark key="'" line="316" column="43" />
@@ -836,10 +837,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OyA=</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OyA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>overdue\c</text>
