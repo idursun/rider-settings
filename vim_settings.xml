@@ -12,11 +12,11 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/GroupedInboxSelectionModel.cs" timestamp="1508492081903">
         <mark key="'" line="8" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1510924383812">
-        <mark key="[" line="11" column="118" />
-        <mark key="]" line="11" column="119" />
-        <mark key="." line="11" column="119" />
-        <mark key="^" line="11" column="118" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1511962738003">
+        <mark key="[" line="11" column="112" />
+        <mark key="]" line="11" column="112" />
+        <mark key="." line="11" column="112" />
+        <mark key="^" line="11" column="128" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/TopQueries.css" timestamp="1504694495669">
         <mark key="[" line="652" column="1" />
@@ -249,7 +249,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupBackupTrackerProvider.cs" timestamp="1511955573573">
         <mark key="'" line="109" column="112" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511961086726">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511963044042">
+        <mark key="'" line="64" column="67" />
         <mark key="[" line="85" column="59" />
         <mark key="]" line="85" column="70" />
         <mark key="^" line="85" column="70" />
@@ -346,7 +347,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511960414439">
+      <file name="/Dummy.txt" timestamp="1511962087605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -385,11 +386,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" timestamp="1511956575186">
         <mark key="'" line="144" column="34" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1511430474058">
-        <mark key="[" line="108" column="116" />
-        <mark key="]" line="108" column="118" />
-        <mark key="." line="108" column="118" />
-        <mark key="^" line="108" column="118" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1511962729867">
+        <mark key="[" line="108" column="112" />
+        <mark key="]" line="108" column="112" />
+        <mark key="." line="108" column="112" />
+        <mark key="^" line="108" column="128" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/AboutController.cs" timestamp="1504863511316">
         <mark key="'" line="53" column="55" />
@@ -533,8 +534,8 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511960796104">
-        <mark key="'" line="58" column="44" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511963046649">
+        <mark key="'" line="69" column="33" />
         <mark key="[" line="29" column="53" />
         <mark key="]" line="29" column="57" />
         <mark key="." line="29" column="57" />
@@ -603,6 +604,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/ConfigurationViewModels/AbsoluteOrPercentThresholdConfigurationViewModel.cs" timestamp="1510840429403">
         <mark key="'" line="8" column="39" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/SingleAlertState.cs" timestamp="1511961929396">
+        <mark key="'" line="163" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/FilterAndPagingBar.ascx" timestamp="1504186700763">
         <mark key="'" line="23" column="42" />
@@ -918,8 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
-      <jump line="62" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="89" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
       <jump line="230" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="351" column="58" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
@@ -994,7 +996,6 @@
       <jump line="19" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" />
       <jump line="24" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" />
       <jump line="34" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/SqlDeadlockAlerter.cs" />
-      <jump line="64" column="50" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
       <jump line="130" column="105" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
       <jump line="109" column="112" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupBackupTrackerProvider.cs" />
       <jump line="82" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
@@ -1015,16 +1016,19 @@
       <jump line="144" column="34" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
       <jump line="10" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseNotBackedUpT.cs" />
       <jump line="48" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
-      <jump line="56" column="79" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="58" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="34" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
+      <jump line="163" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/SingleAlertState.cs" />
+      <jump line="56" column="71" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="64" column="67" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
+      <jump line="69" column="33" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>overdue\c</text>
