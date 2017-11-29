@@ -3,19 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <recentFileMasks>
       <mask>*.cshtm</mask>
-      <mask>*.cshtml</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
-      <mask>*.css</mask>
       <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>.xml</mask>
       <mask>c.xml</mask>
       <mask>co.xml</mask>
@@ -34,6 +29,12 @@
       <mask>*.onfig.xml</mask>
       <mask>*..xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.css</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
