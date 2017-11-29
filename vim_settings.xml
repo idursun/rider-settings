@@ -149,10 +149,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="20" column="71" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" timestamp="1511887958476">
-        <mark key="'" line="19" column="55" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" timestamp="1511948814037">
+        <mark key="'" line="19" column="58" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" timestamp="1511887966554">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" timestamp="1511948817698">
         <mark key="'" line="24" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" timestamp="1503589664557">
@@ -993,7 +993,7 @@
       <jump line="14" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/SqlDeadlockT.cs" />
       <jump line="44" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGroupKeyBuilder.cs" />
       <jump line="67" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
-      <jump line="19" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" />
+      <jump line="19" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" />
       <jump line="24" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" />
     </jumps>
     <registers>
