@@ -84,22 +84,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowDiskSpaceAlertor.cs" timestamp="1509460290012">
         <mark key="'" line="42" column="17" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/ThresholdConfigurationViewModel.cshtml" timestamp="1510838884334">
-        <mark key="'" line="13" column="26" />
-        <mark key="[" line="22" column="93" />
-        <mark key="]" line="22" column="115" />
-        <mark key="^" line="22" column="115" />
-        <mark key="." line="22" column="115" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertConfigExtensionMethods.cs" timestamp="1504278890594">
         <mark key="'" line="19" column="55" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryTests.cs" timestamp="1506349946304">
-        <mark key="'" line="73" column="12" />
-        <mark key="[" line="87" column="146" />
-        <mark key="]" line="87" column="145" />
-        <mark key="." line="87" column="145" />
-        <mark key="^" line="87" column="145" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/LogBackupOverdueAlerterT.cs" timestamp="1511956492730">
         <mark key="'" line="10" column="77" />
@@ -107,22 +93,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alertor/Machine/LowResourceAlertor.cs" timestamp="1509460325732">
         <mark key="'" line="6" column="55" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/GroupedAlertModelMapperTests.cs" timestamp="1508492805760">
-        <mark key="'" line="122" column="53" />
-        <mark key="[" line="123" column="68" />
-        <mark key="]" line="123" column="102" />
-        <mark key="." line="124" column="41" />
-        <mark key="^" line="124" column="41" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseNotBackedUpT.cs" timestamp="1511956627571">
         <mark key="'" line="10" column="41" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" timestamp="1511887946393">
-        <mark key="'" line="67" column="31" />
-        <mark key="[" line="145" column="20" />
-        <mark key="]" line="145" column="19" />
-        <mark key="^" line="145" column="19" />
-        <mark key="." line="145" column="19" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SpecializedWmiDataPresenter.cs" timestamp="1506523711196">
         <mark key="'" line="23" column="65" />
@@ -136,13 +108,6 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" timestamp="1505119088298">
         <mark key="'" line="224" column="86" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertTypeDefinitionTests.cs" timestamp="1505999750220">
-        <mark key="'" line="19" column="49" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="20" column="71" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" timestamp="1511948814037">
         <mark key="'" line="19" column="58" />
       </file>
@@ -154,20 +119,6 @@
       </file>
       <file name="D:/repositories/SAFE-BookStore/src/Client/Style.fs" timestamp="1511875243644">
         <mark key="'" line="11" column="20" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/AlertsAreaRegistration.cs" timestamp="1511805145918">
-        <mark key="'" line="15" column="40" />
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="111" />
-        <mark key="^" line="15" column="111" />
-        <mark key="." line="15" column="111" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" timestamp="1511806090779">
-        <mark key="'" line="0" column="41" />
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="66" />
-        <mark key="^" line="0" column="66" />
-        <mark key="." line="0" column="66" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/GroupOrCirExtensions.cs" timestamp="1504278513363">
         <mark key="[" line="1" column="53" />
@@ -187,13 +138,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstanceRefExtensions.cs" timestamp="1504626082160">
         <mark key="'" line="13" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DiskUsageRollup.cs" timestamp="1509031076310">
-        <mark key="'" line="31" column="70" />
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="41" />
-      </file>
       <file name="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" timestamp="1511875230162">
         <mark key="'" line="30" column="20" />
       </file>
@@ -208,13 +152,6 @@
         <mark key="]" line="58" column="46" />
         <mark key="." line="58" column="46" />
         <mark key="^" line="58" column="46" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alertor/AlertGroupKeyDeciderTests.cs" timestamp="1506440210294">
-        <mark key="'" line="119" column="17" />
-        <mark key="[" line="102" column="61" />
-        <mark key="]" line="102" column="61" />
-        <mark key="." line="102" column="61" />
-        <mark key="^" line="102" column="85" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/PercentageOrValueConfigViewModelAdapter.cs" timestamp="1510842061749">
         <mark key="'" line="53" column="79" />
@@ -240,8 +177,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/LowDiskSpaceViewModel.cs" timestamp="1510918720373">
         <mark key="'" line="105" column="52" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" timestamp="1511959884715">
-        <mark key="'" line="48" column="49" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" timestamp="1511963824719">
+        <mark key="'" line="69" column="25" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Data/GroupOrCir.cs" timestamp="1507642454996">
         <mark key="'" line="38" column="29" />
@@ -249,8 +186,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupBackupTrackerProvider.cs" timestamp="1511955573573">
         <mark key="'" line="109" column="112" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511963044042">
-        <mark key="'" line="64" column="67" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" timestamp="1511964385831">
+        <mark key="'" line="69" column="67" />
         <mark key="[" line="85" column="59" />
         <mark key="]" line="85" column="70" />
         <mark key="^" line="85" column="70" />
@@ -298,13 +235,6 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/GroupedAlertModelMapper.cs" timestamp="1508492642224">
-        <mark key="'" line="22" column="43" />
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="34" column="57" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" timestamp="1510914693072">
         <mark key="'" line="246" column="32" />
       </file>
@@ -347,7 +277,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511962087605">
+      <file name="/Dummy.txt" timestamp="1511964175057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -369,13 +299,6 @@
         <mark key="]" line="66" column="56" />
         <mark key="." line="66" column="56" />
         <mark key="^" line="65" column="27" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxController.cs" timestamp="1511875805005">
-        <mark key="'" line="106" column="67" />
-        <mark key="[" line="297" column="44" />
-        <mark key="]" line="297" column="43" />
-        <mark key="." line="297" column="43" />
-        <mark key="^" line="297" column="43" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/New/Config/ChannelConfig.xsd" timestamp="1511179221938">
         <mark key="[" line="178" column="29" />
@@ -425,13 +348,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/Sql/TransactionIsolatedLocalDbTestSuite.cs" timestamp="1503654407050">
         <mark key="'" line="47" column="61" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1511803427879">
-        <mark key="'" line="146" column="39" />
-        <mark key="[" line="98" column="263" />
-        <mark key="]" line="98" column="262" />
-        <mark key="^" line="98" column="262" />
-        <mark key="." line="98" column="262" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/MultiMonitoredEntitiesDataPresenterFactory.cs" timestamp="1504533394265">
         <mark key="'" line="41" column="50" />
       </file>
@@ -455,13 +371,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1510840123760">
         <mark key="'" line="98" column="70" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/UnaryEvaluator.cs" timestamp="1511179049896">
-        <mark key="'" line="29" column="77" />
-        <mark key="[" line="38" column="102" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/Alert/GroupedAlertMessage.cs" timestamp="1508492601182">
         <mark key="[" line="35" column="21" />
@@ -493,13 +402,6 @@
         <mark key="^" line="27" column="199" />
         <mark key="." line="27" column="199" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/FIleUsageHistoryRepository.cs" timestamp="1509028023395">
-        <mark key="'" line="53" column="24" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="57" column="63" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchema/Tables/state.DiskUsageHistory.sql" timestamp="1508860993180">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -508,13 +410,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
         <mark key="'" line="22" column="49" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/BuiltInAlertTypeDefinitions.cs" timestamp="1509455885218">
-        <mark key="'" line="607" column="74" />
-        <mark key="[" line="216" column="64" />
-        <mark key="]" line="216" column="92" />
-        <mark key="." line="216" column="92" />
-        <mark key="^" line="216" column="92" />
       </file>
       <file name="D:/repositories/safe-stack/src/Client/Counter.fs" timestamp="1511880848211">
         <mark key="[" line="0" column="7" />
@@ -534,7 +429,7 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511963046649">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" timestamp="1511964276397">
         <mark key="'" line="69" column="33" />
         <mark key="[" line="29" column="53" />
         <mark key="]" line="29" column="57" />
@@ -555,13 +450,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/GlobalDashboard/GlobalDashboard.js" timestamp="1507560831194">
         <mark key="'" line="225" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/SqlDeadlockT.cs" timestamp="1511885982511">
-        <mark key="'" line="14" column="44" />
-        <mark key="[" line="35" column="77" />
-        <mark key="]" line="35" column="84" />
-        <mark key="^" line="35" column="84" />
-        <mark key="." line="35" column="84" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureCustomMetrics/Index.aspx" timestamp="1511803286573">
         <mark key="[" line="37" column="60" />
@@ -599,6 +487,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Trace/TraceManager.cs" timestamp="1504787437008">
         <mark key="'" line="48" column="48" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/AvailabilityGroup/AvailabilityGroupListenerSampler.cs" timestamp="1511964169221">
+        <mark key="'" line="38" column="71" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/SqlServers/RawSqlServerDataPresenterFactory.cs" timestamp="1506522859405">
         <mark key="'" line="171" column="46" />
       </file>
@@ -622,13 +513,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelRef.cs" timestamp="1511170948517">
         <mark key="'" line="28" column="53" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/PercentageOrValueOrTimeLeftConfig.cs" timestamp="1510663080902">
-        <mark key="'" line="6" column="53" />
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureEmailServer.js" timestamp="1504618378917">
         <mark key="'" line="51" column="55" />
@@ -672,6 +556,7 @@
         <mark key="." line="95" column="159" />
         <mark key="^" line="95" column="159" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" timestamp="1511964450461" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/BaseApiController.cs" timestamp="1504093278167">
         <mark key="'" line="9" column="10" />
       </file>
@@ -696,20 +581,6 @@
         <mark key="^" line="84" column="47" />
         <mark key="." line="84" column="47" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1510851919685">
-        <mark key="'" line="570" column="65" />
-        <mark key="[" line="279" column="108" />
-        <mark key="]" line="279" column="161" />
-        <mark key="^" line="279" column="161" />
-        <mark key="." line="279" column="161" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Models/Overview/DatabaseOverview/DatabaseFileModel.cs" timestamp="1511788557075">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="40" />
-        <mark key="^" line="29" column="40" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/Alert/IAlertEngineRepository.cs" timestamp="1506337162985">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -718,13 +589,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1504090606741">
         <mark key="'" line="31" column="20" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" timestamp="1510922513772">
-        <mark key="'" line="195" column="8" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
-        <mark key="^" line="57" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" timestamp="1511447533324">
         <mark key="'" line="174" column="48" />
@@ -765,20 +629,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Functional/Option.cs" timestamp="1506431425512">
         <mark key="'" line="35" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/RepositoryDataPresenterExtensions.cs" timestamp="1511791447891">
-        <mark key="'" line="242" column="35" />
-        <mark key="[" line="169" column="84" />
-        <mark key="]" line="169" column="83" />
-        <mark key="^" line="169" column="83" />
-        <mark key="." line="169" column="83" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" timestamp="1508492584849">
-        <mark key="'" line="69" column="16" />
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="70" column="53" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Web.sqlmon_current.config" timestamp="1505118531436">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="66" />
@@ -794,22 +644,8 @@
         <mark key="." line="14" column="99" />
         <mark key="^" line="14" column="99" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" timestamp="1511803188732">
-        <mark key="'" line="89" column="30" />
-        <mark key="[" line="282" column="23" />
-        <mark key="]" line="282" column="32" />
-        <mark key="^" line="282" column="32" />
-        <mark key="." line="282" column="32" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" timestamp="1511806290090">
-        <mark key="'" line="88" column="37" />
-        <mark key="[" line="130" column="85" />
-        <mark key="]" line="130" column="85" />
-        <mark key="." line="130" column="85" />
-        <mark key="^" line="131" column="39" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertTypes.cs" timestamp="1505986422847">
         <mark key="'" line="40" column="8" />
@@ -858,22 +694,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
       </file>
-      <file name="D:/repositories/safe-stack/src/Client/App.fs" timestamp="1511884909554">
-        <mark key="'" line="17" column="50" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupReplicaNotHealthyAlerter.cs" timestamp="1511963898609" />
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StateMachines/StateStats.cs" timestamp="1504279389440">
         <mark key="'" line="22" column="17" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/SqlProcess/ChannelConfig.xml" timestamp="1511189704096">
-        <mark key="'" line="25" column="15" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="49" />
-        <mark key="." line="243" column="40" />
-        <mark key="^" line="243" column="40" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/Index.aspx" timestamp="1506514306711">
         <mark key="[" line="108" column="51" />
@@ -890,20 +713,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Controllers/ReportController.cs" timestamp="1503485590468">
         <mark key="'" line="47" column="46" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" timestamp="1509113132418">
-        <mark key="'" line="71" column="63" />
-        <mark key="[" line="71" column="78" />
-        <mark key="]" line="71" column="77" />
-        <mark key="^" line="71" column="77" />
-        <mark key="." line="71" column="77" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DataFileGrowthViewModelTests.cs" timestamp="1509726042703">
-        <mark key="'" line="75" column="44" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="95" column="72" />
-        <mark key="." line="96" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MvcApplication1/MvcApplication1/MvcApplication1/webpack.config.js" timestamp="1502453536357">
         <mark key="'" line="68" column="0" />
@@ -922,8 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
-      <jump line="230" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="351" column="58" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="337" column="52" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="153" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
@@ -1003,7 +810,6 @@
       <jump line="54" column="59" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="29" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFilePercentFullAlerter.cs" />
       <jump line="29" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
-      <jump line="69" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
       <jump line="10" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/LogBackupOverdueAlerterT.cs" />
       <jump line="21" column="32" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
       <jump line="28" column="62" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
@@ -1022,6 +828,9 @@
       <jump line="56" column="71" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
       <jump line="64" column="67" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
       <jump line="69" column="33" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
+      <jump line="69" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
+      <jump line="38" column="71" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/AvailabilityGroup/AvailabilityGroupListenerSampler.cs" />
+      <jump line="69" column="67" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
