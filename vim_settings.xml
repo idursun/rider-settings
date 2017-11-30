@@ -242,12 +242,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Engine/ProjectionServiceTests.cs" timestamp="1512046062438">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Engine/ProjectionServiceTests.cs" timestamp="1512050216098">
         <mark key="'" line="133" column="17" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="59" column="48" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="37" column="48" />
+        <mark key="." line="37" column="48" />
+        <mark key="^" line="37" column="48" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Collection/CollectionIntegrationTests.cs" timestamp="1506083584173">
         <mark key="'" line="111" column="23" />
@@ -375,7 +375,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512049168781">
+      <file name="/Dummy.txt" timestamp="1512050243857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
