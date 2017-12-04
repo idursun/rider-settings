@@ -381,7 +381,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512394714498">
+      <file name="/Dummy.txt" timestamp="1512396161937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -785,12 +785,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1504090606741">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512395163401">
-        <mark key="'" line="1659" column="75" />
-        <mark key="[" line="1901" column="0" />
-        <mark key="]" line="1901" column="0" />
-        <mark key="." line="1901" column="0" />
-        <mark key="^" line="1759" column="47" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512396155335">
+        <mark key="'" line="1414" column="43" />
+        <mark key="[" line="779" column="59" />
+        <mark key="]" line="779" column="69" />
+        <mark key="^" line="779" column="69" />
+        <mark key="." line="779" column="69" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" timestamp="1510922513772">
         <mark key="'" line="195" column="8" />
@@ -987,16 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileBytesRemainingAlerter.cs" />
-      <jump line="10" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/LogBackupOverdueAlerterT.cs" />
-      <jump line="21" column="32" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="28" column="62" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="41" column="32" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="42" column="32" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="89" column="17" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="25" column="46" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
-      <jump line="74" column="55" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
       <jump line="144" column="34" filename="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" />
       <jump line="10" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseNotBackedUpT.cs" />
       <jump line="48" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
@@ -1087,49 +1077,59 @@
       <jump line="1290" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="781" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="1659" column="75" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="1761" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="1883" column="29" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="1623" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="760" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="791" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="792" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="775" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="683" column="48" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="684" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="1414" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>maybeWhereClause.Value</text>
       </register>
       <register name="-" type="4">
-        <text>Item1</text>
+        <text>maybeWhereClause.Value</text>
       </register>
       <register name="/" type="4">
         <text>m_DatabaseFileModelFactory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbi5Tb21lKG5ldyBUdXBsZTxMaXN0PFR1cGxlPHN0cmluZywgb2JqZWN0Pj4sIExpc3Q8c3RyaW5nPj4ocGFyYW1ldGVycywgY2xhdXNlcykpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIWZpbHRlcldoZXJlT3B0aW9uLklzU29tZSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMgPSBudWxsOwovLyAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgdmFyIGZpbHRlcldoZXJlID0gZmlsdGVyV2hlcmVPcHRpb24uVmFsdWU7Ci8vICAgICAgICAgICAgcGFyYW1ldGVycyA9IGZpbHRlcldoZXJlLlBhcmFtZXRlcnM7Ci8vICAgICAgICAgICAgcmV0dXJuIGZpbHRlcldoZXJlLkJ1aWxkV2hlcmVDbGF1c2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUgKz0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEJ1aWxkKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBCaWdBbmQoQ2xhdXNlcyk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgQmlnQW5kKElMaXN0PHN0cmluZz4gY2xhdXNlcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBjbGF1c2UgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGNsYXVzZXMuQ291bnQ7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2xhdXNlLkFwcGVuZEZvcm1hdCgiKHswfSkiLCBjbGF1c2VzW2ldKTsKICAgICAgICAgICAgICAgIGlmIChpIDwgY2xhdXNlcy5Db3VudCAtIDEpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY2xhdXNlLkFwcGVuZCgiIEFORCAiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gY2xhdXNlLlRvU3RyaW5nKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgY2xhdXNlcyA9IG5ldyBMaXN0PHN0cmluZz4oKTsKLy8gICAgICAgICAgICB2YXIgcGFyYW1ldGVycyA9IG5ldyBMaXN0PFR1cGxlPHN0cmluZywgb2JqZWN0Pj4oKTsK</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgaWYgKCFmaWx0ZXJXaGVyZU9wdGlvbi5Jc1NvbWUpCi8vICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzID0gbnVsbDsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Ci8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIHZhciBmaWx0ZXJXaGVyZSA9IGZpbHRlcldoZXJlT3B0aW9uLlZhbHVlOwovLyAgICAgICAgICAgIHBhcmFtZXRlcnMgPSBmaWx0ZXJXaGVyZS5QYXJhbWV0ZXJzOwovLyAgICAgICAgICAgIHJldHVybiBmaWx0ZXJXaGVyZS5CdWlsZFdoZXJlQ2xhdXNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZpbHRlcldoZXJlT3B0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGVyZUNsYXVzZUJ1aWxkZXIuQWRkQ2xhdXNlKHJhbmdlQ2xhdXNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbi5Tb21lKG5ldyBUdXBsZTxMaXN0PFR1cGxlPHN0cmluZywgb2JqZWN0Pj4sIExpc3Q8c3RyaW5nPj4ocGFyYW1ldGVycywgY2xhdXNlcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbHRlckNsYXVzZXMgPSBmaWx0ZXJXaGVyZS5DbGF1c2VzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZXJlQ2xhdXNlQnVpbGRlci5BZGRDbGF1c2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZpbHRlckNsYXVzZXMuQ291bnQgPiAwID8gIldIRVJFICIgKyBCaWdBbmQoZmlsdGVyQ2xhdXNlcykgOiAiIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXVzZXMuQWRkKGNsYXVzZS5Ub1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY2xhdXNlcy5BZGQoY2xhdXNlLlRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyV2hlcmUuQnVpbGRXaGVyZUNsYXVzZShmaWx0ZXJXaGVyZS5DbGF1c2VzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
