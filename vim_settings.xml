@@ -83,8 +83,8 @@
         <mark key="^" line="77" column="83" />
         <mark key="." line="77" column="83" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" timestamp="1512401507337">
-        <mark key="'" line="141" column="59" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" timestamp="1512403393679">
+        <mark key="'" line="402" column="35" />
         <mark key="[" line="410" column="34" />
         <mark key="]" line="410" column="39" />
         <mark key="^" line="410" column="39" />
@@ -796,12 +796,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1504090606741">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512402347016">
-        <mark key="'" line="552" column="53" />
-        <mark key="[" line="209" column="65" />
-        <mark key="]" line="209" column="81" />
-        <mark key="^" line="209" column="81" />
-        <mark key="." line="209" column="81" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512403389929">
+        <mark key="'" line="797" column="44" />
+        <mark key="[" line="261" column="63" />
+        <mark key="]" line="261" column="79" />
+        <mark key="^" line="261" column="79" />
+        <mark key="." line="261" column="79" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" timestamp="1510922513772">
         <mark key="'" line="195" column="8" />
@@ -998,11 +998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="264" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
-      <jump line="265" column="66" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
-      <jump line="388" column="75" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="55" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="920" column="69" filename="D:/workspace/sqlmonitor/Source/Default/Names/PreStorage/Names.cs" />
       <jump line="125" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Names/QualifiedPropertyName.cs" />
       <jump line="230" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/AlertTypeViewModelFactory.cs" />
@@ -1086,7 +1081,6 @@
       <jump line="91" column="59" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertUserRepositoryTests.cs" />
       <jump line="670" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="778" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
-      <jump line="141" column="59" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
       <jump line="261" column="66" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="1846" column="67" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="247" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
@@ -1098,6 +1092,12 @@
       <jump line="244" column="68" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="214" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="552" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="141" column="60" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="404" column="40" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="539" column="61" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
+      <jump line="762" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="797" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="402" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
