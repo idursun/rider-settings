@@ -780,6 +780,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1504090606741">
         <mark key="'" line="31" column="20" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512387292410">
+        <mark key="'" line="1744" column="21" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" timestamp="1510922513772">
         <mark key="'" line="195" column="8" />
         <mark key="[" line="196" column="0" />
@@ -975,8 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
-      <jump line="14" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" />
       <jump line="43" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" />
       <jump line="27" column="11" filename="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" />
       <jump line="30" column="20" filename="D:/repositories/SAFE-BookStore/src/Client/views/Menu.fs" />
@@ -1075,6 +1076,8 @@
       <jump line="93" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
       <jump line="914" column="107" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
       <jump line="94" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Models/SparklineModel.cs" />
+      <jump line="256" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="1744" column="21" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
