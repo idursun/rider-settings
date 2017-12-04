@@ -76,7 +76,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1511805322566">
         <mark key="'" line="134" column="21" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" timestamp="1511788611682">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" timestamp="1512381417774">
+        <mark key="'" line="38" column="34" />
         <mark key="[" line="77" column="69" />
         <mark key="]" line="77" column="83" />
         <mark key="^" line="77" column="83" />
@@ -375,7 +376,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512123719323">
+      <file name="/Dummy.txt" timestamp="1512381995389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -485,11 +486,17 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/StringConstants.cs" timestamp="1509720003386">
         <mark key="'" line="13" column="44" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Models/SparklineModel.cs" timestamp="1512382009347">
+        <mark key="'" line="94" column="33" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/CpuViewModel.cs" timestamp="1510751595138">
         <mark key="'" line="100" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1510840123760">
         <mark key="'" line="98" column="70" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1512382006684">
+        <mark key="'" line="914" column="107" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/UnaryEvaluator.cs" timestamp="1511179049896">
         <mark key="'" line="29" column="77" />
@@ -542,7 +549,6 @@
         <mark key="." line="9" column="16" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1512123507043">
-        <mark key="'" line="256" column="0" />
         <mark key="[" line="63" column="8" />
         <mark key="]" line="63" column="12" />
         <mark key="." line="63" column="12" />
@@ -969,11 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" />
-      <jump line="38" column="66" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" />
-      <jump line="9" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" />
-      <jump line="10" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" />
-      <jump line="134" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" />
       <jump line="316" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="14" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" />
       <jump line="43" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" />
@@ -1069,6 +1070,11 @@
       <jump line="61" column="4" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/ProjectionService.cs" />
       <jump line="11" column="5" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="251" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="38" column="34" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
+      <jump line="120" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="93" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="914" column="107" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="94" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Models/SparklineModel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1078,7 +1084,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>debounce\c</text>
+        <text>m_DatabaseFileModelFactory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbV9Hcm93QnlUb0FsbG93Rm9yT25lWWVhcnNHcm93dGggPSBDYWxjdWxhdGVFc3RpbWF0ZWRHcm93dGhGb3JPbmVZZWFyKHBvaW50cywgZGF0YWJhc2VGaWxlVXNlZFNpemUuTGFzdCgpKTsK</text>
@@ -1118,9 +1124,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debounce\c</last-search>
+      <last-search>m_DatabaseFileModelFactory</last-search>
       <last-offset />
-      <last-pattern>debounce\c</last-pattern>
+      <last-pattern>m_DatabaseFileModelFactory</last-pattern>
       <last-replace />
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -1128,7 +1134,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AlertInboxUrl</entry>
         <entry>PercentUtilization</entry>
         <entry>DatabaseName</entry>
         <entry>collapse</entry>
@@ -1148,6 +1153,7 @@
         <entry>custom\c</entry>
         <entry>overdue\c</entry>
         <entry>debounce\c</entry>
+        <entry>m_DatabaseFileModelFactory</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
