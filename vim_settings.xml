@@ -376,7 +376,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512381995389">
+      <file name="/Dummy.txt" timestamp="1512391752663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -780,12 +780,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1504090606741">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512388633698">
-        <mark key="'" line="362" column="62" />
-        <mark key="[" line="1754" column="145" />
-        <mark key="]" line="1754" column="143" />
-        <mark key="." line="1754" column="143" />
-        <mark key="^" line="1754" column="143" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512391937622">
+        <mark key="'" line="1756" column="46" />
+        <mark key="[" line="1363" column="67" />
+        <mark key="]" line="1363" column="67" />
+        <mark key="." line="1363" column="67" />
+        <mark key="^" line="1363" column="74" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" timestamp="1510922513772">
         <mark key="'" line="195" column="8" />
@@ -982,8 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlErrorLogEntryViewModel.cs" />
-      <jump line="34" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/SqlDeadlockAlerter.cs" />
       <jump line="130" column="105" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" />
       <jump line="109" column="112" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/AvailabilityGroupBackupTrackerProvider.cs" />
       <jump line="82" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinition.cs" />
@@ -1071,7 +1069,6 @@
       <jump line="93" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
       <jump line="914" column="107" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
       <jump line="94" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Models/SparklineModel.cs" />
-      <jump line="256" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="1744" column="21" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="1749" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="1701" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
@@ -1082,13 +1079,16 @@
       <jump line="1746" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="399" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="362" column="62" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="776" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="256" column="51" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="1756" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSBzID0+IHM=</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSBzID0+IHM=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>m_DatabaseFileModelFactory</text>
