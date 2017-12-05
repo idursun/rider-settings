@@ -392,7 +392,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512407886246">
+      <file name="/Dummy.txt" timestamp="1512474624970">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1107,11 +1107,11 @@
       <jump line="270" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add basic WhereClause tests</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;replaced&quot;</text>
+        <text>Add basic WhereClause tests</text>
       </register>
       <register name="/" type="4">
         <text>targetLb</text>
