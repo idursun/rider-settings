@@ -805,11 +805,10 @@
         <mark key="'" line="31" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" timestamp="1512407191425">
-        <mark key="'" line="246" column="33" />
-        <mark key="[" line="1679" column="44" />
-        <mark key="]" line="1679" column="70" />
-        <mark key="." line="1679" column="70" />
-        <mark key="^" line="1679" column="70" />
+        <mark key="[" line="1675" column="44" />
+        <mark key="]" line="1675" column="70" />
+        <mark key="." line="1675" column="70" />
+        <mark key="^" line="1675" column="70" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/Configuration/Xml/V0/DatabaseFileUsedConfig.cs" timestamp="1510922513772">
         <mark key="'" line="195" column="8" />
