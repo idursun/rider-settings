@@ -107,9 +107,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertConfigExtensionMethods.cs" timestamp="1504278890594">
         <mark key="'" line="19" column="55" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryTests.cs" timestamp="1512403766869">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryTests.cs" timestamp="1512573603163">
         <mark key="'" line="209" column="38" />
-        <mark key="[" line="87" column="146" />
+        <mark key="[" line="59" column="69" />
         <mark key="]" line="87" column="145" />
         <mark key="." line="87" column="145" />
         <mark key="^" line="87" column="145" />
@@ -389,7 +389,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512474624970">
+      <file name="/Dummy.txt" timestamp="1512573608371">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
