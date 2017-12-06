@@ -107,7 +107,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertConfigExtensionMethods.cs" timestamp="1504278890594">
         <mark key="'" line="19" column="55" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryTests.cs" timestamp="1512573603163">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryTests.cs" timestamp="1512578437142">
         <mark key="'" line="209" column="38" />
         <mark key="[" line="59" column="69" />
         <mark key="]" line="87" column="145" />
@@ -910,7 +910,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/TopQuery/QueryWaitStats/QueryWaitStatsSampler.cs" timestamp="1505394436114">
         <mark key="'" line="37" column="51" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/TimeRemainingDataPresenter.cs" timestamp="1511976456064">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/TimeRemainingDataPresenter.cs" timestamp="1512578626228">
         <mark key="'" line="21" column="15" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Services/IGroupedAlertInboxService.cs" timestamp="1505309276613">
@@ -993,9 +993,11 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Extensions/HttpContextExtensions.cs" timestamp="1504090374161">
         <mark key="'" line="21" column="148" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/ITimeRemainingDataPresenter.cs" timestamp="1512578617511">
+        <mark key="'" line="6" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="38" column="34" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
       <jump line="120" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
       <jump line="93" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
@@ -1095,6 +1097,7 @@
       <jump line="1058" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="100" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="231" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
+      <jump line="6" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/ITimeRemainingDataPresenter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
