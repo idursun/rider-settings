@@ -363,7 +363,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1512466782814">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1512572126085">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -466,12 +466,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/RawGlobalDataPresenterFactory.cs" timestamp="1506523641013">
         <mark key="'" line="33" column="47" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1511976490950">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1512571794530">
         <mark key="'" line="375" column="33" />
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="386" column="0" />
-        <mark key="." line="386" column="0" />
-        <mark key="^" line="390" column="179" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Program.cs" timestamp="1504533175190">
         <mark key="'" line="98" column="46" />
@@ -1102,10 +1098,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add basic WhereClause tests</text>
+        <text>Is</text>
       </register>
       <register name="-" type="4">
-        <text>Add basic WhereClause tests</text>
+        <text>Is</text>
       </register>
       <register name="/" type="4">
         <text>targetLb</text>
