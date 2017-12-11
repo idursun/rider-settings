@@ -374,7 +374,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertInstance.cs" timestamp="1505317546584">
         <mark key="'" line="67" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1513008936849">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" timestamp="1513011527750">
         <mark key="'" line="86" column="41" />
         <mark key="[" line="72" column="186" />
         <mark key="]" line="72" column="203" />
@@ -423,8 +423,10 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513007542472">
+      <file name="/Dummy.txt" timestamp="1513011874909">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
         <mark key="[" line="4" column="84" />
@@ -509,12 +511,12 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1513010359534">
-        <mark key="'" line="71" column="28" />
-        <mark key="[" line="410" column="65" />
-        <mark key="]" line="410" column="68" />
-        <mark key="^" line="410" column="68" />
-        <mark key="." line="410" column="68" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" timestamp="1513011762410">
+        <mark key="'" line="456" column="32" />
+        <mark key="[" line="412" column="12" />
+        <mark key="]" line="412" column="146" />
+        <mark key="^" line="412" column="11" />
+        <mark key="." line="412" column="12" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Program.cs" timestamp="1504533175190">
         <mark key="'" line="98" column="46" />
@@ -1096,8 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="60" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
-      <jump line="404" column="40" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
       <jump line="539" column="61" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertUserRepositoryGroupingTests.cs" />
       <jump line="762" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="797" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
@@ -1196,19 +1196,21 @@
       <jump line="242" column="50" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="71" column="28" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="82" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
+      <jump line="460" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
+      <jump line="456" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c_FileGroupName</text>
+        <text>changing view model to fit in the new data structure</text>
       </register>
       <register name="-" type="4">
-        <text>c_FileGroupName</text>
+        <text>changing view model to fit in the new data structure</text>
       </register>
       <register name="/" type="4">
         <text>FullRpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZWRTaXplUG9pbnRzID0gc2l6ZVBvaW50cy5TZWxlY3QodCA9PiAodC5zYW1wbGVEYXRlLlRpY2tzLCB0LnNwYWNlVXNlZCkpLlRvQXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNpemVQb2ludHMgPSBuZXcgKGRvdWJsZSB4LCBkb3VibGUgeSlbXSB7KG1fRGF0ZVRpbWUuVGlja3MsdXNlZFNpemVJbkJ5dGVzKX07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
