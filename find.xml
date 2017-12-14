@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <recentFileMasks>
-      <mask>*.j</mask>
       <mask>.xml</mask>
       <mask>c.xml</mask>
       <mask>co.xml</mask>
@@ -29,14 +28,15 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.css</mask>
-      <mask>*.cshtml</mask>
-      <mask>*.cshtm</mask>
-      <mask>*.csht</mask>
       <mask>*.csh</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.csht</mask>
+      <mask>*.cshtm</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
