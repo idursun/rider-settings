@@ -793,6 +793,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Names/QualifiedChannelName.cs" timestamp="1508771532146">
         <mark key="'" line="285" column="64" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/GroupedAlertUserRepository.cs" timestamp="1513339373267">
+        <mark key="'" line="814" column="42" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Models/AlertModel.cs" timestamp="1511805745905">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="20" />
@@ -1119,8 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
-      <jump line="231" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertUserRepository.cs" />
       <jump line="6" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/ITimeRemainingDataPresenter.cs" />
       <jump line="19" column="28" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryService.cs" />
       <jump line="76" column="0" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryService.cs" />
@@ -1219,6 +1220,8 @@
       <jump line="676" column="11" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
       <jump line="120" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" />
       <jump line="24" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" />
+      <jump line="404" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/GroupedAlertUserRepository.cs" />
+      <jump line="814" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/GroupedAlertUserRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
