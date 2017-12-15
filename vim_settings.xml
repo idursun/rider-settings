@@ -359,6 +359,12 @@
         <mark key="." line="34" column="57" />
         <mark key="^" line="34" column="57" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGroupKeyBuilder.cs" timestamp="1513336674502">
+        <mark key="[" line="71" column="82" />
+        <mark key="]" line="71" column="82" />
+        <mark key="^" line="68" column="160" />
+        <mark key="." line="71" column="82" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstance.cs" timestamp="1510914693072">
         <mark key="'" line="246" column="32" />
       </file>
@@ -1225,10 +1231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Value</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Value</text>
       </register>
       <register name="/" type="4">
         <text>FullRpc</text>
