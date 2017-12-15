@@ -906,12 +906,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/New/ValueStreams/ValueStreamMessage.cs" timestamp="1513077228734">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxFilter.js" timestamp="1513273413879">
-        <mark key="[" line="116" column="104" />
-        <mark key="]" line="116" column="107" />
-        <mark key="^" line="116" column="107" />
-        <mark key="." line="116" column="107" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" timestamp="1511447533324">
         <mark key="'" line="174" column="48" />
       </file>
@@ -999,10 +993,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" timestamp="1513273261417">
         <mark key="'" line="89" column="30" />
-        <mark key="[" line="102" column="169" />
-        <mark key="]" line="102" column="172" />
-        <mark key="." line="102" column="172" />
-        <mark key="^" line="102" column="172" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
