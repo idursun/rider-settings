@@ -202,6 +202,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/CachingPerformanceSource.cs" timestamp="1503303951423">
         <mark key="'" line="12" column="133" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" timestamp="1513613202848">
+        <mark key="'" line="25" column="64" />
+      </file>
       <file name="/AlertUserRepository.cs" timestamp="1512404723935">
         <mark key="'" line="677" column="24" />
       </file>
@@ -226,6 +229,12 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/Machines/RawMachineDataPresenterFactory.cs" timestamp="1506523738979">
         <mark key="'" line="34" column="62" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnection.cs" timestamp="1513613469318">
+        <mark key="[" line="76" column="92" />
+        <mark key="]" line="76" column="95" />
+        <mark key="." line="76" column="95" />
+        <mark key="^" line="76" column="95" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1511454389290">
         <mark key="'" line="546" column="63" />
@@ -433,7 +442,7 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513273449403">
+      <file name="/Dummy.txt" timestamp="1513613494561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
@@ -592,6 +601,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Trace/TraceController.cs" timestamp="1504787449695">
         <mark key="'" line="147" column="92" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Properties/AssemblyInfo.cs" timestamp="1513612840415">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Web.config" timestamp="1503490031365">
         <mark key="'" line="0" column="9" />
       </file>
@@ -629,6 +644,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/PreStorage/Names.cs" timestamp="1511973823163">
         <mark key="'" line="920" column="69" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/RpcVersionHelper.cs" timestamp="1513613211145" />
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Configuration/BuiltInAlertTypeDefinitions.cs" timestamp="1509455885218">
         <mark key="'" line="607" column="74" />
         <mark key="[" line="216" column="64" />
@@ -672,6 +688,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Properties/AssemblyInfo.cs" timestamp="1513613483403">
+        <mark key="[" line="15" column="82" />
+        <mark key="]" line="15" column="92" />
+        <mark key="." line="15" column="92" />
+        <mark key="^" line="9" column="43" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/MergeResult.cs" timestamp="1511965810443">
         <mark key="'" line="11" column="28" />
@@ -1035,6 +1057,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ConfigureAuthentication/ConfirmAuthenticationTypeViewModel.js" timestamp="1503493003443">
         <mark key="'" line="107" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Properties/AssemblyInfo.cs" timestamp="1513612391727">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/ThresholdPlusDurationConfigurationViewModel.cshtml" timestamp="1505472998322">
         <mark key="[" line="10" column="184" />
         <mark key="]" line="10" column="198" />
@@ -1119,7 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="53" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="16" column="61" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryClientStub.cs" />
       <jump line="15" column="38" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="11" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
@@ -1219,13 +1246,14 @@
       <jump line="153" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxFilter.js" />
       <jump line="46" column="47" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="30" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxController.cs" />
+      <jump line="25" column="64" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>fill</text>
