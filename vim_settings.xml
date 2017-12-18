@@ -623,11 +623,8 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="9" column="16" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1512123507043">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
-        <mark key="^" line="63" column="12" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513592604575">
+        <mark key="'" line="44" column="47" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
         <mark key="'" line="22" column="49" />
@@ -910,6 +907,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/New/ValueStreams/ValueStreamMessage.cs" timestamp="1513077228734">
         <mark key="'" line="6" column="29" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxFilter.js" timestamp="1513592518998">
+        <mark key="'" line="153" column="65" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" timestamp="1511447533324">
         <mark key="'" line="174" column="48" />
       </file>
@@ -1122,9 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/ITimeRemainingDataPresenter.cs" />
-      <jump line="19" column="28" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryService.cs" />
-      <jump line="76" column="0" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryService.cs" />
       <jump line="19" column="34" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/GraphDataService.cs" />
       <jump line="17" column="53" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="16" column="61" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryClientStub.cs" />
@@ -1222,13 +1219,16 @@
       <jump line="24" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" />
       <jump line="404" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/GroupedAlertUserRepository.cs" />
       <jump line="814" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/GroupedAlertUserRepository.cs" />
+      <jump line="167" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxFilter.js" />
+      <jump line="153" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxFilter.js" />
+      <jump line="46" column="47" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Value</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>fill</text>
@@ -1237,7 +1237,7 @@
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwYWdlU2l6ZUNvb2tpZU5hbWUgPSAiYWxlcnRzSW5ib3gucGFnZVNpemUiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1246,25 +1246,25 @@
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2F0ZWdvcnkuQ2F0ZWdvcnlOYW1lLnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoc2VhcmNoQ3JpdGVyaWEpKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoLmluY2x1ZGVzKHNlYXJjaENyaXRlcmlhKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2F0ZWdvcnkuQ2F0ZWdvcnlOYW1lLnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoc2VhcmNoQ3JpdGVyaWEpKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1heERhdGUgPSB1c2VkU2l6ZVZhbHVlU3RyZWFtLkNvbGxlY3Rpb25EYXRlcy5NYXgoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoLmluY2x1ZGVzKHNlYXJjaENyaXRlcmlhKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5EZWZhdWx0Lk5hbWVzLlByZVN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1heERhdGUgPSB1c2VkU2l6ZVZhbHVlU3RyZWFtLkNvbGxlY3Rpb25EYXRlcy5NYXgoKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5EZWZhdWx0Lk5hbWVzLlByZVN0b3JhZ2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgSUVudW1lcmFibGU8bG9uZ1tdPiBDb252ZXJ0VmFsdWVTdHJlYW1Ub1NlcmllcyhWYWx1ZVN0cmVhbTxsb25nPiB2YWx1ZVN0cmVhbSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiB2YWx1ZVN0cmVhbS5XaGVyZShrdnAgPT4ga3ZwLlZhbHVlLklzU29tZSkuU2VsZWN0KGt2cCA9PiBuZXcgW117a3ZwLktleS5Ub0phdmFzY3JpcHRUaWNrcygpLCBrdnAuVmFsdWUuVmFsdWV9KS5Ub0xpc3QoKTsKICAgICAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlU3RyZWFtLlNlbGVjdChrdnAgPT4gbmV3IFtde25ldyBEYXRlVGltZSgobG9uZykga3ZwLngsRGF0ZVRpbWVLaW5kLlV0YykuVG9KYXZhc2NyaXB0VGlja3MoKSwga3ZwLnlWYWx1ZX0pLlRvTGlzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
