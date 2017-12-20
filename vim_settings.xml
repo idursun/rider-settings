@@ -108,9 +108,6 @@
         <mark key="." line="8" column="134" />
         <mark key="^" line="8" column="134" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" timestamp="1513616509863">
-        <mark key="'" line="224" column="86" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/SqlDeadlockViewModel.cs" timestamp="1511948814037">
         <mark key="'" line="19" column="58" />
       </file>
@@ -462,7 +459,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/PreStorage/Names.cs" timestamp="1511973823163">
         <mark key="'" line="920" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/RpcVersionHelper.cs" timestamp="1513613211145" />
       <file name="D:/repositories/safe-stack/src/Client/Counter.fs" timestamp="1511880848211">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="13" />
@@ -837,9 +833,6 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Extensions/HttpContextExtensions.cs" timestamp="1504090374161">
-        <mark key="'" line="21" column="148" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/ITimeRemainingDataPresenter.cs" timestamp="1512578617511">
         <mark key="'" line="6" column="26" />
