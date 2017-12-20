@@ -300,7 +300,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513788394033">
+      <file name="/Dummy.txt" timestamp="1513790294174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
@@ -783,12 +783,12 @@
         <mark key="^" line="72" column="98" />
         <mark key="." line="72" column="98" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" timestamp="1513788333610">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" timestamp="1513790163458">
         <mark key="'" line="24" column="27" />
         <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="32" />
-        <mark key="^" line="50" column="32" />
-        <mark key="." line="50" column="32" />
+        <mark key="]" line="50" column="51" />
+        <mark key="^" line="50" column="51" />
+        <mark key="." line="50" column="51" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/VMware/VMwareClientWrapper.cs" timestamp="1509105736279">
         <mark key="'" line="11" column="17" />
