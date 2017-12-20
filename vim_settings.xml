@@ -822,6 +822,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Controllers/ReportController.cs" timestamp="1503485590468">
         <mark key="'" line="47" column="46" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" timestamp="1513769170677">
+        <mark key="'" line="28" column="40" />
+      </file>
       <file name="D:/repositories/dotnet/MvcApplication1/MvcApplication1/MvcApplication1/webpack.config.js" timestamp="1502453536357">
         <mark key="'" line="68" column="0" />
       </file>
@@ -839,8 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="38" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
-      <jump line="11" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
       <jump line="77" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
       <jump line="74" column="1" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
       <jump line="357" column="58" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
@@ -939,6 +940,8 @@
       <jump line="30" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxController.cs" />
       <jump line="25" column="64" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" />
       <jump line="268" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" />
+      <jump line="45" column="63" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
+      <jump line="28" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/GroupedAlertInboxApiController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
