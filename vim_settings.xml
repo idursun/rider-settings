@@ -330,6 +330,9 @@
         <mark key="." line="178" column="36" />
         <mark key="^" line="178" column="36" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureBaseMonitorController.cs" timestamp="1513852900542">
+        <mark key="'" line="14" column="17" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/BuiltInAlertTypes.cs" timestamp="1511956575186">
         <mark key="'" line="144" column="34" />
       </file>
@@ -831,7 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="68" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="341" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="87" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullRpcSession.cs" />
       <jump line="9" column="103" filename="D:/workspace/sqlmonitor/Source/Common/Services/Services/IGraphDataService.cs" />
@@ -931,6 +933,7 @@
       <jump line="76" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/Database/DatabaseFilePercentFullAlerterTests.cs" />
       <jump line="73" column="37" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/Database/DatabaseFilePercentFullAlerterTests.cs" />
       <jump line="68" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/Database/DatabaseFilePercentFullAlerterTests.cs" />
+      <jump line="14" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureBaseMonitorController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
