@@ -366,7 +366,11 @@
         <mark key="." line="18" column="142" />
         <mark key="^" line="18" column="142" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513872068818" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513876335743">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" timestamp="1509025761955">
         <mark key="'" line="31" column="43" />
       </file>
@@ -409,11 +413,10 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/AlertTypes/Adapters/AlertTypeConfigurationViewModelAdapterFactory.cs" timestamp="1510840123760">
         <mark key="'" line="98" column="70" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxController.js" timestamp="1513872940620">
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="38" column="20" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxController.js" timestamp="1513876317623">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1512382006684">
         <mark key="'" line="914" column="107" />
@@ -460,18 +463,19 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="9" column="16" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1513874187111">
-        <mark key="[" line="15" column="52" />
-        <mark key="]" line="15" column="51" />
-        <mark key="." line="15" column="51" />
-        <mark key="^" line="15" column="51" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1513875197164">
+        <mark key="'" line="40" column="16" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="40" column="55" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513873109478">
-        <mark key="'" line="196" column="37" />
-        <mark key="[" line="175" column="20" />
-        <mark key="]" line="178" column="30" />
-        <mark key="." line="178" column="30" />
-        <mark key="^" line="178" column="30" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513875935788">
+        <mark key="'" line="193" column="37" />
+        <mark key="[" line="176" column="34" />
+        <mark key="]" line="176" column="34" />
+        <mark key="." line="176" column="34" />
+        <mark key="^" line="176" column="34" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
         <mark key="'" line="22" column="49" />
@@ -860,7 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
       <jump line="12" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
       <jump line="13" column="46" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="509" column="59" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
@@ -960,49 +963,50 @@
       <jump line="193" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="179" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="195" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="46" column="16" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka/SamplerAgent/Program.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5TWFuYWdlci5UZWxsKG5ldyBNb25pdG9yRW50aXR5TWVzc2FnZSgiY29tcDEiLCAiIiwgIiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>nextOffsets</text>
       </register>
       <register name="/" type="4">
         <text>fill</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5TWFuYWdlci5UZWxsKG5ldyBNb25pdG9yRW50aXR5TWVzc2FnZSgiY29tcDEiLCAiIiwgIiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IHBhZ2luZy5jdXJyZW50T2Zmc2V0czsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEJyb2FkY2FzdEdyb3VwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dC5BY3Rvck9mPD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcHJvcHMgPSBQcm9wcy5DcmVhdGU8RW50aXR5U2FtcGxlckFjdG9yPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0ICE9PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9wczsK</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcuY3VycmVudE9mZnNldHM7CiAgICAgICAgaW5pdGlhbFBhZ2luZy5jdXJyZW50T2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcubmV4dE9mZnNldHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBY3Rvck9mPD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLm5leHRPZmZzZXRzID0gcGFnaW5nLmN1cnJlbnRPZmZzZXRzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0uYWN0b3JPZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
