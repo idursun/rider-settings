@@ -366,12 +366,12 @@
         <mark key="." line="18" column="142" />
         <mark key="^" line="18" column="142" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513936174653">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513937878443">
         <mark key="'" line="13" column="36" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="33" column="31" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="42" column="46" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" timestamp="1509025761955">
         <mark key="'" line="31" column="43" />
@@ -472,12 +472,12 @@
         <mark key="^" line="40" column="55" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513936182393">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513938109693">
         <mark key="'" line="176" column="25" />
-        <mark key="[" line="179" column="34" />
-        <mark key="]" line="179" column="34" />
-        <mark key="." line="179" column="34" />
-        <mark key="^" line="179" column="34" />
+        <mark key="[" line="184" column="37" />
+        <mark key="]" line="184" column="37" />
+        <mark key="." line="184" column="37" />
+        <mark key="^" line="184" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
         <mark key="'" line="22" column="49" />
@@ -981,46 +981,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>nextOffsets</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>nextOffsets</text>
       </register>
       <register name="/" type="4">
         <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFBhZ2luZy5wcmV2aW91c09mZnNldHMgPSBpbml0aWFsUGFnaW5nLmN1cnJlbnRPZmZzZXRzOwogICAgICAgICAgICBpbml0aWFsUGFnaW5nLmN1cnJlbnRPZmZzZXRzID0gaW5pdGlhbFBhZ2luZy5uZXh0T2Zmc2V0czsKICAgICAgICAgICAgaW5pdGlhbFBhZ2luZy5uZXh0T2Zmc2V0cyA9IHt9OwogICAgICAgICAgICB0aGlzLnBhZ2luZyhpbml0aWFsUGFnaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbml0aWFsUGFnaW5nLmRpcmVjdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnNraXAgLT0gcGFnaW5nLmxpbWl0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IHBhZ2luZy5jdXJyZW50T2Zmc2V0czsKICAgICAgICAgICAgcGFnaW5nLmN1cnJlbnRPZmZzZXRzID0gcGFnaW5nLm5leHRPZmZzZXRzOwogICAgICAgICAgICBwYWdpbmcubmV4dE9mZnNldHMgPSB7fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5SdW50aW1lLlJlbW90aW5nLkNvbnRleHRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IHBhZ2luZy5jdXJyZW50T2Zmc2V0czsKICAgICAgICAgICAgcGFnaW5nLmN1cnJlbnRPZmZzZXRzID0gcGFnaW5nLm5leHRPZmZzZXRzOwogICAgICAgICAgICBwYWdpbmcubmV4dE9mZnNldHMgPSB7fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGlkZU1hcmtlZCA9IChUaWRlTWFya1BhZ2luZ0luZm8pIHBhZ2luZ0luZm87Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5SdW50aW1lLlJlbW90aW5nLkNvbnRleHRzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGlkZU1hcmtlZCA9IChUaWRlTWFya1BhZ2luZ0luZm8pIHBhZ2luZ0luZm87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0ICE9PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
