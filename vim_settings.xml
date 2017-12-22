@@ -366,7 +366,8 @@
         <mark key="." line="18" column="142" />
         <mark key="^" line="18" column="142" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513876335743">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513935502503">
+        <mark key="'" line="13" column="36" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -470,8 +471,8 @@
         <mark key="^" line="40" column="55" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513875935788">
-        <mark key="'" line="193" column="37" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513935486512">
+        <mark key="'" line="176" column="25" />
         <mark key="[" line="176" column="34" />
         <mark key="]" line="176" column="34" />
         <mark key="." line="176" column="34" />
@@ -795,6 +796,12 @@
         <mark key="." line="42" column="101" />
         <mark key="^" line="42" column="98" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/MultiBaseMonitorGroupedAlertRepositoryClientStub.cs" timestamp="1513935306042">
+        <mark key="[" line="49" column="151" />
+        <mark key="]" line="49" column="155" />
+        <mark key="^" line="49" column="155" />
+        <mark key="." line="49" column="155" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ConfigureAuthentication/ConfirmAuthenticationTypeViewModel.js" timestamp="1503493003443">
         <mark key="'" line="107" column="23" />
       </file>
@@ -864,8 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
-      <jump line="13" column="46" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/AlertRepositoryServerStub.cs" />
       <jump line="509" column="59" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="196" column="69" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullRpcSessionFactory.cs" />
       <jump line="237" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullRpcSessionFactory.cs" />
@@ -964,46 +969,48 @@
       <jump line="179" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="195" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="46" column="16" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka/SamplerAgent/Program.cs" />
+      <jump line="176" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="13" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGlkZU1hcmtlZCA9IChUaWRlTWFya1BhZ2luZ0luZm8pIHBhZ2luZ0luZm87Cg==</text>
       </register>
       <register name="-" type="4">
         <text>nextOffsets</text>
       </register>
       <register name="/" type="4">
-        <text>fill</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IHBhZ2luZy5jdXJyZW50T2Zmc2V0czsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGlkZU1hcmtlZCA9IChUaWRlTWFya1BhZ2luZ0luZm8pIHBhZ2luZ0luZm87Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0ICE9PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcuY3VycmVudE9mZnNldHM7CiAgICAgICAgaW5pdGlhbFBhZ2luZy5jdXJyZW50T2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcubmV4dE9mZnNldHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0ICE9PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLm5leHRPZmZzZXRzID0gcGFnaW5nLmN1cnJlbnRPZmZzZXRzOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcuY3VycmVudE9mZnNldHM7CiAgICAgICAgaW5pdGlhbFBhZ2luZy5jdXJyZW50T2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcubmV4dE9mZnNldHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLm5leHRPZmZzZXRzID0gcGFnaW5nLmN1cnJlbnRPZmZzZXRzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
@@ -1013,9 +1020,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fill</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>fill</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace />
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -1023,8 +1030,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Configure</entry>
-        <entry>details</entry>
         <entry>overdue</entry>
         <entry>custom</entry>
         <entry>custom\c</entry>
@@ -1043,6 +1048,8 @@
         <entry>polyfill</entry>
         <entry>poly</entry>
         <entry>fill</entry>
+        <entry>debugger;</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
