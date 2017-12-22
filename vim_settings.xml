@@ -102,6 +102,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SpecializedWmiDataPresenter.cs" timestamp="1506523711196">
         <mark key="'" line="23" column="65" />
       </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityMonitorActor.cs" timestamp="1513952520973">
+        <mark key="[" line="18" column="56" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/Shared/EditorTemplates/AbsoluteValueThresholdConfigurationViewModel.cshtml" timestamp="1505473025989">
         <mark key="[" line="8" column="120" />
         <mark key="]" line="8" column="134" />
@@ -559,7 +562,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityManagerActor.cs" timestamp="1513947156231">
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityManagerActor.cs" timestamp="1513952326437">
         <mark key="'" line="13" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/GraphDataService.cs" timestamp="1512661383589">
