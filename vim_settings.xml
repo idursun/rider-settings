@@ -141,6 +141,13 @@
       <file name="/AlertUserRepository.cs" timestamp="1512404723935">
         <mark key="'" line="677" column="24" />
       </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Samplers/Messages.cs" timestamp="1513943543108">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelBuilder.cs" timestamp="1508837679231">
         <mark key="'" line="87" column="22" />
       </file>
@@ -300,7 +307,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513941415686">
+      <file name="/Dummy.txt" timestamp="1513943608352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -368,12 +375,12 @@
         <mark key="." line="18" column="142" />
         <mark key="^" line="18" column="142" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513937878443">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513944104704">
         <mark key="'" line="13" column="36" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="42" column="46" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="42" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" timestamp="1509025761955">
         <mark key="'" line="31" column="43" />
@@ -475,12 +482,12 @@
         <mark key="^" line="40" column="55" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513941319582">
-        <mark key="'" line="192" column="27" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
-        <mark key="^" line="190" column="43" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513943960675">
+        <mark key="'" line="201" column="44" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+        <mark key="^" line="179" column="18" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
         <mark key="'" line="22" column="49" />
@@ -557,6 +564,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/FullAlertType.cs" timestamp="1504279547543">
         <mark key="'" line="11" column="21" />
       </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Samplers/EntitySamplerActor.cs" timestamp="1513943579371">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertingInformation.cs" timestamp="1509556543231">
         <mark key="'" line="7" column="37" />
       </file>
@@ -600,17 +613,21 @@
         <mark key="'" line="23" column="42" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1513940167932">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Cluster.cs" timestamp="1505134524173">
         <mark key="'" line="6" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/BinaryExpr.cs" timestamp="1511178158578">
         <mark key="'" line="53" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Samplers/StartMonitoringEntityMessage.cs" timestamp="1513943539576">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlServerCommunicatorFactory.cs" timestamp="1504796573312">
         <mark key="'" line="37" column="52" />
@@ -620,6 +637,11 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureEmailServer.js" timestamp="1504618378917">
         <mark key="'" line="51" column="55" />
+      </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Samplers/SampleMessage.cs" timestamp="1513943519864">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryCommitter.cs" timestamp="1505394605368">
         <mark key="'" line="378" column="79" />
@@ -774,8 +796,8 @@
         <mark key="." line="14" column="99" />
         <mark key="^" line="14" column="99" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" timestamp="1513273261417">
-        <mark key="'" line="89" column="30" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" timestamp="1513943839265">
+        <mark key="'" line="102" column="76" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Table/Index/SqlIndexSampler.cs" timestamp="1506507141876">
         <mark key="'" line="17" column="72" />
@@ -882,11 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFileHistoryService.cs" />
-      <jump line="23" column="36" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryClientStub.cs" />
-      <jump line="23" column="50" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryServiceServerStub.cs" />
-      <jump line="7" column="56" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryServiceServerStub.cs" />
-      <jump line="9" column="47" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFileHistoryServiceServerStub.cs" />
       <jump line="121" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="427" column="149" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="220" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
@@ -970,7 +987,6 @@
       <jump line="31" column="76" filename="D:/workspace/sqlmonitor/Source/UI/Website/Models/LicenceAndUpdatesModel.cs" />
       <jump line="184" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="51" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
-      <jump line="193" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="179" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="195" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="46" column="16" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka/SamplerAgent/Program.cs" />
@@ -982,58 +998,64 @@
       <jump line="180" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="261" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="194" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="4" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Samplers/Messages.cs" />
+      <jump line="193" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="192" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="102" column="76" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
+      <jump line="53" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="201" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add extra check to handle Size being null</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>Add extra check to handle Size being null</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>debugger</text>
+        <text>paging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBhZ2VPZmZzZXRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBhZ2VPZmZzZXRzKTsKICAgICAgICBjb25zb2xlLmxvZyh0aGlzLm5leHRQYWdlT2Zmc2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZzZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLmRpcmVjdGlvbiA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkaXJlY3Rpb24gPSBpbml0aWFsUGFnaW5nLmRpcmVjdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBhZ2VPZmZzZXRzLnB1c2goanNvbkRhdGEuTmV4dE9mZnNldHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLmRpcmVjdGlvbiA9IC0xOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLm5leHRPZmZzZXRzID0ganNvbkRhdGEuTmV4dE9mZnNldHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLmRpcmVjdGlvbiA9IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgb2Zmc2V0ID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLmRpcmVjdGlvbiA9IC0xOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0ID0gdGhpcy5wYWdlT2Zmc2V0cy5wb3AoKTsgLy8gcmVtb3ZlIG5leHQgb2Zmc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLmRpcmVjdGlvbiA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgb2Zmc2V0ID0gdGhpcy5wYWdlT2Zmc2V0cy51bnNoaWZ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLmRpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debugger</last-search>
+      <last-search>paging</last-search>
       <last-offset />
-      <last-pattern>debugger</last-pattern>
+      <last-pattern>paging</last-pattern>
       <last-replace />
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -1041,7 +1063,6 @@
     </search>
     <history>
       <history-search>
-        <entry>overdue</entry>
         <entry>custom</entry>
         <entry>custom\c</entry>
         <entry>overdue\c</entry>
@@ -1061,6 +1082,7 @@
         <entry>fill</entry>
         <entry>debugger;</entry>
         <entry>debugger</entry>
+        <entry>paging</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
