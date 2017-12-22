@@ -300,7 +300,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513790294174">
+      <file name="/Dummy.txt" timestamp="1513935932513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ReleaseToggles.cs" timestamp="1510590523556">
@@ -366,11 +366,12 @@
         <mark key="." line="18" column="142" />
         <mark key="^" line="18" column="142" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513935502503">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1513936174653">
         <mark key="'" line="13" column="36" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/VMware/VMwareDataPresenter.cs" timestamp="1509025761955">
         <mark key="'" line="31" column="43" />
@@ -471,12 +472,12 @@
         <mark key="^" line="40" column="55" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513935486512">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1513936182393">
         <mark key="'" line="176" column="25" />
-        <mark key="[" line="176" column="34" />
-        <mark key="]" line="176" column="34" />
-        <mark key="." line="176" column="34" />
-        <mark key="^" line="176" column="34" />
+        <mark key="[" line="179" column="34" />
+        <mark key="]" line="179" column="34" />
+        <mark key="." line="179" column="34" />
+        <mark key="^" line="179" column="34" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/AllMonitoredEntitiesContext.cs" timestamp="1506523644403">
         <mark key="'" line="22" column="49" />
@@ -979,47 +980,47 @@
       <jump line="47" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5SdW50aW1lLlJlbW90aW5nLkNvbnRleHRzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>nextOffsets</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IHBhZ2luZy5jdXJyZW50T2Zmc2V0czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFBhZ2luZy5wcmV2aW91c09mZnNldHMgPSBpbml0aWFsUGFnaW5nLmN1cnJlbnRPZmZzZXRzOwogICAgICAgICAgICBpbml0aWFsUGFnaW5nLmN1cnJlbnRPZmZzZXRzID0gaW5pdGlhbFBhZ2luZy5uZXh0T2Zmc2V0czsKICAgICAgICAgICAgaW5pdGlhbFBhZ2luZy5uZXh0T2Zmc2V0cyA9IHt9OwogICAgICAgICAgICB0aGlzLnBhZ2luZyhpbml0aWFsUGFnaW5nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5SdW50aW1lLlJlbW90aW5nLkNvbnRleHRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGlkZU1hcmtlZCA9IChUaWRlTWFya1BhZ2luZ0luZm8pIHBhZ2luZ0luZm87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IHBhZ2luZy5jdXJyZW50T2Zmc2V0czsKICAgICAgICAgICAgcGFnaW5nLmN1cnJlbnRPZmZzZXRzID0gcGFnaW5nLm5leHRPZmZzZXRzOwogICAgICAgICAgICBwYWdpbmcubmV4dE9mZnNldHMgPSB7fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0ICE9PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5SdW50aW1lLlJlbW90aW5nLkNvbnRleHRzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsUGFnaW5nLnByZXZpb3VzT2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcuY3VycmVudE9mZnNldHM7CiAgICAgICAgaW5pdGlhbFBhZ2luZy5jdXJyZW50T2Zmc2V0cyA9IGluaXRpYWxQYWdpbmcubmV4dE9mZnNldHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGlkZU1hcmtlZCA9IChUaWRlTWFya1BhZ2luZ0luZm8pIHBhZ2luZ0luZm87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5nLm5leHRPZmZzZXRzID0gcGFnaW5nLmN1cnJlbnRPZmZzZXRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YXJnZXRQYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0ICE9PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
