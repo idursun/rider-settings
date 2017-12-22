@@ -307,7 +307,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/DataExtensions.cs" timestamp="1509720018336">
         <mark key="'" line="100" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513943608352">
+      <file name="/Dummy.txt" timestamp="1513946916052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,6 +507,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Queries/ChannelQueryBuilder.cs" timestamp="1511442225170">
         <mark key="'" line="42" column="36" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Detection/Detectors/ClusterNodeDetector.cs" timestamp="1513947028254">
+        <mark key="'" line="15" column="65" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Exprs/UnaryOpExtensions.cs" timestamp="1511179263070">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="36" />
@@ -555,8 +558,8 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/GroupedPagedListMessage.cs" timestamp="1513864963643">
-        <mark key="[" line="18" column="0" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityManagerActor.cs" timestamp="1513947156231">
+        <mark key="'" line="13" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/GraphDataService.cs" timestamp="1512661383589">
         <mark key="'" line="19" column="34" />
@@ -612,7 +615,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/FilterAndPagingBar.ascx" timestamp="1504186700763">
         <mark key="'" line="23" column="42" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1513940167932">
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1513947115279">
+        <mark key="'" line="11" column="59" />
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
@@ -904,9 +908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="427" column="149" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
-      <jump line="220" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="120" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFileUsageViewModelTests.cs" />
       <jump line="54" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFileUsageViewModel.cs" />
       <jump line="8" column="32" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFileHistory/IDatabaseFileHistoryService.cs" />
@@ -1004,13 +1005,16 @@
       <jump line="102" column="76" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/GroupedAlertInbox/Index.cshtml" />
       <jump line="53" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
       <jump line="201" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" />
+      <jump line="15" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Detection/Detectors/ClusterNodeDetector.cs" />
+      <jump line="11" column="59" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
+      <jump line="13" column="41" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityManagerActor.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>Keep track of page offsets in the view model</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Keep track of page offsets in the view model</text>
       </register>
       <register name="/" type="4">
         <text>paging</text>
