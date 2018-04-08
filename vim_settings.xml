@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" timestamp="1523208651762">
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" timestamp="1523207276258">
         <mark key="'" line="33" column="35" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="35" column="49" />
       </file>
       <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/EntityManagerActor.cs" timestamp="1523206397504">
         <mark key="'" line="12" column="74" />
@@ -118,6 +118,11 @@
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" timestamp="1523210085750">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/repositories/dotnet/dacandidate/ClientApp/routes.tsx" timestamp="1520976581331">
         <mark key="[" line="10" column="41" />
@@ -270,7 +275,7 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523206340698">
+      <file name="/Dummy.txt" timestamp="1523207352183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,18 +301,26 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" timestamp="1523208487748">
-        <mark key="'" line="37" column="33" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="81" />
-        <mark key="." line="34" column="0" />
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" timestamp="1523210053235">
+        <mark key="'" line="23" column="59" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="65" />
+        <mark key="^" line="29" column="65" />
       </file>
-      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/SqlServerMonitorActor.cs" timestamp="1523207861798">
-        <mark key="'" line="31" column="76" />
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="24" column="66" />
-        <mark key="." line="24" column="66" />
-        <mark key="^" line="24" column="66" />
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/SqlServerMonitorActor.cs" timestamp="1523210114873">
+        <mark key="'" line="33" column="75" />
+        <mark key="[" line="27" column="82" />
+        <mark key="]" line="27" column="82" />
+        <mark key="." line="27" column="82" />
+        <mark key="^" line="27" column="82" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/Sample.cs" timestamp="1523209116098">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="D:/repositories/safe-stack/safe-stack/src/Client/components/Header.fs" timestamp="1518971789785">
         <mark key="[" line="34" column="17" />
@@ -453,46 +466,57 @@
       <jump line="37" column="33" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
       <jump line="36" column="13" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/WMI/ProcessorSamplerActor.cs" />
       <jump line="33" column="35" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" />
+      <jump line="16" column="0" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/Sample.cs" />
+      <jump line="13" column="20" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="30" column="45" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="58" column="39" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="38" column="0" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="55" column="0" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="64" column="12" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="44" column="43" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="11" column="8" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="23" column="59" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
+      <jump line="33" column="75" filename="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnaW5nQWRhcHRlciBfbG9nZ2VyID0gQ29udGV4dC5HZXRMb2dnZXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>m_key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0LkFjdG9yT2YoUHJvcHMuQ3JlYXRlKCgpID0+IG5ldyBEYXRhYmFzZUZpbGVTYW1wbGVyQWN0b3IoU3FsQ29ubmVjdGlvbkFjdG9yUmVmKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnaW5nQWRhcHRlciBfbG9nZ2VyID0gQ29udGV4dC5HZXRMb2dnZXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkluZm8oJCJDcmVhdGluZyBzYW1wbGVyIGFjdG9ycyBmb3Ige2RhdGFiYXNlLk5hbWV9Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnaW5nQWRhcHRlciBfbG9nZ2VyID0gQ29udGV4dC5HZXRMb2dnZXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGZpeCBtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAvL1RPRE8gZml4IHVzZSBjbGF1c2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29udGV4dC5QYXJlbnQuVGVsbChkYXRhYmFzZUtleSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBQcmVTdGFydCgpCiAgICAgICAgewovLyAgICAgICAgICAgIFNlbGYuVGVsbChNZXNzYWdlcy5TYW1wbGUuSW5zdGFuY2UpOwogICAgICAgIH0KCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVjZWl2ZTxTYW1wbGVFbnZlbG9wZT4obSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb250ZXh0LlBhcmVudC5UZWxsKG1fa2V5KSk7CiAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIF9sb2dnZXIuSW5mbygkIkNyZWF0aW5nIHNhbXBsZXIgYWN0b3JzIGZvciB7ZGF0YWJhc2UuTmFtZX0iKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RhdGFiYXNlU2FtcGxlckFjdG9yID0gQ29udGV4dC5BY3Rvck9mKFByb3BzLkNyZWF0ZSgoKSA9PiBuZXcgRGF0YWJhc2VMaXN0U2FtcGxlckFjdG9yKF9jb25uZWN0aW9uQWN0b3JSZWYpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2RhdGFiYXNlcyA9IG5ldyBMaXN0PHN0cmluZz4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRhYmFzZUtleSA9IG5ldyBLZXlzLkRhdGFiYXNlS2V5KGRhdGFiYXNlLkRhdGFiYXNlSWQsIGRhdGFiYXNlLk5hbWUpOwovLyAgICAgICAgICAgICAgICB2YXIgY29tbWl0ID0gbmV3IFNhbXBsZShkYXRhYmFzZUtleSwgRGF0ZVRpbWUuVXRjTm93LCBTYW1wbGVUeXBlcy5EYXRhYmFzZSwgZGF0YWJhc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQuQWN0b3JPZihQcm9wcy5DcmVhdGUoKCkgPT4gbmV3IERhdGFiYXNlTGlzdFNhbXBsZXJBY3RvcihfY29ubmVjdGlvbkFjdG9yUmVmKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s///g</text>
