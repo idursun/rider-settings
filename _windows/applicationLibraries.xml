@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jasmine" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jasmine-fixture" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jasmine-matchers" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
