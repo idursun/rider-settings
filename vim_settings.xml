@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/ClusterMonitorActor.cs" timestamp="1523482366606">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="34" column="52" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="34" column="52" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
         <mark key="'" line="45" column="4" />
         <mark key="[" line="14" column="0" />
@@ -17,8 +23,18 @@
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="50" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" timestamp="1523378505181">
-        <mark key="'" line="18" column="29" />
+      <file name="D:/repositories/dotnet/dacandidate/Domain/Candidate.cs" timestamp="1520974000273">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/EntityMonitorActor.cs" timestamp="1523206014417">
+        <mark key="'" line="38" column="75" />
+        <mark key="[" line="39" column="91" />
+        <mark key="]" line="39" column="91" />
+        <mark key="." line="39" column="91" />
+        <mark key="^" line="39" column="92" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ActorRegistry.cs" timestamp="1521561995307">
         <mark key="'" line="32" column="38" />
@@ -48,15 +64,18 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="34" column="58" />
       </file>
+      <file name="D:/repositories/dotnet/webtest1/Startup.cs" timestamp="1502914472595">
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AnalysisGraphStateSpec.js" timestamp="1521637862591">
         <mark key="'" line="76" column="36" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="4" column="65" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DataCollectionScheduler.cs" timestamp="1523455653953">
-        <mark key="'" line="476" column="39" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/MachinePersistenceActor.cs" timestamp="1523377130132">
         <mark key="'" line="9" column="0" />
@@ -65,11 +84,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/load.http" timestamp="1523629499443">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="c612fa5b-287b-41ad-9de4-06bd3a8f0cb8/database/tutorial/schema/public/table/metrics.sql" timestamp="1523483663638">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" timestamp="1521044151827">
         <mark key="'" line="351" column="61" />
@@ -78,8 +96,11 @@
         <mark key="." line="323" column="0" />
         <mark key="^" line="260" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
-        <mark key="'" line="141" column="48" />
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/File/DatabaseFilePersisterActor.cs" timestamp="1523485153824">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="81" />
+        <mark key="^" line="25" column="81" />
+        <mark key="." line="25" column="81" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent.UnitTests/PersistenceActorTests.cs" timestamp="1522246069011">
         <mark key="'" line="21" column="43" />
@@ -95,10 +116,34 @@
         <mark key="." line="50" column="85" />
         <mark key="^" line="50" column="85" />
       </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/BatchCommit.cs" timestamp="1522267049152">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/MvcApplication/Views/Shared/_Layout.cshtml" timestamp="1502400193585">
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="42" />
+        <mark key="^" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+      </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Shared/Models.fs" timestamp="1518972282801">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Connection/SqlServerConnectionActor.cs" timestamp="1523546602793">
         <mark key="[" line="26" column="78" />
         <mark key="]" line="26" column="78" />
         <mark key="." line="26" column="78" />
+      </file>
+      <file name="/cluster_machine_process [tutorial@192.168.99.100]" timestamp="1523637136915">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/cluster_sqlserver_database_file [tutorial@192.168.99.100]" timestamp="1523637143433">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1519060016501">
         <mark key="'" line="262" column="8" />
@@ -110,8 +155,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/Channel.cs" timestamp="1523538188482">
         <mark key="[" line="248" column="64" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryMerger.cs" timestamp="1523458856775">
-        <mark key="'" line="63" column="63" />
+      <file name="D:/repositories/dotnet/dacandidate/ClientApp/components/CandidatesList.tsx" timestamp="1520977104967">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Entities.ts" timestamp="1521803357893">
         <mark key="'" line="52" column="0" />
@@ -133,12 +181,38 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/RiderProjects/HandsOn02/Program.cs" timestamp="1509637238200">
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/HandsOn03/Last.cs" timestamp="1509628822513">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/236a2993-edde-4aa0-86a3-9693b3a6fa2e/console_1.sql" timestamp="1522325805002">
+        <mark key="'" line="8" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="10" column="166" />
+        <mark key="^" line="10" column="166" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" timestamp="1523534060079">
         <mark key="'" line="10" column="40" />
         <mark key="[" line="10" column="50" />
         <mark key="]" line="10" column="50" />
         <mark key="^" line="37" column="72" />
         <mark key="." line="10" column="50" />
+      </file>
+      <file name="D:/repositories/dotnet/dacandidate/Startup.cs" timestamp="1520977310810">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="66" />
+        <mark key="." line="26" column="66" />
+        <mark key="^" line="26" column="66" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityMonitorActor.cs" timestamp="1521818563316">
         <mark key="'" line="37" column="68" />
@@ -168,6 +242,24 @@
         <mark key="^" line="36" column="77" />
         <mark key="." line="36" column="77" />
       </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Server/api/Resource.fs" timestamp="1518972066726">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="47" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/SqlServerInstancePersistenceActor.cs" timestamp="1523484427844">
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="31" column="70" />
+        <mark key="." line="31" column="70" />
+        <mark key="^" line="31" column="70" />
+      </file>
+      <file name="D:/repositories/dotnet/dacandidate/Controllers/CandidateController.cs" timestamp="1520974847194">
+        <mark key="[" line="17" column="67" />
+        <mark key="]" line="17" column="67" />
+        <mark key="." line="17" column="67" />
+        <mark key="^" line="17" column="67" />
+      </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/Counter.tsx" timestamp="1520590838025">
         <mark key="'" line="2" column="28" />
         <mark key="[" line="28" column="24" />
@@ -189,6 +281,26 @@
         <mark key="." line="85" column="69" />
         <mark key="^" line="85" column="69" />
       </file>
+      <file name="D:/repositories/dotnet/dacandidate/Ports/CandidateRepository.cs" timestamp="1520977161870">
+        <mark key="'" line="6" column="41" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Keys.cs" timestamp="1522268373880">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
+        <mark key="^" line="12" column="7" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/ActorPaths.cs" timestamp="1523483532646">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Infrastructure/MultiBaseMonitorAlertRepositoryAdapterTests.cs" timestamp="1519321267497">
         <mark key="'" line="94" column="31" />
         <mark key="[" line="45" column="12" />
@@ -203,8 +315,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigChannelHolder.cs" timestamp="1523455723736">
-        <mark key="'" line="19" column="48" />
+      <file name="D:/repositories/dotnet/simulator/Simulator/Program.cs" timestamp="1515541368390">
+        <mark key="'" line="128" column="24" />
+        <mark key="[" line="211" column="46" />
+        <mark key="]" line="211" column="48" />
+        <mark key="." line="211" column="48" />
+        <mark key="^" line="211" column="48" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" timestamp="1523628713935">
         <mark key="'" line="8" column="129" />
@@ -222,6 +338,33 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
+      </file>
+      <file name="D:/repositories/dotnet/webtest1/Controllers/HomeController.cs" timestamp="1502914526048">
+        <mark key="[" line="22" column="94" />
+        <mark key="]" line="22" column="99" />
+        <mark key="." line="22" column="99" />
+        <mark key="^" line="22" column="99" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb13c9cc-8567-407c-b756-89f55ae5cfb8/console.sql" timestamp="1523629395624">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
+      <file name="/cluster_sqlserver_database [tutorial@192.168.99.100]" timestamp="1523637140193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Program.cs" timestamp="1523637539915">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/HandsOn02/CompositePriceCalculator.cs" timestamp="1509623011310">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/Messages.cs" timestamp="1523357350198">
         <mark key="'" line="65" column="8" />
@@ -250,12 +393,26 @@
         <mark key="^" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c380e58b-7ffa-46fc-b72f-fcdbb9043cc6/console_1.sql" timestamp="1523031570604">
+        <mark key="'" line="180" column="1" />
+        <mark key="[" line="200" column="29" />
+        <mark key="]" line="208" column="37" />
+        <mark key="." line="208" column="37" />
+        <mark key="^" line="208" column="37" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/File/DatabaseFilePersisterActor.cs" timestamp="1523628745461">
         <mark key="'" line="17" column="14" />
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="12" />
         <mark key="^" line="16" column="33" />
         <mark key="." line="17" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/236a2993-edde-4aa0-86a3-9693b3a6fa2e/console.sql" timestamp="1522749706804">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertMetricsRepositoryIntegrationTests/GetNewerAlertId.cs" timestamp="1519294172389">
         <mark key="'" line="51" column="43" />
@@ -264,13 +421,35 @@
         <mark key="." line="46" column="73" />
         <mark key="^" line="46" column="72" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
-        <mark key="'" line="30" column="50" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c612fa5b-287b-41ad-9de4-06bd3a8f0cb8/console.sql" timestamp="1523484965960">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Connection/ConnectionMessages.cs" timestamp="1523546583596">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" timestamp="1523210053235">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="31" column="65" />
+        <mark key="." line="31" column="65" />
+        <mark key="^" line="31" column="65" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/Sample.cs" timestamp="1523484308197">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="50" column="48" />
+        <mark key="." line="50" column="48" />
+        <mark key="^" line="50" column="46" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/load.http" timestamp="1523629499443">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1523026435398">
         <mark key="'" line="34" column="31" />
@@ -285,6 +464,12 @@
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/MvcApplication/bower.json" timestamp="1502399485540">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdLoaderOrInserter.cs" timestamp="1522850860567">
         <mark key="'" line="7" column="37" />
@@ -319,6 +504,12 @@
         <mark key="^" line="76" column="166" />
         <mark key="." line="76" column="166" />
       </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" timestamp="1523637196574">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="33" column="49" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/WebGatewayActor.cs" timestamp="1522332135388">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="2" column="0" />
@@ -333,12 +524,25 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/dacandidate/webpack.config.js" timestamp="1520774314177">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="17" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" timestamp="1523030568610">
         <mark key="'" line="41" column="8" />
         <mark key="[" line="57" column="67" />
         <mark key="]" line="57" column="72" />
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/WebApplication/WebApplication/Views/Home/Index.cshtml" timestamp="1502397989076">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyPersisterActor.cs" timestamp="1523629056256">
         <mark key="'" line="46" column="47" />
@@ -388,18 +592,31 @@
         <mark key="^" line="58" column="89" />
         <mark key="." line="58" column="89" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb13c9cc-8567-407c-b756-89f55ae5cfb8/console.sql" timestamp="1523629395624">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseQuerySamplerActor.cs" timestamp="1520601800190">
         <mark key="'" line="48" column="24" />
         <mark key="[" line="44" column="28" />
         <mark key="]" line="44" column="27" />
         <mark key="^" line="44" column="27" />
         <mark key="." line="44" column="27" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/HandsOn03/Program.cs" timestamp="1509628670403">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+      </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Client/views/Todos.fs" timestamp="1518886415222">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="54" />
+        <mark key="^" line="33" column="54" />
+        <mark key="." line="33" column="54" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/MvcApplication/Views/Home/Index.cshtml" timestamp="1502400264527">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="113" column="16" />
+        <mark key="^" line="110" column="3" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/Actors/SamplerCommunicationActor.cs" timestamp="1522847916811">
         <mark key="'" line="34" column="30" />
@@ -415,16 +632,6 @@
         <mark key="." line="395" column="80" />
         <mark key="^" line="395" column="80" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" timestamp="1523455479735">
-        <mark key="'" line="106" column="48" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/236a2993-edde-4aa0-86a3-9693b3a6fa2e/console.sql" timestamp="1522749706804">
-        <mark key="'" line="4" column="28" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="28" column="28" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" timestamp="1520264570310">
         <mark key="'" line="20" column="30" />
         <mark key="[" line="24" column="81" />
@@ -439,12 +646,21 @@
         <mark key="^" line="51" column="20" />
         <mark key="." line="51" column="20" />
       </file>
+      <file name="/cluster_machine [tutorial@192.168.99.100]" timestamp="1523637135330">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523628779410">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="24" column="33" />
+      </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Client/components/Counter.fs" timestamp="1518886831518">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="50" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/ProcessPersisterActor.cs" timestamp="1523628727201">
         <mark key="'" line="9" column="12" />
@@ -453,17 +669,35 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c380e58b-7ffa-46fc-b72f-fcdbb9043cc6/console_1.sql" timestamp="1523031570604">
-        <mark key="'" line="180" column="1" />
-        <mark key="[" line="200" column="29" />
-        <mark key="]" line="208" column="37" />
-        <mark key="." line="208" column="37" />
-        <mark key="^" line="208" column="37" />
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523637032591">
+        <mark key="'" line="14" column="51" />
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="53" />
+        <mark key="." line="9" column="55" />
+      </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Client/components/Footer.fs" timestamp="1518886992174">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/QueryMessages.cs" timestamp="1521664969159">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/WmiSampler.cs" timestamp="1523534055576">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
+      </file>
+      <file name="D:/repositories/dotnet/dacandidate/ClientApp/routes.tsx" timestamp="1520976581331">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="54" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessorSamplerActor.cs" timestamp="1523534133962">
         <mark key="'" line="26" column="8" />
@@ -493,6 +727,13 @@
         <mark key="^" line="53" column="19" />
         <mark key="." line="53" column="19" />
       </file>
+      <file name="D:/repositories/dotnet/RiderProjects/WebApplication/WebApplication/Controllers/HomeController.cs" timestamp="1502397944940">
+        <mark key="'" line="14" column="24" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseFileSamplerActor.cs" timestamp="1521213838899">
         <mark key="'" line="6" column="44" />
         <mark key="[" line="14" column="0" />
@@ -514,12 +755,20 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/236a2993-edde-4aa0-86a3-9693b3a6fa2e/console_1.sql" timestamp="1522325805002">
-        <mark key="'" line="8" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3023844b-fc9a-4161-9e7b-8485f4c5b2de/console.sql" timestamp="1523483169394">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/KeyPersisterActor.cs" timestamp="1523637081031">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1523636875392">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="10" column="166" />
-        <mark key="^" line="10" column="166" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/SqlServerInstancesViewActor.cs" timestamp="1522332151835">
         <mark key="'" line="32" column="54" />
@@ -535,6 +784,27 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/WebGatewayActor.cs" timestamp="1521665508523">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ConsoleApplication1/ConsoleApplication1/Program.cs" timestamp="1509641145081">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1521659567577">
+        <mark key="'" line="6" column="26" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/KeyMapper.cs" timestamp="1523024508479">
         <mark key="'" line="56" column="17" />
         <mark key="[" line="36" column="27" />
@@ -549,12 +819,26 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/DatabaseKeyPersisterActor.cs" timestamp="1523637011560">
+        <mark key="'" line="14" column="51" />
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+        <mark key="^" line="9" column="54" />
+      </file>
       <file name="D:/repositories/dotnet/appinsight/appinsight/Program.cs" timestamp="1523461953872">
         <mark key="'" line="94" column="47" />
         <mark key="[" line="79" column="38" />
         <mark key="]" line="79" column="56" />
         <mark key="^" line="79" column="56" />
         <mark key="." line="79" column="56" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" timestamp="1523485256068">
+        <mark key="'" line="27" column="66" />
+        <mark key="[" line="113" column="61" />
+        <mark key="]" line="113" column="57" />
+        <mark key="." line="113" column="57" />
+        <mark key="^" line="113" column="57" />
       </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/FetchData.tsx" timestamp="1520529157694">
         <mark key="'" line="50" column="23" />
@@ -584,6 +868,20 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="35" column="15" />
       </file>
+      <file name="D:/repositories/dotnet/RiderProjects/HandsOn04/Program.cs" timestamp="1509637125964">
+        <mark key="'" line="18" column="20" />
+        <mark key="[" line="13" column="89" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/SqlServerSamplerActor.cs" timestamp="1523208114461">
+        <mark key="'" line="20" column="27" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerts/ActiveEntitiesCirFilterBuilder.cs" timestamp="1519234183549">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="18" column="0" />
@@ -597,6 +895,17 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="15" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/HandsOn04/CompositeDateTimeOffsetAdjustment.cs" timestamp="1509632853266">
+        <mark key="[" line="19" column="89" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/SamplerAgent/Actors/Samplers/SQL/DatabaseObjectTrackerActor.cs" timestamp="1523638088960">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" timestamp="1523026140084">
         <mark key="'" line="147" column="16" />
@@ -619,10 +928,14 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523629062309">
+      <file name="/dummy.sql" timestamp="1523637238384">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523637820271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq167-Seq168.sql" timestamp="1523280919544">
         <mark key="'" line="838" column="22" />
@@ -631,12 +944,29 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Server/api/Todos.fs" timestamp="1518972745061">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
         <mark key="[" line="24" column="80" />
         <mark key="]" line="24" column="103" />
         <mark key="^" line="24" column="103" />
         <mark key="." line="24" column="103" />
+      </file>
+      <file name="/cluster_sqlserver [tutorial@192.168.99.100]" timestamp="1523637138980">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/MonitorWithAkka.Web/ClientApp/components/DatabasesView.tsx" timestamp="1521666781192">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/OverviewController.cs" timestamp="1518608283101">
         <mark key="'" line="43" column="43" />
@@ -659,6 +989,9 @@
         <mark key="^" line="31" column="100" />
         <mark key="." line="31" column="100" />
       </file>
+      <file name="/cluster [tutorial@192.168.99.100]" timestamp="1523637131608">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Connection/WmiConnectionActor.cs" timestamp="1523546620286">
         <mark key="'" line="20" column="56" />
         <mark key="[" line="12" column="0" />
@@ -666,12 +999,57 @@
         <mark key="^" line="33" column="94" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Client/components/Header.fs" timestamp="1518971789785">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+      </file>
+      <file name="D:/repositories/dotnet/dacandidate/Ports/ICandidateRepository.cs" timestamp="1520977168483">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+      </file>
+      <file name="D:/repositories/dotnet/webtest1/Actors/ActorReferences.cs" timestamp="1502914441176">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+      </file>
+      <file name="D:/repositories/dotnet/webtest1/MySuperActor.cs" timestamp="1502914382266">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseListSamplerActor.cs" timestamp="1521213882182">
         <mark key="'" line="6" column="44" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
+      </file>
+      <file name="D:/repositories/dotnet/dacandidate/ClientApp/components/NavMenu.tsx" timestamp="1520977041181">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+      </file>
+      <file name="D:/repositories/safe-stack/safe-stack/src/Client/App.fs" timestamp="1518971064912">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="77" column="11" />
+        <mark key="." line="77" column="11" />
+        <mark key="^" line="77" column="11" />
+      </file>
+      <file name="D:/repositories/dotnet/monitorwithakka/MonitorWithAkka.Web/ClientApp/routes.tsx" timestamp="1521659523747">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/GroupedAlertUserRepository/LatestGroups.cs" timestamp="1519035745869">
         <mark key="'" line="26" column="39" />
@@ -792,46 +1170,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5JbmZvKCJTaWdodGVkIHswfSIsIHNpZ2h0aW5nLktleSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQgQWN0b3JQYXRocy5QZXJzaXN0ZW5jZS5Bc2s8bG9uZz4oQ3JlYXRlSW5zZXJ0SWRNZXNzYWdlKGtleSwgbS5QYXJlbnRJZCkp</text>
+        <text>Async</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICAqIGZyb20gY2x1c3Rlcl9tYWNoaW5lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnlBc3luYyhydW5RdWVyeS5RdWVyeVRleHQsIG5ld1tdIHtydW5RdWVyeS5PYmplY3RUeXBlfSwgb2JqZWN0cyA9PiBvYmplY3RzWzBdKQogICAgICAgICAgICAgICAgICAgIC5QaXBlVG8oU2VuZGVyLCBDb250ZXh0LlBhcmVudCwgciA9PiBuZXcgTWVzc2FnZXMuUXVlcnlSZXN1bHQociksCiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yID0+CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5FcnJvcihlcnJvciwgInF1ZXJ5IGZhaWxlZCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1lc3NhZ2VzLlBhdXNlLkluc3RhbmNlOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5JbmZvKCJTaWdodGVkIHswfSIsIHNpZ2h0aW5nLktleSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwp1c2luZyBOcGdzcWw7CnVzaW5nIE5wZ3NxbFR5cGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuUGlwZVRvKFNlbmRlciwgQ29udGV4dC5QYXJlbnQsIHIgPT4gbmV3IE1lc3NhZ2VzLlF1ZXJ5UmVzdWx0KHIpLAogICAgICAgICAgICAgICAgICAgICAgICBlcnJvciA9PgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuRXJyb3IoZXJyb3IsICJxdWVyeSBmYWlsZWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBNZXNzYWdlcy5QYXVzZS5JbnN0YW5jZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnkocnVuUXVlcnkuUXVlcnlUZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlID0gb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBMaXN0PChzdHJpbmcgbmFtZSwgb2JqZWN0IHZhbHVlKT4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVkSWQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBMaXN0PChzdHJpbmcgbmFtZSwgb2JqZWN0IHZhbHVlKT4oKQo=</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwp1c2luZyBOcGdzcWw7CnVzaW5nIE5wZ3NxbFR5cGVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTnBnc3FsOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -848,47 +1226,13 @@
     </search>
     <history>
       <history-search>
-        <entry>.IPV6</entry>
-        <entry>knockout</entry>
-        <entry>js.knockout</entry>
-        <entry>lib.knockout</entry>
-        <entry>Entities</entry>
-        <entry encoding="base64">bmV3IA==</entry>
-        <entry>ObjectType</entry>
-        <entry>GetObjectType</entry>
-        <entry>ENTITIES</entry>
-        <entry>Layer</entry>
-        <entry>long?</entry>
-        <entry>return</entry>
-        <entry>url</entry>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>url.min</entry>
-        <entry>var url</entry>
-        <entry>$.url</entry>
-        <entry>url.min.js</entry>
-        <entry>parent_id</entry>
-        <entry>name</entry>
+        <entry>as='a'</entry>
+        <entry encoding="base64">ID4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
-        <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoLy9n</entry>
-        <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
-        <entry encoding="base64">JzwsJz5AcQ==</entry>
-        <entry>registers</entry>
-        <entry encoding="base64">JzwsJz5ub3JtISBAcQ==</entry>
-        <entry encoding="base64">JzwsJz5zLyAsLywvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3RoL3RkL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3RoL1RhYmxlLkhlYWRlckNlbGwvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3RkL1RhYmxlLkNlbGwvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0VudGl0aWVzL0RhdGFiYXNlcy9n</entry>
-        <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5zL0VOVElUSUVTL0lOU1RBTkNFUy9n</entry>
-        <entry>%s/long?/long/g</entry>
-        <entry encoding="base64">JzwsJz5zL3JldHVybi9yZXR1cm4gUnVuKC9n</entry>
-        <entry>%s/parent_id/ParentId/g</entry>
         <entry>w</entry>
+        <entry>%s//g</entry>
+        <entry>%s///g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -900,35 +1244,38 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
@@ -938,9 +1285,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
