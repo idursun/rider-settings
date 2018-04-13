@@ -27,8 +27,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" timestamp="1523537747421">
-        <mark key="'" line="15" column="59" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" timestamp="1523626942302">
+        <mark key="'" line="7" column="44" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1519230038338">
         <mark key="'" line="28" column="57" />
@@ -316,12 +319,12 @@
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyPersisterActor.cs" timestamp="1523547694709">
-        <mark key="'" line="44" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="64" column="6" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyPersisterActor.cs" timestamp="1523626959650">
+        <mark key="'" line="42" column="16" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="62" column="6" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" timestamp="1523283509177">
         <mark key="'" line="27" column="96" />
@@ -409,8 +412,11 @@
         <mark key="^" line="51" column="20" />
         <mark key="." line="51" column="20" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523537750347">
-        <mark key="'" line="6" column="49" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523626969200">
+        <mark key="'" line="10" column="52" />
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="77" />
+        <mark key="." line="10" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c380e58b-7ffa-46fc-b72f-fcdbb9043cc6/console_1.sql" timestamp="1523031570604">
         <mark key="'" line="180" column="1" />
@@ -501,6 +507,12 @@
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/DatabaseKeyPersisterActor.cs" timestamp="1523626976007">
+        <mark key="'" line="10" column="51" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/appinsight/appinsight/Program.cs" timestamp="1523461953872">
         <mark key="'" line="94" column="47" />
         <mark key="[" line="79" column="38" />
@@ -564,10 +576,12 @@
         <mark key="." line="45" column="7" />
         <mark key="^" line="45" column="7" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" timestamp="1523548138591">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" timestamp="1523626928281">
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="27" column="52" />
       </file>
       <file name="/Dummy.txt" timestamp="1523547720464">
         <mark key="[" line="0" column="0" />
@@ -639,9 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="40" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" />
-      <jump line="86" column="40" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" />
-      <jump line="4" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" />
       <jump line="52" column="40" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" />
       <jump line="22" column="12" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdLoader.cs" />
       <jump line="25" column="40" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdLoader.cs" />
@@ -731,21 +742,24 @@
       <jump line="28" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/ClusterMonitorActor.cs" />
       <jump line="30" column="48" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/ClusterMonitorActor.cs" />
       <jump line="100" column="18" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
-      <jump line="27" column="61" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
       <jump line="15" column="59" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" />
-      <jump line="6" column="49" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" />
       <jump line="46" column="16" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyPersisterActor.cs" />
       <jump line="276" column="15" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/Channel.cs" />
       <jump line="19" column="72" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" />
       <jump line="30" column="50" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" />
       <jump line="26" column="57" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" />
+      <jump line="27" column="28" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
+      <jump line="7" column="44" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" />
+      <jump line="6" column="43" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" />
+      <jump line="10" column="52" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" />
+      <jump line="10" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/DatabaseKeyPersisterActor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@&quot;d:\Temp\SqlMonitorLogs\Base Monitor.log.886&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0YWJhc2VLZXlQZXJzaXN0ZXJBY3RvcgogICAgICAgIHsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>@&quot;d:\Temp\SqlMonitorLogs\Base Monitor.log.886&quot;</text>
+        <text>(NpgsqlConnection connection) : base(connection)</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -754,34 +768,34 @@
         <text encoding="base64">Y3JlYXRlIHRhYmxlIGlmIG5vdCBleGlzdHMgY2x1c3Rlcl9zcWxzZXJ2ZXJfZGF0YWJhc2VfZmlsZQooCglpZCBiaWdpbnQgZGVmYXVsdCBuZXh0dmFsKCdzZXFfa2V5X2lkJzo6cmVnY2xhc3MpIG5vdCBudWxsLAoJcGFyZW50X2lkIGJpZ2ludCwKCW5hbWUgdmFyY2hhcigzMDApIG5vdCBudWxsCikKOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyAKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0YWJhc2VLZXlQZXJzaXN0ZXJBY3RvcgogICAgICAgIHsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3FsU2VydmVyUGVyc2lzdGVyQWN0b3IoTnBnc3FsQ29ubmVjdGlvbiBjb25uZWN0aW9uKQogICAgICAgIHsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiA9IGNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFiYXNlTW9uaXRvckFjdG9yID0K</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgcmVhZG9ubHkgTnBnc3FsQ29ubmVjdGlvbiBDb25uZWN0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElBY3RvclJlZiBkYXRhYmFzZU1vbml0b3JBY3RvcjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ2x1c3RlcktleVBlcnNpc3RlckFjdG9yKCkgCiAgICAgICAgewogICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjZWl2ZTxDb25uZWN0aW9uTWVzc2FnZXMuQ29ubmVjdGlvbkVzdGFibGlzaGVkTWVzc2FnZT4obSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBkYXRhYmFzZU1vbml0b3JBY3Rvci5UZWxsKE1lc3NhZ2VzLlNhbXBsZS5JbnN0YW5jZSk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyAKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnaW5nQWRhcHRlciBsb2dnZXIgPSBDb250ZXh0LkdldExvZ2dlcigpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBLZXlzLkNsdXN0ZXJLZXkgQ2x1c3RlcktleSB7IGdldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFiYXNlTW9uaXRvckFjdG9yID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
