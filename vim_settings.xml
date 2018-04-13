@@ -213,6 +213,12 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
+      <file name="D:/repositories/dotnet/test/test/Program.cs" timestamp="1523614808475">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertsGroupDetailsApiController.cs" timestamp="1521047570252">
         <mark key="'" line="47" column="68" />
         <mark key="[" line="47" column="88" />
@@ -735,11 +741,11 @@
       <jump line="26" column="57" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyAKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>@&quot;d:\Temp\SqlMonitorLogs\Base Monitor.log.886&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>SelectQuery</text>
+        <text>@&quot;d:\Temp\SqlMonitorLogs\Base Monitor.log.886&quot;</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
