@@ -127,6 +127,9 @@
         <mark key="^" line="27" column="124" />
         <mark key="." line="27" column="124" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ConfigurationElements/RegistryService.cs" timestamp="1523891155457">
+        <mark key="'" line="41" column="26" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" timestamp="1523547620725">
         <mark key="'" line="26" column="57" />
         <mark key="[" line="14" column="0" />
@@ -460,6 +463,13 @@
         <mark key="." line="208" column="37" />
         <mark key="^" line="208" column="37" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1523891146419">
+        <mark key="'" line="780" column="36" />
+        <mark key="[" line="824" column="39" />
+        <mark key="]" line="824" column="49" />
+        <mark key="." line="824" column="49" />
+        <mark key="^" line="824" column="49" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/WmiSampler.cs" timestamp="1523534055576">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="36" />
@@ -641,6 +651,9 @@
         <mark key="^" line="24" column="103" />
         <mark key="." line="24" column="103" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/FeatureUsage/FurConfig.cs" timestamp="1523891151486">
+        <mark key="'" line="18" column="46" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/OverviewController.cs" timestamp="1518608283101">
         <mark key="'" line="43" column="43" />
         <mark key="[" line="31" column="120" />
@@ -692,10 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="65" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent.UnitTests/KeyMapperTests.cs" />
-      <jump line="30" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" />
-      <jump line="147" column="16" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" />
-      <jump line="214" column="12" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Keys.cs" />
       <jump line="34" column="31" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
       <jump line="40" column="47" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
       <jump line="48" column="37" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" />
@@ -792,13 +801,17 @@
       <jump line="26" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/DatabaseKeyPersisterActor.cs" />
       <jump line="25" column="12" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" />
       <jump line="15" column="101" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" />
+      <jump line="10" column="90" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/FeatureUsage/FurConfig.cs" />
+      <jump line="780" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
+      <jump line="18" column="46" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/FeatureUsage/FurConfig.cs" />
+      <jump line="41" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/ConfigurationElements/RegistryService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Minutes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQgQWN0b3JQYXRocy5QZXJzaXN0ZW5jZS5Bc2s8bG9uZz4oQ3JlYXRlSW5zZXJ0SWRNZXNzYWdlKGtleSwgbS5QYXJlbnRJZCkp</text>
+        <text>Minutes</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
