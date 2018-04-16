@@ -605,6 +605,9 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="31" column="77" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1523873804660">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerts/EntitiesCirFilterBuilder.cs" timestamp="1519292428371">
         <mark key="'" line="117" column="47" />
         <mark key="[" line="44" column="9" />
