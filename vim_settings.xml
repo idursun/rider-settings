@@ -463,12 +463,12 @@
         <mark key="." line="208" column="37" />
         <mark key="^" line="208" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1523891146419">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1523891906743">
         <mark key="'" line="780" column="36" />
-        <mark key="[" line="824" column="39" />
-        <mark key="]" line="824" column="49" />
-        <mark key="." line="824" column="49" />
-        <mark key="^" line="824" column="49" />
+        <mark key="[" line="780" column="16" />
+        <mark key="]" line="780" column="19" />
+        <mark key="." line="780" column="19" />
+        <mark key="^" line="780" column="19" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/WmiSampler.cs" timestamp="1523534055576">
         <mark key="[" line="7" column="36" />
@@ -808,10 +808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Minutes</text>
+        <text>new FurConfig().IsEnabled</text>
       </register>
       <register name="-" type="4">
-        <text>Minutes</text>
+        <text>new FurConfig().IsEnabled</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
