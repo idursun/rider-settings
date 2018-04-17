@@ -210,8 +210,8 @@
         <mark key="^" line="8" column="129" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" timestamp="1523980448023">
-        <mark key="'" line="273" column="61" />
+      <file name="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" timestamp="1523982020474">
+        <mark key="'" line="23" column="33" />
       </file>
       <file name="/a.sql" timestamp="1523629088594">
         <mark key="[" line="0" column="0" />
@@ -702,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="43" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" />
-      <jump line="5" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/index.ts" />
       <jump line="33" column="64" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
       <jump line="41" column="8" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
       <jump line="42" column="65" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
@@ -802,6 +800,8 @@
       <jump line="182" column="22" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
       <jump line="280" column="33" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
       <jump line="273" column="61" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
+      <jump line="252" column="21" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
+      <jump line="23" column="33" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
