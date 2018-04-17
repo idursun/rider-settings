@@ -130,12 +130,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ConfigurationElements/RegistryService.cs" timestamp="1523891155457">
         <mark key="'" line="41" column="26" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" timestamp="1523547620725">
-        <mark key="'" line="26" column="57" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" timestamp="1523534060079">
         <mark key="'" line="10" column="40" />
         <mark key="[" line="10" column="50" />
@@ -215,6 +209,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="8" column="129" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" timestamp="1523980448023">
+        <mark key="'" line="273" column="61" />
       </file>
       <file name="/a.sql" timestamp="1523629088594">
         <mark key="[" line="0" column="0" />
@@ -705,9 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="31" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
-      <jump line="40" column="47" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
-      <jump line="48" column="37" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" />
       <jump line="47" column="43" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" />
       <jump line="5" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/index.ts" />
       <jump line="33" column="64" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
@@ -805,6 +799,9 @@
       <jump line="780" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="18" column="46" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/FeatureUsage/FurConfig.cs" />
       <jump line="41" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/ConfigurationElements/RegistryService.cs" />
+      <jump line="182" column="22" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
+      <jump line="280" column="33" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
+      <jump line="273" column="61" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
