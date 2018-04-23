@@ -78,6 +78,13 @@
         <mark key="." line="323" column="0" />
         <mark key="^" line="260" column="32" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" timestamp="1524500079220">
+        <mark key="'" line="27" column="33" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="95" column="85" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
       </file>
@@ -598,7 +605,13 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/VersionScraper/VersionScraper/Program.cs" timestamp="1524474893621" />
+      <file name="D:/repositories/dotnet/VersionScraper/VersionScraper/Program.cs" timestamp="1524500093221">
+        <mark key="'" line="36" column="56" />
+        <mark key="[" line="10" column="89" />
+        <mark key="]" line="10" column="90" />
+        <mark key="^" line="43" column="118" />
+        <mark key="." line="10" column="90" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" timestamp="1523026140084">
         <mark key="'" line="147" column="16" />
         <mark key="[" line="148" column="0" />
@@ -696,8 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="64" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
-      <jump line="41" column="8" filename="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/store/Instances.ts" />
       <jump line="42" column="65" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
       <jump line="41" column="37" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
       <jump line="827" column="22" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq167-Seq168.sql" />
@@ -796,49 +807,51 @@
       <jump line="273" column="61" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
       <jump line="252" column="21" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
       <jump line="23" column="33" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
+      <jump line="27" column="33" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
+      <jump line="37" column="56" filename="D:/repositories/dotnet/VersionScraper/VersionScraper/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXh0cmFjdFZlcnNpb25zKCJodHRwczovL3NxbHNlcnZlcnVwZGF0ZXMuY29tL3NxbC1zZXJ2ZXItMjAxNy11cGRhdGVzLyIsICIyMDE3Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>Line</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdW11bGF0aXZlVXBkYXRlID0gZWxlbWVudC5DaGlsZCgxKS5DaGlsZCgwKS5Pd25UZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXh0cmFjdFZlcnNpb25zKCJodHRwczovL3NxbHNlcnZlcnVwZGF0ZXMuY29tL3NxbC1zZXJ2ZXItMjAxNy11cGRhdGVzLyIsICIyMDE3Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdW11bGF0aXZlVXBkYXRlID0gZWxlbWVudC5DaGlsZCgxKS5DaGlsZCgwKS5Pd25UZXh0KCk7Cg==</text>
+        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTciLCAiUlRNIiwgbmV3IFZlcnNpb24oMTQsIDAsIDEwMDAsIDE2OSkpfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTciLCAiQ1UxIiwgbmV3IFZlcnNpb24oMTQsIDAsIDMwMDYsIDE2KSl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlUGFjay4pCg==</text>
+        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTciLCAiUlRNIiwgbmV3IFZlcnNpb24oMTQsIDAsIDEwMDAsIDE2OSkpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1lbnQuU2VsZWN0KCJ0ZCIpCg==</text>
+        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTciLCAiUlRNIiwgbmV3IFZlcnNpb24oMTQsIDAsIDEwMDAsIDE2OSkpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTciLCAiUlRNIiwgbmV3IFZlcnNpb24oMTQsIDAsIDEwMDApKX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBWZXJzaW9uLlBhcnNlKCIxNC4wLjMwMjUuMzQiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBjaGlsZCBpbiBlbGVtZW50LkNoaWxkcmVuKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGNoaWxkLk93blRleHQoKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUodmVyc2lvbik7CiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCQibmV3IFZlcnNpb24oe3ZlcnNpb24uTWFqb3J9LCB7dmVyc2lvbi5NaW5vcn0sIHt2ZXJzaW9uLkJ1aWxkfSkiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1lbnQuR2V0QWxsRWxlbWVudHMoKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZ0J1aWxkZXIuQXBwZW5kTGluZSgiLCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
