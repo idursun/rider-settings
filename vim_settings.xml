@@ -598,6 +598,7 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/VersionScraper/VersionScraper/Program.cs" timestamp="1524474893621" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" timestamp="1523026140084">
         <mark key="'" line="147" column="16" />
         <mark key="[" line="148" column="0" />
@@ -622,7 +623,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523629062309">
+      <file name="/Dummy.txt" timestamp="1524474771442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -798,46 +799,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new FurConfig().IsEnabled</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>new FurConfig().IsEnabled</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICAqIGZyb20gY2x1c3Rlcl9tYWNoaW5lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdW11bGF0aXZlVXBkYXRlID0gZWxlbWVudC5DaGlsZCgxKS5DaGlsZCgwKS5Pd25UZXh0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdW11bGF0aXZlVXBkYXRlID0gZWxlbWVudC5DaGlsZCgxKS5DaGlsZCgwKS5Pd25UZXh0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwp1c2luZyBOcGdzcWw7CnVzaW5nIE5wZ3NxbFR5cGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlUGFjay4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBMaXN0PChzdHJpbmcgbmFtZSwgb2JqZWN0IHZhbHVlKT4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1lbnQuU2VsZWN0KCJ0ZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBMaXN0PChzdHJpbmcgbmFtZSwgb2JqZWN0IHZhbHVlKT4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTnBnc3FsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBjaGlsZCBpbiBlbGVtZW50LkNoaWxkcmVuKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGNoaWxkLk93blRleHQoKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1lbnQuR2V0QWxsRWxlbWVudHMoKS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
