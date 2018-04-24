@@ -78,13 +78,6 @@
         <mark key="." line="323" column="0" />
         <mark key="^" line="260" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" timestamp="1524586015614">
-        <mark key="'" line="113" column="86" />
-        <mark key="[" line="113" column="39" />
-        <mark key="]" line="113" column="42" />
-        <mark key="." line="113" column="42" />
-        <mark key="^" line="113" column="42" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
       </file>
