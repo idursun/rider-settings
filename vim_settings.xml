@@ -80,10 +80,7 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" timestamp="1524500079220">
         <mark key="'" line="27" column="33" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
         <mark key="^" line="95" column="85" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
