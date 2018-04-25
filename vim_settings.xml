@@ -168,7 +168,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq168-Seq169.sql" timestamp="1524565627088">
         <mark key="'" line="17" column="1" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" timestamp="1524660348705">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" timestamp="1524660540417">
+        <mark key="'" line="19" column="12" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -724,8 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="370" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="433" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="604" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="69" column="57" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTests.cs" />
@@ -824,6 +823,8 @@
       <jump line="94" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
       <jump line="113" column="86" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
       <jump line="2" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
+      <jump line="9" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
+      <jump line="19" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
