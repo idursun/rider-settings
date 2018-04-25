@@ -168,12 +168,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq168-Seq169.sql" timestamp="1524565627088">
         <mark key="'" line="17" column="1" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" timestamp="1524662887641">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" timestamp="1524666625037">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="83" />
+        <mark key="[" line="44" column="54" />
+        <mark key="]" line="44" column="65" />
+        <mark key="." line="44" column="65" />
+        <mark key="^" line="44" column="65" />
       </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/Counter.tsx" timestamp="1520590838025">
         <mark key="'" line="2" column="28" />
@@ -310,6 +310,9 @@
         <mark key="^" line="10" column="138" />
         <mark key="." line="10" column="138" />
       </file>
+      <file name="/JSON Fragment (rest-api_1.http:545).json" timestamp="1524666169916">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyTableSchemaGenerator.cs" timestamp="1523022885797">
         <mark key="'" line="50" column="17" />
         <mark key="[" line="27" column="77" />
@@ -425,8 +428,12 @@
         <mark key="." line="395" column="80" />
         <mark key="^" line="395" column="80" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" timestamp="1523455479735">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" timestamp="1524667491622">
         <mark key="'" line="106" column="48" />
+        <mark key="[" line="383" column="17" />
+        <mark key="]" line="383" column="17" />
+        <mark key="^" line="383" column="17" />
+        <mark key="." line="383" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/236a2993-edde-4aa0-86a3-9693b3a6fa2e/console.sql" timestamp="1522749706804">
         <mark key="'" line="4" column="28" />
@@ -456,12 +463,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1524662901568">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="54" />
-        <mark key="." line="0" column="54" />
-        <mark key="^" line="0" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1524666693213">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/ProcessPersisterActor.cs" timestamp="1523628727201">
         <mark key="'" line="9" column="12" />
@@ -555,6 +562,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Async/AsyncToken.cs" timestamp="1524667104181" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/KeyMapper.cs" timestamp="1523024508479">
         <mark key="'" line="56" column="17" />
         <mark key="[" line="36" column="27" />
@@ -655,7 +663,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524474771442">
+      <file name="/Dummy.txt" timestamp="1524667551986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -705,6 +713,12 @@
         <mark key="^" line="33" column="94" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureNotificationsController.cs" timestamp="1524667383819">
+        <mark key="[" line="172" column="40" />
+        <mark key="]" line="172" column="40" />
+        <mark key="^" line="172" column="40" />
+        <mark key="." line="172" column="40" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseListSamplerActor.cs" timestamp="1521213882182">
         <mark key="'" line="6" column="44" />
         <mark key="[" line="12" column="0" />
@@ -728,7 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="57" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTests.cs" />
       <jump line="22" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTests.cs" />
       <jump line="39" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
       <jump line="38" column="38" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
@@ -828,13 +841,14 @@
       <jump line="19" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="59" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?minDate=0</text>
+        <text>GET</text>
       </register>
       <register name="-" type="4">
-        <text>?minDate=0</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text>, -1</text>
@@ -843,34 +857,34 @@
         <text encoding="base64">UE9TVCBodHRwOi8vbG9jYWxob3N0OjUwMDAvYXBpL3doYXRzbmV3L3NlcnZlcm92ZXJ2aWV3CkFjY2VwdDogKi8qCkNhY2hlLUNvbnRyb2w6IG5vLWNhY2hlCgo8PiAyMDE4LTA0LTI1VDAxNDQxNS40MDQuanNvbgoKIyMjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbV9Vc2FnZVNlc3Npb24uUmVwb3J0RmVhdHVyZVVzYWdlKCJ3aGF0c25ldy50cnkiLCBuZXcge2ZlYXR1cmUgPSBtaW5EYXRlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cEdldF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiUlRNIiwgbmV3IFZlcnNpb24oMTEsIDAsIDIxMDAsIDYwKSkgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV9Vc2FnZVNlc3Npb24uUmVwb3J0RmVhdHVyZVVzYWdlKCJ3aGF0c25ldy50cnkiLCBuZXcge2ZlYXR1cmUgPSBtaW5EYXRlfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AxIiwgbmV3IFZlcnNpb24oMTEsIDAsIDMwMDAsIDAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AxIiwgbmV3IFZlcnNpb24oMTEsIDEsIDMwMDAsIDAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AyIiwgbmV3IFZlcnNpb24oMTEsIDAsIDUwNTgsIDApKSB9LAogICAgICAgICAgICB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbygiMjAxMiIsICJTUDIiLCBuZXcgVmVyc2lvbigxMSwgMiwgNTA1OCwgMCkpIH0sCiAgICAgICAgICAgIHsgbmV3IFNxbFNlcnZlclZlcnNpb25JbmZvKCIyMDEyIiwgIlNQMiIsIG5ldyBWZXJzaW9uKDExLCAwLCA1NTY5LCAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AzIiwgbmV3IFZlcnNpb24oMTEsIDAsIDYwMjAsIDApKSB9LAogICAgICAgICAgICB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbygiMjAxMiIsICJTUDMiLCBuZXcgVmVyc2lvbigxMSwgMywgNjAyMCwgMCkpIH0sCiAgICAgICAgICAgIHsgbmV3IFNxbFNlcnZlclZlcnNpb25JbmZvKCIyMDEyIiwgIlNQNCIsIG5ldyBWZXJzaW9uKDExLCAwLCA3MDAxLCAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1A0IiwgbmV3IFZlcnNpb24oMTEsIDQsIDcwMDEsIDApKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiUlRNIiwgbmV3IFZlcnNpb24oMTEsIDAsIDIxMDAsIDYwKSkgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AxIiwgbmV3IFZlcnNpb24oMTEsIDAsIDMwMDAsIDAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AxIiwgbmV3IFZlcnNpb24oMTEsIDEsIDMwMDAsIDAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AyIiwgbmV3IFZlcnNpb24oMTEsIDAsIDUwNTgsIDApKSB9LAogICAgICAgICAgICB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbygiMjAxMiIsICJTUDIiLCBuZXcgVmVyc2lvbigxMSwgMiwgNTA1OCwgMCkpIH0sCiAgICAgICAgICAgIHsgbmV3IFNxbFNlcnZlclZlcnNpb25JbmZvKCIyMDEyIiwgIlNQMiIsIG5ldyBWZXJzaW9uKDExLCAwLCA1NTY5LCAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1AzIiwgbmV3IFZlcnNpb24oMTEsIDAsIDYwMjAsIDApKSB9LAogICAgICAgICAgICB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbygiMjAxMiIsICJTUDMiLCBuZXcgVmVyc2lvbigxMSwgMywgNjAyMCwgMCkpIH0sCiAgICAgICAgICAgIHsgbmV3IFNxbFNlcnZlclZlcnNpb25JbmZvKCIyMDEyIiwgIlNQNCIsIG5ldyBWZXJzaW9uKDExLCAwLCA3MDAxLCAwKSkgfSwKICAgICAgICAgICAgeyBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8oIjIwMTIiLCAiU1A0IiwgbmV3IFZlcnNpb24oMTEsIDQsIDcwMDEsIDApKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbGVtZW50LkNoaWxkKDEpLkNoaWxkcmVuLkNvdW50ID4gMCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjdW11bGF0aXZlVXBkYXRlID0gZWxlbWVudC5DaGlsZCgxKS5DaGlsZCgwKS5Pd25UZXh0KCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbGVtZW50LkNoaWxkKDEpLkNoaWxkcmVuLkNvdW50ID4gMCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjdW11bGF0aXZlVXBkYXRlID0gZWxlbWVudC5DaGlsZCgxKS5DaGlsZCgwKS5Pd25UZXh0KCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbGVtZW50LkNoaWxkKDApLkNoaWxkcmVuLkNvdW50ID4gMCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlUGFjayA9IGVsZW1lbnQuQ2hpbGQoMCkuQ2hpbGRyZW4uRmlyc3QuT3duVGV4dCgpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTIiLCAiRG93bmxvYWQiLCBuZXcgVmVyc2lvbigxMSwgMCwgNTA1OCwgLTEpKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbGVtZW50LkNoaWxkKDApLkNoaWxkcmVuLkNvdW50ID4gMCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlUGFjayA9IGVsZW1lbnQuQ2hpbGQoMCkuQ2hpbGRyZW4uRmlyc3QuT3duVGV4dCgpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTIiLCAiU2VjdXJpdHkgVXBkYXRlIiwgbmV3IFZlcnNpb24oMTEsIDAsIDU2MTMsIC0xKSl9Cg==</text>
+        <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTIiLCAiRG93bmxvYWQiLCBuZXcgVmVyc2lvbigxMSwgMCwgNTA1OCwgLTEpKX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
