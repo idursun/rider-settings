@@ -168,7 +168,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq168-Seq169.sql" timestamp="1524565627088">
         <mark key="'" line="17" column="1" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" timestamp="1524660540417">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" timestamp="1524662887641">
         <mark key="'" line="19" column="12" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -456,12 +456,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1524660388611">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="43" />
-        <mark key="." line="11" column="43" />
-        <mark key="^" line="11" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1524662901568">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/ProcessPersisterActor.cs" timestamp="1523628727201">
         <mark key="'" line="9" column="12" />
@@ -568,6 +568,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" timestamp="1524662844447">
+        <mark key="'" line="59" column="33" />
       </file>
       <file name="D:/repositories/dotnet/appinsight/appinsight/Program.cs" timestamp="1523461953872">
         <mark key="'" line="94" column="47" />
@@ -725,8 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="604" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="69" column="57" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTests.cs" />
       <jump line="22" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTests.cs" />
       <jump line="39" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
@@ -825,13 +826,15 @@
       <jump line="2" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="9" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
       <jump line="19" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
+      <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
+      <jump line="59" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>serveroverview</text>
+        <text>?minDate=0</text>
       </register>
       <register name="-" type="4">
-        <text>serveroverview</text>
+        <text>?minDate=0</text>
       </register>
       <register name="/" type="4">
         <text>, -1</text>
@@ -870,7 +873,7 @@
         <text encoding="base64">LCB7IG5ldyBTcWxTZXJ2ZXJWZXJzaW9uSW5mbyAoIjIwMTIiLCAiU2VjdXJpdHkgVXBkYXRlIiwgbmV3IFZlcnNpb24oMTEsIDAsIDU2MTMsIC0xKSl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywgLTEvL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -924,8 +927,8 @@
         <entry>%s/long?/long/g</entry>
         <entry encoding="base64">JzwsJz5zL3JldHVybi9yZXR1cm4gUnVuKC9n</entry>
         <entry>%s/parent_id/ParentId/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLywgLTEvL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
