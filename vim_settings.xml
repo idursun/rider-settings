@@ -78,6 +78,13 @@
         <mark key="." line="323" column="0" />
         <mark key="^" line="260" column="32" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" timestamp="1524670945284">
+        <mark key="'" line="335" column="67" />
+        <mark key="[" line="335" column="71" />
+        <mark key="]" line="335" column="67" />
+        <mark key="^" line="335" column="67" />
+        <mark key="." line="335" column="67" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
       </file>
@@ -129,6 +136,12 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ConfigurationElements/RegistryService.cs" timestamp="1523891155457">
         <mark key="'" line="41" column="26" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionInfo.cs" timestamp="1524669934975">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="74" />
+        <mark key="^" line="29" column="74" />
+        <mark key="." line="29" column="74" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" timestamp="1523534060079">
         <mark key="'" line="10" column="40" />
@@ -534,6 +547,7 @@
         <mark key="^" line="51" column="54" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/SqlServerVersionLookup.cs" timestamp="1524670917629" />
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" timestamp="1522836882095">
         <mark key="'" line="74" column="33" />
         <mark key="[" line="43" column="0" />
@@ -742,11 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/Configuration/DatabaseFileUsageAlertDefinitionTests.cs" />
-      <jump line="39" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
-      <jump line="38" column="38" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
-      <jump line="298" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
-      <jump line="61" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
       <jump line="295" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
       <jump line="212" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Models/Overview/DatabaseFileModelTests.cs" />
       <jump line="17" column="29" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" />
@@ -842,19 +851,24 @@
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="59" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
+      <jump line="55" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
+      <jump line="95" column="35" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
+      <jump line="361" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
+      <jump line="360" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
+      <jump line="335" column="67" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>, -1</text>
+        <text encoding="base64">U1FMIFNlcnZlciA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UE9TVCBodHRwOi8vbG9jYWxob3N0OjUwMDAvYXBpL3doYXRzbmV3L3NlcnZlcm92ZXJ2aWV3CkFjY2VwdDogKi8qCkNhY2hlLUNvbnRyb2w6IG5vLWNhY2hlCgo8PiAyMDE4LTA0LTI1VDAxNDQxNS40MDQuanNvbgoKIyMjCg==</text>
+      <register name="0" type="4">
+        <text>string edition, string productLevel, Version version</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbSHR0cEdldF0K</text>
@@ -891,17 +905,16 @@
       </register>
     </registers>
     <search>
-      <last-search>, -1</last-search>
+      <last-search encoding="base64">U1FMIFNlcnZlciA=</last-search>
       <last-offset />
-      <last-pattern>, -1</last-pattern>
+      <last-pattern encoding="base64">U1FMIFNlcnZlciA=</last-pattern>
       <last-replace />
-      <last-substitute>, -1</last-substitute>
+      <last-substitute encoding="base64">U1FMIFNlcnZlciA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>js.knockout</entry>
         <entry>lib.knockout</entry>
         <entry>Entities</entry>
         <entry encoding="base64">bmV3IA==</entry>
@@ -921,9 +934,9 @@
         <entry>name</entry>
         <entry>_Type</entry>
         <entry>, -1</entry>
+        <entry encoding="base64">U1FMIFNlcnZlciA=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoLy9n</entry>
         <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
@@ -942,6 +955,7 @@
         <entry encoding="base64">JzwsJz5zL3JldHVybi9yZXR1cm4gUnVuKC9n</entry>
         <entry>%s/parent_id/ParentId/g</entry>
         <entry encoding="base64">JzwsJz5zLywgLTEvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1NRTCBTZXJ2ZXIgLy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
