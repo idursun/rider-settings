@@ -223,11 +223,11 @@
         <mark key="^" line="45" column="11" />
         <mark key="." line="45" column="11" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousTcpServer.cs" timestamp="1524740214760">
-        <mark key="[" line="103" column="96" />
-        <mark key="]" line="103" column="108" />
-        <mark key="." line="103" column="108" />
-        <mark key="^" line="103" column="108" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousTcpServer.cs" timestamp="1524743704816">
+        <mark key="[" line="87" column="53" />
+        <mark key="]" line="87" column="53" />
+        <mark key="." line="87" column="53" />
+        <mark key="^" line="7" column="67" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/RunningQueriesSampleActor.cs" timestamp="1520600441913">
         <mark key="'" line="14" column="0" />
@@ -296,11 +296,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" timestamp="1524740184781">
-        <mark key="[" line="31" column="54" />
-        <mark key="]" line="31" column="54" />
-        <mark key="." line="31" column="54" />
-        <mark key="^" line="31" column="54" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" timestamp="1524743719993">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="40" />
+        <mark key="." line="36" column="40" />
+        <mark key="^" line="36" column="40" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertMetricsRepositoryIntegrationTests/GetNewerAlertId.cs" timestamp="1519294172389">
         <mark key="'" line="51" column="43" />
@@ -711,7 +711,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524738004907">
+      <file name="/Dummy.txt" timestamp="1524743650994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -790,7 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
       <jump line="33" column="91" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="33" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseObjectTrackerActor.cs" />
       <jump line="8" column="48" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" />
@@ -890,13 +889,14 @@
       <jump line="110" column="39" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousServiceDispatcher.cs" />
       <jump line="48" column="40" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" />
       <jump line="80" column="38" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" />
+      <jump line="70" column="49" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousTcpServer.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stream</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>stream</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">U1FMIFNlcnZlciA=</text>
