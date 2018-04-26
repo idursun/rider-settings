@@ -78,8 +78,8 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" timestamp="1524754327261">
-        <mark key="'" line="57" column="38" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" timestamp="1524758690966">
+        <mark key="'" line="57" column="84" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" timestamp="1521044151827">
         <mark key="'" line="351" column="61" />
@@ -395,8 +395,8 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524754308596">
-        <mark key="'" line="77" column="43" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524758685621">
+        <mark key="'" line="77" column="37" />
         <mark key="[" line="130" column="64" />
         <mark key="]" line="130" column="64" />
         <mark key="^" line="98" column="50" />
@@ -596,8 +596,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524754975414">
-        <mark key="'" line="62" column="52" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524758681191">
+        <mark key="'" line="118" column="43" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
@@ -791,6 +791,9 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
+      <file name="/Plain text Console" timestamp="1524759169026">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq167-Seq168.sql" timestamp="1523280919544">
         <mark key="'" line="838" column="22" />
         <mark key="[" line="66" column="2" />
@@ -967,13 +970,13 @@
       <jump line="330" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" />
       <jump line="19" column="14" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/ActiveDirectory/WebConfigurationServiceRpcTests.cs" />
       <jump line="45" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
-      <jump line="118" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
-      <jump line="77" column="43" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
-      <jump line="57" column="38" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
-      <jump line="67" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
-      <jump line="76" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="392" column="42" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" />
       <jump line="62" column="52" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="67" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="76" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="118" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="77" column="37" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
+      <jump line="57" column="84" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
