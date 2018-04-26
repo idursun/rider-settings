@@ -188,6 +188,9 @@
         <mark key="." line="44" column="65" />
         <mark key="^" line="44" column="65" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/RawClusterDataPresenterFactory.cs" timestamp="1524736085763">
+        <mark key="'" line="67" column="70" />
+      </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/Counter.tsx" timestamp="1520590838025">
         <mark key="'" line="2" column="28" />
         <mark key="[" line="28" column="24" />
@@ -762,9 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="29" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" />
-      <jump line="99" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
-      <jump line="56" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
       <jump line="93" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
       <jump line="37" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/MachinePersistenceActor.cs" />
       <jump line="45" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/SqlServerInstancePersistenceActor.cs" />
@@ -862,6 +862,9 @@
       <jump line="335" column="67" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
       <jump line="41" column="20" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertId.cs" />
       <jump line="31" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertId.cs" />
+      <jump line="42" column="90" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/RawClusterDataPresenterFactory.cs" />
+      <jump line="46" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/RawClusterDataPresenterFactory.cs" />
+      <jump line="67" column="70" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/RawClusterDataPresenterFactory.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
