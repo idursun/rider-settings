@@ -17,7 +17,6 @@
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="50" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/New/Config/BinaryExprMessage.cs" timestamp="1524749320849" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" timestamp="1523378505181">
         <mark key="'" line="18" column="29" />
       </file>
@@ -78,6 +77,9 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" timestamp="1524754327261">
+        <mark key="'" line="57" column="38" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" timestamp="1521044151827">
         <mark key="'" line="351" column="61" />
@@ -261,7 +263,6 @@
         <mark key="." line="87" column="53" />
         <mark key="^" line="7" column="67" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/New/Config/ExprMessage.cs" timestamp="1524749304227" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/RunningQueriesSampleActor.cs" timestamp="1520600441913">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="3" column="0" />
@@ -394,7 +395,8 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524739150004">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524754308596">
+        <mark key="'" line="77" column="43" />
         <mark key="[" line="130" column="64" />
         <mark key="]" line="130" column="64" />
         <mark key="^" line="98" column="50" />
@@ -594,6 +596,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524754374939">
+        <mark key="'" line="76" column="20" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessorSamplerActor.cs" timestamp="1523534133962">
         <mark key="'" line="26" column="8" />
         <mark key="[" line="38" column="51" />
@@ -639,7 +647,6 @@
         <mark key="^" line="51" column="54" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/SqlServerVersionLookup.cs" timestamp="1524670917629" />
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" timestamp="1522836882095">
         <mark key="'" line="74" column="33" />
         <mark key="[" line="43" column="0" />
@@ -668,7 +675,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Async/AsyncToken.cs" timestamp="1524667104181" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/KeyMapper.cs" timestamp="1523024508479">
         <mark key="'" line="56" column="17" />
         <mark key="[" line="36" column="27" />
@@ -865,13 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="85" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryMerger.cs" />
-      <jump line="136" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryMerger.cs" />
-      <jump line="87" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryMerger.cs" />
-      <jump line="63" column="63" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryMerger.cs" />
-      <jump line="286" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/Channel.cs" />
-      <jump line="43" column="37" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/Channel.cs" />
-      <jump line="29" column="75" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/ClusterMonitorActor.cs" />
       <jump line="41" column="4" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="59" column="81" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="76" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
@@ -965,13 +964,20 @@
       <jump line="27" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Models/LicenceAndUpdatesModelFactory.cs" />
       <jump line="330" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" />
       <jump line="19" column="14" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/ActiveDirectory/WebConfigurationServiceRpcTests.cs" />
+      <jump line="45" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="118" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="77" column="43" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
+      <jump line="57" column="38" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
+      <jump line="62" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="67" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="76" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">U1FMIFNlcnZlciA=</text>
@@ -980,7 +986,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh0eXBlID0+IHR5cGUgIT0gdHlwZW9mKFZNd2FyZVNlcnZlck1lc3NhZ2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -989,25 +995,25 @@
         <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBuZXcgVmVyc2lvbih2ZXJzaW9uU3RyaW5nKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQodmVyc2lvbi5Ub1N0cmluZygpLCBJcy5FcXVhbFRvKHZlcnNpb25TdHJpbmcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBuZXcgVmVyc2lvbih2ZXJzaW9uU3RyaW5nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQodmVyc2lvbi5Ub1N0cmluZygpLCBJcy5FcXVhbFRvKHZlcnNpb25TdHJpbmcpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh0eXBlID0+IHR5cGUgIT0gdHlwZW9mKFZNd2FyZVNlcnZlck1lc3NhZ2UpKQogICAgICAgICAgICAgICAgLldoZXJlKHR5cGUgPT4gdHlwZSAhPSB0eXBlb2YoVk13YXJlKSkK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlKG1lc3NhZ2VUeXBlLlRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh0eXBlID0+IHR5cGUgIT0gdHlwZW9mKFZNd2FyZVNlcnZlck1lc3NhZ2UpKQogICAgICAgICAgICAgICAgLldoZXJlKHR5cGUgPT4gdHlwZSAhPSB0eXBlb2YoVk13YXJlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShtZXNzYWdlVHlwZS5Ub1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlKG1lc3NhZ2VUeXBlLlRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
