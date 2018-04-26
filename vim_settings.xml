@@ -242,6 +242,12 @@
       <file name="/a.sql" timestamp="1523629088594">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousServiceDispatcher.cs" timestamp="1524736951498">
+        <mark key="[" line="101" column="23" />
+        <mark key="]" line="102" column="50" />
+        <mark key="^" line="102" column="50" />
+        <mark key="." line="102" column="50" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Utilities/Logging/CommonApplicationDataFolderPatternConverterTests.cs" timestamp="1519142874635">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="6" column="1" />
