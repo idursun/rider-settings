@@ -596,8 +596,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524754374939">
-        <mark key="'" line="76" column="20" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524754975414">
+        <mark key="'" line="62" column="52" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
@@ -674,6 +674,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="42" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" timestamp="1524754902773">
+        <mark key="'" line="392" column="42" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/KeyMapper.cs" timestamp="1523024508479">
         <mark key="'" line="56" column="17" />
@@ -871,7 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="4" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="59" column="81" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="76" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="10" column="40" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" />
@@ -968,9 +970,10 @@
       <jump line="118" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="77" column="43" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
       <jump line="57" column="38" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
-      <jump line="62" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="67" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="76" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="392" column="42" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" />
+      <jump line="62" column="52" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
