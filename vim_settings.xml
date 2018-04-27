@@ -153,12 +153,12 @@
         <mark key="." line="44" column="64" />
         <mark key="^" line="44" column="64" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" timestamp="1523378409239">
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" timestamp="1524836431326">
         <mark key="'" line="8" column="48" />
-        <mark key="[" line="27" column="121" />
-        <mark key="]" line="27" column="124" />
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
         <mark key="^" line="27" column="124" />
-        <mark key="." line="27" column="124" />
+        <mark key="." line="28" column="40" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ConfigurationElements/RegistryService.cs" timestamp="1523891155457">
         <mark key="'" line="41" column="26" />
@@ -989,10 +989,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U2FtcGxlVHlwZXMuRGF0YWJhc2VGaWxlLCA=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2FtcGxlVHlwZXMuRGF0YWJhc2VGaWxlLCA=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">U1FMIFNlcnZlciA=</text>
