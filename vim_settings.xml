@@ -177,7 +177,12 @@
         <mark key="^" line="30" column="88" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/RpcUtils.cs" timestamp="1524818285448" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/RpcUtils.cs" timestamp="1524819444559">
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="101" column="81" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" timestamp="1523534060079">
         <mark key="'" line="10" column="40" />
         <mark key="[" line="10" column="50" />
@@ -597,8 +602,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524758681191">
-        <mark key="'" line="118" column="43" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1524819254780">
+        <mark key="'" line="76" column="21" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
@@ -796,6 +801,9 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1524819012939">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
         <mark key="[" line="24" column="80" />
@@ -872,7 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
       <jump line="10" column="40" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" />
       <jump line="26" column="8" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessorSamplerActor.cs" />
       <jump line="75" column="52" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/SqlServerMonitorActor.cs" />
@@ -967,18 +974,19 @@
       <jump line="392" column="42" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" />
       <jump line="62" column="52" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="67" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
-      <jump line="76" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="118" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="35" column="33" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
       <jump line="77" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
       <jump line="57" column="37" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
+      <jump line="56" column="28" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
+      <jump line="76" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYXJhbWV0ZXJUeXBlID09IHR5cGVvZihpbnQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0eXBlb2YoaW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parameterType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">U1FMIFNlcnZlciA=</text>
@@ -987,34 +995,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh0eXBlID0+IHR5cGUgIT0gdHlwZW9mKFZNd2FyZVNlcnZlck1lc3NhZ2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYXJhbWV0ZXJUeXBlID09IHR5cGVvZihpbnQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0eXBlb2YoaW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXJhbWV0ZXJUeXBlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBuZXcgVmVyc2lvbih2ZXJzaW9uU3RyaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQodmVyc2lvbi5Ub1N0cmluZygpLCBJcy5FcXVhbFRvKHZlcnNpb25TdHJpbmcpKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBuZXcgVmVyc2lvbih2ZXJzaW9uU3RyaW5nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh0eXBlID0+IHR5cGUgIT0gdHlwZW9mKFZNd2FyZVNlcnZlck1lc3NhZ2UpKQogICAgICAgICAgICAgICAgLldoZXJlKHR5cGUgPT4gdHlwZSAhPSB0eXBlb2YoVk13YXJlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQodmVyc2lvbi5Ub1N0cmluZygpLCBJcy5FcXVhbFRvKHZlcnNpb25TdHJpbmcpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlKG1lc3NhZ2VUeXBlLlRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
