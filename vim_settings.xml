@@ -78,8 +78,8 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" timestamp="1524825872049">
-        <mark key="'" line="57" column="36" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" timestamp="1524829546643">
+        <mark key="'" line="57" column="39" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/GlobalDashboardController.cs" timestamp="1521044151827">
         <mark key="'" line="351" column="61" />
@@ -176,11 +176,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="30" column="88" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/RpcUtils.cs" timestamp="1524825701305">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="26" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessListSampler.cs" timestamp="1523534060079">
         <mark key="'" line="10" column="40" />
@@ -400,8 +395,8 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524818110214">
-        <mark key="'" line="77" column="36" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524829544123">
+        <mark key="'" line="77" column="42" />
         <mark key="[" line="130" column="64" />
         <mark key="]" line="130" column="64" />
         <mark key="^" line="98" column="50" />
@@ -766,6 +761,12 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="40" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/interactive_1524829774542.cs" timestamp="1524829800560">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdInserter.cs" timestamp="1523026140084">
         <mark key="'" line="147" column="16" />
         <mark key="[" line="148" column="0" />
@@ -790,7 +791,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Plain text Console" timestamp="1524759169026">
+      <file name="/Plain text Console" timestamp="1524829586696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq167-Seq168.sql" timestamp="1523280919544">
@@ -974,15 +975,15 @@
       <jump line="67" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="118" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="35" column="33" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
-      <jump line="77" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
       <jump line="56" column="28" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="76" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="392" column="37" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" />
-      <jump line="57" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
+      <jump line="77" column="42" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
+      <jump line="57" column="39" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Ly8gLS0KVGVzdAoKLy8gLS0KdHlwZW9mKFRlc3QpCg==</text>
       </register>
       <register name="-" type="4">
         <text>AutoAddMissingTypes = true;</text>
@@ -994,34 +995,34 @@
         <text encoding="base64">ICAgICAgICAgICAgUnVudGltZVR5cGVNb2RlbC5EZWZhdWx0LkF1dG9BZGRNaXNzaW5nVHlwZXMgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Ly8gLS0KVGVzdAoKLy8gLS0KdHlwZW9mKFRlc3QpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZVR5cGVNb2RlbC5EZWZhdWx0Lgo=</text>
+        <text encoding="base64">Ly8gLS0Kdm9pZCBBZGQoaW50IHgsIGludCB5KSA9PiB4ICt5CgovLyAtLQppbnQgQWRkKGludCB4LCBpbnQgeSkgPT4geCAreQoKLy8gLS0KQWRkKDEsMikKCi8vIC0tCkFkZCgxLDIpOwoKLy8gLS0KaW50IEFkZChpbnQgeCwgaW50IHkpID0+IHggK3k7CgovLyAtLQpBZGQoMSwyKTsKCi8vIC0tCkFkZAoKLy8gLS0KQWRkLkdldFR5cGUoKQoKLy8gLS0KeSA9IEFkZCgxLDIpCgovLyAtLQp2YXIgeSA9IEFkZCgxLDIpOwoKLy8gLS0KeQoKLy8gLS0KY2xhc3MgVGVzdCB7IHB1YmxpYyB2b2lkIEFkZChyZWYgaW50IHgpIHsgeCA9IDA7fSB9CgovLyAtLQpUZXN0CgovLyAtLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYXJhbWV0ZXJUeXBlID09IHR5cGVvZihpbnQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0eXBlb2YoaW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZVR5cGVNb2RlbC5EZWZhdWx0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXJhbWV0ZXJUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYXJhbWV0ZXJUeXBlID09IHR5cGVvZihpbnQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0eXBlb2YoaW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXJhbWV0ZXJUeXBlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VQaXBlLldyaXRlU3RyZWFtLkZsdXNoKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBuZXcgVmVyc2lvbih2ZXJzaW9uU3RyaW5nKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
