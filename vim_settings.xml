@@ -17,8 +17,9 @@
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="50" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" timestamp="1523378505181">
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseMonitorActor.cs" timestamp="1524834854540">
         <mark key="'" line="18" column="29" />
+        <mark key="." line="21" column="59" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1524737590214">
         <mark key="'" line="58" column="59" />
@@ -34,12 +35,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" timestamp="1523628814191">
-        <mark key="'" line="14" column="101" />
-        <mark key="[" line="16" column="77" />
-        <mark key="]" line="16" column="77" />
-        <mark key="^" line="16" column="77" />
-        <mark key="." line="16" column="77" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" timestamp="1524834506369">
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1519230038338">
         <mark key="'" line="28" column="57" />
@@ -390,10 +389,11 @@
         <mark key="." line="27" column="78" />
         <mark key="^" line="63" column="167" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" timestamp="1523546640366">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="70" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" timestamp="1524834686774">
+        <mark key="[" line="33" column="69" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
+        <mark key="^" line="33" column="51" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524829544123">
         <mark key="'" line="77" column="42" />
@@ -807,7 +807,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524832062306">
+      <file name="/Dummy.txt" timestamp="1524834585000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
@@ -988,11 +988,11 @@
       <jump line="57" column="39" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkdsb2JhbGl6YXRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2FtcGxlVHlwZXMuRGF0YWJhc2VGaWxlLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">U2FtcGxlVHlwZXMuRGF0YWJhc2VGaWxlLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">U1FMIFNlcnZlciA=</text>
