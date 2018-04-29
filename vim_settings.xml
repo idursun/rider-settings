@@ -791,12 +791,12 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ConsoleApplication1/ConsoleApplication1/Program.cs" timestamp="1509641145081">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="D:/repositories/dotnet/RiderProjects/ConsoleApplication1/ConsoleApplication1/Program.cs" timestamp="1525041486555">
+        <mark key="'" line="51" column="30" />
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
       </file>
       <file name="D:/repositories/dotnet/monitorwithakka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1521659567577">
         <mark key="'" line="6" column="26" />
@@ -931,7 +931,7 @@
       <file name="/dummy.sql" timestamp="1523637238384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523637820271">
+      <file name="/Dummy.txt" timestamp="1523638160846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1169,11 +1169,11 @@
       <jump line="15" column="101" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5JbmZvKCJTaWdodGVkIHswfSIsIHNpZ2h0aW5nLktleSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Async</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -1182,34 +1182,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnlBc3luYyhydW5RdWVyeS5RdWVyeVRleHQsIG5ld1tdIHtydW5RdWVyeS5PYmplY3RUeXBlfSwgb2JqZWN0cyA9PiBvYmplY3RzWzBdKQogICAgICAgICAgICAgICAgICAgIC5QaXBlVG8oU2VuZGVyLCBDb250ZXh0LlBhcmVudCwgciA9PiBuZXcgTWVzc2FnZXMuUXVlcnlSZXN1bHQociksCiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yID0+CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5FcnJvcihlcnJvciwgInF1ZXJ5IGZhaWxlZCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1lc3NhZ2VzLlBhdXNlLkluc3RhbmNlOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5JbmZvKCJTaWdodGVkIHswfSIsIHNpZ2h0aW5nLktleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZW9mKGludCkubWFrZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuUGlwZVRvKFNlbmRlciwgQ29udGV4dC5QYXJlbnQsIHIgPT4gbmV3IE1lc3NhZ2VzLlF1ZXJ5UmVzdWx0KHIpLAogICAgICAgICAgICAgICAgICAgICAgICBlcnJvciA9PgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuRXJyb3IoZXJyb3IsICJxdWVyeSBmYWlsZWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBNZXNzYWdlcy5QYXVzZS5JbnN0YW5jZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5JbmZvKCJTaWdodGVkIHswfSIsIHNpZ2h0aW5nLktleSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnkocnVuUXVlcnkuUXVlcnlUZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuUGlwZVRvKFNlbmRlciwgQ29udGV4dC5QYXJlbnQsIHIgPT4gbmV3IE1lc3NhZ2VzLlF1ZXJ5UmVzdWx0KHIpLAogICAgICAgICAgICAgICAgICAgICAgICBlcnJvciA9PgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuRXJyb3IoZXJyb3IsICJxdWVyeSBmYWlsZWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBNZXNzYWdlcy5QYXVzZS5JbnN0YW5jZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlID0gb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbENvbm5lY3Rpb24uUXVlcnkocnVuUXVlcnkuUXVlcnlUZXh0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVkSWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlmZWN5Y2xlID0gb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVkSWQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwp1c2luZyBOcGdzcWw7CnVzaW5nIE5wZ3NxbFR5cGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVba2V5XSA9IGxvYWRlZElkLkdldFZhbHVlT3JEZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwp1c2luZyBOcGdzcWw7CnVzaW5nIE5wZ3NxbFR5cGVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
