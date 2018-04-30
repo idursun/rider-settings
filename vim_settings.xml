@@ -607,12 +607,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1525085906458">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" timestamp="1525090035939">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
         <mark key="^" line="84" column="11" />
-        <mark key="." line="51" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/ProcessorSamplerActor.cs" timestamp="1523534133962">
         <mark key="'" line="26" column="8" />
@@ -752,14 +752,14 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" timestamp="1524738628996">
         <mark key="'" line="80" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" timestamp="1525085960530">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" timestamp="1525090061488">
         <mark key="'" line="84" column="53" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" timestamp="1525085707906">
-        <mark key="'" line="63" column="38" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" timestamp="1525089677569">
+        <mark key="'" line="63" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerts/ActiveEntitiesCirFilterBuilder.cs" timestamp="1519234183549">
         <mark key="'" line="106" column="0" />
@@ -822,8 +822,10 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525084861176">
+      <file name="/Dummy.txt" timestamp="1525090074427">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
@@ -995,19 +997,19 @@
       <jump line="77" column="42" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" />
       <jump line="57" column="39" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" />
       <jump line="90" column="203" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
-      <jump line="63" column="38" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
       <jump line="43" column="57" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="48" column="14" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="57" column="14" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="142" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="84" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" />
+      <jump line="63" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add test to verify message classes don't have properties that return Version</text>
       </register>
       <register name="-" type="4">
-        <text>InSignature</text>
+        <text>Add test to verify message classes don't have properties that return Version</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1016,34 +1018,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXNzZXJ0LlRoYXQocGFyYW1ldGVySW5mby5QYXJhbWV0ZXJUeXBlLCBJcy5Ob3QuSW5zdGFuY2VPZih0eXBlb2YoaW50KS5NYWtlQnlSZWZUeXBlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXNwb25zZUJhY2tpbmdTdHJlYW0uRmx1c2hDb3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aE91dFBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aE91dFBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgbnVsbCB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDApKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDEpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0Q2FsbE1ldGhvZFdpdGhTdWNjZXNzKG1ldGhvZCwgYXJnc0JlZm9yZUNhbGwsIGFyZ3NBZnRlckNhbGwsIHByZXBhcmVkUmVzdWx0KTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIFRlc3RNZXRob2RXaXRoT3V0UGFyYW1ldGVyKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtZXRob2QgPSB0eXBlb2YoSVNlcnZpY2VXaXRoVmFyaWVkU2lnbmF0dXJlcykuR2V0TWV0aG9kKCJNZXRob2RXaXRoT3V0UGFyYW1ldGVyIik7CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NCZWZvcmVDYWxsID0geyBudWxsIH07CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NBZnRlckNhbGwgPSB7IDIgfTsKICAgICAgICAgICAgY29uc3Qgb2JqZWN0IHByZXBhcmVkUmVzdWx0ID0gbnVsbDsKCiAgICAgICAgICAgIFRlc3RDYWxsTWV0aG9kV2l0aFN1Y2Nlc3MobWV0aG9kLCBhcmdzQmVmb3JlQ2FsbCwgYXJnc0FmdGVyQ2FsbCwgcHJlcGFyZWRSZXN1bHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIE1ldGhvZFdpdGhSZWZQYXJhbWV0ZXIocmVmIGludCB4KTsKICAgICAgICB2b2lkIE1ldGhvZFdpdGhPdXRQYXJhbWV0ZXIob3V0IGludCB4KTsK</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aE91dFBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aE91dFBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgbnVsbCB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVvZih1bG9uZyksCiAgICAgICAgICAgICAgICB0eXBlb2YobG9uZyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVvZihzaG9ydCksCiAgICAgICAgICAgICAgICB0eXBlb2YodXNob3J0KSwK</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0Q2FsbE1ldGhvZFdpdGhTdWNjZXNzKG1ldGhvZCwgYXJnc0JlZm9yZUNhbGwsIGFyZ3NBZnRlckNhbGwsIHByZXBhcmVkUmVzdWx0KTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIFRlc3RNZXRob2RXaXRoT3V0UGFyYW1ldGVyKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtZXRob2QgPSB0eXBlb2YoSVNlcnZpY2VXaXRoVmFyaWVkU2lnbmF0dXJlcykuR2V0TWV0aG9kKCJNZXRob2RXaXRoT3V0UGFyYW1ldGVyIik7CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NCZWZvcmVDYWxsID0geyBudWxsIH07CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NBZnRlckNhbGwgPSB7IDIgfTsKICAgICAgICAgICAgY29uc3Qgb2JqZWN0IHByZXBhcmVkUmVzdWx0ID0gbnVsbDsKCiAgICAgICAgICAgIFRlc3RDYWxsTWV0aG9kV2l0aFN1Y2Nlc3MobWV0aG9kLCBhcmdzQmVmb3JlQ2FsbCwgYXJnc0FmdGVyQ2FsbCwgcHJlcGFyZWRSZXN1bHQpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVvZihzYnl0ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIE1ldGhvZFdpdGhSZWZQYXJhbWV0ZXIocmVmIGludCB4KTsKICAgICAgICB2b2lkIE1ldGhvZFdpdGhPdXRQYXJhbWV0ZXIob3V0IGludCB4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVvZihjaGFyKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVvZih1bG9uZyksCiAgICAgICAgICAgICAgICB0eXBlb2YobG9uZyksCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
