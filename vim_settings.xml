@@ -21,7 +21,7 @@
         <mark key="'" line="18" column="29" />
         <mark key="." line="21" column="59" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1524737590214">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525093279839">
         <mark key="'" line="58" column="59" />
         <mark key="[" line="58" column="23" />
         <mark key="]" line="58" column="51" />
@@ -97,11 +97,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Models/LicenceAndUpdatesModelFactory.cs" timestamp="1524750842093">
         <mark key="'" line="27" column="34" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" timestamp="1524749674600">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="12" />
-        <mark key="^" line="56" column="39" />
-        <mark key="." line="56" column="12" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" timestamp="1525093317026">
+        <mark key="'" line="19" column="34" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1524751959762">
         <mark key="[" line="0" column="0" />
@@ -599,6 +600,12 @@
         <mark key="^" line="134" column="11" />
         <mark key="." line="134" column="11" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ReportsController.cs" timestamp="1525092886100">
+        <mark key="[" line="76" column="58" />
+        <mark key="]" line="76" column="58" />
+        <mark key="." line="76" column="58" />
+        <mark key="^" line="76" column="58" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/WMI/WmiSampler.cs" timestamp="1523534055576">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="36" />
@@ -634,6 +641,9 @@
         <mark key="]" line="151" column="43" />
         <mark key="^" line="34" column="40" />
         <mark key="." line="151" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterInfoMessage.cs" timestamp="1525093307918">
+        <mark key="'" line="12" column="30" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModel.cs" timestamp="1524563905636">
         <mark key="'" line="59" column="56" />
@@ -725,6 +735,12 @@
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1525092419736">
+        <mark key="[" line="653" column="9" />
+        <mark key="]" line="654" column="45" />
+        <mark key="^" line="654" column="45" />
+        <mark key="." line="654" column="45" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" timestamp="1520416743191">
         <mark key="'" line="59" column="32" />
         <mark key="[" line="56" column="23" />
@@ -815,6 +831,12 @@
       <file name="/Plain text Console" timestamp="1524829586696">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterDiskInfoMessage.cs" timestamp="1525093349799">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq167-Seq168.sql" timestamp="1523280919544">
         <mark key="'" line="838" column="22" />
         <mark key="[" line="66" column="2" />
@@ -903,8 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="15" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/Channel.cs" />
-      <jump line="19" column="72" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" />
       <jump line="30" column="50" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" />
       <jump line="26" column="57" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" />
       <jump line="27" column="28" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
@@ -1003,15 +1023,15 @@
       <jump line="142" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="84" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" />
       <jump line="63" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
+      <jump line="12" column="30" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterInfoMessage.cs" />
+      <jump line="19" column="34" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Get rid of flush assertions 
-
-Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
+        <text encoding="base64">LlNlbGVjdCh1ID0+IHUuVG9NZXNzYWdlKCkpLlRvTGlzdCgpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>Add test to verify message classes don't have properties that return Version</text>
+        <text encoding="base64">LlNlbGVjdCh1ID0+IHUuVG9NZXNzYWdlKCkpLlRvTGlzdCgpOw==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1019,37 +1039,37 @@ Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXNzZXJ0LlRoYXQocGFyYW1ldGVySW5mby5QYXJhbWV0ZXJUeXBlLCBJcy5Ob3QuSW5zdGFuY2VPZih0eXBlb2YoaW50KS5NYWtlQnlSZWZUeXBlKCkpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Get rid of flush assertions 
-
-Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXNwb25zZUJhY2tpbmdTdHJlYW0uRmx1c2hDb3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>Get rid of flush assertions 
+
+Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDApKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXNwb25zZUJhY2tpbmdTdHJlYW0uRmx1c2hDb3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDEpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDApKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aE91dFBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aE91dFBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgbnVsbCB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aE91dFBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aE91dFBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgbnVsbCB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0Q2FsbE1ldGhvZFdpdGhTdWNjZXNzKG1ldGhvZCwgYXJnc0JlZm9yZUNhbGwsIGFyZ3NBZnRlckNhbGwsIHByZXBhcmVkUmVzdWx0KTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIFRlc3RNZXRob2RXaXRoT3V0UGFyYW1ldGVyKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtZXRob2QgPSB0eXBlb2YoSVNlcnZpY2VXaXRoVmFyaWVkU2lnbmF0dXJlcykuR2V0TWV0aG9kKCJNZXRob2RXaXRoT3V0UGFyYW1ldGVyIik7CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NCZWZvcmVDYWxsID0geyBudWxsIH07CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NBZnRlckNhbGwgPSB7IDIgfTsKICAgICAgICAgICAgY29uc3Qgb2JqZWN0IHByZXBhcmVkUmVzdWx0ID0gbnVsbDsKCiAgICAgICAgICAgIFRlc3RDYWxsTWV0aG9kV2l0aFN1Y2Nlc3MobWV0aG9kLCBhcmdzQmVmb3JlQ2FsbCwgYXJnc0FmdGVyQ2FsbCwgcHJlcGFyZWRSZXN1bHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIE1ldGhvZFdpdGhSZWZQYXJhbWV0ZXIocmVmIGludCB4KTsKICAgICAgICB2b2lkIE1ldGhvZFdpdGhPdXRQYXJhbWV0ZXIob3V0IGludCB4KTsK</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0Q2FsbE1ldGhvZFdpdGhTdWNjZXNzKG1ldGhvZCwgYXJnc0JlZm9yZUNhbGwsIGFyZ3NBZnRlckNhbGwsIHByZXBhcmVkUmVzdWx0KTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIFRlc3RNZXRob2RXaXRoT3V0UGFyYW1ldGVyKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtZXRob2QgPSB0eXBlb2YoSVNlcnZpY2VXaXRoVmFyaWVkU2lnbmF0dXJlcykuR2V0TWV0aG9kKCJNZXRob2RXaXRoT3V0UGFyYW1ldGVyIik7CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NCZWZvcmVDYWxsID0geyBudWxsIH07CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NBZnRlckNhbGwgPSB7IDIgfTsKICAgICAgICAgICAgY29uc3Qgb2JqZWN0IHByZXBhcmVkUmVzdWx0ID0gbnVsbDsKCiAgICAgICAgICAgIFRlc3RDYWxsTWV0aG9kV2l0aFN1Y2Nlc3MobWV0aG9kLCBhcmdzQmVmb3JlQ2FsbCwgYXJnc0FmdGVyQ2FsbCwgcHJlcGFyZWRSZXN1bHQpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
