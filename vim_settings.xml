@@ -21,12 +21,12 @@
         <mark key="'" line="18" column="29" />
         <mark key="." line="21" column="59" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525093279839">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525097473102">
         <mark key="'" line="58" column="59" />
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="51" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="20" />
         <mark key="^" line="58" column="51" />
-        <mark key="." line="58" column="51" />
+        <mark key="." line="59" column="20" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ActorRegistry.cs" timestamp="1521561995307">
         <mark key="'" line="32" column="38" />
@@ -34,11 +34,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
-      </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" timestamp="1524834506369">
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1519230038338">
         <mark key="'" line="28" column="57" />
@@ -395,6 +390,9 @@
         <mark key="." line="27" column="78" />
         <mark key="^" line="63" column="167" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/CustomMetricRepositoryClientStubTests.cs" timestamp="1525098220750">
+        <mark key="'" line="13" column="57" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseFileSamplerActor.cs" timestamp="1524834686774">
         <mark key="[" line="33" column="69" />
         <mark key="]" line="33" column="69" />
@@ -595,11 +593,6 @@
         <mark key="." line="208" column="37" />
         <mark key="^" line="208" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1524751099941">
-        <mark key="]" line="134" column="11" />
-        <mark key="^" line="134" column="11" />
-        <mark key="." line="134" column="11" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ReportsController.cs" timestamp="1525092886100">
         <mark key="[" line="76" column="58" />
         <mark key="]" line="76" column="58" />
@@ -668,6 +661,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="51" column="54" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/ClientCustomMetricRepositoryTestBase.cs" timestamp="1525098188315">
+        <mark key="'" line="63" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfiguration.cs" timestamp="1522836882095">
         <mark key="'" line="74" column="33" />
@@ -774,8 +770,12 @@
         <mark key="]" line="316" column="0" />
         <mark key="." line="316" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" timestamp="1525089677569">
-        <mark key="'" line="63" column="35" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" timestamp="1525097687286">
+        <mark key="'" line="24" column="27" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="16" column="52" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerts/ActiveEntitiesCirFilterBuilder.cs" timestamp="1519234183549">
         <mark key="'" line="106" column="0" />
@@ -828,9 +828,6 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Plain text Console" timestamp="1524829586696">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterDiskInfoMessage.cs" timestamp="1525093349799">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="40" />
@@ -844,7 +841,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525090770070">
+      <file name="/Dummy.txt" timestamp="1525098367447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -909,6 +906,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="D:/repositories/dotnet/ConsoleApplication2/ConsoleApplication2/Program.fs" timestamp="1525098752853">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/GroupedAlertUserRepository/LatestGroups.cs" timestamp="1519035745869">
         <mark key="'" line="26" column="39" />
         <mark key="[" line="209" column="37" />
@@ -925,10 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="50" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" />
-      <jump line="26" column="57" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/SqlServerMonitorActor.cs" />
-      <jump line="27" column="28" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" />
-      <jump line="7" column="44" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" />
       <jump line="6" column="43" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" />
       <jump line="10" column="52" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" />
       <jump line="10" column="51" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/DatabaseKeyPersisterActor.cs" />
@@ -1022,63 +1021,69 @@
       <jump line="57" column="14" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="142" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="84" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" />
-      <jump line="63" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
       <jump line="12" column="30" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterInfoMessage.cs" />
       <jump line="19" column="34" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" />
+      <jump line="63" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
+      <jump line="64" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
+      <jump line="24" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
+      <jump line="63" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/ClientCustomMetricRepositoryTestBase.cs" />
+      <jump line="13" column="57" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/CustomMetricRepositoryClientStubTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LlNlbGVjdCh1ID0+IHUuVG9NZXNzYWdlKCkpLlRvTGlzdCgpOw==</text>
+        <text>argv</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LlNlbGVjdCh1ID0+IHUuVG9NZXNzYWdlKCkpLlRvTGlzdCgpOw==</text>
+        <text>argv</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>IsEmpty</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXNzZXJ0LlRoYXQocGFyYW1ldGVySW5mby5QYXJhbWV0ZXJUeXBlLCBJcy5Ob3QuSW5zdGFuY2VPZih0eXBlb2YoaW50KS5NYWtlQnlSZWZUeXBlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBVbml0IHRlc3RzIGZvciA8c2VlIGNyZWY9IkN1c3RvbU1ldHJpY1NlcnZpY2UiLz4sIHdoaWNoIHNlcnZlcyB0byBmdXJ0aGVyIGRvY3VtZW50IHRoZSBleHBlY3RlZCBiZWhhdmlvdXIgb2YgYSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YKICAgIC8vLyA8c2VlIGNyZWY9IklDdXN0b21NZXRyaWNTZXJ2aWNlIi8+LgogICAgLy8vIDwvc3VtbWFyeT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Get rid of flush assertions 
-
-Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBVbml0IHRlc3RzIGZvciA8c2VlIGNyZWY9IkZha2VDdXN0b21NZXRyaWNTZXJ2aWNlIi8+LCB3aGljaCBzZXJ2ZXMgdG8gZnVydGhlciBkb2N1bWVudCB0aGUgZXhwZWN0ZWQgYmVoYXZpb3VyIG9mIGEgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mCiAgICAvLy8gPHNlZSBjcmVmPSJJQ3VzdG9tTWV0cmljU2VydmljZSIvPi4KICAgIC8vLyA8L3N1bW1hcnk+CiAgICBbVGVzdEZpeHR1cmUsIENhdGVnb3J5KCJDdXN0b21NZXRyaWNzIildCiAgICBwdWJsaWMgY2xhc3MgRmFrZUN1c3RvbU1ldHJpY1NlcnZpY2VUZXN0cyA6IEN1c3RvbU1ldHJpY1NlcnZpY2VUZXN0QmFzZQogICAgewogICAgICAgIHByb3RlY3RlZCBvdmVycmlkZSBJQ3VzdG9tTWV0cmljU2VydmljZSBOZXdTZXJ2aWNlKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgRmFrZUN1c3RvbU1ldHJpY1NlcnZpY2UoKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXNwb25zZUJhY2tpbmdTdHJlYW0uRmx1c2hDb3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>Add test to check of any contract has ref of primitive types
+
+It's not supported by the new version of protobuf-net
+
+https://stackoverflow.com/questions/50062982/deserializing-int-type-with-protobuf-net</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChyZXF1ZXN0QmFja2luZ1N0cmVhbS5GbHVzaENvdW50LCBJcy5FcXVhbFRvKDEpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQoKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aE91dFBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aE91dFBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgbnVsbCB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0RGlzcGF0Y2hNZXRob2RXaXRoU3VjY2VzcyhtZXRob2QsIGFyZ3NCZWZvcmVDYWxsLCBhcmdzQWZ0ZXJDYWxsLCBwcmVwYXJlZFJlc3VsdCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmIChyZXR1cm5WYWx1ZSA9PSBudWxsKQovLyAgICAgICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRoaXMgY29kZSBpcyBoZXJlIHRvIHdvcmsgYXJvdW5kIHByb3RvYnVmLm5ldCByZXR1cm5pbmcgYSBudWxsIGluc3RlYWQgb2YgYW4gZW1wdHkgbGlzdAovLyAgICAgICAgICAgICAgICAgICAgICAgIHZhciBtZXRob2RSZXR1cm5UeXBlID0gaW52b2NhdGlvbi5NZXRob2QuUmV0dXJuVHlwZTsKLy8gICAgICAgICAgICAgICAgICAgICAgICB2YXIgaXNMaXN0VHlwZSA9IG1ldGhvZFJldHVyblR5cGUuSXNHZW5lcmljVHlwZSAmJiBtZXRob2RSZXR1cm5UeXBlLkdldEdlbmVyaWNUeXBlRGVmaW5pdGlvbigpID09IHR5cGVvZihMaXN0PD4pOwovLwovLyAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc0xpc3RUeXBlKQovLyAgICAgICAgICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGVtcHR5TGlzdCA9IEFjdGl2YXRvci5DcmVhdGVJbnN0YW5jZShtZXRob2RSZXR1cm5UeXBlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaW52b2NhdGlvbi5SZXR1cm5WYWx1ZSA9IGVtcHR5TGlzdDsKLy8gICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBUZXN0TWV0aG9kV2l0aFJlZlBhcmFtZXRlcigpCiAgICAgICAgewogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKElTZXJ2aWNlV2l0aFZhcmllZFNpZ25hdHVyZXMpLkdldE1ldGhvZCgiTWV0aG9kV2l0aFJlZlBhcmFtZXRlciIpOwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQmVmb3JlQ2FsbCA9IHsgMSB9OwogICAgICAgICAgICBvYmplY3RbXSBhcmdzQWZ0ZXJDYWxsID0geyAyIH07CiAgICAgICAgICAgIGNvbnN0IG9iamVjdCBwcmVwYXJlZFJlc3VsdCA9IG51bGw7CgogICAgICAgICAgICBUZXN0Q2FsbE1ldGhvZFdpdGhTdWNjZXNzKG1ldGhvZCwgYXJnc0JlZm9yZUNhbGwsIGFyZ3NBZnRlckNhbGwsIHByZXBhcmVkUmVzdWx0KTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIFRlc3RNZXRob2RXaXRoT3V0UGFyYW1ldGVyKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtZXRob2QgPSB0eXBlb2YoSVNlcnZpY2VXaXRoVmFyaWVkU2lnbmF0dXJlcykuR2V0TWV0aG9kKCJNZXRob2RXaXRoT3V0UGFyYW1ldGVyIik7CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NCZWZvcmVDYWxsID0geyBudWxsIH07CiAgICAgICAgICAgIG9iamVjdFtdIGFyZ3NBZnRlckNhbGwgPSB7IDIgfTsKICAgICAgICAgICAgY29uc3Qgb2JqZWN0IHByZXBhcmVkUmVzdWx0ID0gbnVsbDsKCiAgICAgICAgICAgIFRlc3RDYWxsTWV0aG9kV2l0aFN1Y2Nlc3MobWV0aG9kLCBhcmdzQmVmb3JlQ2FsbCwgYXJnc0FmdGVyQ2FsbCwgcHJlcGFyZWRSZXN1bHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>IsEmpty</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>IsEmpty</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1091,6 @@ Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
     </search>
     <history>
       <history-search>
-        <entry>Entities</entry>
         <entry encoding="base64">bmV3IA==</entry>
         <entry>ObjectType</entry>
         <entry>GetObjectType</entry>
@@ -1106,6 +1110,7 @@ Streams are not auto flushed in new protobuf-net version (2.3.7)</text>
         <entry>, -1</entry>
         <entry encoding="base64">U1FMIFNlcnZlciA=</entry>
         <entry>,</entry>
+        <entry>IsEmpty</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
