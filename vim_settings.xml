@@ -327,6 +327,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="17" column="12" />
       </file>
+      <file name="D:/repositories/dotnet/AkkaMediator/AkkaMediator/Program.cs" timestamp="1525104415093">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" timestamp="1524747674997">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="36" column="40" />
@@ -1029,19 +1034,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgcmVzcG9uc2VTdHJlYW0gPSBzc2xTdHJlYW0pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgYWN0b3JSZWYgPSBhY3RvclN5c3RlbS5BY3Rvck9mPE1lZGlhdG9yQWN0b3I+KCJtZWRpYXRvciIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>argv</text>
+        <text>UntypedActor</text>
       </register>
       <register name="/" type="4">
         <text>IsEmpty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXNzZXJ0LlRoYXQocGFyYW1ldGVySW5mby5QYXJhbWV0ZXJUeXBlLCBJcy5Ob3QuSW5zdGFuY2VPZih0eXBlb2YoaW50KS5NYWtlQnlSZWZUeXBlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjdG9yT2YgPSBhY3RvclN5c3RlbS5BY3Rvck9mKFByb3BzLkVtcHR5LCAibWVkaWF0b3IiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgcmVzcG9uc2VTdHJlYW0gPSBzc2xTdHJlYW0pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgYWN0b3JSZWYgPSBhY3RvclN5c3RlbS5BY3Rvck9mPE1lZGlhdG9yQWN0b3I+KCJtZWRpYXRvciIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1050,29 +1055,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEJ1ZmZlcmluZyB3cml0ZXMgaXMgcmVhbGx5IGltcG9ydGFudCBmb3Igc3BlZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoYWN0b3JPZi5QYXRoLlRvU3RyaW5nV2l0aEFkZHJlc3MoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgTWV0aG9kV2l0aFJlZlBhcmFtZXRlcihyZWYgaW50IHgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFdhc0NhbGxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICB4ID0gMjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIHZvaWQgTWV0aG9kV2l0aE91dFBhcmFtZXRlcihvdXQgaW50IHgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFdhc0NhbGxlZCA9IHRydWU7CiAgICAgICAgICAgICAgICB4ID0gMjsKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBVbml0IHRlc3RzIGZvciA8c2VlIGNyZWY9IkN1c3RvbU1ldHJpY1NlcnZpY2UiLz4sIHdoaWNoIHNlcnZlcyB0byBmdXJ0aGVyIGRvY3VtZW50IHRoZSBleHBlY3RlZCBiZWhhdmlvdXIgb2YgYSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YKICAgIC8vLyA8c2VlIGNyZWY9IklDdXN0b21NZXRyaWNTZXJ2aWNlIi8+LgogICAgLy8vIDwvc3VtbWFyeT4K</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1lZGlhdG9yQWN0b3IgOiBVbnR5cGVkQWN0b3IKICAgIHsKICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBPblJlY2VpdmUob2JqZWN0IG1lc3NhZ2UpCiAgICAgICAgewoKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBVbml0IHRlc3RzIGZvciA8c2VlIGNyZWY9IkZha2VDdXN0b21NZXRyaWNTZXJ2aWNlIi8+LCB3aGljaCBzZXJ2ZXMgdG8gZnVydGhlciBkb2N1bWVudCB0aGUgZXhwZWN0ZWQgYmVoYXZpb3VyIG9mIGEgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mCiAgICAvLy8gPHNlZSBjcmVmPSJJQ3VzdG9tTWV0cmljU2VydmljZSIvPi4KICAgIC8vLyA8L3N1bW1hcnk+CiAgICBbVGVzdEZpeHR1cmUsIENhdGVnb3J5KCJDdXN0b21NZXRyaWNzIildCiAgICBwdWJsaWMgY2xhc3MgRmFrZUN1c3RvbU1ldHJpY1NlcnZpY2VUZXN0cyA6IEN1c3RvbU1ldHJpY1NlcnZpY2VUZXN0QmFzZQogICAgewogICAgICAgIHByb3RlY3RlZCBvdmVycmlkZSBJQ3VzdG9tTWV0cmljU2VydmljZSBOZXdTZXJ2aWNlKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgRmFrZUN1c3RvbU1ldHJpY1NlcnZpY2UoKTsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgYWN0b3JPZiA9IGFjdG9yU3lzdGVtLkFjdG9yT2YoUHJvcHMuRW1wdHksICJtZWRpYXRvciIpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Add test to check of any contract has ref of primitive types
-
-It's not supported by the new version of protobuf-net
-
-https://stackoverflow.com/questions/50062982/deserializing-int-type-with-protobuf-net</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjdG9yT2YgPSBhY3RvclN5c3RlbS5BY3Rvck9mKFByb3BzLkVtcHR5LCAibWVkaWF0b3IiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcHMuRW1wdHkuV2l0aFJvdXRlcihDb25maWcuRW1wdHkuKSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFra2EuYWN0b3IuZGVwbG95bWVudCB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
