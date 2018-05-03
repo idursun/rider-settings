@@ -100,6 +100,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
+        <mark key="'" line="223" column="35" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
       </file>
@@ -186,6 +189,9 @@
         <mark key="]" line="37" column="96" />
         <mark key="." line="37" column="96" />
         <mark key="^" line="37" column="96" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" timestamp="1525348972389">
+        <mark key="'" line="40" column="24" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Infrastructure/MultiBaseMonitorAlertRepositoryAdapter/WhenLoadingLatestAlerts.cs" timestamp="1519383665655">
         <mark key="'" line="13" column="13" />
@@ -970,8 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="27" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/ProcessPersisterActor.cs" />
-      <jump line="14" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/ProcessPersisterActor.cs" />
       <jump line="15" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" />
       <jump line="17" column="34" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/ClusterKeyPersisterActor.cs" />
       <jump line="9" column="129" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" />
@@ -1070,6 +1074,8 @@
       <jump line="200" column="77" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" />
       <jump line="58" column="112" filename="D:/workspace/sqlmonitor/Source/Common/Services/Services/IMonitoredEntityService.cs" />
       <jump line="0" column="30" filename="/Dummy.txt" />
+      <jump line="40" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" />
+      <jump line="223" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
