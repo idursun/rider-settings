@@ -260,7 +260,12 @@
         <mark key="." line="85" column="69" />
         <mark key="^" line="85" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq171-Seq172.sql" timestamp="1525353803607" />
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq171-Seq172.sql" timestamp="1525355527986">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/MonitoredEntityDetailsController.cs" timestamp="1525269527986">
         <mark key="[" line="76" column="92" />
         <mark key="]" line="76" column="92" />
@@ -330,8 +335,8 @@
         <mark key="^" line="47" column="110" />
         <mark key="." line="47" column="110" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" timestamp="1525352028022">
-        <mark key="'" line="55" column="34" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" timestamp="1525355416231">
+        <mark key="'" line="13" column="24" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="50" />
         <mark key="^" line="126" column="11" />
@@ -343,6 +348,9 @@
         <mark key="]" line="30" column="71" />
         <mark key="^" line="30" column="71" />
         <mark key="." line="30" column="71" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/IPurgeSettingsRepository.cs" timestamp="1525355413103">
+        <mark key="'" line="7" column="30" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/File/DatabaseFilePersisterActor.cs" timestamp="1523628745461">
         <mark key="'" line="17" column="14" />
@@ -905,7 +913,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525352032683">
+      <file name="/Dummy.txt" timestamp="1525355754195">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -978,6 +986,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" timestamp="1525355569927">
+        <mark key="'" line="32667" column="55" />
+      </file>
       <file name="D:/repositories/dotnet/ConsoleApplication2/ConsoleApplication2/Program.fs" timestamp="1525098752853">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -1007,17 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="33" filename="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" />
-      <jump line="27" column="33" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
-      <jump line="37" column="56" filename="D:/repositories/dotnet/VersionScraper/VersionScraper/Program.cs" />
-      <jump line="69" column="85" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModel.cs" />
-      <jump line="59" column="56" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModel.cs" />
-      <jump line="78" column="1" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq169-Seq170.sql" />
-      <jump line="17" column="1" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq168-Seq169.sql" />
-      <jump line="94" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
-      <jump line="113" column="86" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
-      <jump line="2" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="9" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
       <jump line="19" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/FurController.cs" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="59" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" />
@@ -1107,6 +1107,17 @@
       <jump line="73" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/PurgeSettingsPageModel.cs" />
       <jump line="594" column="64" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
       <jump line="86" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" />
+      <jump line="7" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/IPurgeSettingsRepository.cs" />
+      <jump line="13" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
+      <jump line="16" column="40" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="35532" column="0" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="85" column="68" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="87" column="67" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="89" column="5" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="32645" column="29" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="32647" column="25" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="32665" column="63" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
+      <jump line="32667" column="55" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1116,7 +1127,7 @@
         <text>SqlTraceData</text>
       </register>
       <register name="/" type="4">
-        <text>IsEmpty</text>
+        <text>PurgeSettings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">W1NxbFRyYWNlRGF0YV0gW2ludF0gTk9UIE5VTEwsCg==</text>
@@ -1156,9 +1167,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IsEmpty</last-search>
+      <last-search>PurgeSettings</last-search>
       <last-offset />
-      <last-pattern>IsEmpty</last-pattern>
+      <last-pattern>PurgeSettings</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1166,9 +1177,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">bmV3IA==</entry>
-        <entry>ObjectType</entry>
-        <entry>GetObjectType</entry>
         <entry>ENTITIES</entry>
         <entry>Layer</entry>
         <entry>long?</entry>
@@ -1186,6 +1194,9 @@
         <entry encoding="base64">U1FMIFNlcnZlciA=</entry>
         <entry>,</entry>
         <entry>IsEmpty</entry>
+        <entry>RG_Recovery</entry>
+        <entry>Purge</entry>
+        <entry>PurgeSettings</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
