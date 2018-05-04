@@ -128,12 +128,11 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1525423899536">
         <mark key="'" line="34" column="40" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525351584244">
-        <mark key="'" line="32" column="47" />
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="39" column="58" />
-        <mark key="^" line="39" column="58" />
-        <mark key="." line="39" column="58" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525436237520">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1519060016501">
         <mark key="'" line="262" column="8" />
@@ -391,8 +390,12 @@
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525351442132">
-        <mark key="^" line="9" column="3" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525436251006">
+        <mark key="'" line="15" column="45" />
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" timestamp="1524747100219">
         <mark key="'" line="69" column="68" />
@@ -1048,7 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousTcpTests.cs" />
       <jump line="63" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" />
       <jump line="64" column="23" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousTcpTests.cs" />
       <jump line="34" column="105" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" />
@@ -1148,49 +1150,50 @@
       <jump line="61" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" />
       <jump line="42" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" />
       <jump line="57" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" />
+      <jump line="15" column="45" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5DdXN0b21NZXRyaWNzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5Lk1hY2hpbmVQcm9jZXNzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbEJhc2ljKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbERhdGFiYXNlVW5zdGFibGVTYW1wbGVzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbFByb2Nlc3MpLCBJcy5HcmVhdGVyVGhhbk9yRXF1YWxUbygwKSk7Ci8vICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZGF0YVNpemVQcm92aWRlci5HZXRQdXJnZUNhdGVnb3J5RGF0YVNpemUoRGF0YVB1cmdlQ2F0ZWdvcnkuU3FsVG9wUXVlcmllcyksIElzLkdyZWF0ZXJUaGFuT3JFcXVhbFRvKDApKTsKLy8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5TcWxUcmFjZSksIElzLkdyZWF0ZXJUaGFuT3JFcXVhbFRvKDApKTsKLy8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5TdG9yYWdlKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>sam</text>
       </register>
       <register name="-" type="4">
-        <text>DataPurgeCategory.MachineBasic</text>
+        <text>sam</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZGF0YVNpemVQcm92aWRlci5HZXRQdXJnZUNhdGVnb3J5RGF0YVNpemUoRGF0YVB1cmdlQ2F0ZWdvcnkuU3FsVHJhY2UpLCBJcy5HcmVhdGVyVGhhbk9yRXF1YWxUbygwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFR5cGU+IGNvbm5lY3Rpb24gPSBuZXcgTGlzdDxUeXBlPigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5DdXN0b21NZXRyaWNzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5Lk1hY2hpbmVQcm9jZXNzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbEJhc2ljKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbERhdGFiYXNlVW5zdGFibGVTYW1wbGVzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbFByb2Nlc3MpLCBJcy5HcmVhdGVyVGhhbk9yRXF1YWxUbygwKSk7Ci8vICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZGF0YVNpemVQcm92aWRlci5HZXRQdXJnZUNhdGVnb3J5RGF0YVNpemUoRGF0YVB1cmdlQ2F0ZWdvcnkuU3FsVG9wUXVlcmllcyksIElzLkdyZWF0ZXJUaGFuT3JFcXVhbFRvKDApKTsKLy8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5TcWxUcmFjZSksIElzLkdyZWF0ZXJUaGFuT3JFcXVhbFRvKDApKTsKLy8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5TdG9yYWdlKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbjw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNhbXBsZTxQcm9jZXNzb3JTYW1wbGVyQWN0b3I+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTYW1wbGU8UHJvY2Vzc0xpc3RTYW1wbGVyPigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RW51bS5HZXRWYWx1ZXModHlwZW9mKERhdGFQdXJnZUNhdGVnb3J5KSkuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5DdXN0b21NZXRyaWNzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5Lk1hY2hpbmVQcm9jZXNzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbEJhc2ljKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbERhdGFiYXNlVW5zdGFibGVTYW1wbGVzKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwovLyAgICAgICAgICAgIEFzc2VydC5UaGF0KGRhdGFTaXplUHJvdmlkZXIuR2V0UHVyZ2VDYXRlZ29yeURhdGFTaXplKERhdGFQdXJnZUNhdGVnb3J5LlNxbFByb2Nlc3MpLCBJcy5HcmVhdGVyVGhhbk9yRXF1YWxUbygwKSk7Ci8vICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZGF0YVNpemVQcm92aWRlci5HZXRQdXJnZUNhdGVnb3J5RGF0YVNpemUoRGF0YVB1cmdlQ2F0ZWdvcnkuU3FsVG9wUXVlcmllcyksIElzLkdyZWF0ZXJUaGFuT3JFcXVhbFRvKDApKTsKLy8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5TcWxUcmFjZSksIElzLkdyZWF0ZXJUaGFuT3JFcXVhbFRvKDApKTsKLy8gICAgICAgICAgICBBc3NlcnQuVGhhdChkYXRhU2l6ZVByb3ZpZGVyLkdldFB1cmdlQ2F0ZWdvcnlEYXRhU2l6ZShEYXRhUHVyZ2VDYXRlZ29yeS5TdG9yYWdlKSwgSXMuR3JlYXRlclRoYW5PckVxdWFsVG8oMCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBib29sIElzSW5NYWNoaW5lQmFzaWNDYXRlZ29yeShRdWFsaWZpZWRDaGFubmVsTmFtZSBxdWFsaWZpZWRDaGFubmVsTmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBxdWFsaWZpZWRDaGFubmVsTmFtZS5TdGFydHNXaXRoKE5hbWVzLlJvb3QuQ2x1c3Rlcik7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">RW51bS5HZXRWYWx1ZXModHlwZW9mKERhdGFQdXJnZUNhdGVnb3J5KSkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
