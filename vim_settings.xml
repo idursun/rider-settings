@@ -128,12 +128,11 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1525423899536">
         <mark key="'" line="34" column="40" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525442380823">
-        <mark key="'" line="82" column="28" />
-        <mark key="[" line="75" column="36" />
-        <mark key="]" line="75" column="69" />
-        <mark key="." line="75" column="69" />
-        <mark key="^" line="75" column="69" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525443793170">
+        <mark key="'" line="81" column="55" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1519060016501">
         <mark key="'" line="262" column="8" />
@@ -390,13 +389,6 @@
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
-      </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525442408579">
-        <mark key="'" line="15" column="45" />
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="43" />
-        <mark key="^" line="38" column="43" />
-        <mark key="." line="38" column="43" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" timestamp="1524747100219">
         <mark key="'" line="69" column="68" />
@@ -938,7 +930,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525426838942">
+      <file name="/Dummy.txt" timestamp="1525443432779">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -1052,7 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="59" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" />
       <jump line="17" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousTcpTests.cs" />
       <jump line="110" column="39" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousServiceDispatcher.cs" />
       <jump line="48" column="40" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" />
@@ -1152,13 +1143,14 @@
       <jump line="62" column="47" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="76" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="72" column="28" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="83" column="55" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ActorSystem.Create(&quot;system&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ActorSystem.Create(&quot;system&quot;)</text>
+        <text>= null;</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
@@ -1167,34 +1159,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFR5cGU+IGNvbm5lY3Rpb24gPSBuZXcgTGlzdDxUeXBlPigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbXBsaW5nQ29uZmlndXJhdGlvbiA9IG5ldyBTYW1wbGluZ0NvbmZpZ3VyYXRpb24oKTsKICAgICAgICAgICAgc2FtcGxpbmdDb25maWd1cmF0aW9uLkNvbmZpZ3VyZSgpOwogICAgICAgICAgICBzYW1wbGluZ0NvbmZpZ3VyYXRpb24uUnVuKEFjdG9yU3lzdGVtLkNyZWF0ZSgic3lzdGVtIikpOwoKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmZpZyA9IENvbmZpZ3VyYXRpb25GYWN0b3J5LlBhcnNlU3RyaW5nKEAiCmFra2EgewogICAgbG9nbGV2ZWwgPSBERUJVRwogICAgc3Rkb3V0LWxvZ2xldmVsID0gREVCVUcKICAgIGFjdG9yIHsKICAgICAgICBwcm92aWRlciA9IHJlbW90ZQogICAgfQogICAgcmVtb3RlID0gewogICAgICAgIGRvdC1uZXR0eS50Y3AgPSB7CiAgICAgICAgICAgIHBvcnQgPSA3OTc4CiAgICAgICAgICAgIGhvc3RuYW1lID0gbG9jYWxob3N0CiAgICAgICAgfQogICAgfQp9CiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5QcmVTdGFydCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0LkFjdG9yT2YoUHJvcHMuQ3JlYXRlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbXBsaW5nQ29uZmlndXJhdGlvbiA9IG5ldyBTYW1wbGluZ0NvbmZpZ3VyYXRpb24oKTsKICAgICAgICAgICAgc2FtcGxpbmdDb25maWd1cmF0aW9uLkNvbmZpZ3VyZSgpOwogICAgICAgICAgICBzYW1wbGluZ0NvbmZpZ3VyYXRpb24uUnVuKEFjdG9yU3lzdGVtLkNyZWF0ZSgic3lzdGVtIikpOwoKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBlciBpbiBwZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgYWN0b3JSZWYgPSBzeXN0ZW0uQWN0b3JPZihQcm9wcy5DcmVhdGUodHlwZW9mKFBlckFjdG9yKSkpOwogICAgICAgICAgICAgICAgYWN0b3JSZWYuVGVsbChwZXIuVmFsdWUpOwoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmZpZyA9IENvbmZpZ3VyYXRpb25GYWN0b3J5LlBhcnNlU3RyaW5nKEAiCmFra2EgewogICAgbG9nbGV2ZWwgPSBERUJVRwogICAgc3Rkb3V0LWxvZ2xldmVsID0gREVCVUcKICAgIGFjdG9yIHsKICAgICAgICBwcm92aWRlciA9IHJlbW90ZQogICAgfQogICAgcmVtb3RlID0gewogICAgICAgIGRvdC1uZXR0eS50Y3AgPSB7CiAgICAgICAgICAgIHBvcnQgPSA3OTc4CiAgICAgICAgICAgIGhvc3RuYW1lID0gbG9jYWxob3N0CiAgICAgICAgfQogICAgfQp9CiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5QcmVTdGFydCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbjw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0LkFjdG9yT2YoUHJvcHMuQ3JlYXRlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
