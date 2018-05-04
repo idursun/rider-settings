@@ -128,11 +128,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1525423899536">
         <mark key="'" line="34" column="40" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525443793170">
-        <mark key="'" line="81" column="55" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525448647647">
+        <mark key="'" line="56" column="56" />
+        <mark key="[" line="97" column="46" />
+        <mark key="]" line="97" column="46" />
+        <mark key="." line="97" column="46" />
+        <mark key="^" line="97" column="46" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1519060016501">
         <mark key="'" line="262" column="8" />
@@ -390,7 +391,8 @@
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
-      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525445889857">
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525448219127">
+        <mark key="'" line="42" column="36" />
         <mark key="[" line="38" column="76" />
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
@@ -936,7 +938,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525443432779">
+      <file name="/Dummy.txt" timestamp="1525449011555">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -1050,13 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousTcpTests.cs" />
-      <jump line="110" column="39" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousServiceDispatcher.cs" />
-      <jump line="48" column="40" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" />
-      <jump line="80" column="38" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" />
-      <jump line="70" column="49" filename="D:/workspace/sqlmonitor/Source/Common/Networking/Server/RpcSynchronousTcpServer.cs" />
-      <jump line="19" column="45" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" />
-      <jump line="36" column="60" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" />
       <jump line="417" column="74" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="112" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualWebApiControllerFactory.cs" />
       <jump line="12" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" />
@@ -1150,13 +1145,20 @@
       <jump line="76" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="72" column="28" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="83" column="55" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="42" column="36" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
+      <jump line="50" column="62" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="88" column="39" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="42" column="56" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="49" column="62" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="53" column="63" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
+      <jump line="56" column="56" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhaW5lckJ1aWxkZXIgPSBuZXcgQ29udGFpbmVyQnVpbGRlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UHJvcHMuQ3JlYXRlPENvbm5lY3Rpb25BY3Rvcj4oKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>= null;</text>
+        <text encoding="base64">UHJvcHMuQ3JlYXRlPENvbm5lY3Rpb25BY3Rvcj4oKQ==</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
@@ -1165,34 +1167,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFR5cGU+IGNvbm5lY3Rpb24gPSBuZXcgTGlzdDxUeXBlPigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhaW5lckJ1aWxkZXIgPSBuZXcgQ29udGFpbmVyQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29udGV4dC5BY3Rvck9mKFByb3BzLkNyZWF0ZTxTYW1wbGVyQWN0b3I+KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhaW5lckJ1aWxkZXIgPSBuZXcgQ29udGFpbmVyQnVpbGRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGFpbmVyQnVpbGRlci5SZWdpc3RlcjxEYXRhYmFzZUZpbGVTYW1wbGVyQWN0b3I+KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGFpbmVyQnVpbGRlci5SZWdpc3RlcjxEYXRhYmFzZUZpbGVTYW1wbGVyQWN0b3I+KCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbXBsaW5nQ29uZmlndXJhdGlvbiA9IG5ldyBTYW1wbGluZ0NvbmZpZ3VyYXRpb24oKTsKICAgICAgICAgICAgc2FtcGxpbmdDb25maWd1cmF0aW9uLkNvbmZpZ3VyZSgpOwogICAgICAgICAgICBzYW1wbGluZ0NvbmZpZ3VyYXRpb24uUnVuKEFjdG9yU3lzdGVtLkNyZWF0ZSgic3lzdGVtIikpOwoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmZpZyA9IENvbmZpZ3VyYXRpb25GYWN0b3J5LlBhcnNlU3RyaW5nKEAiCmFra2EgewogICAgbG9nbGV2ZWwgPSBERUJVRwogICAgc3Rkb3V0LWxvZ2xldmVsID0gREVCVUcKICAgIGFjdG9yIHsKICAgICAgICBwcm92aWRlciA9IHJlbW90ZQogICAgfQogICAgcmVtb3RlID0gewogICAgICAgIGRvdC1uZXR0eS50Y3AgPSB7CiAgICAgICAgICAgIHBvcnQgPSA3OTc4CiAgICAgICAgICAgIGhvc3RuYW1lID0gbG9jYWxob3N0CiAgICAgICAgfQogICAgfQp9CiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbXBsaW5nQ29uZmlndXJhdGlvbiA9IG5ldyBTYW1wbGluZ0NvbmZpZ3VyYXRpb24oKTsKICAgICAgICAgICAgc2FtcGxpbmdDb25maWd1cmF0aW9uLkNvbmZpZ3VyZSgpOwogICAgICAgICAgICBzYW1wbGluZ0NvbmZpZ3VyYXRpb24uUnVuKEFjdG9yU3lzdGVtLkNyZWF0ZSgic3lzdGVtIikpOwoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
