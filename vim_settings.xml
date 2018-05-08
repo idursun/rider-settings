@@ -198,13 +198,6 @@
         <mark key="." line="37" column="96" />
         <mark key="^" line="37" column="96" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" timestamp="1525426434523">
-        <mark key="'" line="57" column="23" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="25" column="158" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Infrastructure/MultiBaseMonitorAlertRepositoryAdapter/WhenLoadingLatestAlerts.cs" timestamp="1519383665655">
         <mark key="'" line="13" column="13" />
         <mark key="[" line="29" column="0" />
@@ -665,11 +658,10 @@
         <mark key="^" line="76" column="58" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1525423600336">
-        <mark key="'" line="594" column="64" />
-        <mark key="[" line="853" column="0" />
-        <mark key="]" line="853" column="0" />
-        <mark key="^" line="799" column="19" />
-        <mark key="." line="853" column="0" />
+        <mark key="[" line="854" column="0" />
+        <mark key="]" line="854" column="0" />
+        <mark key="^" line="800" column="19" />
+        <mark key="." line="854" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1525352393376">
         <mark key="'" line="86" column="39" />
@@ -835,11 +827,10 @@
         <mark key="^" line="40" column="15" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/PurgeSettingsRepository.cs" timestamp="1525356084309">
-        <mark key="'" line="43" column="44" />
-        <mark key="[" line="99" column="11" />
-        <mark key="]" line="99" column="21" />
-        <mark key="." line="99" column="21" />
-        <mark key="^" line="99" column="21" />
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertRepositoryIntegrationTests/GetLatestAlerts.cs" timestamp="1519736321572">
         <mark key="'" line="26" column="15" />
@@ -997,12 +988,6 @@
         <mark key="]" line="67" column="27" />
         <mark key="." line="67" column="27" />
         <mark key="^" line="67" column="27" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/DataSizeProviderTests.cs" timestamp="1525426828458">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="73" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" timestamp="1524745453858">
         <mark key="'" line="19" column="45" />
