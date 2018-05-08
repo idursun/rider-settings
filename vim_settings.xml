@@ -296,11 +296,12 @@
         <mark key="^" line="78" column="75" />
         <mark key="." line="76" column="92" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/SqlBenchmark.cs" timestamp="1525771258169">
+      <file name="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/SqlBenchmark.cs" timestamp="1525776061175">
         <mark key="'" line="172" column="79" />
-        <mark key="[" line="217" column="28" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+        <mark key="[" line="230" column="96" />
+        <mark key="]" line="230" column="99" />
+        <mark key="." line="230" column="99" />
+        <mark key="^" line="230" column="99" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Infrastructure/MultiBaseMonitorAlertRepositoryAdapterTests.cs" timestamp="1519321267497">
         <mark key="'" line="94" column="31" />
@@ -981,6 +982,9 @@
         <mark key="]" line="77" column="1" />
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525776100720">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
