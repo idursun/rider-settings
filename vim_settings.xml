@@ -115,6 +115,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/ClientCustomMetricRepositoryTestBase.cs" timestamp="1525098188315">
         <mark key="'" line="63" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/QualifiedAlertId.cs" timestamp="1525795740233" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" timestamp="1524825783366">
         <mark key="'" line="392" column="37" />
       </file>
