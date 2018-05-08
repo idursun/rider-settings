@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -389,6 +389,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="17" column="12" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/PingFailedException.cs" timestamp="1525772228980">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousTcpChannel.cs" timestamp="1524747674997">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="36" column="40" />
@@ -638,6 +643,13 @@
         <mark key="]" line="51" column="20" />
         <mark key="^" line="51" column="20" />
         <mark key="." line="51" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/Common/PacketSniffing.cs" timestamp="1525773130011">
+        <mark key="'" line="978" column="16" />
+        <mark key="[" line="398" column="25" />
+        <mark key="]" line="398" column="36" />
+        <mark key="." line="398" column="36" />
+        <mark key="^" line="398" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/606F31D4-C875-45EE-817A-38ACB5F9A4FF/42/3c3e84ae/Serializer.cs" timestamp="1524748375265">
         <mark key="'" line="776" column="7" />
@@ -964,6 +976,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1525773043848" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
         <mark key="[" line="24" column="80" />
@@ -1071,8 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/RpcTestController.cs" />
-      <jump line="10" column="11" filename="D:/workspace/sqlmonitor/Source/UI/Website/Api/BaseApiController.cs" />
       <jump line="14" column="47" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" />
       <jump line="63" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" />
       <jump line="7" column="28" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/IDiskUsageRepository.cs" />
@@ -1171,13 +1182,15 @@
       <jump line="161" column="61" filename="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/SqlBenchmark.cs" />
       <jump line="171" column="74" filename="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/SqlBenchmark.cs" />
       <jump line="172" column="79" filename="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/SqlBenchmark.cs" />
+      <jump line="301" column="39" filename="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/Common/PacketSniffing.cs" />
+      <jump line="978" column="16" filename="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/Common/PacketSniffing.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1hbmQuUGFyYW1ldGVycy5BZGRXaXRoVmFsdWUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="-" type="4">
-        <text>location</text>
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
@@ -1186,34 +1199,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1hbmQuQWRkUGFyYW1ldGVyKCJAbG9jYXRpb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1hbmQuUGFyYW1ldGVycy5BZGRXaXRoVmFsdWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoICJJTlNFUlQgSU5UTyBbT3JkZXJzXSBWQUxVRVMgKCIgKyAobV9SYW5kb20uTmV4dChtX01heExvY2F0aW9ucykgKyAxKSArICIsIiArIChtX1JhbmRvbS5OZXh0KG1fTWF4VHlwZXMpICsgMSkgKyAiLCIgKyAobV9SYW5kb20uTmV4dChtX01heE93bmVycykgKyAxKSArICIsJyIgKyBSYW5kb21TdHJpbmcoMTkwMCwgZmFsc2UpICsgIicpIiwgY29ubmVjdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpdGVtID0gbmV3IFBhY2tldEZpbHRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoICJJTlNFUlQgSU5UTyBbT3duZXJzXSBWQUxVRVMgKCIgKyAobV9SYW5kb20uTmV4dChtX01heEdlbmRlcnMpICsgMSkgKyAiLCciICsgUmFuZG9tU3RyaW5nKDQwLCBmYWxzZSkgKyAiJywnIiArIFJhbmRvbVN0cmluZyg0MCwgZmFsc2UpICsgIicpIiwgY29ubmVjdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpcFN0YXR1cyA9PSBJUFN0YXR1cy5TdWNjZXNzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE91dE9mUmFuZ2VFeGNlcHRpb24obmFtZW9mKGlwU3RhdHVzKSk7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoICJJTlNFUlQgSU5UTyBbTG9jYXRpb25zXSBWQUxVRVMgKCciICsgUmFuZG9tU3RyaW5nKDQwLCBmYWxzZSkgKyAiJykiLCBjb25uZWN0aW9uKSApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1hbmQuUGFyYW1ldGVycy5BZGRXaXRoVmFsdWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoIklOU0VSVCBJTlRPIFtUeXBlc10gVkFMVUVTICgnIiArIFJhbmRvbVN0cmluZyg0MCwgZmFsc2UpICsgIicpIiwgY29ubmVjdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoICJJTlNFUlQgSU5UTyBbT3JkZXJzXSBWQUxVRVMgKCIgKyAobV9SYW5kb20uTmV4dChtX01heExvY2F0aW9ucykgKyAxKSArICIsIiArIChtX1JhbmRvbS5OZXh0KG1fTWF4VHlwZXMpICsgMSkgKyAiLCIgKyAobV9SYW5kb20uTmV4dChtX01heE93bmVycykgKyAxKSArICIsJyIgKyBSYW5kb21TdHJpbmcoMTkwMCwgZmFsc2UpICsgIicpIiwgY29ubmVjdGlvbikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoIklOU0VSVCBJTlRPIFtHZW5kZXJzXSBWQUxVRVMgKCciICsgUmFuZG9tU3RyaW5nKDEwLCBmYWxzZSkgKyAiJykiLCBjb25uZWN0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoICJJTlNFUlQgSU5UTyBbT3duZXJzXSBWQUxVRVMgKCIgKyAobV9SYW5kb20uTmV4dChtX01heEdlbmRlcnMpICsgMSkgKyAiLCciICsgUmFuZG9tU3RyaW5nKDQwLCBmYWxzZSkgKyAiJywnIiArIFJhbmRvbVN0cmluZyg0MCwgZmFsc2UpICsgIicpIiwgY29ubmVjdGlvbikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoICJJTlNFUlQgSU5UTyBbTG9jYXRpb25zXSBWQUxVRVMgKCciICsgUmFuZG9tU3RyaW5nKDQwLCBmYWxzZSkgKyAiJykiLCBjb25uZWN0aW9uKSApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoIklOU0VSVCBJTlRPIFtUeXBlc10gVkFMVUVTICgnIiArIFJhbmRvbVN0cmluZyg0MCwgZmFsc2UpICsgIicpIiwgY29ubmVjdGlvbikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oRW50aXR5TmFtZU1lc3NhZ2UgbGVmdCwgRW50aXR5TmFtZU1lc3NhZ2UgcmlnaHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gRXF1YWxzKGxlZnQsIHJpZ2h0KTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgYm9vbCBvcGVyYXRvciAhPShFbnRpdHlOYW1lTWVzc2FnZSBsZWZ0LCBFbnRpdHlOYW1lTWVzc2FnZSByaWdodCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiAhRXF1YWxzKGxlZnQsIHJpZ2h0KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgKHZhciBjb21tYW5kID0gbmV3IFNxbENvbW1hbmQoIklOU0VSVCBJTlRPIFtHZW5kZXJzXSBWQUxVRVMgKCciICsgUmFuZG9tU3RyaW5nKDEwLCBmYWxzZSkgKyAiJykiLCBjb25uZWN0aW9uKSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
