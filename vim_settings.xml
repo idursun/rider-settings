@@ -517,6 +517,12 @@
         <mark key="^" line="31" column="119" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1525775258463">
+        <mark key="[" line="623" column="48" />
+        <mark key="]" line="623" column="54" />
+        <mark key="." line="623" column="54" />
+        <mark key="^" line="623" column="54" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" timestamp="1523283509177">
         <mark key="'" line="27" column="96" />
         <mark key="[" line="70" column="38" />
@@ -976,7 +982,6 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525773043848" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
         <mark key="[" line="24" column="80" />
@@ -1187,10 +1192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>qlResponse</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>qlResponse</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
