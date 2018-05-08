@@ -65,6 +65,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Collection/DataCollectionScheduler.cs" timestamp="1523455653953">
         <mark key="'" line="476" column="39" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/EntityName.cs" timestamp="1525768970213">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/MachinePersistenceActor.cs" timestamp="1523377130132">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="0" column="0" />
@@ -108,6 +113,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterNameMessage.cs" timestamp="1525768606369">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
       </file>
@@ -147,6 +157,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="10" column="13" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Data/QualifiedChannelNameMessage.cs" timestamp="1525768928262">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryMerger.cs" timestamp="1523458856775">
         <mark key="'" line="63" column="63" />
@@ -761,8 +776,18 @@
         <mark key="." line="58" column="155" />
         <mark key="^" line="58" column="109" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Async/AsyncToken.cs" timestamp="1525768894478">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" timestamp="1524825783366">
         <mark key="'" line="392" column="37" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/ClusterName.cs" timestamp="1525768565128">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/KeyMapper.cs" timestamp="1523024508479">
         <mark key="'" line="56" column="17" />
@@ -798,6 +823,11 @@
         <mark key="]" line="35" column="48" />
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/EntityNameMessage.cs" timestamp="1525768985645">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1525092419736">
         <mark key="[" line="653" column="9" />
@@ -929,7 +959,7 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525449011555">
+      <file name="/Dummy.txt" timestamp="1525769044728">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -941,6 +971,11 @@
         <mark key="]" line="24" column="103" />
         <mark key="^" line="24" column="103" />
         <mark key="." line="24" column="103" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/DomainEntity.cs" timestamp="1525768947902">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/FeatureUsage/FurConfig.cs" timestamp="1523891151486">
         <mark key="'" line="18" column="46" />
@@ -1139,8 +1174,8 @@
       <jump line="56" column="56" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UHJvcHMuQ3JlYXRlPENvbm5lY3Rpb25BY3Rvcj4oKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">UHJvcHMuQ3JlYXRlPENvbm5lY3Rpb25BY3Rvcj4oKQ==</text>
@@ -1152,34 +1187,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFR5cGU+IGNvbm5lY3Rpb24gPSBuZXcgTGlzdDxUeXBlPigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29udGV4dC5BY3Rvck9mKFByb3BzLkNyZWF0ZTxTYW1wbGVyQWN0b3I+KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhaW5lckJ1aWxkZXIgPSBuZXcgQ29udGFpbmVyQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oRW50aXR5TmFtZU1lc3NhZ2UgbGVmdCwgRW50aXR5TmFtZU1lc3NhZ2UgcmlnaHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gRXF1YWxzKGxlZnQsIHJpZ2h0KTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgYm9vbCBvcGVyYXRvciAhPShFbnRpdHlOYW1lTWVzc2FnZSBsZWZ0LCBFbnRpdHlOYW1lTWVzc2FnZSByaWdodCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiAhRXF1YWxzKGxlZnQsIHJpZ2h0KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGFpbmVyQnVpbGRlci5SZWdpc3RlcjxEYXRhYmFzZUZpbGVTYW1wbGVyQWN0b3I+KCkK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oRW50aXR5TmFtZSBsZWZ0LCBFbnRpdHlOYW1lIHJpZ2h0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIEVxdWFscyhsZWZ0LCByaWdodCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgIT0oRW50aXR5TmFtZSBsZWZ0LCBFbnRpdHlOYW1lIHJpZ2h0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICFFcXVhbHMobGVmdCwgcmlnaHQpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oRG9tYWluRW50aXR5IGxlZnQsIERvbWFpbkVudGl0eSByaWdodCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBFcXVhbHMobGVmdCwgcmlnaHQpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBib29sIG9wZXJhdG9yICE9KERvbWFpbkVudGl0eSBsZWZ0LCBEb21haW5FbnRpdHkgcmlnaHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gIUVxdWFscyhsZWZ0LCByaWdodCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oUXVhbGlmaWVkQ2hhbm5lbE5hbWVNZXNzYWdlIGxlZnQsIFF1YWxpZmllZENoYW5uZWxOYW1lTWVzc2FnZSByaWdodCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBFcXVhbHMobGVmdCwgcmlnaHQpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBib29sIG9wZXJhdG9yICE9KFF1YWxpZmllZENoYW5uZWxOYW1lTWVzc2FnZSBsZWZ0LCBRdWFsaWZpZWRDaGFubmVsTmFtZU1lc3NhZ2UgcmlnaHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gIUVxdWFscyhsZWZ0LCByaWdodCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbXBsaW5nQ29uZmlndXJhdGlvbiA9IG5ldyBTYW1wbGluZ0NvbmZpZ3VyYXRpb24oKTsKICAgICAgICAgICAgc2FtcGxpbmdDb25maWd1cmF0aW9uLkNvbmZpZ3VyZSgpOwogICAgICAgICAgICBzYW1wbGluZ0NvbmZpZ3VyYXRpb24uUnVuKEFjdG9yU3lzdGVtLkNyZWF0ZSgic3lzdGVtIikpOwoKCgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oQXN5bmNUb2tlbiBsZWZ0LCBBc3luY1Rva2VuIHJpZ2h0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIEVxdWFscyhsZWZ0LCByaWdodCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgIT0oQXN5bmNUb2tlbiBsZWZ0LCBBc3luY1Rva2VuIHJpZ2h0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICFFcXVhbHMobGVmdCwgcmlnaHQpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
