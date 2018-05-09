@@ -31,7 +31,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Usage/FurReporter.cs" timestamp="1525869294715">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Usage/FurReporter.cs" timestamp="1525870078308">
         <mark key="'" line="82" column="21" />
         <mark key="[" line="101" column="48" />
         <mark key="]" line="101" column="58" />
@@ -701,12 +701,12 @@
         <mark key="." line="76" column="58" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1525869293010">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" timestamp="1525870190698">
         <mark key="'" line="839" column="49" />
-        <mark key="[" line="853" column="0" />
-        <mark key="]" line="853" column="0" />
-        <mark key="^" line="800" column="19" />
-        <mark key="." line="853" column="0" />
+        <mark key="[" line="847" column="47" />
+        <mark key="]" line="847" column="48" />
+        <mark key="^" line="847" column="48" />
+        <mark key="." line="847" column="48" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/FullBaseMonitorService.cs" timestamp="1525352393376">
         <mark key="'" line="86" column="39" />
@@ -1184,11 +1184,11 @@
       <jump line="82" column="21" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Usage/FurReporter.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>new FurConfig().IsEnabled</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
