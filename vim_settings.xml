@@ -115,6 +115,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1525873471306">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
       </file>
@@ -963,8 +969,10 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525869158859">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1525873486825">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq167-Seq168.sql" timestamp="1523280919544">
         <mark key="'" line="838" column="22" />
@@ -1058,6 +1066,11 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
         <mark key="^" line="201" column="84" />
+      </file>
+      <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/Database/File/DatabaseFileSamplerActor.cs" timestamp="1525873764562">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/GroupedAlertUserRepository/LatestGroups.cs" timestamp="1519035745869">
         <mark key="'" line="26" column="39" />
@@ -1178,10 +1191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>PurgeSettings</text>
@@ -1220,7 +1233,7 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgPT0oRW50aXR5TmFtZSBsZWZ0LCBFbnRpdHlOYW1lIHJpZ2h0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIEVxdWFscyhsZWZ0LCByaWdodCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgb3BlcmF0b3IgIT0oRW50aXR5TmFtZSBsZWZ0LCBFbnRpdHlOYW1lIHJpZ2h0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICFFcXVhbHMobGVmdCwgcmlnaHQpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1273,9 +1286,9 @@
         <entry>%s/parent_id/ParentId/g</entry>
         <entry encoding="base64">JzwsJz5zLywgLTEvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1NRTCBTZXJ2ZXIgLy9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLywvXHJcbi9n</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyXG4vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
