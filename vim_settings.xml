@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -199,11 +199,11 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionInfo.cs" timestamp="1524669934975">
-        <mark key="[" line="29" column="60" />
-        <mark key="]" line="29" column="74" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionInfo.cs" timestamp="1526027550941">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
         <mark key="^" line="29" column="74" />
-        <mark key="." line="29" column="74" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/ActiveDirectory/WebConfigurationServiceRpcTests.cs" timestamp="1524751536563">
         <mark key="'" line="18" column="14" />
@@ -981,6 +981,9 @@
         <mark key="." line="45" column="7" />
         <mark key="^" line="45" column="7" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/Index.cshtml" timestamp="1526027504078">
+        <mark key="'" line="128" column="29" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" timestamp="1523628541286">
         <mark key="'" line="29" column="28" />
         <mark key="[" line="75" column="38" />
@@ -993,6 +996,9 @@
         <mark key="]" line="11" column="40" />
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
+      </file>
+      <file name="/Plain text Console" timestamp="1526027578218">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1525873486825">
         <mark key="[" line="0" column="19" />
@@ -1113,7 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
       <jump line="84" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" />
       <jump line="12" column="30" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterInfoMessage.cs" />
       <jump line="19" column="34" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" />
@@ -1213,13 +1218,14 @@
       <jump line="47" column="5" filename="D:/workspace/sqlmonitor/Source/UI/Website/package.json" />
       <jump line="117" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="119" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="128" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/Index.cshtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
