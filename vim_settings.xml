@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -202,7 +202,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionInfo.cs" timestamp="1526027550941">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="34" />
-        <mark key="^" line="29" column="74" />
         <mark key="." line="7" column="34" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/ActiveDirectory/WebConfigurationServiceRpcTests.cs" timestamp="1524751536563">
@@ -348,12 +347,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1524745459619">
         <mark key="'" line="36" column="60" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1525942585070">
-        <mark key="'" line="119" column="30" />
-        <mark key="[" line="121" column="34" />
-        <mark key="]" line="121" column="38" />
-        <mark key="^" line="121" column="38" />
-        <mark key="." line="121" column="38" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526029357239">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+        <mark key="." line="29" column="47" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" timestamp="1523982020474">
         <mark key="'" line="23" column="33" />
@@ -678,6 +676,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/606F31D4-C875-45EE-817A-38ACB5F9A4FF/42/3c3e84ae/Serializer.cs" timestamp="1524748375265">
         <mark key="'" line="776" column="7" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" timestamp="1526029345569" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523628779410">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="1" column="0" />
