@@ -30,12 +30,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1526153630710">
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1526154238842">
         <mark key="'" line="39" column="24" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="31" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="56" column="11" />
+        <mark key="^" line="56" column="11" />
+        <mark key="." line="56" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" timestamp="1525424706098">
         <mark key="'" line="43" column="46" />
@@ -504,8 +504,8 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526151313104">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1526154519084">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -953,11 +953,12 @@
         <mark key="." line="160" column="52" />
         <mark key="^" line="160" column="52" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" timestamp="1526153668832">
-        <mark key="'" line="20" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" timestamp="1526154539452">
+        <mark key="'" line="21" column="29" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseQuerySamplerActor.cs" timestamp="1520601800190">
         <mark key="'" line="48" column="24" />
@@ -1069,12 +1070,12 @@
         <mark key="^" line="6" column="105" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1526153655796">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="51" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1526154351317">
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="51" column="85" />
+        <mark key="]" line="51" column="90" />
+        <mark key="^" line="51" column="90" />
+        <mark key="." line="51" column="90" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent.UnitTests/UnitTest1.cs" timestamp="1522245013485">
         <mark key="'" line="15" column="29" />
@@ -1252,9 +1253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="351" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
-      <jump line="198" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
-      <jump line="2" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/GoogleAnalytics.ascx" />
       <jump line="287" column="12" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Usage/FurReporter.cs" />
       <jump line="85" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" />
       <jump line="144" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" />
@@ -1352,49 +1350,52 @@
       <jump line="61" column="12" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
       <jump line="52" column="0" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
       <jump line="20" column="29" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" />
+      <jump line="58" column="35" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
+      <jump line="100" column="20" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
+      <jump line="51" column="49" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>TransformStep</text>
+        <text>directTargetRoute</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBJVHJhbnNmb3JtIHRyYW5zZm9ybToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZXBMaXN0LkFkZE5leHQobmV3IFRyYW5zZm9ybVN0ZXAodHJhbnNmb3JtKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3IuQWRkKHJvdXRlMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0ZXBMaXN0LkFkZE5leHQobmV3IFNpbmtTdGVwKHNpbmspKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0ZXBMaXN0LkFkZE5leHQobmV3IEZpbHRlclN0ZXAoZmlsdGVyKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0ZXBMaXN0LkFkZE5leHQobmV3IFRyYW5zZm9ybVN0ZXAodHJhbnNmb3JtKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdXRlMiA9IG5ldyBSb3V0ZSgiY29uc29sZS13cml0ZXIiKQogICAgICAgICAgICAgICAgLlRvKGNvbnNvbGVTaW5rKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSVN0ZXAgQ3VycmVudCA9PiBfc3RlcExpc3QuQ3VycmVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFN0ZXBMaXN0IF9zdGVwTGlzdCA9IG5ldyBTdGVwTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5WaWEobmV3IEpzb25UcmFuc2Zvcm0oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvdXJjZSA9IHJvdXRlLlNvdXJjZSA/PyBuZXcgV2FpdGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gcm9tKG5ldyBGaWxlU291cmNlKCJkYXRhLmNzdiIpLkNzdihuZXcgQ3N2TWFyc2hhbENvbmZpZyB7SGVhZGVyID0gbmV3W10geyJJZCIsICJOYW1lIiwgIkFnZSJ9fSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
