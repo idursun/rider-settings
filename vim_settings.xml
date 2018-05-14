@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -146,6 +146,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1525423899536">
         <mark key="'" line="34" column="40" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1526295090347">
+        <mark key="'" line="51" column="29" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" timestamp="1525867276757">
         <mark key="'" line="43" column="33" />
@@ -347,11 +350,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1524745459619">
         <mark key="'" line="36" column="60" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526029357239">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="29" column="47" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526295847526">
+        <mark key="'" line="285" column="4" />
+        <mark key="[" line="288" column="22" />
+        <mark key="]" line="288" column="22" />
+        <mark key="^" line="288" column="22" />
+        <mark key="." line="288" column="22" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" timestamp="1523982020474">
         <mark key="'" line="23" column="33" />
@@ -676,7 +680,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/606F31D4-C875-45EE-817A-38ACB5F9A4FF/42/3c3e84ae/Serializer.cs" timestamp="1524748375265">
         <mark key="'" line="776" column="7" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/gulpfile.js" timestamp="1526029345569" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523628779410">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="1" column="0" />
@@ -1118,17 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" />
-      <jump line="12" column="30" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterInfoMessage.cs" />
-      <jump line="19" column="34" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" />
-      <jump line="63" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
-      <jump line="64" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
-      <jump line="24" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Services/CustomMetricServiceTests.cs" />
-      <jump line="63" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/ClientCustomMetricRepositoryTestBase.cs" />
-      <jump line="13" column="57" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/CustomMetricRepositoryClientStubTests.cs" />
-      <jump line="20" column="65" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousServiceDispatcherTests.cs" />
-      <jump line="63" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcSynchronousChannelTests.cs" />
-      <jump line="201" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" />
       <jump line="200" column="77" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" />
       <jump line="58" column="112" filename="D:/workspace/sqlmonitor/Source/Common/Services/Services/IMonitoredEntityService.cs" />
       <jump line="0" column="30" filename="/Dummy.txt" />
@@ -1218,58 +1210,69 @@
       <jump line="117" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="119" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="128" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/Index.cshtml" />
+      <jump line="134" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="433" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="287" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="215" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="40" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="51" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" />
+      <jump line="281" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="267" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="423" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="280" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="285" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>, 'knockout-mapping'],</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>, 'knockout-mapping'],</text>
       </register>
       <register name="/" type="4">
-        <text>webpack</text>
+        <text>externals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTcWxUcmFjZURhdGEgPSBwdXJnZVNldHRpbmdzLlNxbFRyYWNlRGF0YS5Ub1N0cmluZygpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRlcgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgcm9vdDogJyQnCiAgICAgICAgfSw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZTogZXh0cmFjdFBsdWdpbi5leHRyYWN0KHsKICAgICAgICAgICAgICAgICAgICB1c2U6IFsnY3NzLWxvYWRlcicsICdzYXNzLWxvYWRlciddLAogICAgICAgICAgICAgICAgICAgIGZhbGxiYWNrOiAnc3R5bGUtbG9hZGVyJwogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2x1ZGU6IFtwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdzY3NzJyldLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnanF1ZXJ5JzogWwogICAgICAgICAgICAianF1ZXJ5L2Rpc3QvanF1ZXJ5LmpzIiwKICAgICAgICBdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyB0ZXN0OiAvXC5jc3MkLywgbG9hZGVyczogWydzdHlsZS1sb2FkZXInLCAnY3NzLWxvYWRlciddLCBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAiQ29udGVudC8iKSB9LAogICAgICAgICAgICB7IHRlc3Q6IC9cLnNjc3MkLywgbG9hZGVyczogWydzdHlsZS1sb2FkZXInLCAnY3NzLWxvYWRlcicsICdzYXNzLWxvYWRlciddLCBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAiQ29udGVudC8iKSwgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290OiBwYXRoLmpvaW4oX19kaXJuYW1lLCAiQ29udGVudC8iKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZTogZXh0cmFjdFBsdWdpbi5leHRyYWN0KHsKICAgICAgICAgICAgICAgICAgICB1c2U6IFsnY3NzLWxvYWRlcicsICdzYXNzLWxvYWRlciddLAogICAgICAgICAgICAgICAgICAgIGZhbGxiYWNrOiAnc3R5bGUtbG9hZGVyJwogICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290OiBwYXRoLmpvaW4oX19kaXJuYW1lLCAiQ29udGVudC8iKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2x1ZGU6IFtwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnc3JjJywgJ2Fzc2V0cycsICdzY3NzJyldLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmNsdWRlUGF0aHM6IFtwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiQ29udGVudC8iKV0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmNsdWRlUGF0aHM6IFtwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiQ29udGVudC8iKV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyB0ZXN0OiAvXC5jc3MkLywgbG9hZGVyczogWydzdHlsZS1sb2FkZXInLCAnY3NzLWxvYWRlciddLCBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAiQ29udGVudC8iKSB9LAogICAgICAgICAgICB7IHRlc3Q6IC9cLnNjc3MkLywgbG9hZGVyczogWydzdHlsZS1sb2FkZXInLCAnY3NzLWxvYWRlcicsICdzYXNzLWxvYWRlciddLCBpbmNsdWRlOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAiQ29udGVudC8iKSwgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>webpack</last-search>
+      <last-search>externals</last-search>
       <last-offset />
-      <last-pattern>webpack</last-pattern>
+      <last-pattern>externals</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1277,7 +1280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Layer</entry>
         <entry>long?</entry>
         <entry>return</entry>
         <entry>url</entry>
@@ -1297,6 +1299,7 @@
         <entry>Purge</entry>
         <entry>PurgeSettings</entry>
         <entry>webpack</entry>
+        <entry>externals</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykvL2c=</entry>
