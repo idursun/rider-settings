@@ -460,6 +460,9 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstanceRef.cs" timestamp="1526385589886">
+        <mark key="'" line="15" column="38" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdLoaderOrInserter.cs" timestamp="1522850860567">
         <mark key="'" line="7" column="37" />
         <mark key="[" line="40" column="0" />
@@ -1124,7 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" />
       <jump line="176" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Retention/DataPurgeCategorizerTests.cs" />
       <jump line="122" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Retention/DataPurgeCategorizerTests.cs" />
       <jump line="118" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Retention/DataPurgeCategorizerTests.cs" />
@@ -1224,6 +1226,7 @@
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout-stuff.js" />
       <jump line="18" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout-stuff.js" />
       <jump line="49" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModel.cs" />
+      <jump line="15" column="38" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstanceRef.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
