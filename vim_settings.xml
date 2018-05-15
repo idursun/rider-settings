@@ -760,6 +760,9 @@
         <mark key="^" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/VersionsController.cs" timestamp="1526390625664">
+        <mark key="'" line="44" column="56" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/Database/File/DatabaseFilePersisterActor.cs" timestamp="1523628745461">
         <mark key="'" line="17" column="14" />
         <mark key="[" line="17" column="12" />
@@ -1138,10 +1141,11 @@
         <mark key="]" line="29" column="47" />
         <mark key="." line="29" column="47" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModel.cs" timestamp="1526390640073">
+        <mark key="'" line="61" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="27" filename="D:/workspace/sqlmonitor/Source/Common/Services/Configuration/CurrentPurgeConfiguration.cs" />
-      <jump line="40" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigurePurgingController.cs" />
       <jump line="53" column="34" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
       <jump line="32" column="36" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
       <jump line="29" column="0" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
@@ -1240,6 +1244,8 @@
       <jump line="15" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/ChannelInstanceRef.cs" />
       <jump line="152" column="38" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/Data/Channel.cs" />
       <jump line="30" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Clusters/ClusterStateDataPresenter.cs" />
+      <jump line="44" column="56" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/VersionsController.cs" />
+      <jump line="61" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
