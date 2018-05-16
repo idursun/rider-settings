@@ -228,6 +228,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/IPurgeSettingsRepository.cs" timestamp="1525355413103">
         <mark key="'" line="7" column="30" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersionInfo.cs" timestamp="1526474590640">
+        <mark key="[" line="15" column="47" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ActionFilters/LogActionAttribute.cs" timestamp="1525785442960">
         <mark key="[" line="45" column="53" />
         <mark key="]" line="45" column="58" />
@@ -446,6 +449,13 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E93D5BF-6F20-4870-9AAB-19AEA88DEB74/7d/08361fbc/TypeModel.cs" timestamp="1524825783366">
         <mark key="'" line="392" column="37" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersions.cs" timestamp="1526474811828">
+        <mark key="'" line="31" column="45" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/KeyMapper.cs" timestamp="1523024508479">
         <mark key="'" line="56" column="17" />
@@ -1267,7 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" />
       <jump line="30" column="88" filename="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AlertDetailsFurReporter.cs" />
       <jump line="31" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AlertDetailsFurReporter.cs" />
       <jump line="61" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" />
@@ -1367,10 +1376,11 @@
       <jump line="51" column="49" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
       <jump line="195" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/ControllerActionAttributesTest.cs" />
       <jump line="28" column="68" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/VersionsController.cs" />
+      <jump line="32" column="45" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersions.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzdHJlYW0gPSBhc3NlbWJseS5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKHJlc291cmNlTmFtZSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>directTargetRoute</text>
@@ -1382,19 +1392,19 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3IuQWRkKHJvdXRlMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzdHJlYW0gPSBhc3NlbWJseS5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKHJlc291cmNlTmFtZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdXRlMiA9IG5ldyBSb3V0ZSgiY29uc29sZS13cml0ZXIiKQogICAgICAgICAgICAgICAgLlRvKGNvbnNvbGVTaW5rKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdXRlMiA9IG5ldyBSb3V0ZSgiY29uc29sZS13cml0ZXIiKQogICAgICAgICAgICAgICAgLlRvKGNvbnNvbGVTaW5rKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
@@ -1406,10 +1416,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5WaWEobmV3IEpzb25UcmFuc2Zvcm0oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gcm9tKG5ldyBGaWxlU291cmNlKCJkYXRhLmNzdiIpLkNzdihuZXcgQ3N2TWFyc2hhbENvbmZpZyB7SGVhZGVyID0gbmV3W10geyJJZCIsICJOYW1lIiwgIkFnZSJ9fSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5WaWEobmV3IEpzb25UcmFuc2Zvcm0oKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
