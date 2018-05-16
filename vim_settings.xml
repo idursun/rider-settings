@@ -1115,12 +1115,11 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" timestamp="1524751160032">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" timestamp="1526475845044">
         <mark key="'" line="59" column="33" />
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="51" column="63" />
-        <mark key="^" line="51" column="63" />
-        <mark key="." line="51" column="63" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/FetchData.tsx" timestamp="1520529157694">
         <mark key="'" line="50" column="23" />
@@ -1380,7 +1379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzdHJlYW0gPSBhc3NlbWJseS5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKHJlc291cmNlTmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlcGVuZGVuY3lSZXNvbHZlci5TZXRSZXNvbHZlcihuZXcgQXV0b2ZhY0RlcGVuZGVuY3lSZXNvbHZlZCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>directTargetRoute</text>
@@ -1392,22 +1391,22 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3IuQWRkKHJvdXRlMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzdHJlYW0gPSBhc3NlbWJseS5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKHJlc291cmNlTmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlcGVuZGVuY3lSZXNvbHZlci5TZXRSZXNvbHZlcihuZXcgQXV0b2ZhY0RlcGVuZGVuY3lSZXNvbHZlZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzdHJlYW0gPSBhc3NlbWJseS5HZXRNYW5pZmVzdFJlc291cmNlU3RyZWFtKHJlc291cmNlTmFtZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GaWx0ZXIobmV3IFJhbmRvbUZpbHRlcigpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdXRlMiA9IG5ldyBSb3V0ZSgiY29uc29sZS13cml0ZXIiKQogICAgICAgICAgICAgICAgLlRvKGNvbnNvbGVTaW5rKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdXRlMiA9IG5ldyBSb3V0ZSgiY29uc29sZS13cml0ZXIiKQogICAgICAgICAgICAgICAgLlRvKGNvbnNvbGVTaW5rKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
@@ -1419,7 +1418,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5WaWEobmV3IEpzb25UcmFuc2Zvcm0oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
