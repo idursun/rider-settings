@@ -478,7 +478,7 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="25" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Property/ServerPropertySampler.cs" timestamp="1526546193579" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Property/ServerPropertySampler.cs" timestamp="1526547080349" />
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Transforms/JsonTransform.cs" timestamp="1526147526684">
         <mark key="'" line="4" column="35" />
         <mark key="[" line="6" column="73" />
@@ -675,6 +675,7 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1526547174445" />
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
