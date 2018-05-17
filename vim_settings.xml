@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -638,6 +638,9 @@
         <mark key="^" line="32" column="93" />
         <mark key="." line="32" column="76" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Graphing.js" timestamp="1526559117339">
+        <mark key="[" line="36" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/Models/GroupedAlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" timestamp="1518429689866">
         <mark key="'" line="103" column="38" />
         <mark key="[" line="19" column="50" />
@@ -683,7 +686,7 @@
         <mark key="'" line="476" column="39" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout-stuff.js" timestamp="1526551899958">
-        <mark key="[" line="24" column="39" />
+        <mark key="[" line="23" column="39" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -723,9 +726,6 @@
         <mark key="]" line="4" column="42" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1526549592469">
-        <mark key="'" line="89" column="12" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
@@ -1112,7 +1112,7 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" timestamp="1526557926681">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" timestamp="1526558902311">
         <mark key="'" line="644" column="70" />
         <mark key="[" line="644" column="61" />
         <mark key="]" line="644" column="70" />
