@@ -24,6 +24,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1526549878002">
+        <mark key="[" line="11" column="116" />
+        <mark key="]" line="11" column="118" />
+        <mark key="." line="11" column="118" />
+        <mark key="^" line="11" column="118" />
+      </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1526154238842">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="55" column="9" />
@@ -564,6 +570,12 @@
         <mark key="^" line="31" column="145" />
         <mark key="." line="31" column="145" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.Response.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1526549844995">
+        <mark key="[" line="108" column="116" />
+        <mark key="]" line="108" column="118" />
+        <mark key="." line="108" column="118" />
+        <mark key="^" line="108" column="118" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Models/PurgeSettingsPageModel.cs" timestamp="1525351737815">
         <mark key="'" line="74" column="8" />
         <mark key="[" line="67" column="27" />
@@ -652,8 +664,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Messages/ResponseMessage.cs" timestamp="1524829546643">
         <mark key="'" line="57" column="39" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" timestamp="1524670945284">
-        <mark key="'" line="335" column="67" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" timestamp="1526550223548">
+        <mark key="'" line="129" column="72" />
         <mark key="[" line="335" column="71" />
         <mark key="]" line="335" column="67" />
         <mark key="^" line="335" column="67" />
@@ -675,7 +687,9 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1526547174445" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1526549592469">
+        <mark key="'" line="89" column="12" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
@@ -691,6 +705,9 @@
         <mark key="]" line="64" column="78" />
         <mark key="^" line="64" column="78" />
         <mark key="." line="64" column="78" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ServerOverview/ServerOverview.cshtml" timestamp="1526549527245">
+        <mark key="'" line="6" column="65" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/GroupedAlertInboxViewModel.js" timestamp="1519060016501">
         <mark key="'" line="262" column="8" />
@@ -711,6 +728,9 @@
         <mark key="]" line="44" column="64" />
         <mark key="." line="44" column="64" />
         <mark key="^" line="44" column="64" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersionLookup.cs" timestamp="1526549616727">
+        <mark key="'" line="19" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlServerCommunicator.cs" timestamp="1526546132485" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AlertDetailsFurReporter.cs" timestamp="1525423928325">
@@ -813,6 +833,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="8" column="129" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" timestamp="1526550220730">
+        <mark key="'" line="208" column="64" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Utilities/Logging/CommonApplicationDataFolderPatternConverterTests.cs" timestamp="1519142874635">
         <mark key="'" line="20" column="0" />
@@ -1138,6 +1161,7 @@
         <mark key="^" line="654" column="45" />
         <mark key="." line="654" column="45" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ServerOverview/_GeneralMetrics.cshtml" timestamp="1526549579550" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" timestamp="1520416743191">
         <mark key="'" line="59" column="32" />
         <mark key="[" line="56" column="23" />
@@ -1208,8 +1232,8 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="31" column="77" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/package.json" timestamp="1525881687846">
-        <mark key="'" line="47" column="5" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/package.json" timestamp="1526549692171">
+        <mark key="'" line="52" column="2" />
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
@@ -1280,15 +1304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="88" filename="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AlertDetailsFurReporter.cs" />
-      <jump line="31" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AlertDetailsFurReporter.cs" />
-      <jump line="61" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" />
-      <jump line="42" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" />
-      <jump line="57" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" />
-      <jump line="15" column="45" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
-      <jump line="62" column="47" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
-      <jump line="76" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
-      <jump line="72" column="28" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="83" column="55" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="42" column="36" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
       <jump line="50" column="62" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
@@ -1380,13 +1395,22 @@
       <jump line="195" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/ControllerActionAttributesTest.cs" />
       <jump line="28" column="68" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/VersionsController.cs" />
       <jump line="32" column="45" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersions.cs" />
+      <jump line="183" column="55" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/ServerOverview/ServerOverview.cshtml" />
+      <jump line="6" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/ServerOverview/ServerOverview.cshtml" />
+      <jump line="89" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="76" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
+      <jump line="213" column="74" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
+      <jump line="19" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersionLookup.cs" />
+      <jump line="52" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/package.json" />
+      <jump line="208" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
+      <jump line="129" column="72" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlcGVuZGVuY3lSZXNvbHZlci5TZXRSZXNvbHZlcihuZXcgQXV0b2ZhY0RlcGVuZGVuY3lSZXNvbHZlZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>directTargetRoute</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
