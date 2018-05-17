@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -362,6 +362,12 @@
         <mark key="]" line="19" column="11" />
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.scss" timestamp="1526571826514">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/236a2993-edde-4aa0-86a3-9693b3a6fa2e/console.sql" timestamp="1522749706804">
         <mark key="'" line="4" column="28" />
@@ -858,12 +864,14 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1524745459619">
         <mark key="'" line="36" column="60" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526557316228">
-        <mark key="'" line="330" column="15" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="120" column="38" />
-        <mark key="." line="93" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" timestamp="1526571805439">
+        <mark key="'" line="1246" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526571931779">
+        <mark key="'" line="87" column="14" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" timestamp="1523628713935">
         <mark key="'" line="8" column="129" />
@@ -1050,6 +1058,11 @@
         <mark key="^" line="44" column="27" />
         <mark key="." line="44" column="27" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/AlertInbox.scss" timestamp="1526571912785">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/Actors/SamplerCommunicationActor.cs" timestamp="1522847916811">
         <mark key="'" line="34" column="30" />
         <mark key="[" line="37" column="0" />
@@ -1193,6 +1206,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" timestamp="1526475845044">
+        <mark key="'" line="59" column="33" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/FetchData.tsx" timestamp="1520529157694">
         <mark key="'" line="50" column="23" />
@@ -1347,9 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="21" filename="D:/workspace/sqlmonitor/Source/Common/Services/Data/QualifiedChannelNameMessage.cs" />
-      <jump line="32" column="22" filename="D:/workspace/sqlmonitor/Source/Common/Services/ClusterNameMessage.cs" />
-      <jump line="28" column="27" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Alert/AlertId.cs" />
       <jump line="43" column="55" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
       <jump line="2" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/ClusterName.cs" />
       <jump line="5" column="43" filename="D:/workspace/sqlmonitor/Source/Common/Services/ClusterNameMessage.cs" />
@@ -1447,40 +1463,43 @@
       <jump line="45" column="7" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" />
       <jump line="689" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" />
       <jump line="644" column="70" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" />
+      <jump line="106" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="1246" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" />
+      <jump line="87" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data.Lines[i].Data</text>
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text>data.Lines[i].Data</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>Default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2FkaW5nU3RhdHVzfSBmcm9tICIuLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLmxvYWRpbmciCg==</text>
+        <text encoding="base64">ICBhbGlhczp7CiAgICAgIENvbnRlbnRTb3VyY2U6IHBhdGguam9pbihfX2Rpcm5hbWUsICdDb250ZW50U291cmNlJyksCiAgICAgIFNjcmlwdHNTb3VyY2U6IHBhdGguam9pbihfX2Rpcm5hbWUsICdTY3JpcHRzU291cmNlJyksCiAgICAgIG5vZGVfbW9kdWxlczogcGF0aC5qb2luKF9fZGlybmFtZSwgJ25vZGVfbW9kdWxlcycpCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Xwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi4vU2NyaXB0c1NvdXJjZS9EZWZhdWx0cy5qcyIsCg==</text>
+        <text encoding="base64">Xwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIi4vU2NyaXB0c1NvdXJjZS9EZWZhdWx0cy5qcyIsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2FkaW5nU3RhdHVzfSBmcm9tICIuLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLmxvYWRpbmciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMb2FkaW5nU3RhdHVzfSBmcm9tICIuLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLmxvYWRpbmciCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
