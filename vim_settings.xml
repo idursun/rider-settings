@@ -430,6 +430,7 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Properties/ChannelConfig.xml" timestamp="1526546061450" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/SqlServerInstancesViewActor.cs" timestamp="1522332151835">
         <mark key="'" line="32" column="54" />
         <mark key="[" line="29" column="71" />
@@ -477,6 +478,7 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="25" column="38" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Property/ServerPropertySampler.cs" timestamp="1526546193579" />
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Transforms/JsonTransform.cs" timestamp="1526147526684">
         <mark key="'" line="4" column="35" />
         <mark key="[" line="6" column="73" />
@@ -709,6 +711,7 @@
         <mark key="." line="44" column="64" />
         <mark key="^" line="44" column="64" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlServerCommunicator.cs" timestamp="1526546132485" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AlertDetailsFurReporter.cs" timestamp="1525423928325">
         <mark key="'" line="31" column="46" />
       </file>
