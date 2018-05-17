@@ -733,6 +733,9 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1526549592469">
+        <mark key="'" line="89" column="12" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
@@ -867,12 +870,7 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" timestamp="1526571805439">
         <mark key="'" line="1246" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526571931779">
-        <mark key="'" line="87" column="14" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526571931779" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" timestamp="1523628713935">
         <mark key="'" line="8" column="129" />
         <mark key="[" line="0" column="0" />
@@ -1207,18 +1205,15 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Global.asax.cs" timestamp="1526475845044">
-        <mark key="'" line="59" column="33" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/FetchData.tsx" timestamp="1520529157694">
         <mark key="'" line="50" column="23" />
         <mark key="[" line="35" column="41" />
         <mark key="]" line="35" column="48" />
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" timestamp="1526573830783">
+        <mark key="'" line="71" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1525092419736">
         <mark key="[" line="653" column="9" />
@@ -1366,9 +1361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="55" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" />
-      <jump line="2" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/ClusterName.cs" />
-      <jump line="5" column="43" filename="D:/workspace/sqlmonitor/Source/Common/Services/ClusterNameMessage.cs" />
       <jump line="9" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Services/ClusterNameMessage.cs" />
       <jump line="52" column="22" filename="D:/workspace/sqlmonitor/Source/Common/Services/EntityNameMessage.cs" />
       <jump line="57" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Services/EntityNameMessage.cs" />
@@ -1466,6 +1458,9 @@
       <jump line="106" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="1246" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" />
       <jump line="87" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="17" column="59" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" />
+      <jump line="84" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" />
+      <jump line="71" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
