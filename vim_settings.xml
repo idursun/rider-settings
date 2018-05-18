@@ -934,12 +934,13 @@
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
-      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" timestamp="1526641025380">
-        <mark key="'" line="130" column="8" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="42" />
+      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" timestamp="1526645172512">
+        <mark key="a" line="15" column="0" />
+        <mark key="'" line="101" column="12" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="51" column="61" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525868256765">
         <mark key="'" line="34" column="31" />
@@ -1216,7 +1217,7 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" timestamp="1526640835302" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" timestamp="1526644498638" />
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/FetchData.tsx" timestamp="1520529157694">
         <mark key="'" line="50" column="23" />
         <mark key="[" line="35" column="41" />
@@ -1366,11 +1367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
-      <jump line="48" column="56" filename="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AnalysisGraphFurReporter.cs" />
-      <jump line="40" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" />
-      <jump line="839" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullBaseMonitor.cs" />
-      <jump line="82" column="21" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Usage/FurReporter.cs" />
       <jump line="54" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigurePurgingController.cs" />
       <jump line="173" column="83" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Retention/DataPurgeCategorizerTests.cs" />
       <jump line="41" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/package.json" />
@@ -1466,13 +1462,18 @@
       <jump line="94" column="21" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
       <jump line="54" column="12" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
       <jump line="130" column="8" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
+      <jump line="184" column="19" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
+      <jump line="148" column="0" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
+      <jump line="0" column="0" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
+      <jump line="143" column="0" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
+      <jump line="101" column="12" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new Messages.P</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Messages.P</text>
+        <text>Stop</text>
       </register>
       <register name="/" type="4">
         <text>Default</text>
@@ -1481,34 +1482,34 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFByb2Nlc3NEaXJlY3RvcnkgcHJvY2Vzc0RpcmVjdG9yeShzdHJpbmcgZGlyZWN0b3J5KSA9PiBuZXcgUHJvY2Vzc0RpcmVjdG9yeShkaXJlY3RvcnkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJDb3VudGVyLlBhdGguVG9TdHJpbmcoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQuQWN0b3JPZjxFcnJvckNvdW50ZXJBY3Rvcj4oKS5QYXRoLlRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBQcmVSZXN0YXJ0KEV4Y2VwdGlvbiByZWFzb24sIG9iamVjdCBtZXNzYWdlKQogICAgICAgIHsKICAgICAgICAgICAgYmFzZS5QcmVSZXN0YXJ0KHJlYXNvbiwgbWVzc2FnZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQuQWN0b3JPZjxMaW5lUGFyc2VyQWN0b3I+KCkuUGF0aC5Ub1N0cmluZygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2UuU3VwZXJ2aXNvclN0cmF0ZWd5KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlbmRlci5UZWxsKGxpbmVzUHJvY2Vzc2VkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBldmVudC1zdHJlYW0gPSBvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5JbmZvKCJFcnJvciBjb3VudCAgICAgezB9IiwgZXJyb3JDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZWNlaXZlID0gb24KICAgICAgICAgICAgICBhdXRvcmVjZWl2ZSA9IG9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dC5TeXN0ZW0uU2NoZWR1bGVyLlNjaGVkdWxlVGVsbFJlcGVhdGVkbHkoVGltZVNwYW4uWmVybywgVGltZVNwYW4uRnJvbVNlY29uZHMoMSksIFNlbGYsIE1lc3NhZ2VzLlByaW50U3RhdGUuSW5zdGFuY2UsIFNlbGYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5QcmVTdGFydCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
