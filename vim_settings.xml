@@ -343,12 +343,6 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_TopQueries.cshtml" timestamp="1526551616173">
         <mark key="'" line="0" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" timestamp="1526551508225">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="78" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/Index.cshtml" timestamp="1521715133987">
         <mark key="'" line="395" column="80" />
         <mark key="[" line="395" column="72" />
@@ -733,9 +727,6 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" timestamp="1526549592469">
-        <mark key="'" line="89" column="12" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
@@ -929,6 +920,12 @@
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
+      </file>
+      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" timestamp="1526633223308">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525868256765">
         <mark key="'" line="34" column="31" />
@@ -1212,9 +1209,6 @@
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" timestamp="1526573830783">
-        <mark key="'" line="71" column="37" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1525092419736">
         <mark key="[" line="653" column="9" />
         <mark key="]" line="654" column="45" />
@@ -1348,10 +1342,6 @@
         <mark key="^" line="172" column="40" />
         <mark key="." line="172" column="40" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" timestamp="1526551374187">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="78" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" timestamp="1525269102498">
         <mark key="'" line="200" column="77" />
         <mark key="[" line="200" column="0" />
@@ -1464,43 +1454,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>Will print state</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>Will print state</text>
       </register>
       <register name="/" type="4">
         <text>Default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhbGlhczp7CiAgICAgIENvbnRlbnRTb3VyY2U6IHBhdGguam9pbihfX2Rpcm5hbWUsICdDb250ZW50U291cmNlJyksCiAgICAgIFNjcmlwdHNTb3VyY2U6IHBhdGguam9pbihfX2Rpcm5hbWUsICdTY3JpcHRzU291cmNlJyksCiAgICAgIG5vZGVfbW9kdWxlczogcGF0aC5qb2luKF9fZGlybmFtZSwgJ25vZGVfbW9kdWxlcycpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjZWl2ZTxzdHJpbmc+KG0gPT4geyBsb2dnZXIuRGVidWcobSk7IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5QcmVTdGFydCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Xwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUobSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi4vU2NyaXB0c1NvdXJjZS9EZWZhdWx0cy5qcyIsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShsaW5lKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShzdHJlYW1SZWFkZXIuUmVhZExpbmUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2FkaW5nU3RhdHVzfSBmcm9tICIuLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLmxvYWRpbmciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Xwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIi4vU2NyaXB0c1NvdXJjZS9EZWZhdWx0cy5qcyIsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
