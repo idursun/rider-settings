@@ -564,11 +564,11 @@
         <mark key="^" line="126" column="81" />
         <mark key="." line="126" column="81" />
       </file>
-      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Messages.cs" timestamp="1526637719044">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Messages.cs" timestamp="1526640923054">
+        <mark key="[" line="30" column="78" />
+        <mark key="]" line="30" column="82" />
+        <mark key="^" line="30" column="82" />
+        <mark key="." line="30" column="82" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/PersistenceActor.cs" timestamp="1523628541286">
         <mark key="'" line="29" column="28" />
@@ -934,12 +934,12 @@
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
-      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" timestamp="1526640069552">
-        <mark key="'" line="64" column="12" />
-        <mark key="[" line="34" column="68" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
+      <file name="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" timestamp="1526641025380">
+        <mark key="'" line="130" column="8" />
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525868256765">
         <mark key="'" line="34" column="31" />
@@ -1216,6 +1216,7 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" timestamp="1526640835302" />
       <file name="D:/repositories/dotnet/aspnetreact/ClientApp/components/FetchData.tsx" timestamp="1520529157694">
         <mark key="'" line="50" column="23" />
         <mark key="[" line="35" column="41" />
@@ -1365,7 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="56" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="39" column="33" filename="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/SamplingConfiguration.cs" />
       <jump line="48" column="56" filename="D:/workspace/sqlmonitor/Source/UI/Website/FeatureUsage/AnalysisGraphFurReporter.cs" />
       <jump line="40" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataPurgeCategorizer.cs" />
@@ -1465,19 +1465,20 @@
       <jump line="93" column="7" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
       <jump line="94" column="21" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
       <jump line="54" column="12" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
+      <jump line="130" column="8" filename="D:/repositories/dotnet/AkkaTest/AkkaTest/Program.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>charCounter</text>
+        <text>new Messages.P</text>
       </register>
       <register name="-" type="4">
-        <text>charCounter</text>
+        <text>new Messages.P</text>
       </register>
       <register name="/" type="4">
         <text>Default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJDb3VudGVyLlBhdGguVG9TdHJpbmdXaXRoQWRkcmVzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFByb2Nlc3NEaXJlY3RvcnkgcHJvY2Vzc0RpcmVjdG9yeShzdHJpbmcgZGlyZWN0b3J5KSA9PiBuZXcgUHJvY2Vzc0RpcmVjdG9yeShkaXJlY3RvcnkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJDb3VudGVyLlBhdGguVG9TdHJpbmcoKSwK</text>
