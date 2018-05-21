@@ -10,7 +10,6 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="72" column="58" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/Machine/LogicalDisk/Projection/ChannelConfig.xml" timestamp="1526893080607" />
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525097473102">
         <mark key="'" line="58" column="59" />
         <mark key="[" line="59" column="0" />
@@ -31,6 +30,7 @@
         <mark key="." line="11" column="118" />
         <mark key="^" line="11" column="118" />
       </file>
+      <file name="/Projector.cs" timestamp="1526900477380" />
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1526154238842">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="55" column="9" />
@@ -45,7 +45,6 @@
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="53" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/QueryRunner.cs" timestamp="1526898900483" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/load.http" timestamp="1523629499443">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="7" />
@@ -219,7 +218,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Tools/PR4CR/PR4CR/PullRequestEventHandler.cs" timestamp="1523982020474">
         <mark key="'" line="23" column="33" />
       </file>
-      <file name="/DatabaseFileUsageViewModelFactory.cs" timestamp="1526897512818" />
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sources/ISource.cs" timestamp="1526147985217">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -255,8 +253,8 @@
         <mark key="." line="36" column="40" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" timestamp="1526897650139">
-        <mark key="'" line="41" column="66" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" timestamp="1526900433133">
+        <mark key="'" line="42" column="40" />
         <mark key="[" line="42" column="71" />
         <mark key="]" line="42" column="87" />
         <mark key="." line="42" column="87" />
@@ -289,7 +287,6 @@
         <mark key="^" line="73" column="39" />
         <mark key="." line="73" column="39" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/Machines/RawMachineDataPresenterFactory.cs" timestamp="1526893094343" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/package.json" timestamp="1522146094992">
         <mark key="'" line="40" column="26" />
         <mark key="[" line="10" column="27" />
@@ -472,7 +469,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="24" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModel.cs" timestamp="1526896394546">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModel.cs" timestamp="1526900195161">
         <mark key="'" line="35" column="12" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/AlertMetricsRepositoryTests.cs" timestamp="1519235106755">
@@ -618,7 +615,7 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526898349358">
+      <file name="/Dummy.txt" timestamp="1526900397294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -973,12 +970,11 @@
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" timestamp="1526896722178">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" timestamp="1526900519113">
         <mark key="'" line="17" column="23" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="13" column="115" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525868256765">
         <mark key="'" line="34" column="31" />
@@ -1085,6 +1081,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelTests.cs" timestamp="1526900183320">
+        <mark key="'" line="136" column="39" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Services/MonitoredEntityService.cs" timestamp="1525269469943">
         <mark key="[" line="702" column="20" />
@@ -1274,8 +1273,12 @@
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" timestamp="1526896283494">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/DatabaseFile/DatabaseFileRepository.cs" timestamp="1526900337233">
         <mark key="'" line="84" column="44" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="16" />
+        <mark key="." line="95" column="16" />
+        <mark key="^" line="98" column="23" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1525092419736">
         <mark key="[" line="653" column="9" />
@@ -1403,7 +1406,6 @@
         <mark key="^" line="33" column="94" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskProjectionDataPresenter.cs" timestamp="1526893174694" />
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" timestamp="1524745453858">
         <mark key="'" line="19" column="45" />
       </file>
@@ -1422,8 +1424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sources/FileSource.cs" />
-      <jump line="51" column="0" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Translators/CsvMarshaller.cs" />
       <jump line="17" column="27" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sources/FileSource.cs" />
       <jump line="42" column="13" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" />
       <jump line="47" column="8" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" />
@@ -1517,54 +1517,56 @@
       <jump line="14" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" />
       <jump line="18" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" />
       <jump line="29" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
-      <jump line="42" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
       <jump line="41" column="66" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
       <jump line="15" column="39" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DatabaseFileClientStub.cs" />
       <jump line="12" column="30" filename="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/IDatabaseFileService.cs" />
       <jump line="59" column="51" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DatabaseFileServerStub.cs" />
+      <jump line="27" column="37" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelTests.cs" />
+      <jump line="136" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelTests.cs" />
+      <jump line="42" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>startTime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>startTime</text>
+        <text>Webpack AlertConfiguration view models</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbUHJvdG9NZW1iZXIoMSldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFwcm9qZWN0aW9uLlZhbHVlLkludGVyY2VwdC5Jc0RlZmluZWQpIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9qZWN0aW9uTW9kZWxNZXNzYWdlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEdyYWRpZW50ID0gcHJvamVjdGlvbk1vZGVsLkdyYWRpZW50LAogICAgICAgICAgICAgICAgWUludGVyY2VwdCA9IHByb2plY3Rpb25Nb2RlbC5ZSW50ZXJjZXB0CiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb2plY3Rpb25Nb2RlbCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwcm9qZWN0aW9uTW9kZWwgPSBkYXRhYmFzZUZpbGVVc2VkU2l6ZS5HZXRMaW5lYXJQcm9qZWN0aW9uTW9kZWwoKTsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZG91YmxlIEdyYWRpZW50IHsgZ2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9qZWN0aW9uTW9kZWwoZ3JhZGllbnQuVmFsdWUsIGludGVyY2VwdC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFwcm9qZWN0aW9uLlZhbHVlLkludGVyY2VwdC5Jc0RlZmluZWQpIHJldHVybiBudWxsOwogICAgICAgICAgICBpZiAoIXByb2plY3Rpb24uVmFsdWUuR3JhZGllbnQuSXNEZWZpbmVkKSByZXR1cm4gbnVsbDsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5FbmdpbmUuQWxlcnRpbmcuQmFzZS5Db3JlLkVuZ2luZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9qZWN0aW9uTW9kZWxNZXNzYWdlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEdyYWRpZW50ID0gcHJvamVjdGlvbk1vZGVsLkdyYWRpZW50LAogICAgICAgICAgICAgICAgWUludGVyY2VwdCA9IHByb2plY3Rpb25Nb2RlbC5ZSW50ZXJjZXB0CiAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgcHJvamVjdGlvbk1vZGVsID0gZGF0YWJhc2VGaWxlVXNlZFNpemUuR2V0TGluZWFyUHJvamVjdGlvbk1vZGVsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBwcm9qZWN0b3IuQ2FsY3VsYXRlUHJvamVjdGlvbih1c2FnZUhpc3RvcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3RvciA9IG5ldyBQcm9qZWN0b3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZG91YmxlIEdyYWRpZW50IHsgZ2V0OyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
