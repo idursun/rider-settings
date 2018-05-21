@@ -253,12 +253,12 @@
         <mark key="." line="36" column="40" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" timestamp="1526905514054">
-        <mark key="'" line="47" column="39" />
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="26" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" timestamp="1526911464510">
+        <mark key="'" line="66" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="47" column="11" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertMetricsRepositoryIntegrationTests/GetNewerAlertId.cs" timestamp="1519294172389">
         <mark key="'" line="51" column="43" />
@@ -626,7 +626,7 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526904683494">
+      <file name="/Dummy.txt" timestamp="1526911718987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -981,11 +981,12 @@
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" timestamp="1526905467333">
-        <mark key="'" line="14" column="26" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" timestamp="1526911445068">
+        <mark key="'" line="13" column="26" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="70" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Program.cs" timestamp="1525868256765">
         <mark key="'" line="34" column="31" />
@@ -1439,7 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
       <jump line="79" column="4" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" />
       <jump line="28" column="0" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
       <jump line="4" column="29" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RandomFilter.cs" />
@@ -1539,13 +1539,14 @@
       <jump line="13" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/Projector.cs" />
       <jump line="45" column="40" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
       <jump line="47" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
+      <jump line="68" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Update unit tests to follow the new signature</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TW9kZWwg</text>
+        <text>Update unit tests to follow the new signature</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
@@ -1554,34 +1555,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3RvciA9IG5ldyBQcm9qZWN0b3IoKTsKICAgICAgICAgICAgcmV0dXJuIHByb2plY3Rvci5DYWxjdWxhdGVQcm9qZWN0aW9uKHVzYWdlSGlzdG9yeSwgcHJvamVjdGlvbk1vZGVsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3RvciA9IG5ldyBQcm9qZWN0b3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGFiYXNlRmlsZVVzZWRTaXplID0gdXNhZ2VIaXN0b3J5LlVzZWRTaXplLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBwcm9qZWN0b3IuQ2FsY3VsYXRlUHJvamVjdGlvbih1c2FnZUhpc3RvcnksIHByb2plY3Rpb25Nb2RlbCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5SZXNwb25zZS5Db21tb24uU2VydmljZXMuRGF0YWJhc2VGaWxlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb25Nb2RlbCA9IENyZWF0ZVByb2plY3Rpb24oYWxlcnQsIHVzYWdlSGlzdG9yeSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdGlvbk1vZGVsLkdldFByb2plY3Rpb25Nb2RlbChhbGVydCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBDcmVhdGVQcm9qZWN0aW9uKGFsZXJ0LCB1c2FnZUhpc3RvcnkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBDcmVhdGVQcm9qZWN0aW9uKGFsZXJ0LCB1c2FnZUhpc3RvcnkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3RvciA9IG5ldyBQcm9qZWN0b3IoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb2plY3Rpb25Nb2RlbCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwcm9qZWN0aW9uTW9kZWwgPSBkYXRhYmFzZUZpbGVVc2VkU2l6ZS5HZXRMaW5lYXJQcm9qZWN0aW9uTW9kZWwoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBwcm9qZWN0b3IuQ2FsY3VsYXRlUHJvamVjdGlvbih1c2FnZUhpc3RvcnksIHByb2plY3Rpb25Nb2RlbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3RvciA9IG5ldyBQcm9qZWN0b3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2plY3Rpb25Nb2RlbCA9IENyZWF0ZVByb2plY3Rpb24oYWxlcnQsIHVzYWdlSGlzdG9yeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
