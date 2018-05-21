@@ -10,6 +10,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="72" column="58" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/Machine/LogicalDisk/Projection/ChannelConfig.xml" timestamp="1526893080607" />
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525097473102">
         <mark key="'" line="58" column="59" />
         <mark key="[" line="59" column="0" />
@@ -272,6 +273,7 @@
         <mark key="^" line="73" column="39" />
         <mark key="." line="73" column="39" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/Machines/RawMachineDataPresenterFactory.cs" timestamp="1526893094343" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/package.json" timestamp="1522146094992">
         <mark key="'" line="40" column="26" />
         <mark key="[" line="10" column="27" />
@@ -931,6 +933,12 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1526892784958">
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="35" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/ClusterMonitorActor.cs" timestamp="1523547616803">
         <mark key="'" line="30" column="50" />
       </file>
@@ -1363,6 +1371,7 @@
         <mark key="^" line="33" column="94" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskProjectionDataPresenter.cs" timestamp="1526893174694" />
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" timestamp="1524745453858">
         <mark key="'" line="19" column="45" />
       </file>
@@ -1381,9 +1390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="26" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/ISink.cs" />
-      <jump line="9" column="41" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/StreamGraph.cs" />
-      <jump line="22" column="26" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/StreamGraph.cs" />
       <jump line="18" column="20" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/StreamGraph.cs" />
       <jump line="33" column="18" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" />
       <jump line="37" column="21" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" />
@@ -1481,13 +1487,16 @@
       <jump line="26" column="0" filename="D:/repositories/dotnet/ConsoleApplication3/ConsoleApplication3/Program.cs" />
       <jump line="22" column="36" filename="D:/repositories/dotnet/ConsoleApplication3/ConsoleApplication3/Program.cs" />
       <jump line="25" column="48" filename="D:/repositories/dotnet/ConsoleApplication3/ConsoleApplication3/Program.cs" />
+      <jump line="47" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
+      <jump line="62" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
+      <jump line="70" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>IFileSytemScanner sytemScanner</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Default</text>
