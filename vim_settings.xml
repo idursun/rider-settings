@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -51,6 +51,9 @@
         <mark key="]" line="323" column="0" />
         <mark key="." line="323" column="0" />
         <mark key="^" line="260" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ServerOverview/BannerViewModelSpec.js" timestamp="1526985526075">
+        <mark key="'" line="195" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/CachingChannelKeyIdProvider.cs" timestamp="1523456772446">
         <mark key="'" line="141" column="48" />
@@ -248,11 +251,12 @@
         <mark key="." line="70" column="38" />
         <mark key="^" line="70" column="129" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" timestamp="1526984152534">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="24" />
-        <mark key="^" line="3" column="78" />
-        <mark key="." line="16" column="24" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" timestamp="1526985998774">
+        <mark key="'" line="16" column="15" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/DatabasesViewActor.cs" timestamp="1522247845219">
         <mark key="'" line="30" column="33" />
@@ -485,7 +489,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526919157234">
+      <file name="/Dummy.txt" timestamp="1526986127872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -527,6 +531,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1526985989486">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" timestamp="1525355569927">
         <mark key="'" line="32667" column="55" />
@@ -838,6 +848,7 @@
         <mark key="." line="49" column="124" />
         <mark key="^" line="49" column="124" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureAuthentication/ConfirmAuthenticationTypeViewModelSpec.js" timestamp="1526985372094" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelTests.cs" timestamp="1526904567125">
         <mark key="'" line="107" column="8" />
         <mark key="[" line="68" column="0" />
@@ -1098,11 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersionLookup.cs" />
-      <jump line="52" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/package.json" />
-      <jump line="208" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
-      <jump line="129" column="72" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/SqlServerVersionLookup.cs" />
-      <jump line="15" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ErrorLogViewModel.js" />
       <jump line="5" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/SqlProcessesViewModel.js" />
       <jump line="67" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" />
       <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/SqlProcessesViewModel.js" />
@@ -1198,49 +1204,54 @@
       <jump line="50" column="29" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
       <jump line="52" column="100" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/DatabaseFile/AdequateSamplesDatabaseFileSizesDataLoaderTests.cs" />
       <jump line="40" column="61" filename="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/MockDataPresenter/PreStorage/MockDataPresenterBuilder.cs" />
+      <jump line="17" column="37" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
+      <jump line="195" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ServerOverview/BannerViewModelSpec.js" />
+      <jump line="39" column="24" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
+      <jump line="38" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
+      <jump line="16" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLnN0YXRlKCkucm93cyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>return mockResult;</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnVGVzdHMvV2VicGFja1Rlc3RzLyoqLypTcGVjLmpzJzogWyd3ZWJwYWNrJ10K</text>
+      <register name="0" type="4">
+        <text>RedGate.SqlMonitor.Ajax</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLnN0YXRlKCkucm93cyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxLZXkgPSBuZXcgQ2hhbm5lbEtleUJ1aWxkZXIoKS5BZGQoTmFtZXMuUm9vdC5DbHVzdGVyLk5hbWUuUHJvcGVydHlOYW1lLCAiY2x1c3RlcjEiKS5Ub0NoYW5uZWxLZXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRpbmcgc3RhdGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxLZXlCdWlsZGVyID0gbmV3IENoYW5uZWxLZXlCdWlsZGVyKCkuQWRkKE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLlByb3BlcnR5TmFtZSwgImNsdXN0ZXIxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtQcm9wZXJ0eUtpbmQuS2V5LCBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZS5Qcm9wZXJ0eU5hbWUsIERhdGVUaW1lLlV0Y05vdywgImNsdXN0ZXIxIn0K</text>
+        <text encoding="base64">ICAgICAgICBSZWRHYXRlLlNxbE1vbml0b3IuQWpheC5HZXQoIi9hcGkvRXN0YXRlL2Rpc2tzL2dldGFsbGRpc2tzIikuZG9uZSggZGF0YSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHN0YXRlJykKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHJvd3M6IGRhdGEgfSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkRGF0YVByZXNlbnRlciA9IG5ldyBNb2NrRGF0YVByZXNlbnRlckJ1aWxkZXIoRGF0ZVRpbWUuVXRjTm93KS5CdWlsZERhdGFQcmVzZW50ZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNvcnRlZERpYwo=</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnVwZGF0ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxJbnN0YW5jZURhdGEgPSBjaGFubmVsSW5zdGFuY2VEYXRhQnVpbGRlci5Ub0NoYW5uZWxJbnN0YW5jZURhdGEoKTsK</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnVwZGF0ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENoYW5uZWxJbnN0YW5jZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnVwZGF0ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coUmVkR2F0ZS5TcWxNb25pdG9yLkFqYXguR2V0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
