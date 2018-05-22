@@ -206,6 +206,11 @@
         <mark key="^" line="73" column="39" />
         <mark key="." line="73" column="39" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/DatabaseFile/AdequateSamplesDatabaseFileSizesDataLoaderTests.cs" timestamp="1526980323112">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/package.json" timestamp="1522146094992">
         <mark key="'" line="40" column="26" />
         <mark key="[" line="10" column="27" />
@@ -475,6 +480,9 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/MockDataPresenter/PreStorage/MockDataPresenterBuilder.cs" timestamp="1526979373906">
+        <mark key="'" line="40" column="61" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/ClientApp/components/Home.tsx" timestamp="1523031754668">
         <mark key="'" line="47" column="43" />
@@ -1068,8 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
-      <jump line="213" column="74" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
       <jump line="19" column="26" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/Sql/Versions/SqlServerVersionLookup.cs" />
       <jump line="52" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/package.json" />
       <jump line="208" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/ViewModelBuilders/InstanceMetricsViewModelBuilder.cs" />
@@ -1168,13 +1174,15 @@
       <jump line="32" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelFactoryTests.cs" />
       <jump line="39" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelFactoryTests.cs" />
       <jump line="50" column="29" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" />
+      <jump line="52" column="100" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/DatabaseFile/AdequateSamplesDatabaseFileSizesDataLoaderTests.cs" />
+      <jump line="40" column="61" filename="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/MockDataPresenter/PreStorage/MockDataPresenterBuilder.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dateTime.AddDays(-1), 500</text>
+        <text>new ChannelName(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
@@ -1189,28 +1197,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBhbGVydENvbmZpZ3VyYXRpb25Qcm92aWRlci5TZXR1cCh4ID0+IHguR2V0QWxlcnRDb25maWd1cmF0aW9uKEl0LklzQW55PEZ1bGxBbGVydFR5cGU+KCksIEl0LklzQW55PFF1YWxpZmllZENoYW5uZWxOYW1lPigpLCBJdC5Jc0FueTxDaGFubmVsSW5zdGFuY2VSZWY+KCkpKQovLyAgICAgICAgICAgICAgICAuUmV0dXJucyhuZXcgQWxlcnRDb25maWcobmV3IEZ1bGxBbGVydFR5cGUoYWxlcnRUeXBlKSwKLy8gICAgICAgICAgICAgICAgICAgIEdyb3VwT3JDaXIuQ2lyKGNpciksCi8vICAgICAgICAgICAgICAgICAgICBuZXcgWG1sRG9jdW1lbnQoKSwKLy8gICAgICAgICAgICAgICAgICAgIHRydWUsCi8vICAgICAgICAgICAgICAgICAgICBBbGVydE5vdGlmaWNhdGlvbi5Eb250RW1haWwsCi8vICAgICAgICAgICAgICAgICAgICBuZXcgTGlzdDxzdHJpbmc+KCksIDEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxLZXkgPSBuZXcgQ2hhbm5lbEtleUJ1aWxkZXIoKS5BZGQoTmFtZXMuUm9vdC5DbHVzdGVyLk5hbWUuUHJvcGVydHlOYW1lLCAiY2x1c3RlcjEiKS5Ub0NoYW5uZWxLZXkoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmV3IERhdGFiYXNlRmlsZVVzYWdlSGlzdG9yeSgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIExhc3RGaWxlU2l6ZSA9IDEwMDAsCiAgICAgICAgICAgICAgICBTaXplID0gbmV3IExpc3Q8KERhdGVUaW1lIGRhdGVUaW1lLCBsb25nIHZhbHVlKT4oKSwKICAgICAgICAgICAgICAgIFVzZWRTaXplID0gbmV3IExpc3Q8KERhdGVUaW1lIGRhdGVUaW1lLCBsb25nIHZhbHVlKT4oKSwKICAgICAgICAgICAgICAgIFNpemVBdFNldmVyaXR5VGltZSA9IDEwMDAKICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxLZXlCdWlsZGVyID0gbmV3IENoYW5uZWxLZXlCdWlsZGVyKCkuQWRkKE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLlByb3BlcnR5TmFtZSwgImNsdXN0ZXIxIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtQcm9wZXJ0eUtpbmQuS2V5LCBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZS5Qcm9wZXJ0eU5hbWUsIERhdGVUaW1lLlV0Y05vdywgImNsdXN0ZXIxIn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFsZXJ0VHlwZSA9IEJ1aWx0SW5BbGVydFR5cGVzLkRhdGFiYXNlRmlsZVVzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkRGF0YVByZXNlbnRlciA9IG5ldyBNb2NrRGF0YVByZXNlbnRlckJ1aWxkZXIoRGF0ZVRpbWUuVXRjTm93KS5CdWlsZERhdGFQcmVzZW50ZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNvcnRlZERpYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxJbnN0YW5jZURhdGEgPSBjaGFubmVsSW5zdGFuY2VEYXRhQnVpbGRlci5Ub0NoYW5uZWxJbnN0YW5jZURhdGEoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNpciA9IENoYW5uZWxJbnN0YW5jZVJlZi5Sb290V2l0aEVtcHR5S2V5OwogICAgICAgICAgICB2YXIgZGF0ZVRpbWUgPSBEYXRlVGltZS5VdGNOb3c7CiAgICAgICAgICAgIHZhciBwcm9wZXJ0aWVzID0gbmV3IERhdGFiYXNlRmlsZVByb3BlcnRpZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENoYW5uZWxJbnN0YW5jZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
