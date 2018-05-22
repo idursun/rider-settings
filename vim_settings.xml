@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -16,6 +16,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="30" column="15" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1526990352418">
+        <mark key="[" line="108" column="102" />
+        <mark key="]" line="108" column="118" />
+        <mark key="." line="108" column="118" />
+        <mark key="^" line="108" column="118" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525097473102">
         <mark key="'" line="58" column="59" />
@@ -201,8 +207,8 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" timestamp="1524747100219">
-        <mark key="'" line="69" column="68" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" timestamp="1526990819347">
+        <mark key="'" line="22" column="19" />
         <mark key="[" line="73" column="29" />
         <mark key="]" line="73" column="39" />
         <mark key="^" line="73" column="39" />
@@ -318,12 +324,6 @@
         <mark key="]" line="24" column="92" />
         <mark key="." line="24" column="92" />
         <mark key="^" line="24" column="92" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/Database/DatabaseFileTimeRemainingAlerterTests.cs" timestamp="1526916524490">
-        <mark key="'" line="92" column="39" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tools/Manipulator/ManipulatorModules/Common/PacketSniffing.cs" timestamp="1525773130011">
         <mark key="'" line="978" column="16" />
@@ -447,6 +447,12 @@
         <mark key="]" line="6" column="71" />
         <mark key="^" line="6" column="71" />
         <mark key="." line="6" column="71" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1526990371539">
+        <mark key="[" line="11" column="102" />
+        <mark key="]" line="11" column="118" />
+        <mark key="." line="11" column="118" />
+        <mark key="^" line="11" column="118" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Networking/RpcTestsBase.cs" timestamp="1524738628996">
         <mark key="'" line="80" column="38" />
@@ -775,10 +781,6 @@
         <mark key="]" line="57" column="11" />
         <mark key="." line="57" column="11" />
         <mark key="^" line="57" column="11" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Email/EmailNotificationSenderTests.cs" timestamp="1526918362762">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="66" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyIdLoaderOrInserter.cs" timestamp="1522850860567">
         <mark key="'" line="7" column="37" />
@@ -1109,7 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/SqlProcessesViewModel.js" />
       <jump line="67" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" />
       <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/SqlProcessesViewModel.js" />
       <jump line="22" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" />
@@ -1209,13 +1210,14 @@
       <jump line="39" column="24" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
       <jump line="38" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
       <jump line="16" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
+      <jump line="22" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLnN0YXRlKCkucm93cyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SQM</text>
       </register>
       <register name="-" type="4">
-        <text>return mockResult;</text>
+        <text>SQM</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
