@@ -183,8 +183,6 @@
         <mark key="'" line="7" column="30" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" timestamp="1526918835903">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
         <mark key="^" line="0" column="34" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertMetricsRepositoryIntegrationTests/GetNewerAlertId.cs" timestamp="1519294172389">
