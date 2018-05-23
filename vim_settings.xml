@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -189,9 +189,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/IPurgeSettingsRepository.cs" timestamp="1525355413103">
         <mark key="'" line="7" column="30" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertTypeModels/DatabaseFile/DatabaseFileUsageViewModelFactory.cs" timestamp="1526918835903">
-        <mark key="^" line="0" column="34" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertMetricsRepositoryIntegrationTests/GetNewerAlertId.cs" timestamp="1519294172389">
         <mark key="'" line="51" column="43" />
@@ -495,6 +492,9 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterDiskInfoMessage.cs" timestamp="1527066889105">
+        <mark key="[" line="45" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1526986127872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -707,8 +707,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigChannelHolder.cs" timestamp="1523455723736">
         <mark key="'" line="19" column="48" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1524745459619">
-        <mark key="'" line="36" column="60" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1527066885196">
+        <mark key="'" line="27" column="36" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" timestamp="1526571805439">
         <mark key="'" line="1246" column="20" />
@@ -1096,11 +1096,11 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" timestamp="1524745453858">
         <mark key="'" line="19" column="45" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1526984212543">
-        <mark key="[" line="99" column="9" />
-        <mark key="]" line="99" column="8" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527067003936">
+        <mark key="[" line="155" column="16" />
+        <mark key="]" line="155" column="16" />
         <mark key="^" line="99" column="8" />
-        <mark key="." line="99" column="8" />
+        <mark key="." line="155" column="16" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" timestamp="1525269102498">
         <mark key="'" line="200" column="77" />
@@ -1111,7 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" />
       <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/SqlProcessesViewModel.js" />
       <jump line="22" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" />
       <jump line="0" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_TopQueries.cshtml" />
@@ -1211,13 +1210,14 @@
       <jump line="38" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
       <jump line="16" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
       <jump line="22" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" />
+      <jump line="27" column="36" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SQM</text>
+        <text>Chrome</text>
       </register>
       <register name="-" type="4">
-        <text>SQM</text>
+        <text>Chrome</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
