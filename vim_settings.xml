@@ -37,6 +37,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" timestamp="1527070749277">
+        <mark key="'" line="53" column="54" />
+        <mark key="[" line="0" column="101" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1526154238842">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="55" column="9" />
@@ -163,6 +170,12 @@
         <mark key="." line="85" column="69" />
         <mark key="^" line="85" column="69" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DiskUsageViewModel.cs" timestamp="1527070043264">
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="63" />
+        <mark key="^" line="30" column="63" />
+        <mark key="." line="30" column="63" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/RunningQueriesSampleActor.cs" timestamp="1520600441913">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="3" column="0" />
@@ -249,12 +262,12 @@
         <mark key="." line="70" column="38" />
         <mark key="^" line="70" column="129" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" timestamp="1526985998774">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" timestamp="1527069598709">
         <mark key="'" line="16" column="15" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="16" column="12" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/DatabasesViewActor.cs" timestamp="1522247845219">
         <mark key="'" line="30" column="33" />
@@ -283,11 +296,11 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_TopQueries.cshtml" timestamp="1526551616173">
         <mark key="'" line="0" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/package.json" timestamp="1526983535293">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/package.json" timestamp="1527069278454">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/Index.cshtml" timestamp="1521715133987">
         <mark key="'" line="395" column="80" />
@@ -344,7 +357,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/services/EstateDiskService.js" timestamp="1527067558413" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/services/EstateDiskService.js" timestamp="1527070325382">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="41" column="32" />
+        <mark key="^" line="41" column="32" />
+        <mark key="." line="41" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c380e58b-7ffa-46fc-b72f-fcdbb9043cc6/console_1.sql" timestamp="1523031570604">
         <mark key="'" line="180" column="1" />
         <mark key="[" line="200" column="29" />
@@ -488,14 +506,11 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterDiskInfoMessage.cs" timestamp="1527066889105">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/DatabaseFile/ClusterDiskInfoMessage.cs" timestamp="1527069957899">
         <mark key="[" line="45" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526986127872">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+        <mark key="." line="41" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tools/TestUtilities/MockDataPresenter/PreStorage/MockDataPresenterBuilder.cs" timestamp="1526979373906">
         <mark key="'" line="40" column="61" />
@@ -534,11 +549,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1526985989486">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="7" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1527070770664">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" timestamp="1525355569927">
         <mark key="'" line="32667" column="55" />
@@ -625,6 +640,13 @@
         <mark key="^" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskServiceSpec.js" timestamp="1527070582967">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="26" />
+        <mark key="^" line="52" column="26" />
+        <mark key="." line="52" column="26" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Retention/DataRetentionManager.cs" timestamp="1525349002438">
         <mark key="'" line="223" column="35" />
       </file>
@@ -703,13 +725,13 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertConfigChannelHolder.cs" timestamp="1523455723736">
         <mark key="'" line="19" column="48" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1527066885196">
-        <mark key="'" line="27" column="36" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1527069955922">
+        <mark key="'" line="32" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" timestamp="1526571805439">
         <mark key="'" line="1246" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1526983480041" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1527069004047" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" timestamp="1523628713935">
         <mark key="'" line="8" column="129" />
         <mark key="[" line="0" column="0" />
@@ -999,6 +1021,9 @@
         <mark key="." line="95" column="16" />
         <mark key="^" line="98" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" timestamp="1527070026068">
+        <mark key="'" line="52" column="47" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" timestamp="1520416743191">
         <mark key="'" line="59" column="32" />
         <mark key="[" line="56" column="23" />
@@ -1051,6 +1076,12 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="31" column="77" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/package.json" timestamp="1527069271985">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="27" />
+        <mark key="^" line="61" column="27" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerts/EntitiesCirFilterBuilder.cs" timestamp="1519292428371">
         <mark key="'" line="117" column="47" />
         <mark key="[" line="44" column="9" />
@@ -1092,12 +1123,13 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" timestamp="1524745453858">
         <mark key="'" line="19" column="45" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527067032558">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527069924302">
         <mark key="[" line="155" column="16" />
-        <mark key="]" line="155" column="16" />
-        <mark key="^" line="99" column="8" />
-        <mark key="." line="155" column="16" />
+        <mark key="]" line="157" column="15" />
+        <mark key="^" line="157" column="15" />
+        <mark key="." line="157" column="15" />
       </file>
+      <file name="/karma.conf.js" timestamp="1527069817069" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" timestamp="1525269102498">
         <mark key="'" line="200" column="77" />
         <mark key="[" line="200" column="0" />
@@ -1107,11 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/SqlProcessesViewModel.js" />
-      <jump line="22" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/DatabasesViewModel.js" />
-      <jump line="0" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_TopQueries.cshtml" />
-      <jump line="12" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/QueriesAndWaits.js" />
-      <jump line="128" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="93" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="330" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="37" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" />
@@ -1207,49 +1234,54 @@
       <jump line="16" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
       <jump line="22" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" />
       <jump line="27" column="36" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" />
+      <jump line="32" column="21" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" />
+      <jump line="52" column="47" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
+      <jump line="56" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskServiceSpec.js" />
+      <jump line="10" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
+      <jump line="52" column="54" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Chrome</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UmVuYW1lIHByb2plY3Rpb24gcHJvcGVydGllcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Chrome</text>
+        <text>Add fetch polyfill to test project</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
-      <register name="0" type="4">
-        <text>RedGate.SqlMonitor.Ajax</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJ3aGF0d2ctZmV0Y2giOiAiXjIuMC40Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLnN0YXRlKCkucm93cyk7Cg==</text>
+        <text encoding="base64">UmVuYW1lIHByb2plY3Rpb24gcHJvcGVydGllcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRpbmcgc3RhdGUnKQo=</text>
+        <text encoding="base64">CiAgICBhZnRlckFsbCgoKSA9PiB7CiAgICB9KTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBSZWRHYXRlLlNxbE1vbml0b3IuQWpheC5HZXQgPSBhamF4R2V0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRHYXRlLlNxbE1vbml0b3IuQWpheC5HZXQoIi9hcGkvRXN0YXRlL2Rpc2tzL2dldGFsbGRpc2tzIikuZG9uZSggZGF0YSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHN0YXRlJykKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHJvd3M6IGRhdGEgfSkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGxldCBhamF4R2V0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbW9ja1Jlc3VsdCA9IHsKICAgICAgICAgICAgZG9uZTogZnVuY3Rpb24gKGNhbGxiYWNrKSB7CiAgICAgICAgICAgICAgICBjYWxsYmFjayhbMSwyLDQsM10pOwogICAgICAgICAgICB9CiAgICAgICAgfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzcHlPbihSZWRHYXRlLlNxbE1vbml0b3IuQWpheCwgJ0dldCcpLmFuZC5yZXR1cm5WYWx1ZShtb2NrUmVzdWx0KTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyLnVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhamF4R2V0ID0gUmVkR2F0ZS5TcWxNb25pdG9yLkFqYXguR2V0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coUmVkR2F0ZS5TcWxNb25pdG9yLkFqYXguR2V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
