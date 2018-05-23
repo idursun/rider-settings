@@ -170,12 +170,6 @@
         <mark key="." line="85" column="69" />
         <mark key="^" line="85" column="69" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DiskUsageViewModel.cs" timestamp="1527070043264">
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="30" column="63" />
-        <mark key="^" line="30" column="63" />
-        <mark key="." line="30" column="63" />
-      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/RunningQueriesSampleActor.cs" timestamp="1520600441913">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="3" column="0" />
@@ -297,10 +291,10 @@
         <mark key="'" line="0" column="22" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/package.json" timestamp="1527072413626">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="31" column="37" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/Index.cshtml" timestamp="1521715133987">
         <mark key="'" line="395" column="80" />
@@ -734,7 +728,6 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ContentSource/GlobalDashboard.scss" timestamp="1526571805439">
         <mark key="'" line="1246" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1527069004047" />
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/MachineKeyPersisterActor.cs" timestamp="1523628713935">
         <mark key="'" line="8" column="129" />
         <mark key="[" line="0" column="0" />
@@ -871,7 +864,6 @@
         <mark key="." line="49" column="124" />
         <mark key="^" line="49" column="124" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureAuthentication/ConfirmAuthenticationTypeViewModelSpec.js" timestamp="1526985372094" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/AlertType/DatabaseFile/DatabaseFileUsageViewModelTests.cs" timestamp="1526904567125">
         <mark key="'" line="107" column="8" />
         <mark key="[" line="68" column="0" />
@@ -1132,7 +1124,6 @@
         <mark key="^" line="157" column="15" />
         <mark key="." line="157" column="15" />
       </file>
-      <file name="/karma.conf.js" timestamp="1527069817069" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" timestamp="1525269102498">
         <mark key="'" line="200" column="77" />
         <mark key="[" line="200" column="0" />
