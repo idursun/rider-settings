@@ -296,10 +296,10 @@
         <mark key="'" line="0" column="22" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/package.json" timestamp="1527072413626">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="37" />
-        <mark key="^" line="33" column="37" />
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/Index.cshtml" timestamp="1521715133987">
         <mark key="'" line="395" column="80" />
@@ -550,12 +550,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1527070770664">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="6" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlSchemaVersions/Seq172.sql" timestamp="1525355569927">
         <mark key="'" line="32667" column="55" />
@@ -1146,10 +1140,10 @@
         <mark key="'" line="19" column="45" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527069924302">
-        <mark key="[" line="155" column="16" />
-        <mark key="]" line="157" column="15" />
-        <mark key="^" line="157" column="15" />
-        <mark key="." line="157" column="15" />
+        <mark key="[" line="153" column="16" />
+        <mark key="]" line="155" column="15" />
+        <mark key="^" line="155" column="15" />
+        <mark key="." line="155" column="15" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureLicensingController.cs" timestamp="1525269102498">
         <mark key="'" line="200" column="77" />
