@@ -211,11 +211,6 @@
         <mark key="^" line="73" column="39" />
         <mark key="." line="73" column="39" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Core/DatabaseFile/AdequateSamplesDatabaseFileSizesDataLoaderTests.cs" timestamp="1526980323112">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/MonitorWithAkka.Web/package.json" timestamp="1522146094992">
         <mark key="'" line="40" column="26" />
         <mark key="[" line="10" column="27" />
@@ -349,6 +344,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/services/EstateDiskService.js" timestamp="1527067558413" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c380e58b-7ffa-46fc-b72f-fcdbb9043cc6/console_1.sql" timestamp="1523031570604">
         <mark key="'" line="180" column="1" />
         <mark key="[" line="200" column="29" />
@@ -1096,7 +1092,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageClientStub.cs" timestamp="1524745453858">
         <mark key="'" line="19" column="45" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527067003936">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527067032558">
         <mark key="[" line="155" column="16" />
         <mark key="]" line="155" column="16" />
         <mark key="^" line="99" column="8" />
