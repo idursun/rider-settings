@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -9,6 +9,12 @@
         <mark key="]" line="15" column="89" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="72" column="58" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/DirectToRouteStep.cs" timestamp="1527188057056">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcProxyGenerator.cs" timestamp="1525097473102">
         <mark key="'" line="58" column="59" />
@@ -30,12 +36,16 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1526930591584">
-        <mark key="'" line="22" column="26" />
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="63" column="11" />
-        <mark key="^" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sources/HttpSource.cs" timestamp="1527187396780">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="67" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Route.cs" timestamp="1527187313872">
+        <mark key="'" line="19" column="26" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" timestamp="1525424706098">
         <mark key="'" line="43" column="46" />
@@ -330,13 +340,6 @@
         <mark key="." line="395" column="80" />
         <mark key="^" line="395" column="80" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sources/FileSource.cs" timestamp="1526930911739">
-        <mark key="'" line="8" column="26" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Mappers/AlertsGroupDetailModelMapper.cs" timestamp="1520264570310">
         <mark key="'" line="20" column="30" />
         <mark key="[" line="24" column="81" />
@@ -370,11 +373,11 @@
         <mark key="." line="76" column="58" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sinks/ConsoleSink.cs" timestamp="1526151032337">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="85" />
-        <mark key="." line="8" column="85" />
-        <mark key="^" line="8" column="85" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sinks/ConsoleSink.cs" timestamp="1527187904299">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/SourceDefinitions/MarshalSourceExtensions.cs" timestamp="1526931285726">
         <mark key="'" line="6" column="49" />
@@ -415,6 +418,12 @@
         <mark key="]" line="43" column="36" />
         <mark key="^" line="32" column="7" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/SplitterStep.cs" timestamp="1527187989491">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/SqlServerInstancesViewActor.cs" timestamp="1522332151835">
         <mark key="'" line="32" column="54" />
@@ -507,7 +516,7 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526931910752">
+      <file name="/Dummy.txt" timestamp="1527188817105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -676,6 +685,18 @@
         <mark key="^" line="64" column="78" />
         <mark key="." line="64" column="78" />
       </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HttpRequestProcessor.cs" timestamp="1527187523823">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527188682001">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="63" />
+      </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/SourceDefinitions/TimerSourceDefinition.cs" timestamp="1526929502284">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="8" column="7" />
@@ -824,8 +845,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/TransformStep.cs" timestamp="1526153248712">
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/TransformStep.cs" timestamp="1527187946510">
         <mark key="'" line="6" column="25" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/Messages.cs" timestamp="1523357350198">
         <mark key="'" line="65" column="8" />
@@ -974,11 +999,12 @@
         <mark key="." line="160" column="52" />
         <mark key="^" line="160" column="52" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" timestamp="1527185681168">
-        <mark key="'" line="17" column="30" />
-        <mark key="[" line="31" column="93" />
-        <mark key="]" line="31" column="91" />
-        <mark key="." line="31" column="91" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Program.cs" timestamp="1527188577540">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseQuerySamplerActor.cs" timestamp="1520601800190">
         <mark key="'" line="48" column="24" />
@@ -1056,6 +1082,12 @@
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Definitions/HttpRequestDefinition.cs" timestamp="1527187327287">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Api/AnnotationsController.cs" timestamp="1524746076520">
         <mark key="'" line="12" column="44" />
       </file>
@@ -1106,12 +1138,12 @@
         <mark key="^" line="6" column="105" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1526931536332">
-        <mark key="'" line="38" column="26" />
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="53" column="44" />
-        <mark key="." line="53" column="44" />
-        <mark key="^" line="53" column="44" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1527187913206">
+        <mark key="'" line="34" column="26" />
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="58" />
+        <mark key="." line="63" column="58" />
+        <mark key="^" line="63" column="58" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent.UnitTests/UnitTest1.cs" timestamp="1522245013485">
         <mark key="'" line="15" column="29" />
@@ -1399,46 +1431,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>.Attributes[0].Value</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>.Attributes[0].Value</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbGVTdHJlYW0gPSBGaWxlLk9wZW5SZWFkKGZpbGVQYXRoKTsKICAgICAgICAgICAgX3N0cmVhbVJlYWRlciA9IG5ldyBTdHJlYW1SZWFkZXIoZmlsZVN0cmVhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5aWVsZCByZXR1cm4gbWVzc2FnZS5XaXRoQm9keShub2RlLkF0dHJpYnV0ZXNbMF0uVmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLlNvdXJjZURlZmluaXRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLlNvdXJjZURlZmluaXRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBtZXNzYWdlLldpdGhCb2R5KG5vZGUuQXR0cmlidXRlc1swXS5WYWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIFJlYWQoKTsKICAgICAgICBib29sIEhhc01vcmUgeyBnZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBXcml0ZShNZXNzYWdlIG1lc3NhZ2UpCiAgICAgICAgewogICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTWVzc2FnZSBSZWFkKCkKICAgICAgICB7CiAgICAgICAgICAgIHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBib29sIEhhc01vcmUgeyBnZXQ7IH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLkNvbnNvbGUuV3JpdGVMaW5lKG1lc3NhZ2UuQm9keSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBleGVjdXRvci5BZGQocm91dGUyKTsKLy8gICAgICAgICAgICBleGVjdXRvci5BZGQocm91dGUzKTsKLy8gICAgICAgICAgICBleGVjdXRvci5BZGQocm91dGU0KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTWVzc2FnZSBSZWFkKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgTWVzc2FnZSgpCiAgICAgICAgICAgICAgICAuV2l0aEJvZHkoX3N0cmVhbVJlYWRlci5SZWFkTGluZSgpKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBib29sIEhhc01vcmUgPT4gIV9zdHJlYW1SZWFkZXIuRW5kT2ZTdHJlYW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbGVTdHJlYW0gPSBGaWxlLk9wZW5SZWFkKGZpbGVQYXRoKTsKICAgICAgICAgICAgX3N0cmVhbVJlYWRlciA9IG5ldyBTdHJlYW1SZWFkZXIoZmlsZVN0cmVhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
