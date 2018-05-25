@@ -521,8 +521,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="16" column="52" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" timestamp="1527249574900">
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" timestamp="1527251352001">
         <mark key="'" line="32" column="25" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerts/ActiveEntitiesCirFilterBuilder.cs" timestamp="1519234183549">
         <mark key="'" line="106" column="0" />
@@ -1317,8 +1320,8 @@
       <jump line="32" column="25" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, Date: ${this.x}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>, Date: ${this.x}</text>
@@ -1330,34 +1333,34 @@
         <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uPGRvdWJsZT4gQWRkT3B0aW9uYWxEb3VibGVzKE9wdGlvbjxkb3VibGU+IGFjYywgT3B0aW9uPGRvdWJsZT4gbmV4dCkgPT4gT3B0aW9uLkNvbWJpbmUoKHgsIHkpID0+IHggKyB5LCBhY2MsIG5leHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBhaXIgaW4gdXNlZFRvdGFsKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBhaXIgaW4gdXNlZFRvdGFsKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG15U3RyZWFtID0gbmV3IE11dGFibGVWYWx1ZVN0cmVhbTxsb25nPigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG15U3RyZWFtID0gbmV3IE11dGFibGVWYWx1ZVN0cmVhbTxsb25nPigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVTdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVTdHJlYW08bG9uZz4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVTdHJlYW0uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXh0LklzTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVTdHJlYW08bG9uZz4uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXh0LklzTm9uZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
