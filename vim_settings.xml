@@ -762,10 +762,10 @@
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/ConsoleProcessor.cs" timestamp="1527276482187">
         <mark key="'" line="6" column="44" />
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/DatabaseListSamplerActor.cs" timestamp="1521213882182">
         <mark key="'" line="6" column="44" />
@@ -1013,10 +1013,10 @@
         <mark key="." line="46" column="42" />
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/IStep.cs" timestamp="1527276510005">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/MonitoredEntityDetailsController.cs" timestamp="1525269527986">
         <mark key="[" line="76" column="92" />
@@ -1362,12 +1362,6 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
-      </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/ProcessStep.cs" timestamp="1527276744284">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/Machine/ProcessPersisterActor.cs" timestamp="1523628727201">
         <mark key="'" line="9" column="12" />
