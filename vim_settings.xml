@@ -256,12 +256,12 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" timestamp="1527682569608">
-        <mark key="'" line="106" column="15" />
-        <mark key="[" line="31" column="71" />
-        <mark key="]" line="65" column="32" />
-        <mark key="^" line="65" column="32" />
-        <mark key="." line="65" column="32" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" timestamp="1527685157841">
+        <mark key="'" line="108" column="15" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="50" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyTableSchemaGenerator.cs" timestamp="1523022885797">
         <mark key="'" line="50" column="17" />
@@ -1320,17 +1320,17 @@
       <jump line="32" column="25" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>nextYear</text>
       </register>
       <register name="-" type="4">
-        <text>, Date: ${this.x}</text>
+        <text>nextYear</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uPGRvdWJsZT4gQWRkT3B0aW9uYWxEb3VibGVzKE9wdGlvbjxkb3VibGU+IGFjYywgT3B0aW9uPGRvdWJsZT4gbmV4dCkgPT4gT3B0aW9uLkNvbWJpbmUoKHgsIHkpID0+IHggKyB5LCBhY2MsIG5leHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsYXN0VHJlbmRsaW5lUG9pbnQgPSBbbmV4dFllYXIsIHN1bW1hcnkudG90YWxQcm9qZWN0ZWRTaXplXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
