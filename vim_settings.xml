@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/ClusterKeyPersistenceActor.cs" timestamp="1523377191818">
@@ -256,12 +256,12 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" timestamp="1527685157841">
-        <mark key="'" line="108" column="15" />
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="50" />
-        <mark key="^" line="19" column="50" />
-        <mark key="." line="19" column="50" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" timestamp="1527688804170">
+        <mark key="'" line="114" column="15" />
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyTableSchemaGenerator.cs" timestamp="1523022885797">
         <mark key="'" line="50" column="17" />
@@ -1321,16 +1321,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nextYear</text>
+        <text>-intercept / gradient</text>
       </register>
       <register name="-" type="4">
-        <text>nextYear</text>
+        <text>-intercept / gradient</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsYXN0VHJlbmRsaW5lUG9pbnQgPSBbbmV4dFllYXIsIHN1bW1hcnkudG90YWxQcm9qZWN0ZWRTaXplXTsK</text>
+      <register name="0" type="4">
+        <text>-intercept / gradient</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
