@@ -51,12 +51,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="95" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" timestamp="1527850046527">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="65" column="10" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/Usage/FurReporter.cs" timestamp="1525870078308">
         <mark key="'" line="82" column="21" />
         <mark key="[" line="101" column="48" />
@@ -84,6 +78,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" timestamp="1525424706098">
         <mark key="'" line="43" column="46" />
         <mark key="[" line="27" column="50" />
@@ -105,11 +104,11 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1527860408734">
-        <mark key="[" line="12" column="56" />
-        <mark key="]" line="12" column="70" />
-        <mark key="." line="12" column="70" />
-        <mark key="^" line="12" column="70" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1527862475278">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Marshallers/CsvMarshaller.cs" timestamp="1527861016688">
         <mark key="[" line="24" column="74" />
@@ -138,12 +137,6 @@
         <mark key="^" line="335" column="67" />
         <mark key="." line="335" column="67" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskGraphSpec.jsx" timestamp="1527850639827">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="33" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageServerStub.cs" timestamp="1527092398082">
         <mark key="'" line="23" column="48" />
         <mark key="[" line="24" column="52" />
@@ -157,6 +150,11 @@
         <mark key="]" line="52" column="26" />
         <mark key="^" line="52" column="26" />
         <mark key="." line="52" column="26" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent.UnitTests/PersistenceActorTests.cs" timestamp="1522246069011">
         <mark key="'" line="21" column="43" />
@@ -223,6 +221,12 @@
         <mark key="." line="195" column="63" />
         <mark key="^" line="195" column="63" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/boot.tsx" timestamp="1527863181790">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/SQL/DatabaseListSamplerActor.cs" timestamp="1524836431326">
         <mark key="'" line="8" column="48" />
         <mark key="[" line="28" column="40" />
@@ -270,6 +274,13 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="10" column="50" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" timestamp="1527866048655">
+        <mark key="'" line="62" column="34" />
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="37" column="53" />
+      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/EntityMonitorActor.cs" timestamp="1521818563316">
         <mark key="'" line="37" column="68" />
         <mark key="[" line="37" column="86" />
@@ -303,6 +314,12 @@
         <mark key="]" line="25" column="36" />
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Layout.tsx" timestamp="1527864499321">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/BaseMonitorConnectionProvider.cs" timestamp="1524751273934">
         <mark key="'" line="330" column="40" />
@@ -358,13 +375,6 @@
         <mark key="]" line="35" column="92" />
         <mark key="^" line="35" column="92" />
         <mark key="." line="35" column="92" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/services/EstateDiskProjectionService.js" timestamp="1527850781991">
-        <mark key="'" line="37" column="38" />
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="37" column="20" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Samplers/RunningQueriesSampleActor.cs" timestamp="1520600441913">
         <mark key="'" line="14" column="0" />
@@ -471,6 +481,13 @@
         <mark key="^" line="91" column="74" />
         <mark key="." line="91" column="74" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="97" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="105" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertMetricsRepositoryIntegrationTests/GetNewerAlertId.cs" timestamp="1519294172389">
         <mark key="'" line="51" column="43" />
         <mark key="[" line="46" column="73" />
@@ -491,6 +508,11 @@
         <mark key="]" line="20" column="70" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="15" column="38" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" timestamp="1526990819347">
         <mark key="'" line="22" column="19" />
@@ -534,13 +556,6 @@
         <mark key="^" line="15" column="65" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" timestamp="1527848835404">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="100" column="35" />
-      </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/KeyInsertStatementGenerator.cs" timestamp="1522849943790">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="10" column="77" />
@@ -554,6 +569,9 @@
         <mark key="]" line="27" column="78" />
         <mark key="." line="27" column="78" />
         <mark key="^" line="63" column="167" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/node_modules/@types/react/index.d.ts" timestamp="1527865678807">
+        <mark key="'" line="247" column="16" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Networking/Client/RpcSynchronousChannel.cs" timestamp="1524829544123">
         <mark key="'" line="77" column="42" />
@@ -745,6 +763,11 @@
         <mark key="]" line="51" column="20" />
         <mark key="^" line="51" column="20" />
         <mark key="." line="51" column="20" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/NavMenu.tsx" timestamp="1527863657762">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/Cluster/SqlServer/SqlServerKeyPersisterActor.cs" timestamp="1523628779410">
         <mark key="'" line="23" column="12" />
@@ -1099,7 +1122,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527861289382">
+      <file name="/Dummy.txt" timestamp="1527866051598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1131,6 +1154,11 @@
         <mark key="]" line="35" column="59" />
         <mark key="^" line="18" column="51" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" timestamp="1527863680237">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/SourceDefinitions/FileSourceDefinition.cs" timestamp="1527185019382">
         <mark key="'" line="3" column="40" />
@@ -1200,13 +1228,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1527853704301">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="12" column="67" />
-        <mark key="]" line="12" column="67" />
-        <mark key="." line="12" column="67" />
-        <mark key="^" line="17" column="70" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527848974618">
         <mark key="[" line="155" column="16" />
         <mark key="]" line="157" column="15" />
@@ -1236,12 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="54" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
-      <jump line="70" column="31" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
-      <jump line="75" column="119" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
-      <jump line="76" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
-      <jump line="71" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskProjectionServiceSpec.js" />
-      <jump line="104" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="40" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
       <jump line="79" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
       <jump line="22" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DiskUsageViewModel.cs" />
@@ -1336,49 +1351,55 @@
       <jump line="22" column="25" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/HttpSource.cs" />
       <jump line="8" column="23" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/MarshalSourceExtensions.cs" />
       <jump line="23" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/WaitingSource.cs" />
+      <jump line="14" column="31" filename="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" />
+      <jump line="0" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" />
+      <jump line="28" column="20" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
+      <jump line="32" column="13" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
+      <jump line="247" column="16" filename="D:/repositories/dotnet/etl-spike/ETL.Web/node_modules/@types/react/index.d.ts" />
+      <jump line="62" column="34" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RHJvcGRvd24sIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Definition</text>
+        <text encoding="base64">RHJvcGRvd24sIA==</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSHR0cFNvdXJjZShJRXhwcmVzc2lvbiB1cmxFeHByZXNzaW9uKQogICAgICAgIHsKICAgICAgICAgICAgX3VybEV4cHJlc3Npb24gPSB1cmxFeHByZXNzaW9uOwogICAgICAgICAgICBIYXNNb3JlID0gdHJ1ZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gY29sb3I9J2dyZWVuJz5BZGQgSFRNTC4uLjwvQnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlOiBudWxsLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLkRlZmluaXRpb25zLlNvdXJjZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFdhaXRpbmdTb3VyY2VEZWZpbml0aW9uIDogSVNvdXJjZURlZmluaXRpb24KICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIFNvdXJjZVJvdXRlTmFtZSB7IGdldDsgfQoKICAgICAgICBwdWJsaWMgV2FpdGluZ1NvdXJjZURlZmluaXRpb24oc3RyaW5nIHNvdXJjZVJvdXRlTmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIFNvdXJjZVJvdXRlTmFtZSA9IHNvdXJjZVJvdXRlTmFtZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBJU291cmNlIENyZWF0ZVNvdXJjZSgpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IFdhaXRpbmdTb3VyY2UobnVsbCwgU291cmNlUm91dGVOYW1lKTsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGZpeCB0aGlzCg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IHN0cmluZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIG91dHB1dHM6IElQcm9jZXNzRGVmaW5pdGlvbltdOwogICAgc291cmNlOiBJU291cmNlRGVmaW5pdGlvbltdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLkRlZmluaXRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDxEcm9wZG93biB0ZXh0PSdBZGQgU291cmNlLi4uJyBjb2xvcj0nZ3JlZW4nIG9wdGlvbnM9e3RoaXMub3B0aW9uc30vPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzTW9yZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
