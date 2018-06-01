@@ -72,8 +72,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="34" column="58" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/FileSource.cs" timestamp="1527856833046">
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/FileSource.cs" timestamp="1527860555571">
         <mark key="'" line="18" column="37" />
+        <mark key="[" line="24" column="5" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/PurgeSettingsRepositoryTests.cs" timestamp="1525424706098">
         <mark key="'" line="43" column="46" />
@@ -95,6 +96,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="4" column="65" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1527860408734">
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
       </file>
       <file name="D:/repositories/dotnet/MonitorWithAkka/SamplerAgent/Actors/Persistence/MachinePersistenceActor.cs" timestamp="1523377130132">
         <mark key="'" line="9" column="0" />
@@ -314,11 +321,11 @@
         <mark key="^" line="45" column="11" />
         <mark key="." line="45" column="11" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/AkkaRouteExecuter.cs" timestamp="1527857470867">
-        <mark key="[" line="26" column="107" />
-        <mark key="]" line="26" column="107" />
-        <mark key="^" line="26" column="110" />
-        <mark key="." line="26" column="107" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/AkkaRouteExecuter.cs" timestamp="1527859617645">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="39" column="67" />
+        <mark key="^" line="39" column="67" />
+        <mark key="." line="39" column="67" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/services/EstateDiskProjectionService.js" timestamp="1527850781991">
         <mark key="'" line="37" column="38" />
@@ -334,12 +341,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" timestamp="1527857516643">
-        <mark key="'" line="84" column="57" />
-        <mark key="[" line="86" column="63" />
-        <mark key="]" line="86" column="75" />
-        <mark key="." line="86" column="75" />
-        <mark key="^" line="86" column="75" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" timestamp="1527859578099">
+        <mark key="'" line="54" column="25" />
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="61" column="25" />
+        <mark key="." line="61" column="25" />
+        <mark key="^" line="61" column="25" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" timestamp="1527091525840">
         <mark key="'" line="126" column="12" />
@@ -375,6 +382,9 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Route.cs" timestamp="1527860519301">
+        <mark key="'" line="19" column="27" />
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/TransformStep.cs" timestamp="1526153248712">
         <mark key="'" line="6" column="25" />
@@ -748,6 +758,7 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Startup.cs" timestamp="1527860252355" />
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="62" />
@@ -977,6 +988,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="16" column="52" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" timestamp="1527860501217">
+        <mark key="'" line="27" column="31" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="70" />
+        <mark key="^" line="46" column="67" />
+        <mark key="." line="46" column="67" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RandomFilterDefinition.cs" timestamp="1527854516492">
         <mark key="'" line="4" column="42" />
       </file>
@@ -1043,7 +1061,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527857658712">
+      <file name="/Dummy.txt" timestamp="1527860443338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1173,10 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
-      <jump line="38" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
-      <jump line="16" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskPageSpec.jsx" />
-      <jump line="22" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksController.cs" />
       <jump line="27" column="36" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" />
       <jump line="32" column="21" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/DatabaseFile/DiskUsageInfoExtensions.cs" />
       <jump line="56" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/EstateDiskServiceSpec.js" />
@@ -1273,49 +1287,53 @@
       <jump line="70" column="20" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" />
       <jump line="73" column="47" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" />
       <jump line="84" column="57" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" />
+      <jump line="86" column="51" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" />
+      <jump line="54" column="25" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RouteExecutorActor.cs" />
+      <jump line="27" column="31" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" />
+      <jump line="19" column="27" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Route.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Let processors count how many messages they have processed</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Let processors count how many messages they have processed</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX2luRmxpZ2h0RXhjaGFuZ2VzLkFkZChwcm9jZXNzZWRFeGNoYW5nZS5FeGNoYW5nZS5Db3JyZWxhdGlvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdXRlcyA9IENvbmZpZ1RvUm91dGVCdWlsZGVyLkZyb21GaWxlKCJjb25maWcuanNvbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0uQ29uc29sZS5Xcml0ZUxpbmUoImluIGZsaWdodCB7MH0iLCBfaW5GbGlnaHRFeGNoYW5nZXMuQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBfaW5GbGlnaHRFeGNoYW5nZXMuUmVtb3ZlKHByb2Nlc3NlZEV4Y2hhbmdlLkV4Y2hhbmdlLkNvcnJlbGF0aW9uSWQpOwogICAgICAgICAgICAgICAgICAgIH0KCi8vICAgICAgICAgICAgICAgICAgICBfcHJvY2Vzc2VkRXhjaGFuZ2VDb3VudHNbU2VuZGVyLlBhdGguTmFtZV0gKz0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaW5kZXhPZiA9PSAtMSkgLy9jb21pbmcgZnJvbSB0aGUgc291cmNlIGRyYWluZXIgb3IgZnJvbSByZWRpcmVjdGlvbgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZVN0YXRpc3RpY3NDb2xsZWN0aW9uTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKF9pbkZsaWdodEV4Y2hhbmdlcy5Db250YWlucyhwcm9jZXNzZWRFeGNoYW5nZS5FeGNoYW5nZS5Db3JyZWxhdGlvbklkKSkKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLkNvbnNvbGUuV3JpdGVMaW5lKCJhbHJlYWR5IGluIGZsaWdodCIpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIF9pbkZsaWdodEV4Y2hhbmdlcy5BZGQocHJvY2Vzc2VkRXhjaGFuZ2UuRXhjaGFuZ2UuQ29ycmVsYXRpb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0uQ29uc29sZS5Xcml0ZUxpbmUoImluIGZsaWdodCB7MH0iLCBfaW5GbGlnaHRFeGNoYW5nZXMuQ291bnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEhhc2hTZXQ8R3VpZD4gX2luRmxpZ2h0RXhjaGFuZ2VzID0gbmV3IEhhc2hTZXQ8R3VpZD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBfaW5GbGlnaHRFeGNoYW5nZXMuUmVtb3ZlKHByb2Nlc3NlZEV4Y2hhbmdlLkV4Y2hhbmdlLkNvcnJlbGF0aW9uSWQpOwogICAgICAgICAgICAgICAgICAgIH0KCi8vICAgICAgICAgICAgICAgICAgICBfcHJvY2Vzc2VkRXhjaGFuZ2VDb3VudHNbU2VuZGVyLlBhdGguTmFtZV0gKz0gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRpc3RpY3NDb2xsZWN0b3IgPSBzdGF0aXN0aWNzQ29sbGVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaW5kZXhPZiA9PSAtMSkgLy9jb21pbmcgZnJvbSB0aGUgc291cmNlIGRyYWluZXIgb3IgZnJvbSByZWRpcmVjdGlvbgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElTdGF0aXN0aWNzQ29sbGVjdG9yIF9zdGF0aXN0aWNzQ29sbGVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKF9pbkZsaWdodEV4Y2hhbmdlcy5Db250YWlucyhwcm9jZXNzZWRFeGNoYW5nZS5FeGNoYW5nZS5Db3JyZWxhdGlvbklkKSkKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLkNvbnNvbGUuV3JpdGVMaW5lKCJhbHJlYWR5IGluIGZsaWdodCIpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIF9pbkZsaWdodEV4Y2hhbmdlcy5BZGQocHJvY2Vzc2VkRXhjaGFuZ2UuRXhjaGFuZ2UuQ29ycmVsYXRpb25JZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIERpY3Rpb25hcnk8c3RyaW5nLCBpbnQ+IF9wcm9jZXNzZWRFeGNoYW5nZUNvdW50cyA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgaW50PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEhhc2hTZXQ8R3VpZD4gX2luRmxpZ2h0RXhjaGFuZ2VzID0gbmV3IEhhc2hTZXQ8R3VpZD4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfc3RhdGlzdGljc0NvbGxlY3Rvci5Qcm9jZXNzZWQoU2VuZGVyLlBhdGguTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRpc3RpY3NDb2xsZWN0b3IgPSBzdGF0aXN0aWNzQ29sbGVjdG9yOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
