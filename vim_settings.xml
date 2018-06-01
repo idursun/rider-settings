@@ -695,7 +695,7 @@
         <mark key="^" line="35" column="81" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/HttpSource.cs" timestamp="1527860876185">
-        <mark key="'" line="5" column="25" />
+        <mark key="'" line="6" column="25" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGenerator.cs" timestamp="1524667491622">
         <mark key="'" line="106" column="48" />
@@ -1099,7 +1099,7 @@
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527861140042">
+      <file name="/Dummy.txt" timestamp="1527861289382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1119,11 +1119,11 @@
         <mark key="." line="24" column="103" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/MarshalSourceExtensions.cs" timestamp="1527861023403">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/LoggingStep.cs" timestamp="1527543787040">
         <mark key="'" line="32" column="12" />
