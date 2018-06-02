@@ -81,7 +81,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527866051598">
+      <file name="/Dummy.txt" timestamp="1527948305294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -314,11 +314,11 @@
       <jump line="65" column="16" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Plans/ExecutionPlan.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLkFra2FFeGVjdXRpb24uTWVzc2FnZXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add low budget Akka executor</text>
       </register>
       <register name="-" type="4">
-        <text>route</text>
+        <text>Add low budget Akka executor</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
