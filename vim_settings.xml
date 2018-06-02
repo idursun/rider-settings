@@ -3,34 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/models/index.ts" timestamp="1527868795155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="26" column="6" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/ConfigToRouteBuilder.cs" timestamp="1527860918594">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RedirectToRouteActor.cs" timestamp="1527855084272">
-        <mark key="[" line="11" column="96" />
-        <mark key="]" line="11" column="96" />
-        <mark key="." line="11" column="96" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/boot.tsx" timestamp="1527863181790">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/ProcessorActor.cs" timestamp="1527857452725">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="66" />
-        <mark key="^" line="26" column="66" />
-        <mark key="." line="26" column="66" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1527861262890">
-        <mark key="[" line="55" column="74" />
-        <mark key="]" line="55" column="74" />
-        <mark key="." line="55" column="74" />
-        <mark key="^" line="55" column="52" />
+      <file name="/ExecutionPlan.cs" timestamp="1527947273680" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1527947883379">
+        <mark key="'" line="40" column="37" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Layout.tsx" timestamp="1527864499321">
         <mark key="[" line="13" column="0" />
@@ -38,64 +23,31 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/models/index.ts" timestamp="1527868795155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="26" column="6" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/RouteConfig.cs" timestamp="1527867107121">
+        <mark key="'" line="8" column="28" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/AkkaRouteExecuter.cs" timestamp="1527860896401">
         <mark key="[" line="35" column="78" />
         <mark key="]" line="35" column="92" />
         <mark key="^" line="35" column="92" />
         <mark key="." line="35" column="92" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/ISourceDefinition.cs" timestamp="1527860659344">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/HttpSource.cs" timestamp="1527860876185">
-        <mark key="'" line="6" column="25" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Exchange.cs" timestamp="1527856979656">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="52" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/Messages/ProcessorStatistics.cs" timestamp="1527857434651">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1527866051598">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" timestamp="1527863680237">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/Messages/ProcessedExchange.cs" timestamp="1527855050574">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" timestamp="1527869180537">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="26" column="100" />
-        <mark key="^" line="26" column="100" />
-        <mark key="." line="26" column="100" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1527862475278">
         <mark key="[" line="9" column="16" />
@@ -112,6 +64,9 @@
         <mark key="^" line="24" column="90" />
         <mark key="." line="24" column="90" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/HttpSource.cs" timestamp="1527860876185">
+        <mark key="'" line="6" column="25" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/OutputConfig.cs" timestamp="1527867165346">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="26" column="14" />
@@ -120,6 +75,50 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/NavMenu.tsx" timestamp="1527863657762">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527866051598">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Exchange.cs" timestamp="1527856979656">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/Messages/ProcessorStatistics.cs" timestamp="1527857434651">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="97" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="105" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RedirectToRouteActor.cs" timestamp="1527855084272">
+        <mark key="[" line="11" column="96" />
+        <mark key="]" line="11" column="96" />
+        <mark key="." line="11" column="96" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" timestamp="1527863680237">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527194261557">
         <mark key="[" line="30" column="0" />
@@ -132,50 +131,61 @@
         <mark key="^" line="12" column="102" />
         <mark key="." line="12" column="103" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" timestamp="1527869230113">
-        <mark key="'" line="53" column="27" />
-        <mark key="[" line="53" column="88" />
-        <mark key="]" line="53" column="88" />
-        <mark key="." line="53" column="88" />
-        <mark key="^" line="53" column="88" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Plans/ExecutionPlan.cs" timestamp="1527947914596">
+        <mark key="'" line="65" column="16" />
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="71" column="28" />
+        <mark key="." line="71" column="28" />
+        <mark key="^" line="71" column="28" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/ConfigToRouteBuilder.cs" timestamp="1527860918594">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="97" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="19" column="105" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/boot.tsx" timestamp="1527863181790">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/MarshalConfig.cs" timestamp="1527867082050">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="44" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/ProcessorActor.cs" timestamp="1527857452725">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="66" />
+        <mark key="^" line="26" column="66" />
+        <mark key="." line="26" column="66" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/node_modules/@types/react/index.d.ts" timestamp="1527865678807">
-        <mark key="'" line="247" column="16" />
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/AkkaExecution/AkkaRouteExecuter.cs" timestamp="1527948177404">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/RouteConfig.cs" timestamp="1527867107121">
-        <mark key="'" line="8" column="28" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/Messages/ProcessedExchange.cs" timestamp="1527855050574">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/NavMenu.tsx" timestamp="1527863657762">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="15" column="62" />
-        <mark key="." line="15" column="62" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/RouteExecutor.cs" timestamp="1527861262890">
+        <mark key="[" line="55" column="74" />
+        <mark key="]" line="55" column="74" />
+        <mark key="." line="55" column="74" />
+        <mark key="^" line="55" column="52" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/ExpressionConfig.cs" timestamp="1527867067019">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="13" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/MarshalConfig.cs" timestamp="1527867082050">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="44" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/AkkaExecution/AkkaExecutionPlan.cs" timestamp="1527948132399">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1527848974618">
         <mark key="[" line="155" column="16" />
@@ -183,13 +193,25 @@
         <mark key="^" line="157" column="15" />
         <mark key="." line="157" column="15" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" timestamp="1527869230113">
+        <mark key="'" line="53" column="27" />
+        <mark key="[" line="53" column="88" />
+        <mark key="]" line="53" column="88" />
+        <mark key="." line="53" column="88" />
+        <mark key="^" line="53" column="88" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/node_modules/@types/react/index.d.ts" timestamp="1527865678807">
+        <mark key="'" line="247" column="16" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" timestamp="1527869180537">
+        <mark key="'" line="26" column="27" />
+        <mark key="[" line="26" column="84" />
+        <mark key="]" line="26" column="100" />
+        <mark key="^" line="26" column="100" />
+        <mark key="." line="26" column="100" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="95" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="101" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="106" column="66" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" />
-      <jump line="105" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskGraph/EstateDiskGraph.jsx" />
       <jump line="32" column="25" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" />
       <jump line="28" column="31" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/ProcessStep.cs" />
       <jump line="14" column="28" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/ProcessStep.cs" />
@@ -285,59 +307,54 @@
       <jump line="80" column="27" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
       <jump line="53" column="27" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
       <jump line="21" column="27" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" />
+      <jump line="27" column="89" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/AkkaExecution/AkkaRouteExecuter.cs" />
+      <jump line="40" column="37" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
+      <jump line="46" column="24" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Plans/ExecutionPlan.cs" />
+      <jump line="68" column="4" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Plans/ExecutionPlan.cs" />
+      <jump line="65" column="16" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Plans/ExecutionPlan.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLkFra2FFeGVjdXRpb24uTWVzc2FnZXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>route</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENhcmQuSGVhZGVyPntzb3VyY2UudHlwZX0ge3NvdXJjZS5leHByZXNzaW9uLnZhbHVlfTwvQ2FyZC5IZWFkZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHJvdXRlIGluIF9yb3V0ZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByb3V0ZUV4ZWN1dG9yQWN0b3JSZWYgPSBfYWN0b3JTeXN0ZW0uQWN0b3JPZihQcm9wcy5DcmVhdGUoKCkgPT4gbmV3IFJvdXRlRXhlY3V0b3JBY3RvcigpKSwgcm91dGUuTmFtZSk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGRlZmluaXRpb24gaW4gcm91dGUuT3V0cHV0cykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByb3V0ZUV4ZWN1dG9yQWN0b3JSZWYuVGVsbChkZWZpbml0aW9uKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBpZiAocm91dGUuU291cmNlICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcm91dGVFeGVjdXRvckFjdG9yUmVmLlRlbGwobmV3IFN0YXJ0Q29uc3VtaW5nKHJvdXRlLlNvdXJjZS5DcmVhdGVTb3VyY2UoKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgRVRMLkNvbnNvbGUuU3RyZWFtLkFra2FFeGVjdXRpb24uTWVzc2FnZXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByb3V0ZUV4ZWN1dG9yQWN0b3JSZWYgPSBfYWN0b3JTeXN0ZW0uQWN0b3JPZihQcm9wcy5DcmVhdGUoKCkgPT4gbmV3IFJvdXRlRXhlY3V0b3JBY3RvcigpKSwgcm91dGUuTmFtZSk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGRlZmluaXRpb24gaW4gcm91dGUuT3V0cHV0cykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByb3V0ZUV4ZWN1dG9yQWN0b3JSZWYuVGVsbChkZWZpbml0aW9uKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBpZiAocm91dGUuU291cmNlICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcm91dGVFeGVjdXRvckFjdG9yUmVmLlRlbGwobmV3IFN0YXJ0Q29uc3VtaW5nKHJvdXRlLlNvdXJjZS5DcmVhdGVTb3VyY2UoKSkpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-                        from: {
-                            ...from,
-                            expression: {...from.expression, value: e.currentTarget.value}
-                        }
-                    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvdXRlRGVmaW5pdGlvbi5Tb3VyY2UgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcm91dGVFeGVjdXRvckFjdG9yUmVmLlRlbGwobmV3IFN0YXJ0Q29uc3VtaW5nKHJvdXRlRGVmaW5pdGlvbi5Tb3VyY2UuQ3JlYXRlU291cmNlKCkpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHJvdXRlIGluIHJvdXRlRGVmaW5pdGlvbi5fcm91dGVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtTeW50aGV0aWNFdmVudH0gZnJvbSAicmVhY3QiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        type: object;
-        expression: {
-            value: &quot;&quot;;
-        }
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZUNvbXBvbmVudFByb3BzfSBmcm9tICJyZWFjdC1yb3V0ZXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJSG9tZVN0YXRlIHsKICAgIG5hbWU/OiBzdHJpbmc7CiAgICBmcm9tPzogSUZyb21Db25maWc7CiAgICBvdXRwdXRzPzogSU91dHB1dENvbmZpZ1tdOwogICAgaXNFZGl0aW5nOiBib29sZWFuOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvdXJjZSA9IGV4ZWN1dGlvblBsYW4uU291cmNlOwoKICAgICAgICAgICAgd2hpbGUgKHNvdXJjZS5IYXNNb3JlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgZXhjaGFuZ2UgPSBzb3VyY2UuUmVhZCgpOwogICAgICAgICAgICAgICAgZXhlY3V0aW9uUGxhbi5DdXJyZW50LlByb2Nlc3MoZXhjaGFuZ2UpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
