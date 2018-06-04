@@ -70,7 +70,7 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527866051598">
+      <file name="/Dummy.txt" timestamp="1527869253039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -288,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>Add UI stuff</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>Add UI stuff</text>
       </register>
       <register name="/" type="4">
         <text>Projection</text>
