@@ -63,12 +63,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="26" column="14" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528363065284">
-        <mark key="'" line="197" column="22" />
-        <mark key="[" line="203" column="44" />
-        <mark key="]" line="203" column="48" />
-        <mark key="." line="204" column="12" />
-        <mark key="^" line="203" column="48" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528364177898">
+        <mark key="'" line="195" column="22" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="197" column="43" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
         <mark key="[" line="15" column="0" />
@@ -107,11 +107,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="19" column="105" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/entry.js" timestamp="1528363133751">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/entry.js" timestamp="1528364162303">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
         <mark key="[" line="15" column="62" />
@@ -322,29 +322,29 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI21haW4nKS5saWNlbnNpbmdDb25maWd1cmF0aW9uKG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0RGF0YVVybDogIjwlPSBVcmwuQWN0aW9uKCJHZXREYXRhIikgJT4iLAogICAgICAgICAgICBhZGRMaWNlbnNlVXJsOiAiPCU9IFVybC5BY3Rpb24oIkFkZExpY2VuY2UiKSAlPiIsCiAgICAgICAgICAgIGxpY2Vuc2VFbnRpdGllc1VybDogIjwlPSBVcmwuQWN0aW9uKCJMaWNlbmNlRW50aXRpZXMiKSAlPiIsCiAgICAgICAgICAgIHVubGljZW5zZUVudGl0aWVzVXJsOiAiPCU9IFVybC5BY3Rpb24oIlVubGljZW5jZUVudGl0aWVzIikgJT4iLAogICAgICAgICAgICBtYW51YWxBY3RpdmF0aW9uVXJsOiAiPCU9IFVybC5BY3Rpb24oIk1hbnVhbEFjdGl2YXRpb24iLCBuZXcgeyBsaWNlbnNlS2V5ID0gIjAwMC0wMDAtMDAwMDAwLTAwMDAiIH0pICU+IiwKICAgICAgICAgICAgZGVhY3RpdmF0ZUxpY2Vuc2VVcmw6ICI8JT0gVXJsLkFjdGlvbigiRGVhY3RpdmF0ZUxpY2Vuc2UiKSAlPiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgZ2V0RGF0YVVybDogIjwlPSBVcmwuQWN0aW9uKCJHZXREYXRhIikgJT4iLAogICAgICAgICAgICAgICAgYWRkTGljZW5zZVVybDogIjwlPSBVcmwuQWN0aW9uKCJBZGRMaWNlbmNlIikgJT4iLAogICAgICAgICAgICAgICAgbGljZW5zZUVudGl0aWVzVXJsOiAiPCU9IFVybC5BY3Rpb24oIkxpY2VuY2VFbnRpdGllcyIpICU+IiwKICAgICAgICAgICAgICAgIHVubGljZW5zZUVudGl0aWVzVXJsOiAiPCU9IFVybC5BY3Rpb24oIlVubGljZW5jZUVudGl0aWVzIikgJT4iLAogICAgICAgICAgICAgICAgbWFudWFsQWN0aXZhdGlvblVybDogIjwlPSBVcmwuQWN0aW9uKCJNYW51YWxBY3RpdmF0aW9uIiwgbmV3IHsgbGljZW5zZUtleSA9ICIwMDAtMDAwLTAwMDAwMC0wMDAwIiB9KSAlPiIsCiAgICAgICAgICAgICAgICBkZWFjdGl2YXRlTGljZW5zZVVybDogIjwlPSBVcmwuQWN0aW9uKCJEZWFjdGl2YXRlTGljZW5zZSIpICU+IgogICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgYnV0dG9uV2lkdGggPSAkKCcjdW5saWNlbnNlJykucGFyZW50KCkud2lkdGgoKTsKICAgICAgICAkKCcjbGljZW5zZScpLndpZHRoKGJ1dHRvbldpZHRoKTsKICAgICAgICAkKCcjdW5saWNlbnNlJykud2lkdGgoYnV0dG9uV2lkdGgpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWd1cmVMaWNlbnNpbmcuaW5pdGlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI21haW4nKS5saWNlbnNpbmdDb25maWd1cmF0aW9uKG9wdGlvbnMpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHsK</text>
+      <register name="9" type="4">
+        <text>{
+        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
