@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/ConfigToRouteBuilder.cs" timestamp="1527860918594">
@@ -63,6 +63,13 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="26" column="14" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528363065284">
+        <mark key="'" line="197" column="22" />
+        <mark key="[" line="203" column="44" />
+        <mark key="]" line="203" column="48" />
+        <mark key="." line="204" column="12" />
+        <mark key="^" line="203" column="48" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -99,6 +106,12 @@
         <mark key="]" line="14" column="97" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="19" column="105" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/entry.js" timestamp="1528363133751">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
         <mark key="[" line="15" column="62" />
@@ -188,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="33" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Steps/DirectToRouteStep.cs" />
       <jump line="128" column="12" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/RouteExecutor.cs" />
       <jump line="15" column="37" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Sources/WaitingSource.cs" />
       <jump line="31" column="39" filename="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Marshallers/CsvMarshaller.cs" />
@@ -288,10 +300,11 @@
       <jump line="68" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageGraphDataTests.cs" />
       <jump line="59" column="76" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageGraphDataTests.cs" />
       <jump line="69" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageGraphDataTests.cs" />
+      <jump line="183" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG1fRGF0ZVRpbWVQcm92aWRlcg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG1fRGF0ZVRpbWVQcm92aWRlcg==</text>
@@ -303,44 +316,35 @@
         <text encoding="base64">ICAgICAgICAgICAgPENhcmQuSGVhZGVyPntzb3VyY2UudHlwZX0ge3NvdXJjZS5leHByZXNzaW9uLnZhbHVlfTwvQ2FyZC5IZWFkZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI21haW4nKS5saWNlbnNpbmdDb25maWd1cmF0aW9uKG9wdGlvbnMpOwo=</text>
       </register>
       <register name="3" type="4">
         <text>{
-                        from: {
-                            ...from,
-                            expression: {...from.expression, value: e.currentTarget.value}
-                        }
-                    }</text>
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0RGF0YVVybDogIjwlPSBVcmwuQWN0aW9uKCJHZXREYXRhIikgJT4iLAogICAgICAgICAgICBhZGRMaWNlbnNlVXJsOiAiPCU9IFVybC5BY3Rpb24oIkFkZExpY2VuY2UiKSAlPiIsCiAgICAgICAgICAgIGxpY2Vuc2VFbnRpdGllc1VybDogIjwlPSBVcmwuQWN0aW9uKCJMaWNlbmNlRW50aXRpZXMiKSAlPiIsCiAgICAgICAgICAgIHVubGljZW5zZUVudGl0aWVzVXJsOiAiPCU9IFVybC5BY3Rpb24oIlVubGljZW5jZUVudGl0aWVzIikgJT4iLAogICAgICAgICAgICBtYW51YWxBY3RpdmF0aW9uVXJsOiAiPCU9IFVybC5BY3Rpb24oIk1hbnVhbEFjdGl2YXRpb24iLCBuZXcgeyBsaWNlbnNlS2V5ID0gIjAwMC0wMDAtMDAwMDAwLTAwMDAiIH0pICU+IiwKICAgICAgICAgICAgZGVhY3RpdmF0ZUxpY2Vuc2VVcmw6ICI8JT0gVXJsLkFjdGlvbigiRGVhY3RpdmF0ZUxpY2Vuc2UiKSAlPiIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtTeW50aGV0aWNFdmVudH0gZnJvbSAicmVhY3QiOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgZ2V0RGF0YVVybDogIjwlPSBVcmwuQWN0aW9uKCJHZXREYXRhIikgJT4iLAogICAgICAgICAgICAgICAgYWRkTGljZW5zZVVybDogIjwlPSBVcmwuQWN0aW9uKCJBZGRMaWNlbmNlIikgJT4iLAogICAgICAgICAgICAgICAgbGljZW5zZUVudGl0aWVzVXJsOiAiPCU9IFVybC5BY3Rpb24oIkxpY2VuY2VFbnRpdGllcyIpICU+IiwKICAgICAgICAgICAgICAgIHVubGljZW5zZUVudGl0aWVzVXJsOiAiPCU9IFVybC5BY3Rpb24oIlVubGljZW5jZUVudGl0aWVzIikgJT4iLAogICAgICAgICAgICAgICAgbWFudWFsQWN0aXZhdGlvblVybDogIjwlPSBVcmwuQWN0aW9uKCJNYW51YWxBY3RpdmF0aW9uIiwgbmV3IHsgbGljZW5zZUtleSA9ICIwMDAtMDAwLTAwMDAwMC0wMDAwIiB9KSAlPiIsCiAgICAgICAgICAgICAgICBkZWFjdGl2YXRlTGljZW5zZVVybDogIjwlPSBVcmwuQWN0aW9uKCJEZWFjdGl2YXRlTGljZW5zZSIpICU+IgogICAgICAgICAgICB9</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        type: object;
-        expression: {
-            value: &quot;&quot;;
-        }
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmVMaWNlbnNpbmcuaW5pdGlhbGl6ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZUNvbXBvbmVudFByb3BzfSBmcm9tICJyZWFjdC1yb3V0ZXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJSG9tZVN0YXRlIHsKICAgIG5hbWU/OiBzdHJpbmc7CiAgICBmcm9tPzogSUZyb21Db25maWc7CiAgICBvdXRwdXRzPzogSU91dHB1dENvbmZpZ1tdOwogICAgaXNFZGl0aW5nOiBib29sZWFuOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
