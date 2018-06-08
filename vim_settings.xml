@@ -29,18 +29,28 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" timestamp="1528373213784">
-        <mark key="'" line="110" column="26" />
-        <mark key="[" line="104" column="8" />
-        <mark key="]" line="104" column="8" />
-        <mark key="m" line="45" column="30" />
-        <mark key="." line="104" column="8" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/WhatsNew/entry.js" timestamp="1528455445132">
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="33" />
+        <mark key="^" line="54" column="33" />
+        <mark key="." line="54" column="33" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" timestamp="1528365575989">
-        <mark key="'" line="62" column="13" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" timestamp="1528455344993">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/RouteConfig.cs" timestamp="1527867107121">
-        <mark key="'" line="8" column="28" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/ISourceDefinition.cs" timestamp="1527860659344">
         <mark key="[" line="4" column="7" />
@@ -54,8 +64,12 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/FromConfig.cs" timestamp="1527867018194">
-        <mark key="'" line="9" column="17" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
+        <mark key="'" line="28" column="39" />
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Marshallers/CsvMarshaller.cs" timestamp="1527861016688">
         <mark key="[" line="24" column="74" />
@@ -69,8 +83,18 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/HttpSource.cs" timestamp="1527860876185">
-        <mark key="'" line="6" column="25" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/jquery.boxchart.js" timestamp="1528452669948">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
+        <mark key="'" line="46" column="38" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="48" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" timestamp="1528367374925">
         <mark key="'" line="0" column="40" />
@@ -79,8 +103,15 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageGraphDataTests.cs" timestamp="1528102237288">
-        <mark key="'" line="69" column="8" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/NavMenu.tsx" timestamp="1527863657762">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Exchange.cs" timestamp="1527856979656">
         <mark key="[" line="6" column="41" />
@@ -100,8 +131,15 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" timestamp="1528366842138">
-        <mark key="'" line="6" column="31" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RedirectToRouteActor.cs" timestamp="1527855084272">
+        <mark key="[" line="11" column="96" />
+        <mark key="]" line="11" column="96" />
+        <mark key="." line="11" column="96" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" timestamp="1528449737479">
         <mark key="'" line="158" column="34" />
@@ -109,6 +147,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527194261557">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RouteDefinitionBuilder.cs" timestamp="1527860809800">
         <mark key="[" line="12" column="103" />
@@ -133,11 +176,25 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" timestamp="1528449761744">
         <mark key="[" line="3" column="32" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" timestamp="1528455867190">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="707" column="8" />
+        <mark key="]" line="707" column="8" />
+        <mark key="." line="707" column="8" />
+        <mark key="^" line="10" column="11" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/boot.tsx" timestamp="1527863181790">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
+        <mark key="'" line="116" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" timestamp="1528449866572">
         <mark key="'" line="89" column="53" />
@@ -177,21 +234,38 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ColumnOverview.Master" timestamp="1528454991171">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="32" column="100" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/AkkaRouteExecuter.cs" timestamp="1527860896401">
         <mark key="[" line="35" column="78" />
         <mark key="]" line="35" column="92" />
         <mark key="^" line="35" column="92" />
         <mark key="." line="35" column="92" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528449707794">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="128" column="8" />
-        <mark key="]" line="128" column="8" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="128" column="8" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1528455278048">
+        <mark key="[" line="270" column="21" />
+        <mark key="]" line="270" column="54" />
+        <mark key="^" line="270" column="54" />
+        <mark key="." line="270" column="54" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" timestamp="1528367373017">
-        <mark key="'" line="4" column="23" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/entry.js" timestamp="1528455038989">
+        <mark key="'" line="21" column="7" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
         <mark key="'" line="1" column="25" />
@@ -207,10 +281,17 @@
         <mark key="." line="199" column="0" />
         <mark key="^" line="193" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528449878863">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1528452236694">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="357" column="61" />
+        <mark key="]" line="357" column="80" />
+        <mark key="." line="357" column="80" />
+        <mark key="^" line="357" column="80" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528455789407">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
         <mark key="'" line="14" column="31" />
@@ -226,8 +307,22 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/FixedGraphs/AlertSummary.js" timestamp="1528449310895">
-        <mark key="'" line="10" column="40" />
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" timestamp="1527863680237">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/MiniGrid.js" timestamp="1528451836108">
+        <mark key="'" line="149" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" timestamp="1528372295115">
         <mark key="'" line="0" column="12" />
@@ -243,11 +338,17 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528449081090">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="55" />
-        <mark key="." line="40" column="55" />
-        <mark key="^" line="40" column="55" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528451760258">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="59" column="73" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/Messages/ProcessedExchange.cs" timestamp="1527855050574">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/entry.js" timestamp="1528365499317">
         <mark key="[" line="10" column="19" />
@@ -262,9 +363,6 @@
         <mark key="^" line="157" column="15" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/node_modules/@types/react/index.d.ts" timestamp="1527865678807">
-        <mark key="'" line="247" column="16" />
-      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" timestamp="1527869180537">
         <mark key="'" line="26" column="27" />
         <mark key="[" line="26" column="84" />
@@ -272,117 +370,114 @@
         <mark key="^" line="26" column="100" />
         <mark key="." line="26" column="100" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreenViewModel.js" timestamp="1528365123485">
-        <mark key="'" line="456" column="34" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" timestamp="1528371973058">
-        <mark key="'" line="38" column="32" />
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Column.cshtml" timestamp="1528454476680">
+        <mark key="[" line="30" column="126" />
+        <mark key="]" line="30" column="126" />
+        <mark key="^" line="30" column="118" />
+        <mark key="." line="30" column="126" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="37" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="77" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="98" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="103" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="28" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="88" column="6" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" />
-      <jump line="23" column="62" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" />
-      <jump line="0" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" />
-      <jump line="20" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/TimeWindowMode.js" />
-      <jump line="21" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/TimeWindowMode.js" />
-      <jump line="5" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="10" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="0" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" />
-      <jump line="6" column="31" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" />
-      <jump line="16" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="12" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" />
-      <jump line="282" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" />
-      <jump line="6" column="76" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="111" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="147" column="72" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="150" column="61" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="196" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="4" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="0" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" />
-      <jump line="3" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" />
-      <jump line="26" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" />
-      <jump line="30" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" />
-      <jump line="34" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" />
-      <jump line="38" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.paging.js" />
-      <jump line="16" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="81" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="83" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="617" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="622" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="625" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="53" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="58" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="431" column="10" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="54" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="59" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="432" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="621" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="29" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="626" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="623" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="620" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="26" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="31" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="32" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="33" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="35" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="36" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="43" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="45" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="48" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="51" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="54" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="66" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="68" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="110" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertsGroupDetailsViewModel.js" />
-      <jump line="39" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="47" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="55" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="63" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="68" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="119" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="114" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="120" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="4" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
-      <jump line="39" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="1" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" />
-      <jump line="10" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/FixedGraphs/AlertSummary.js" />
-      <jump line="25" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="5" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="84" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="173" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="195" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="204" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="210" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="214" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="41" column="119" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="55" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="113" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
-      <jump line="159" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" />
-      <jump line="2" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" />
-      <jump line="157" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" />
-      <jump line="8" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="6" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="107" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="37" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="57" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="78" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="99" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="108" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
-      <jump line="89" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="16" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ColumnOverview.Master" />
+      <jump line="115" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" />
+      <jump line="63" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="66" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="67" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="70" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="71" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="74" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="75" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="80" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="81" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="84" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="85" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="90" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="91" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="94" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="95" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="97" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="98" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="100" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="108" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="109" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
+      <jump line="765" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="18" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="40" column="49" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="85" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="135" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="210" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="222" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="231" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="236" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="425" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="455" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="478" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="493" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="518" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="572" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="608" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="647" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="324" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="326" column="49" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="334" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="340" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="341" column="63" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="342" column="63" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="427" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="435" column="66" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="680" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="721" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="758" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="768" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="770" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="776" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="778" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="780" column="51" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="783" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="787" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="789" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="793" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="798" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="803" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="25" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="26" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="27" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="28" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="29" column="60" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="30" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="31" column="57" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="32" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="33" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="34" column="57" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="35" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="36" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="37" column="49" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="38" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="39" column="60" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="41" column="49" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="86" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="136" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="211" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="223" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="232" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="237" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="426" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="456" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="479" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="494" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="519" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="573" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="609" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="648" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="707" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="19" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="20" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="21" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="22" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="23" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="24" column="48" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
+      <jump line="10" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -392,67 +487,49 @@
         <text>RedGate.SqlMonitor.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWRHYXRlXD4=</text>
+        <text>RedGate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9TY3JpcHRzU291cmNlL0NvbXBvbmVudHMva25vY2tvdXQuY29tcG9uZW50cy50b2dnbGVCdXR0b24nCg==</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9qcXVlcnkudG1wbCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSkoalF1ZXJ5KTsK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHNob3dXaGF0c05ldygpIHsKICAgICAgICB2YXIgcG9wdXAgPSAkKCIjd2hhdHMtbmV3LXBvcHVwIik7CiAgICAgICAgdmFyIHBvcHVwUG9zaXRpb24gPSBnZXRQb3B1cFBvc2l0aW9uKCk7CgogICAgICAgIGRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBoaWRlV2hhdHNOZXcsIGZhbHNlKTsKICAgICAgICBwb3B1cC5hZGRDbGFzcygid2hhdHMtbmV3LS1wb3B1cF9fc2hvdyIpOwogICAgICAgIHBvcHVwLmNzcyhwb3B1cFBvc2l0aW9uKTsKCiAgICAgICAgdmFyIGZ1clVybCA9ICJAVXJsLkh0dHBSb3V0ZVVybCgiT3BlbldoYXRzTmV3IiwgbnVsbCkiOwogICAgICAgIFJlZEdhdGUuU3FsTW9uaXRvci5BamF4LlBvc3QoZnVyVXJsKTsKICAgIH0KCiAgICBmdW5jdGlvbiBoaWRlV2hhdHNOZXcoZSkgewogICAgICAgIHZhciBwb3B1cCA9ICQoIiN3aGF0cy1uZXctcG9wdXAiKTsKICAgICAgICBpZiAoZSAmJiBpc0luc2lkZVBvcHVwKHBvcHVwLCBlLnRhcmdldCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgZG9jdW1lbnQuYm9keS5yZW1vdmVFdmVudExpc3RlbmVyKCdjbGljaycsIGhpZGVXaGF0c05ldywgZmFsc2UpOwogICAgICAgICQoIiN3aGF0cy1uZXctcG9wdXAiKS5yZW1vdmVDbGFzcygid2hhdHMtbmV3LS1wb3B1cF9fc2hvdyIpOwogICAgfQoKICAgIGZ1bmN0aW9uIGlzSW5zaWRlUG9wdXAocG9wdXAsIHRhcmdldCkgewogICAgICAgIHJldHVybiBwb3B1cC5pZCA9PT0gdGFyZ2V0LmlkIHx8CiAgICAgICAgICAgIHBvcHVwLmhhcyh0YXJnZXQpLmxlbmd0aCB8fAogICAgICAgICAgICB0YXJnZXQuaWQgPT09ICJ3aGF0cy1uZXctbGFiZWwiOwogICAgfQoKICAgIGZ1bmN0aW9uIGdldFBvcHVwUG9zaXRpb24oKSB7CiAgICAgICAgdmFyIHdoYXRzTmV3U3BhbiA9ICQoIiN3aGF0cy1uZXctbGFiZWwiKTsKICAgICAgICB2YXIgd2hhdHNOZXdEaXYgPSB3aGF0c05ld1NwYW4ucGFyZW50KCk7CgogICAgICAgIHZhciBwb3NpdGlvbkxlZnQgPSB3aGF0c05ld0Rpdi5wb3NpdGlvbigpLmxlZnQ7CiAgICAgICAgdmFyIHRhcmdldFdpZHRoID0gd2hhdHNOZXdEaXYub3V0ZXJXaWR0aCgpOwoKICAgICAgICB2YXIgcG9zaXRpb25Ub3AgPSB3aGF0c05ld1NwYW4ucG9zaXRpb24oKS50b3AgKyAkKCIjaGVhZGVyIikucG9zaXRpb24oKS50b3A7CiAgICAgICAgdmFyIHRhcmdldEhlaWdodCA9IHdoYXRzTmV3U3Bhbi5vdXRlckhlaWdodCgpICsgMTU7CgogICAgICAgIHJldHVybiB7IHRvcDogcG9zaXRpb25Ub3AgKyB0YXJnZXRIZWlnaHQsIGxlZnQ6IHBvc2l0aW9uTGVmdCArIHRhcmdldFdpZHRoIC8gMiB9OwogICAgfQoKICAgIGZ1bmN0aW9uIG9uTGVhcm5Nb3JlKHRpdGxlKSB7CiAgICAgICAgdmFyIGZ1clVybCA9ICJAVXJsLkh0dHBSb3V0ZVVybCgiT3BlbkxlYXJuTW9yZUFib3V0V2hhdHNOZXciLCBudWxsKSI7CiAgICAgICAgUmVkR2F0ZS5TcWxNb25pdG9yLkFqYXguUG9zdChmdXJVcmwgKyAiP3RpdGxlPSIgKyB0aXRsZSk7CiAgICB9CgogICAgZnVuY3Rpb24gb25UcnkodGl0bGUpIHsKICAgICAgICB2YXIgZnVyVXJsID0gIkBVcmwuSHR0cFJvdXRlVXJsKCJUcnlXaGF0c05ldyIsIG51bGwpIjsKICAgICAgICBSZWRHYXRlLlNxbE1vbml0b3IuQWpheC5Qb3N0KGZ1clVybCArICI/dGl0bGU9IiArIHRpdGxlKTsKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG9wdGltaXphdGlvbjogewogICAgICAgIHNwbGl0Q2h1bmtzOiB7CiAgICAgICAgICAgIGNodW5rcyA6ICdhbGwnCiAgICAgICAgfQogICAgfSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fSkoalF1ZXJ5KTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">KGZ1bmN0aW9uICgkKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>RedGate.SqlMonitor.
-RedGate.SqlMonitor.</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICcuLi9VdGlscyc7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>RedGate.SqlMonitor.
-RedGate.SqlMonitor.</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
-            this._resetSelectAllOption();
-            this._groupToggleChanged();
-        }</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
-            this._resetSelectAllOption();
-            this._groupToggleChanged();
-        }</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
-            this._resetSelectAllOption();
-            this._groupToggleChanged();
-        }</text>
-      </register>
-      <register name="8" type="4">
-        <text>GroupDetailsUrl = options.Urls.GroupDetailsUrl;
-        this.AlertDetailsUrl = options.Urls.AlertDetailsUrl;
-        this.controller = controller;
-
-        let isGroupedCookieValue = Cookies.readCookie(CookieNames</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtEaXN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2NhbFN0b3JhZ2V9Cg==</text>
+        <text encoding="base64">fSkoalF1ZXJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWRHYXRlXD4=</last-search>
+      <last-search>RedGate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWRHYXRlXD4=</last-pattern>
+      <last-pattern>RedGate</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -460,9 +537,6 @@ RedGate.SqlMonitor.</text>
     </search>
     <history>
       <history-search>
-        <entry>$.url</entry>
-        <entry>url.min.js</entry>
-        <entry>parent_id</entry>
         <entry>name</entry>
         <entry>_Type</entry>
         <entry>, -1</entry>
@@ -475,11 +549,14 @@ RedGate.SqlMonitor.</text>
         <entry encoding="base64">XDxDb29raWVzXD4=</entry>
         <entry>mapping</entry>
         <entry>$</entry>
-        <entry>RedGate</entry>
         <entry>moment</entry>
         <entry>Redgatre</entry>
         <entry>Redgate</entry>
         <entry encoding="base64">XDxSZWRHYXRlXD4=</entry>
+        <entry>MiniGrid</entry>
+        <entry>Ajax</entry>
+        <entry encoding="base64">XDxBZGRTcWxTZXJ2ZXJNb2RlbFw+</entry>
+        <entry>RedGate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
