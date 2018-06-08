@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -42,11 +42,6 @@
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Config/RouteConfig.cs" timestamp="1527867107121">
         <mark key="'" line="8" column="28" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Sources/ISourceDefinition.cs" timestamp="1527860659344">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="30" />
@@ -84,16 +79,6 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/NavMenu.tsx" timestamp="1527863657762">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageGraphDataTests.cs" timestamp="1528102237288">
         <mark key="'" line="69" column="8" />
       </file>
@@ -115,23 +100,15 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="15" column="62" />
-        <mark key="." line="15" column="62" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RedirectToRouteActor.cs" timestamp="1527855084272">
-        <mark key="[" line="11" column="96" />
-        <mark key="]" line="11" column="96" />
-        <mark key="." line="11" column="96" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" timestamp="1528366842138">
         <mark key="'" line="6" column="31" />
       </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527194261557">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" timestamp="1528449737479">
+        <mark key="'" line="158" column="34" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RouteDefinitionBuilder.cs" timestamp="1527860809800">
         <mark key="[" line="12" column="103" />
@@ -153,11 +130,21 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/TopGraphViewModel.js" timestamp="1528449761744">
+        <mark key="[" line="3" column="32" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/boot.tsx" timestamp="1527863181790">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" timestamp="1528449866572">
+        <mark key="'" line="89" column="53" />
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="8" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="78" column="8" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/ProcessorActor.cs" timestamp="1527857452725">
         <mark key="[" line="26" column="52" />
@@ -196,8 +183,22 @@
         <mark key="^" line="35" column="92" />
         <mark key="." line="35" column="92" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528449707794">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="128" column="8" />
+        <mark key="]" line="128" column="8" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="128" column="8" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" timestamp="1528367373017">
         <mark key="'" line="4" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -206,10 +207,10 @@
         <mark key="." line="199" column="0" />
         <mark key="^" line="193" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528365524778">
+      <file name="/Dummy.txt" timestamp="1528449878863">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
         <mark key="'" line="14" column="31" />
@@ -225,15 +226,8 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" timestamp="1527863680237">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/FixedGraphs/AlertSummary.js" timestamp="1528449310895">
+        <mark key="'" line="10" column="40" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" timestamp="1528372295115">
         <mark key="'" line="0" column="12" />
@@ -249,10 +243,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/Messages/ProcessedExchange.cs" timestamp="1527855050574">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528449081090">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="40" column="55" />
+        <mark key="^" line="40" column="55" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertInbox/entry.js" timestamp="1528365499317">
         <mark key="[" line="10" column="19" />
@@ -288,32 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" />
-      <jump line="8" column="10" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" />
-      <jump line="456" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreenViewModel.js" />
-      <jump line="6" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfigurationViewModel.js" />
-      <jump line="237" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfigurationViewModel.js" />
-      <jump line="10" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" />
-      <jump line="4" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" />
-      <jump line="7" column="49" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" />
-      <jump line="62" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
-      <jump line="73" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
-      <jump line="63" column="47" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" />
-      <jump line="81" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" />
-      <jump line="96" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="207" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="18" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="247" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="2" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="227" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="231" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="248" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="11" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="208" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="222" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" />
-      <jump line="9" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
-      <jump line="29" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
       <jump line="33" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
       <jump line="37" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
       <jump line="77" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" />
@@ -388,13 +357,39 @@
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
       <jump line="4" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" />
       <jump line="39" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
+      <jump line="1" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" />
+      <jump line="10" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/FixedGraphs/AlertSummary.js" />
+      <jump line="25" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="5" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="84" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="173" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="195" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="204" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="210" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="214" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="41" column="119" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="55" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="113" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" />
+      <jump line="159" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" />
+      <jump line="2" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" />
+      <jump line="157" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" />
+      <jump line="8" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="6" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="107" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="37" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="57" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="78" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="99" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="108" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
+      <jump line="89" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>RedGate.SqlMonitor.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>RedGate.SqlMonitor.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWRHYXRlXD4=</text>
@@ -402,57 +397,53 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9TY3JpcHRzU291cmNlL0NvbXBvbmVudHMva25vY2tvdXQuY29tcG9uZW50cy50b2dnbGVCdXR0b24nCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
-            this._resetSelectAllOption();
-            this._groupToggleChanged();
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">fSkoalF1ZXJ5KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
-            this._resetSelectAllOption();
-            this._groupToggleChanged();
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">KGZ1bmN0aW9uICgkKSB7Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>RedGate.SqlMonitor.
+RedGate.SqlMonitor.</text>
+      </register>
+      <register name="4" type="4">
+        <text>RedGate.SqlMonitor.
+RedGate.SqlMonitor.</text>
+      </register>
+      <register name="5" type="4">
         <text>{
             Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
             this._resetSelectAllOption();
             this._groupToggleChanged();
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
+        <text>{
+            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
+            this._resetSelectAllOption();
+            this._groupToggleChanged();
+        }</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+            Cookies.setPersistentCookie(CookieNames.IsGrouped, newValue, 3650);
+            this._resetSelectAllOption();
+            this._groupToggleChanged();
+        }</text>
+      </register>
+      <register name="8" type="4">
         <text>GroupDetailsUrl = options.Urls.GroupDetailsUrl;
         this.AlertDetailsUrl = options.Urls.AlertDetailsUrl;
         this.controller = controller;
 
         let isGroupedCookieValue = Cookies.readCookie(CookieNames</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtMb2NhbFN0b3JhZ2V9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-        readCookie: readCookie,
-        setSessionCookie: setSessionCookie,
-        setPersistentCookie: setPersistentCookie,
-        delCookie: deleteCookie,
-        reset: reset //call reset after mocking any of the other methods.
-    }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlZEdhdGUuU3FsTW9uaXRvci5Db29raWVzID0gewogICAgICAgIHJlYWRDb29raWU6IHJlYWRDb29raWUsCiAgICAgICAgc2V0U2Vzc2lvbkNvb2tpZTogc2V0U2Vzc2lvbkNvb2tpZSwKICAgICAgICBzZXRQZXJzaXN0ZW50Q29va2llOiBzZXRQZXJzaXN0ZW50Q29va2llLAogICAgICAgIGRlbENvb2tpZTogZGVsZXRlQ29va2llLAogICAgICAgIHJlc2V0OiByZXNldCAvL2NhbGwgcmVzZXQgYWZ0ZXIgbW9ja2luZyBhbnkgb2YgdGhlIG90aGVyIG1ldGhvZHMuCiAgICB9Owo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">T2JqZWN0LmZyZWV6ZSgKICAgIF8ucmVkdWNlKHRpbWVXaW5kb3dNb2RlcywgKG1lbW8sIG1vZGUsIGtleSk9PnsKICAgICAgICAgICAgbWVtb1trZXldPW1vZGUudmFsdWU7CiAgICAgICAgICAgIHJldHVybiBtZW1vOwogICAgICAgIH0sIHt9KQop</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoLm1vZHVsZVJvb3QoJ2JhYmVsLXBvbHlmaWxsL2Rpc3QvcG9seWZpbGwuanMnKSwK</text>
+        <text encoding="base64">aW1wb3J0IHtMb2NhbFN0b3JhZ2V9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -469,11 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>url</entry>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>url.min</entry>
-        <entry>var url</entry>
         <entry>$.url</entry>
         <entry>url.min.js</entry>
         <entry>parent_id</entry>
@@ -485,9 +471,14 @@
         <entry>LocalStorage</entry>
         <entry>TimeWindowModes</entry>
         <entry>TimeWindowMode</entry>
-        <entry>RedGate</entry>
         <entry encoding="base64">XDxQYWdpbmdEaXJlY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDxDb29raWVzXD4=</entry>
+        <entry>mapping</entry>
+        <entry>$</entry>
+        <entry>RedGate</entry>
+        <entry>moment</entry>
+        <entry>Redgatre</entry>
+        <entry>Redgate</entry>
         <entry encoding="base64">XDxSZWRHYXRlXD4=</entry>
       </history-search>
       <history-cmd>
