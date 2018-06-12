@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Website.JavaScript.Unit.Tests'" />
-    <option name="defaultScopeName" value="Project 'Website.JavaScript.Unit.Tests'" />
-    <option name="SEARCH_SCOPE" value="Project 'Website.JavaScript.Unit.Tests'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
