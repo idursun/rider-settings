@@ -41,12 +41,18 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" timestamp="1528906845661">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/SelectBaseMonitor.cshtml" timestamp="1528879294629" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
         <mark key="'" line="28" column="39" />
         <mark key="[" line="8" column="43" />
@@ -92,6 +98,12 @@
         <mark key="." line="69" column="50" />
         <mark key="^" line="69" column="50" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/SQLServerImporterParserSpec.js" timestamp="1528906864716">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/SelectBaseMonitor.cshtml" timestamp="1528880416659">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="42" />
@@ -107,9 +119,6 @@
         <mark key="[" line="11" column="96" />
         <mark key="]" line="11" column="96" />
         <mark key="." line="11" column="96" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCancellingSaveAsNewFilterSpec.js" timestamp="1528464394095">
-        <mark key="'" line="0" column="8" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" timestamp="1528449737479">
         <mark key="'" line="158" column="34" />
@@ -237,8 +246,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" timestamp="1528464406164">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" timestamp="1528906749811">
         <mark key="'" line="5" column="8" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -261,7 +273,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528879385711">
+      <file name="/Dummy.txt" timestamp="1528906788861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -334,12 +346,12 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1528465069307">
-        <mark key="'" line="91" column="41" />
-        <mark key="[" line="102" column="10" />
-        <mark key="]" line="102" column="8" />
-        <mark key="." line="102" column="8" />
-        <mark key="^" line="102" column="8" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1528906462975">
+        <mark key="'" line="69" column="48" />
+        <mark key="[" line="68" column="49" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="28" />
+        <mark key="^" line="69" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenLoadedWithQueryParamsSpec.js" timestamp="1528465042085">
         <mark key="'" line="177" column="70" />
@@ -364,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="798" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
-      <jump line="803" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
       <jump line="25" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
       <jump line="26" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
       <jump line="27" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
@@ -464,68 +474,60 @@
       <jump line="78" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="81" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
+      <jump line="69" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="19" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uRmlsdGVyU3RhdGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>Require SpecHelper.js properly</text>
       </register>
       <register name="/" type="4">
-        <text>RedGate</text>
+        <text>ko.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJ1cmlqcyI6ICJeMS4xOS4xIiwKICAgICJ1cmwtbG9hZGVyIjogIl4wLjYuMiIsCiAgICAid2F5cG9pbnRzIjogIl40LjAuMSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uRmlsdGVyU3RhdGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBASHRtbC5QYXJ0aWFsKCJTZWxlY3RCYXNlTW9uaXRvciIpCg==</text>
+        <text encoding="base64">bGV0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGguam9pbihfX2Rpcm5hbWUsICIuLi8uLi9VSS9XZWJzaXRlL25vZGVfbW9kdWxlcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBASHRtbC5QYXJ0aWFsKCJTZWxlY3RCYXNlTW9uaXRvciIpCg==</text>
+        <text encoding="base64">ICAgIHNjcmlwdFJvb3Q6IGZ1bmN0aW9uIChyZWxhdGl2ZSkgewogICAgICAgIHJldHVybiBwYXRocy53ZWJzaXRlUm9vdCgnU2NyaXB0c1NvdXJjZS8nKSArIHJlbGF0aXZlOwogICAgfSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.
-RedGate.Constants.</text>
-      </register>
-      <register name="6" type="4">
-        <text>RedGate.Constants.
-RedGate.Constants.</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBDb29raWVOYW1lcyA9IFJlZEdhdGUuQ29uc3RhbnRzLkNvb2tpZU5hbWVzOwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNjcmlwdFJvb3Q6IGZ1bmN0aW9uIChyZWxhdGl2ZSkgewogICAgICAgIHJldHVybiBwYXRocy53ZWJzaXRlUm9vdCgnU2NyaXB0c1NvdXJjZS8nKSArIHJlbGF0aXZlOwogICAgfSwK</text>
       </register>
-      <register name="9" type="4">
-        <text>RedGate.SqlMonitor.
-RedGate.SqlMonitor.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBASHRtbC5QYXJ0aWFsKCJTZWxlY3RCYXNlTW9uaXRvciIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RedGate</last-search>
+      <last-search>ko.</last-search>
       <last-offset />
-      <last-pattern>RedGate</last-pattern>
+      <last-pattern>ko.</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +535,6 @@ RedGate.SqlMonitor.</text>
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>_Type</entry>
         <entry>, -1</entry>
         <entry encoding="base64">U1FMIFNlcnZlciA=</entry>
@@ -553,6 +554,7 @@ RedGate.SqlMonitor.</text>
         <entry>TimeWindowModes</entry>
         <entry>LocalStorage</entry>
         <entry>RedGate</entry>
+        <entry>ko.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
