@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -234,11 +234,9 @@
         <mark key="." line="19" column="8" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1528983923302">
-        <mark key="'" line="48" column="9" />
-        <mark key="[" line="132" column="10" />
-        <mark key="]" line="133" column="33" />
-        <mark key="^" line="133" column="33" />
-        <mark key="." line="133" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -299,6 +297,12 @@
         <mark key="]" line="357" column="80" />
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ManageMonitoredEntitiesUtils.js" timestamp="1528985293786">
+        <mark key="[" line="122" column="3" />
+        <mark key="]" line="122" column="3" />
+        <mark key="^" line="122" column="3" />
+        <mark key="." line="122" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1528983415065">
         <mark key="[" line="0" column="0" />
