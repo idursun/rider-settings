@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -210,12 +210,12 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1528976733422">
-        <mark key="'" line="190" column="36" />
-        <mark key="[" line="135" column="22" />
-        <mark key="]" line="135" column="33" />
-        <mark key="^" line="135" column="33" />
-        <mark key="." line="135" column="33" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1528978102795">
+        <mark key="'" line="203" column="72" />
+        <mark key="[" line="199" column="52" />
+        <mark key="]" line="199" column="52" />
+        <mark key="^" line="199" column="52" />
+        <mark key="." line="199" column="52" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -372,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
-      <jump line="27" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
       <jump line="28" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
       <jump line="29" column="60" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
       <jump line="30" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" />
@@ -472,13 +470,15 @@
       <jump line="69" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="19" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" />
       <jump line="190" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="200" column="67" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="203" column="72" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ContentSource</text>
+        <text encoding="base64">dG86ICcnIA==</text>
       </register>
       <register name="-" type="4">
-        <text>ContentSource</text>
+        <text encoding="base64">dG86ICcnIA==</text>
       </register>
       <register name="/" type="4">
         <text>ko.</text>
