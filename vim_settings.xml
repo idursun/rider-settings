@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -122,7 +122,6 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ServerOverviewViewModel.js" timestamp="1529314709030">
-        <mark key="'" line="19" column="0" />
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -270,12 +269,12 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1529075684930">
-        <mark key="'" line="202" column="20" />
-        <mark key="[" line="133" column="27" />
-        <mark key="]" line="133" column="27" />
-        <mark key="^" line="202" column="26" />
-        <mark key="." line="133" column="27" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1529316704948">
+        <mark key="'" line="152" column="37" />
+        <mark key="[" line="45" column="72" />
+        <mark key="]" line="45" column="72" />
+        <mark key="^" line="45" column="72" />
+        <mark key="." line="45" column="72" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -468,9 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
-      <jump line="67" column="66" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedWithNoQueryStringSpec.js" />
-      <jump line="58" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" />
       <jump line="101" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
       <jump line="91" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="95" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
@@ -568,6 +564,9 @@
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
       <jump line="90" column="45" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
       <jump line="18" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ServerOverviewViewModel.js" />
+      <jump line="59" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="73" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="151" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -577,7 +576,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>warning</text>
+        <text>Views</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZnJvbS5UeXBlID09ICJmaWxlIikgewogICAgICAgICAgICByZXR1cm4gKDxIdHRwRnJvbUVkaXRvciBmcm9tPXtmcm9tfSBvblVwZGF0ZWQ9eyhmKSA9PiB0aGlzLnNldFN0YXRlKHtmcm9tOiBmfSl9Lz4pCiAgICAgICAgfQo=</text>
@@ -617,9 +616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>warning</last-search>
+      <last-search>Views</last-search>
       <last-offset />
-      <last-pattern>warning</last-pattern>
+      <last-pattern>Views</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaWNlbnNpbmdDb25maWd1cmF0aW9uVmlld01vZGVsXD4=</entry>
         <entry>TimeWindowMode</entry>
         <entry encoding="base64">XDxQYWdpbmdEaXJlY3Rpb25zXD4=</entry>
         <entry>mapping</entry>
@@ -647,6 +645,7 @@
         <entry encoding="base64">XDxSZWRHYXRlXD4=</entry>
         <entry>core</entry>
         <entry>warning</entry>
+        <entry>Views</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
