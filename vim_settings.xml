@@ -244,6 +244,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/PerformanceData.cshtml" timestamp="1529313487696" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedWithQueryStringSpec.js" timestamp="1528465491737">
         <mark key="[" line="101" column="49" />
         <mark key="]" line="101" column="49" />
@@ -314,6 +315,9 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
         <mark key="^" line="193" column="49" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" timestamp="1529313505882">
+        <mark key="'" line="90" column="45" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/common.js" timestamp="1528463584443">
         <mark key="'" line="0" column="12" />
@@ -428,7 +432,7 @@
         <mark key="." line="202" column="23" />
         <mark key="^" line="202" column="47" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1528906462975">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529313473327">
         <mark key="'" line="69" column="48" />
         <mark key="[" line="68" column="49" />
         <mark key="]" line="69" column="28" />
@@ -457,8 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" />
-      <jump line="38" column="23" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" />
       <jump line="56" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" />
       <jump line="116" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
       <jump line="67" column="66" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedWithNoQueryStringSpec.js" />
@@ -557,6 +559,8 @@
       <jump line="17" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
       <jump line="56" column="11" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
       <jump line="47" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
+      <jump line="90" column="45" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
