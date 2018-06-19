@@ -208,6 +208,7 @@
         <mark key="^" line="163" column="54" />
         <mark key="." line="38" column="38" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/entry.js" timestamp="1529425007325" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1529421181176">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="38" />
@@ -472,12 +473,12 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529313473327">
-        <mark key="'" line="69" column="48" />
-        <mark key="[" line="68" column="49" />
-        <mark key="]" line="69" column="28" />
-        <mark key="." line="69" column="28" />
-        <mark key="^" line="69" column="28" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529425140554">
+        <mark key="'" line="105" column="22" />
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Login/entry.js" timestamp="1529053735788">
         <mark key="'" line="26" column="37" />
@@ -507,13 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="106" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="107" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="109" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="110" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="111" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="112" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="115" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="85" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="116" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
@@ -607,58 +601,65 @@
       <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
       <jump line="50" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
       <jump line="23" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" />
+      <jump line="81" column="5" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="83" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="52" column="34" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="43" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="59" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="105" column="22" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RGVsZXRlIGtub2Nrb3V0LXN0dWZmIHNjcmlwdCBhcyBpdCdzIG5laXRoZXIgYnVuZGxlZCBub3IgdXNlZAo=</text>
+        <text encoding="base64">ICAgICAgICAnVGVzdHMvY29tbW9uLmpzJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>: ['webpack', 'sourcemap'],</text>
       </register>
       <register name="/" type="4">
-        <text>Disabled</text>
+        <text>entry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLmxvYWRpbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICAnVGVzdHMvKiovKlNwZWMuanMnOiBbJ3dlYnBhY2snLCAnc291cmNlbWFwJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RGVsZXRlIGtub2Nrb3V0LXN0dWZmIHNjcmlwdCBhcyBpdCdzIG5laXRoZXIgYnVuZGxlZCBub3IgdXNlZAo=</text>
+        <text encoding="base64">ICAgICAgICAnVGVzdHMvY29tbW9uLmpzJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSI8JT0gVXJsLkNvbXBpbGVkU2NyaXB0KCJjb3JlIikgJT4iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwcmUgZGF0YS1iaW5kPSJ0ZXh0OlJlcG9ydFNjaGVkdWxlLkRpc2FibGVkIj48L3ByZT4K</text>
+        <text encoding="base64">ICAgICAgICAnVGVzdHMvdGVzdC1tYWluLmpzJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnVGVzdHMvZW50cnkuanMnOiBbJ3dlYnBhY2snLCAnc291cmNlbWFwJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzOiBIb21lUHJvcHMpIHsKICAgICAgICBzdXBlcihwcm9wcyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1jb3ZlcmFnZS1pc3RhbmJ1bC1yZXBvcnRlcicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhdmVTb3VyY2UoKSB7CgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1zb3VyY2UtbWFwLXN1cHBvcnQnKSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7cm91dGV9ID0gdGhpcy5wcm9wczsKCiAgICAgICAgaWYgKHJvdXRlICE9IHVuZGVmaW5lZCkgewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgIG5hbWU6IHJvdXRlLk5hbWUsCiAgICAgICAgICAgICAgICBmcm9tOiByb3V0ZS5Gcm9tLAogICAgICAgICAgICAgICAgcHJvY2Vzc2VzOiByb3V0ZS5Qcm9jZXNzZXMKICAgICAgICAgICAgfSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgIG5hbWU6ICIiLAogICAgICAgICAgICB9KQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJlcG9ydGVyczogWydwcm9ncmVzcycsICdjb3ZlcmFnZS1pc3RhbmJ1bCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbmRlclByb2Nlc3Nlcyhwcm9jZXNzZXM6IFByb2Nlc3NDb25maWdbXSB8IHVuZGVmaW5lZCkgewogICAgICAgIHJldHVybiA8c3Bhbj5vdXRwdXQ8L3NwYW4+CiAgICB9Cgo=</text>
+        <text encoding="base64">RGVsZXRlIGtub2Nrb3V0LXN0dWZmIHNjcmlwdCBhcyBpdCdzIG5laXRoZXIgYnVuZGxlZCBub3IgdXNlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Disabled</last-search>
+      <last-search>entry</last-search>
       <last-offset />
-      <last-pattern>Disabled</last-pattern>
+      <last-pattern>entry</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -666,8 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mapping</entry>
-        <entry>$</entry>
         <entry>moment</entry>
         <entry>Redgatre</entry>
         <entry>Redgate</entry>
@@ -686,6 +685,8 @@
         <entry>Views</entry>
         <entry>ReportSchedule</entry>
         <entry>Disabled</entry>
+        <entry>plugins</entry>
+        <entry>entry</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
