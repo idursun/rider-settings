@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -67,9 +67,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ActiveDirectoryAccount/LogIn.aspx" timestamp="1529053767614">
-        <mark key="[" line="46" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
         <mark key="'" line="28" column="39" />
@@ -192,6 +189,15 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Views/Report/Index.cshtml" timestamp="1529403378154">
+        <mark key="a" line="168" column="79" />
+        <mark key="s" line="168" column="79" />
+        <mark key="'" line="309" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="163" column="54" />
+        <mark key="." line="163" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="4" column="4" />
@@ -216,6 +222,9 @@
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" timestamp="1529403198286">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
         <mark key="'" line="116" column="15" />
@@ -339,7 +348,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529315273078">
+      <file name="/Dummy.txt" timestamp="1529403412718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -452,6 +461,12 @@
         <mark key="." line="72" column="46" />
         <mark key="^" line="72" column="46" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" timestamp="1529403281620">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="57" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" timestamp="1529079298281">
         <mark key="'" line="26" column="27" />
         <mark key="[" line="24" column="40" />
@@ -467,11 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
-      <jump line="91" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="95" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="94" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="92" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="103" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="104" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="105" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
@@ -567,58 +577,63 @@
       <jump line="59" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="73" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="151" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="309" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Views/Report/Index.cshtml" />
+      <jump line="53" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" />
+      <jump line="554" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
+      <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwcmUgZGF0YS1iaW5kPSJ0ZXh0OlJlcG9ydFNjaGVkdWxlLkRpc2FibGVkIj48L3ByZT4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Views</text>
+        <text>Disabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnJvbS5UeXBlID09ICJmaWxlIikgewogICAgICAgICAgICByZXR1cm4gKDxIdHRwRnJvbUVkaXRvciBmcm9tPXtmcm9tfSBvblVwZGF0ZWQ9eyhmKSA9PiB0aGlzLnNldFN0YXRlKHtmcm9tOiBmfSl9Lz4pCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLmxvYWRpbmcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwcmUgZGF0YS1iaW5kPSJ0ZXh0OlJlcG9ydFNjaGVkdWxlLkRpc2FibGVkIj48L3ByZT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzOiBIb21lUHJvcHMpIHsKICAgICAgICBzdXBlcihwcm9wcyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNhdmVTb3VyY2UoKSB7CgogICAgfQoK</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzOiBIb21lUHJvcHMpIHsKICAgICAgICBzdXBlcihwcm9wcyk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhdmVTb3VyY2UoKSB7CgogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7cm91dGV9ID0gdGhpcy5wcm9wczsKCiAgICAgICAgaWYgKHJvdXRlICE9IHVuZGVmaW5lZCkgewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgIG5hbWU6IHJvdXRlLk5hbWUsCiAgICAgICAgICAgICAgICBmcm9tOiByb3V0ZS5Gcm9tLAogICAgICAgICAgICAgICAgcHJvY2Vzc2VzOiByb3V0ZS5Qcm9jZXNzZXMKICAgICAgICAgICAgfSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgIG5hbWU6ICIiLAogICAgICAgICAgICB9KQogICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlbmRlclByb2Nlc3Nlcyhwcm9jZXNzZXM6IFByb2Nlc3NDb25maWdbXSB8IHVuZGVmaW5lZCkgewogICAgICAgIHJldHVybiA8c3Bhbj5vdXRwdXQ8L3NwYW4+CiAgICB9Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucmVuZGVyUHJvY2Vzc2VzKHByb2Nlc3Nlcyl9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7cm91dGV9ID0gdGhpcy5wcm9wczsKCiAgICAgICAgaWYgKHJvdXRlICE9IHVuZGVmaW5lZCkgewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgIG5hbWU6IHJvdXRlLk5hbWUsCiAgICAgICAgICAgICAgICBmcm9tOiByb3V0ZS5Gcm9tLAogICAgICAgICAgICAgICAgcHJvY2Vzc2VzOiByb3V0ZS5Qcm9jZXNzZXMKICAgICAgICAgICAgfSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgIG5hbWU6ICIiLAogICAgICAgICAgICB9KQogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlbmRlclByb2Nlc3Nlcyhwcm9jZXNzZXM6IFByb2Nlc3NDb25maWdbXSB8IHVuZGVmaW5lZCkgewogICAgICAgIHJldHVybiA8c3Bhbj5vdXRwdXQ8L3NwYW4+CiAgICB9Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3RoaXMucmVuZGVyUHJvY2Vzc2VzKHByb2Nlc3Nlcyl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtIdHRwRnJvbUVkaXRvcn0gZnJvbSAiLi9mcm9tRWRpdG9ycy9IdHRwRnJvbUVkaXRvciI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Views</last-search>
+      <last-search>Disabled</last-search>
       <last-offset />
-      <last-pattern>Views</last-pattern>
+      <last-pattern>Disabled</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -626,8 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TimeWindowMode</entry>
-        <entry encoding="base64">XDxQYWdpbmdEaXJlY3Rpb25zXD4=</entry>
         <entry>mapping</entry>
         <entry>$</entry>
         <entry>moment</entry>
@@ -646,6 +659,8 @@
         <entry>core</entry>
         <entry>warning</entry>
         <entry>Views</entry>
+        <entry>ReportSchedule</entry>
+        <entry>Disabled</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
