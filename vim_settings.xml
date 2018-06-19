@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -197,6 +197,9 @@
         <mark key="]" line="163" column="0" />
         <mark key="^" line="163" column="54" />
         <mark key="." line="163" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" timestamp="1529404050416">
+        <mark key="'" line="50" column="8" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
@@ -482,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="104" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="105" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="106" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
@@ -582,6 +584,7 @@
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" />
       <jump line="554" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
       <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
+      <jump line="50" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
