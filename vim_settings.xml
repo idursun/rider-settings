@@ -160,6 +160,9 @@
         <mark key="." line="69" column="50" />
         <mark key="^" line="69" column="50" />
       </file>
+      <file name="C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/Microsoft/NuGet/15.0/Microsoft.NuGet.targets" timestamp="1529506660292">
+        <mark key="'" line="196" column="58" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/SQLServerImporterParserSpec.js" timestamp="1528906864716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -228,15 +231,6 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Views/Report/Index.cshtml" timestamp="1529421140938">
-        <mark key="a" line="168" column="79" />
-        <mark key="s" line="168" column="79" />
-        <mark key="'" line="309" column="0" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="38" />
-        <mark key="^" line="163" column="54" />
-        <mark key="." line="38" column="38" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1529421181176">
         <mark key="[" line="19" column="37" />
@@ -564,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="81" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="69" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
@@ -664,6 +657,7 @@
       <jump line="97" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
       <jump line="216" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/jquery.spinbox.js" />
       <jump line="255" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/jquery.spinbox.js" />
+      <jump line="196" column="58" filename="C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/Microsoft/NuGet/15.0/Microsoft.NuGet.targets" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -673,7 +667,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>selectValidation</text>
+        <text encoding="base64">XDxBbmFseXplclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICA8cHJlIGRhdGEtYmluZD0idGV4dDoga28udG9KU09OKCRkYXRhLCBudWxsLCAyKSI+PC9wcmU+IAo=</text>
@@ -720,9 +714,9 @@
       </register>
     </registers>
     <search>
-      <last-search>selectValidation</last-search>
+      <last-search encoding="base64">XDxBbmFseXplclw+</last-search>
       <last-offset />
-      <last-pattern>selectValidation</last-pattern>
+      <last-pattern encoding="base64">XDxBbmFseXplclw+</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -730,7 +724,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Redgate</entry>
         <entry>MiniGrid</entry>
         <entry>Ajax</entry>
         <entry encoding="base64">XDxBZGRTcWxTZXJ2ZXJNb2RlbFw+</entry>
@@ -750,6 +743,7 @@
         <entry>entry</entry>
         <entry>viewmodel</entry>
         <entry>selectValidation</entry>
+        <entry encoding="base64">XDxBbmFseXplclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
