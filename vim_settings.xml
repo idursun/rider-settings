@@ -61,9 +61,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1529502849883">
-        <mark key="'" line="97" column="39" />
-        <mark key="[" line="96" column="60" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1529504368736">
+        <mark key="'" line="98" column="39" />
+        <mark key="[" line="95" column="79" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" timestamp="1528906845661">
         <mark key="'" line="20" column="20" />
@@ -76,6 +79,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.spinbox.js" timestamp="1529504237143">
+        <mark key="[" line="5" column="45" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
         <mark key="'" line="28" column="39" />
@@ -192,6 +198,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/entry.js" timestamp="1529504772065">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+      </file>
       <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527194261557">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -289,6 +301,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/entry.js" timestamp="1529504009969">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="4" column="80" />
+        <mark key="^" line="4" column="80" />
+        <mark key="." line="4" column="80" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/TopStatusBar/entry.js" timestamp="1528983116397">
         <mark key="[" line="27" column="4" />
@@ -639,11 +657,11 @@
       <jump line="97" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vU2hhcmVkL2NvbXBvbmVudHMvTmV3RmVhdHVyZUJhci9OZXdGZWF0dXJlQmFyJzsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Remove entry.js</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>selectValidation</text>
@@ -652,21 +670,24 @@
         <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1zb3VyY2VtYXAtbG9hZGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vU2hhcmVkL2NvbXBvbmVudHMvTmV3RmVhdHVyZUJhci9OZXdGZWF0dXJlQmFyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vU2hhcmVkL2NvbXBvbmVudHMvTmV3RmVhdHVyZUJhci9OZXdGZWF0dXJlQmFyJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlLycK</text>
+        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlLycK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>plugins: [
         require('karma-jasmine'),
         require('karma-chrome-launcher'),
@@ -676,17 +697,14 @@
         require('karma-coverage-istanbul-reporter')
     ],</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gcmVxdWlyZSgnc291cmNlLW1hcC1zdXBwb3J0JykuaW5zdGFsbCgpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwppbXBvcnQgJ2xvZGFzaCc7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdrbm9ja291dCc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdrbm9ja291dCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
