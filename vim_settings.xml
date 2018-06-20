@@ -61,12 +61,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1529504368736">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1529505840616">
         <mark key="'" line="98" column="39" />
-        <mark key="[" line="95" column="79" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="102" column="46" />
+        <mark key="]" line="102" column="46" />
+        <mark key="^" line="102" column="56" />
+        <mark key="." line="102" column="46" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" timestamp="1528906845661">
         <mark key="'" line="20" column="20" />
@@ -80,8 +80,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.spinbox.js" timestamp="1529504237143">
-        <mark key="[" line="5" column="45" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.spinbox.js" timestamp="1529505566272">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
         <mark key="'" line="28" column="39" />
@@ -352,6 +355,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1529506124285">
+        <mark key="[" line="11" column="116" />
+        <mark key="]" line="11" column="118" />
+        <mark key="." line="11" column="118" />
+        <mark key="^" line="11" column="118" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/entry.js" timestamp="1528455038989">
         <mark key="'" line="21" column="7" />
         <mark key="[" line="8" column="29" />
@@ -555,8 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="78" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="81" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
@@ -655,19 +662,21 @@
       <jump line="90" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
       <jump line="590" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
       <jump line="97" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
+      <jump line="216" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/jquery.spinbox.js" />
+      <jump line="255" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/jquery.spinbox.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>selectValidation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1zb3VyY2VtYXAtbG9hZGVyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICA8cHJlIGRhdGEtYmluZD0idGV4dDoga28udG9KU09OKCRkYXRhLCBudWxsLCAyKSI+PC9wcmU+IAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
