@@ -87,6 +87,18 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureActiveDirectoryAuthentication/AddEditUserViewModel.js" timestamp="1529499447653">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.scss" timestamp="1529499753613">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
         <mark key="'" line="46" column="38" />
         <mark key="[" line="48" column="20" />
@@ -208,11 +220,18 @@
         <mark key="^" line="163" column="54" />
         <mark key="." line="38" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/entry.js" timestamp="1529425007325" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1529421181176">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="38" />
         <mark key="." line="19" column="38" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" timestamp="1529500444993">
+        <mark key="a" line="591" column="20" />
+        <mark key="'" line="591" column="42" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
@@ -374,7 +393,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529484973076">
+      <file name="/Dummy.txt" timestamp="1529500507269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -478,12 +497,11 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529484422846">
-        <mark key="'" line="106" column="22" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="46" column="41" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529499171506">
+        <mark key="'" line="98" column="22" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Login/entry.js" timestamp="1529053735788">
         <mark key="'" line="26" column="37" />
@@ -511,11 +529,11 @@
         <mark key="]" line="112" column="59" />
         <mark key="." line="112" column="59" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreenViewModel.js" timestamp="1529500113088">
+        <mark key="'" line="12" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="85" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="116" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="75" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="76" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
@@ -613,58 +631,68 @@
       <jump line="43" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="59" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="105" column="22" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
+      <jump line="12" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreenViewModel.js" />
+      <jump line="90" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
+      <jump line="590" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Remove script reference to core</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>Remove script reference to core</text>
+        <text>Remove entry.js</text>
       </register>
       <register name="/" type="4">
-        <text>entry</text>
+        <text>selectValidation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1zb3VyY2VtYXAtbG9hZGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gcmVxdWlyZSgnc291cmNlLW1hcC1zdXBwb3J0JykuaW5zdGFsbCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwppbXBvcnQgJ2xvZGFzaCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlLycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdrbm9ja291dCc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwo=</text>
+      <register name="4" type="4">
+        <text>plugins: [
+        require('karma-jasmine'),
+        require('karma-chrome-launcher'),
+        require('karma-webpack'),
+        require('karma-sourcemap-loader'),
+        require('karma-source-map-support'),
+        require('karma-coverage-istanbul-reporter')
+    ],</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdqcXVlcnknOwo=</text>
+        <text encoding="base64">Ly8gcmVxdWlyZSgnc291cmNlLW1hcC1zdXBwb3J0JykuaW5zdGFsbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnVGVzdHMvY29tbW9uLmpzJwo=</text>
+        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwppbXBvcnQgJ2xvZGFzaCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0ICdrbm9ja291dCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnVGVzdHMvdGVzdC1tYWluLmpzJywK</text>
+        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnVGVzdHMvZW50cnkuanMnOiBbJ3dlYnBhY2snLCAnc291cmNlbWFwJ10K</text>
+        <text encoding="base64">aW1wb3J0ICdqcXVlcnknOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>entry</last-search>
+      <last-search>selectValidation</last-search>
       <last-offset />
-      <last-pattern>entry</last-pattern>
+      <last-pattern>selectValidation</last-pattern>
       <last-replace>,\r\n</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -672,8 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moment</entry>
-        <entry>Redgatre</entry>
         <entry>Redgate</entry>
         <entry>MiniGrid</entry>
         <entry>Ajax</entry>
@@ -692,6 +718,8 @@
         <entry>Disabled</entry>
         <entry>plugins</entry>
         <entry>entry</entry>
+        <entry>viewmodel</entry>
+        <entry>selectValidation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tvLm9ic2VydmFibGUoL2c=</entry>
