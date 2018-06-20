@@ -93,11 +93,10 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.scss" timestamp="1529499753613">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="43" />
-        <mark key="^" line="1" column="43" />
-        <mark key="." line="1" column="43" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.scss" timestamp="1529501168893">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
         <mark key="'" line="46" column="38" />
@@ -637,7 +636,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vU2hhcmVkL2NvbXBvbmVudHMvTmV3RmVhdHVyZUJhci9OZXdGZWF0dXJlQmFyJzsK</text>
       </register>
       <register name="-" type="4">
         <text>Remove entry.js</text>
@@ -649,18 +648,21 @@
         <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1zb3VyY2VtYXAtbG9hZGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vU2hhcmVkL2NvbXBvbmVudHMvTmV3RmVhdHVyZUJhci9OZXdGZWF0dXJlQmFyJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlLycK</text>
+        <text encoding="base64">aW1wb3J0IHtodG1sQXR0cmlidXRlRGVjb2RlfSBmcm9tICIuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL1V0aWxzIjsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlLycK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>plugins: [
         require('karma-jasmine'),
         require('karma-chrome-launcher'),
@@ -670,20 +672,17 @@
         require('karma-coverage-istanbul-reporter')
     ],</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gcmVxdWlyZSgnc291cmNlLW1hcC1zdXBwb3J0JykuaW5zdGFsbCgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwppbXBvcnQgJ2xvZGFzaCc7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICdrbm9ja291dCc7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdqcXVlcnknOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdtb21lbnQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
