@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -28,221 +28,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.spinbox.js" timestamp="1529505566272">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
-        <mark key="'" line="33" column="51" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureActiveDirectoryAuthentication/AddEditUserViewModel.js" timestamp="1529499447653">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
-        <mark key="'" line="46" column="38" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="48" column="20" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenIsGroupedIsChangedSpec.js" timestamp="1528465249724">
-        <mark key="'" line="9" column="34" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="69" column="50" />
-        <mark key="." line="69" column="50" />
-        <mark key="^" line="69" column="50" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/SQLServerImporterParserSpec.js" timestamp="1528906864716">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/SelectBaseMonitor.cshtml" timestamp="1528880416659">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RedirectToRouteActor.cs" timestamp="1527855084272">
-        <mark key="[" line="11" column="96" />
-        <mark key="]" line="11" column="96" />
-        <mark key="." line="11" column="96" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Models/RouteConfigDto.cs" timestamp="1529077893553">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/entry.js" timestamp="1529504772065">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
-      </file>
-      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527194261557">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RouteDefinitionBuilder.cs" timestamp="1529077632744">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1529421181176">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" timestamp="1529500444993">
-        <mark key="a" line="591" column="20" />
-        <mark key="'" line="591" column="42" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
-        <mark key="'" line="4" column="4" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="31" column="8" />
-        <mark key="." line="4" column="4" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" timestamp="1529421198705">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="18" column="66" />
-        <mark key="." line="18" column="66" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" timestamp="1528463595612">
-        <mark key="'" line="4" column="19" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
-        <mark key="'" line="116" column="15" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.prod.js" timestamp="1529075967529">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/entry.js" timestamp="1529504009969">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="4" column="80" />
-        <mark key="^" line="4" column="80" />
-        <mark key="." line="4" column="80" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" timestamp="1529079385023">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.custom.js" timestamp="1529507760891" />
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ColumnOverview.Master" timestamp="1528454991171">
-        <mark key="'" line="16" column="32" />
-        <mark key="[" line="32" column="100" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1529316704948">
-        <mark key="'" line="152" column="37" />
-        <mark key="[" line="45" column="72" />
-        <mark key="]" line="45" column="72" />
-        <mark key="^" line="45" column="72" />
-        <mark key="." line="45" column="72" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
-        <mark key="'" line="1" column="25" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" timestamp="1529313505882">
-        <mark key="'" line="90" column="45" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/common.js" timestamp="1529484337043">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/FromSelector.tsx" timestamp="1529079193355">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="24" column="41" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="97" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="19" column="105" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigurePurging/Index.cshtml" timestamp="1528879016901">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/EstateDiskDetailTableSpec.jsx" timestamp="1529420032205">
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="2" column="73" />
-        <mark key="^" line="2" column="73" />
-        <mark key="." line="2" column="73" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfigurationViewModel.js" timestamp="1528365255549">
-        <mark key="'" line="239" column="0" />
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-      </file>
-      <file name="/knockout.components.threshold-editor.js" timestamp="1529509279333" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1528373502468">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="13" column="31" />
@@ -264,6 +49,13 @@
         <mark key="^" line="40" column="60" />
         <mark key="." line="48" column="48" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Embedded.Master" timestamp="1529420893613">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -283,6 +75,24 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/routes.tsx" timestamp="1527862886103">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.spinbox.js" timestamp="1529505566272">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
+        <mark key="'" line="33" column="51" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
         <mark key="'" line="28" column="39" />
         <mark key="[" line="8" column="43" />
@@ -290,10 +100,23 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureActiveDirectoryAuthentication/AddEditUserViewModel.js" timestamp="1529499447653">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.scss" timestamp="1529501168893">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
+        <mark key="'" line="46" column="38" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="48" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" timestamp="1528367374925">
         <mark key="'" line="0" column="40" />
@@ -306,6 +129,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/package.json" timestamp="1527862997672">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/NavMenu.tsx" timestamp="1527863657762">
         <mark key="[" line="1" column="0" />
@@ -325,8 +153,21 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenIsGroupedIsChangedSpec.js" timestamp="1528465249724">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="69" column="50" />
+        <mark key="." line="69" column="50" />
+        <mark key="^" line="69" column="50" />
+      </file>
       <file name="C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/Microsoft/NuGet/15.0/Microsoft.NuGet.targets" timestamp="1529506660292">
         <mark key="'" line="196" column="58" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/SQLServerImporterParserSpec.js" timestamp="1528906864716">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Startup.cs" timestamp="1529077517900">
         <mark key="[" line="27" column="47" />
@@ -334,10 +175,33 @@
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="57" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/SelectBaseMonitor.cshtml" timestamp="1528880416659">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/SourceDrainerActor.cs" timestamp="1527855074641">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="62" />
         <mark key="." line="15" column="62" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/AkkaExecution/RedirectToRouteActor.cs" timestamp="1527855084272">
+        <mark key="[" line="11" column="96" />
+        <mark key="]" line="11" column="96" />
+        <mark key="." line="11" column="96" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Models/RouteConfigDto.cs" timestamp="1529077893553">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/entry.js" timestamp="1529504772065">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="8" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" timestamp="1528449737479">
         <mark key="'" line="158" column="34" />
@@ -345,6 +209,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/RiderProjects/ETL.Spike/ETL.Console/Stream/Processors/HtmlSelectorSplitterProcessor.cs" timestamp="1527194261557">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RouteDefinitionBuilder.cs" timestamp="1529077632744">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/FaviconCss.cshtml" timestamp="1529421170038">
         <mark key="[" line="6" column="33" />
@@ -358,10 +232,35 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1529421181176">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" timestamp="1529500444993">
+        <mark key="a" line="591" column="20" />
+        <mark key="'" line="591" column="42" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="31" column="8" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Views/Report/PrintReport.cshtml" timestamp="1528983377335">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" timestamp="1529421198705">
+        <mark key="[" line="18" column="65" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="18" column="66" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" timestamp="1528366489154">
         <mark key="'" line="30" column="0" />
@@ -370,8 +269,21 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ManageMonitoredEntities/ManageMonitoredEntitiesViewModel.js" timestamp="1528463595612">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" timestamp="1529403198286">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
+        <mark key="'" line="116" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" timestamp="1528449866572">
         <mark key="'" line="89" column="53" />
@@ -380,11 +292,30 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="78" column="8" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.prod.js" timestamp="1529075967529">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/entry.js" timestamp="1529504009969">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="4" column="80" />
+        <mark key="^" line="4" column="80" />
+        <mark key="." line="4" column="80" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/TopStatusBar/entry.js" timestamp="1528983116397">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="4" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" timestamp="1529079385023">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedWithQueryStringSpec.js" timestamp="1528465491737">
         <mark key="[" line="101" column="49" />
@@ -396,6 +327,20 @@
         <mark key="]" line="4" column="61" />
         <mark key="." line="4" column="61" />
         <mark key="^" line="1" column="14" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ColumnOverview.Master" timestamp="1528454991171">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="32" column="100" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1529316704948">
+        <mark key="'" line="152" column="37" />
+        <mark key="[" line="45" column="72" />
+        <mark key="]" line="45" column="72" />
+        <mark key="^" line="45" column="72" />
+        <mark key="." line="45" column="72" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -429,6 +374,13 @@
         <mark key="]" line="124" column="49" />
         <mark key="." line="124" column="49" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilter.js" timestamp="1529053123485">
         <mark key="'" line="397" column="13" />
         <mark key="[" line="232" column="0" />
@@ -442,11 +394,21 @@
         <mark key="." line="199" column="0" />
         <mark key="^" line="193" column="49" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" timestamp="1529313505882">
+        <mark key="'" line="90" column="45" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsPage.jsx" timestamp="1529420068457">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="5" column="42" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/common.js" timestamp="1529484337043">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1528452236694">
         <mark key="'" line="0" column="0" />
@@ -454,6 +416,12 @@
         <mark key="]" line="357" column="80" />
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/FromSelector.tsx" timestamp="1529079193355">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="/Dummy.txt" timestamp="1529500507269">
         <mark key="[" line="0" column="0" />
@@ -466,6 +434,18 @@
         <mark key="]" line="70" column="49" />
         <mark key="." line="70" column="49" />
       </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="97" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="105" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigurePurging/Index.cshtml" timestamp="1528879016901">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/TimeWindowMode.js" timestamp="1528465004661">
         <mark key="'" line="28" column="15" />
         <mark key="[" line="21" column="7" />
@@ -473,10 +453,20 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1529920882839">
+        <mark key="'" line="64" column="19" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/css/site.css" timestamp="1527863680237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529921390021">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/MiniGrid.js" timestamp="1528451836108">
         <mark key="'" line="149" column="12" />
@@ -484,6 +474,17 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.js" timestamp="1527863406620">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/EstateDiskDetailTableSpec.jsx" timestamp="1529420032205">
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="2" column="73" />
+        <mark key="^" line="2" column="73" />
+        <mark key="." line="2" column="73" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" timestamp="1528372295115">
         <mark key="'" line="0" column="12" />
@@ -496,6 +497,16 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" timestamp="1529921207356">
+        <mark key="'" line="492" column="116" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfigurationViewModel.js" timestamp="1528365255549">
+        <mark key="'" line="239" column="0" />
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528451760258">
         <mark key="'" line="62" column="0" />
@@ -560,25 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" />
-      <jump line="190" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="200" column="67" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="203" column="72" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="62" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/TopStatusBar/entry.js" />
-      <jump line="41" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
-      <jump line="62" column="5" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
-      <jump line="40" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
-      <jump line="48" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
-      <jump line="108" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" />
-      <jump line="51" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="100" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Components/knockout.components.blockingtreegraph.js" />
-      <jump line="52" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
-      <jump line="54" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
-      <jump line="55" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
-      <jump line="57" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
-      <jump line="58" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
-      <jump line="62" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
       <jump line="82" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
       <jump line="83" column="82" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
       <jump line="60" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
@@ -660,49 +652,77 @@
       <jump line="76" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.custom.js" />
       <jump line="75" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
       <jump line="86" column="5" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
+      <jump line="101" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="43" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="91" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="40" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="77" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="64" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
+      <jump line="94" column="71" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="492" column="116" filename="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" />
+      <jump line="76" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="74" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="72" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="60" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="100" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="90" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="86" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="82" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="63" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="69" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="73" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLnNwaW5ib3gnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90YWJsZT4=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbmFseXplclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIi8+PC90ZD5cCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuQWRkKAogICAgICAgICAgICAgICAgICAgIFByb3BlcnR5S2luZC5TdGFibGVTYW1wbGUsCiAgICAgICAgICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLk1hY2hpbmUuTG9naWNhbERpc2suQ2FwYWNpdHkuVXNlZEJ5dGVzLlByb3BlcnR5TmFtZSwKICAgICAgICAgICAgICAgICAgICBrdnAudGltZSwKICAgICAgICAgICAgICAgICAgICBrdnAudXNlZEJ5dGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLnNwaW5ib3gnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="108" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHRvZ2dsZWJ1dHRvbiBwYXJhbXM9ImNoZWNrZWQ6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzLCB0ZXh0OiBcJ1VzZSBtdWx0aXBsZSBhbGVydCB0aHJlc2hvbGRzIChhZHZhbmNlZClcJyI+PC90b2dnbGVidXR0b24+PGJyIC8+XAogICAgICAgIDx0YWJsZSBkYXRhLWJpbmQ9ImZvcmVhY2g6IHRocmVzaG9sZHMsIHZpc2libGU6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzIj5cCiAgICAgICAgICAgICAgICA8dHI+XAogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGRBbGlnbkxlZnQiID5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5cCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImNoZWNrYm94IiB0eXBlPSJjaGVja2JveCIgZGF0YS1iaW5kPSJjaGVja2VkOiBJc0VuYWJsZWQsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ0lzRW5hYmxlZFwnKSB9LCBjc3M6ICRwYXJlbnQuc2V2ZXJpdHlEaXNwbGF5TmFtZShTZXZlcml0eSgpKSIgdmFsdWU9InRydWUiIC8+XAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnNldmVyaXR5RGlzcGxheU5hbWUoU2V2ZXJpdHkoKSkiPjwvc3Bhbj5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+XAogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBkYXRhLWJpbmQ9InZhbHVlOiBTZXZlcml0eSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnU2V2ZXJpdHlcJykgfSIgLz5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVmFsdWVcJykgfSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPlwKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBrbyBpZjogJHBhcmVudC5hbGxvd2VkVW5pdHMubGVuZ3RoID4gMSAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgZGF0YS1iaW5kPSJvcHRpb25zOiRwYXJlbnQuYWxsb3dlZFVuaXRzLCBvcHRpb25zVGV4dDogJHBhcmVudC51bml0RGlzcGxheU5hbWUsIHZhbHVlOiBVbml0TmFtZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVW5pdE5hbWVcJykgfSI+PC9zZWxlY3Q+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0ga28gaWY6ICRwYXJlbnQuYWxsb3dlZFVuaXRzLmxlbmd0aCA9PSAxIC0tPlwKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnVuaXREaXNwbGF5TmFtZShVbml0TmFtZSgpKSI+PC9zcGFuPlwKICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgZGF0YS1iaW5kPSJ2YWx1ZTogVW5pdE5hbWUsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ1VuaXROYW1lXCcpIH0iIC8+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICA8L3RyPlwKICAgICAgICA8L3RhYmxlPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZTIiIGNsYXNzPSJ0ZXh0LWJveCBzaW5nbGUtbGluZSIvPjwvdGQ+XAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgdmlld01vZGVsOiBmdW5jdGlvbiAocGFyYW1zKSB7IAogICAgICAgIHZhciBzZWxmID0gdGhpczsKCiAgICAgICAgc2VsZi5kdXJhdGlvbiA9IHBhcmFtcy5kdXJhdGlvbjsKICAgICAgICBzZWxmLm11bHRpcGxlVGhyZXNob2xkc0VuYWJsZWQgPSBwYXJhbXMubXVsdGlwbGVUaHJlc2hvbGRzRW5hYmxlZCA9PSB1bmRlZmluZWQgPyBrby5vYnNlcnZhYmxlKCkgOiBwYXJhbXMubXVsdGlwbGVUaHJlc2hvbGRzRW5hYmxlZDsKICAgICAgICBzZWxmLmZvcm1OYW1lUHJlZml4ID0gcGFyYW1zLmZvcm1OYW1lUHJlZml4OwogICAgICAgIHNlbGYudGhyZXNob2xkcyA9IGtvLmlzT2JzZXJ2YWJsZShwYXJhbXMudGhyZXNob2xkcyk/IHBhcmFtcy50aHJlc2hvbGRzIDoga28ubWFwcGluZy5mcm9tSlMocGFyYW1zLnRocmVzaG9sZHMpOyAKICAgICAgICBzZWxmLnNldmVyaXRpZXMgPSBzZWxmLnRocmVzaG9sZHMoKS5tYXAoZnVuY3Rpb24gKHQpIHsgcmV0dXJuIHQuU2V2ZXJpdHkoKSB9KTsKCiAgICAgICAgc2VsZi5taW5WYWx1ZSA9IDA7CiAgICAgICAgc2VsZi5tYXhWYWx1ZSA9ICh0eXBlb2YgcGFyYW1zLm1heFZhbHVlID09ICdudW1iZXInKSA/IHBhcmFtcy5NYXhWYWx1ZSA6IG51bGw7CgogICAgICAgIHNlbGYuY2FwdGlvbiA9IHBhcmFtcy5jYXB0aW9uOwogICAgICAgIHNlbGYuYWxsb3dlZFVuaXRzID0ga28udXRpbHMudW53cmFwT2JzZXJ2YWJsZShwYXJhbXMuYWxsb3dlZFVuaXRzKTsgCgogICAgICAgIHNlbGYuc2VsZWN0ZWRUaHJlc2hvbGRzID0gZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICByZXR1cm4gc2VsZi50aHJlc2hvbGRzKCkuZmlsdGVyKGZ1bmN0aW9uICh0KSB7IHJldHVybiB0LklzRW5hYmxlZCgpOyB9KTsKICAgICAgICB9CgogICAgICAgIHNlbGYuZ2V0U2luZ2xlVGhyZXNob2xkT3JEZWZhdWx0ID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgICB2YXIgdGhyZXNob2xkcyA9IHNlbGYuc2VsZWN0ZWRUaHJlc2hvbGRzKCk7IAoKICAgICAgICAgICAgaWYgKHRocmVzaG9sZHMubGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRocmVzaG9sZHNbMF07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBzZWxmLnRocmVzaG9sZHMoKVswXTsKICAgICAgICB9OwoKICAgICAgICBzZWxmLmN1cnJlbnRUaHJlc2hvbGQgPSBrby5vYnNlcnZhYmxlKHsuLi5zZWxmLmdldFNpbmdsZVRocmVzaG9sZE9yRGVmYXVsdCgpLCBWYWx1ZTI6IDc3fSk7CgogICAgICAgIHNlbGYudXNlTXVsdGlwbGVBbGVydFRocmVzaG9sZHMgPSBrby5vYnNlcnZhYmxlKHNlbGYuc2VsZWN0ZWRUaHJlc2hvbGRzKCkubGVuZ3RoICE9PSAxKTsKICAgICAgICBzZWxmLm11bHRpcGxlVGhyZXNob2xkc0VuYWJsZWQoc2VsZi51c2VNdWx0aXBsZUFsZXJ0VGhyZXNob2xkcygpKTsKCiAgICAgICAgc2VsZi5jdXJyZW50U2V2ZXJpdHkgPSBrby5vYnNlcnZhYmxlKHNlbGYuY3VycmVudFRocmVzaG9sZCgpLlNldmVyaXR5KCkpLmV4dGVuZCh7IG5vdGlmeTogJ2Fsd2F5cycgfSk7CgogICAgICAgIHNlbGYuc2V2ZXJpdHlEaXNwbGF5TmFtZSA9IGZ1bmN0aW9uIChzZXZlcml0eSkgewogICAgICAgICAgICByZXR1cm4gWyJOb25lIiwgIkxvdyIsICJNZWRpdW0iLCAiSGlnaCJdW3NldmVyaXR5XTsKICAgICAgICB9CgogICAgICAgIHNlbGYudW5pdERpc3BsYXlOYW1lID0gZnVuY3Rpb24gKHVuaXQpIHsgCiAgICAgICAgICAgIHZhciB1bml0cyA9IFsiJSIsICIiLCAiYnl0ZXMiLCAiS0IiLCAiTUIiLCAiR0IiLCAic2Vjb25kcyIsICJtaW51dGVzIiwgImhvdXJzIiwgImRheXMiLCAicGFnZXMiLCAibXMiXTsKICAgICAgICAgICAgcmV0dXJuIHVuaXRzW3VuaXRdOyAKICAgICAgICB9CgogICAgICAgIHNlbGYuZ2V0TmFtZSA9IGZ1bmN0aW9uKGluZGV4LCBwcm9wZXJ0eU5hbWUpIHsKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZm9ybU5hbWVQcmVmaXggKyAiLlRocmVzaG9sZHNbIiArIGluZGV4ICsgIl0uIiArIHByb3BlcnR5TmFtZTsKICAgICAgICB9CgogICAgICAgIHNlbGYuY3VycmVudFNldmVyaXR5LnN1YnNjcmliZShmdW5jdGlvbiAobmV3VmFsdWUpIHsKICAgICAgICAgICAgdmFyIG51bVNldmVyaXRpZXMgPSAzOyAvL0xvdywgTWVkaXVtLCBIaWdoCgogICAgICAgICAgICAvL1RoZSB0aHJlc2hvbGRzIGFyZSBpbmRleGVkOiAwID0gSGlnaCwgMSA9IE1lZGl1bSwgMiA9IExvdwogICAgICAgICAgICB2YXIgdGhyZXNob2xkSW5kZXggPSBudW1TZXZlcml0aWVzIC0gbmV3VmFsdWU7CiAgICAgICAgICAgIHNlbGYudGhyZXNob2xkcygpLm1hcChmdW5jdGlvbiAodCkgeyB0LklzRW5hYmxlZChmYWxzZSkgfSk7CiAgICAgICAgICAgIHNlbGYudGhyZXNob2xkcygpW3RocmVzaG9sZEluZGV4XS5Jc0VuYWJsZWQodHJ1ZSk7CgogICAgICAgICAgICB2YXIgb2xkVGhyZXNob2xkID0gc2VsZi5jdXJyZW50VGhyZXNob2xkKCk7CiAgICAgICAgICAgIHZhciBuZXdUaHJlc2hvbGQgPSBzZWxmLnRocmVzaG9sZHMoKVt0aHJlc2hvbGRJbmRleF07CgogICAgICAgICAgICBuZXdUaHJlc2hvbGQuVmFsdWUob2xkVGhyZXNob2xkLlZhbHVlKCkpOwogICAgICAgICAgICBuZXdUaHJlc2hvbGQuVW5pdE5hbWUob2xkVGhyZXNob2xkLlVuaXROYW1lKCkpOwoKICAgICAgICAgICAgc2VsZi5jdXJyZW50VGhyZXNob2xkKG5ld1RocmVzaG9sZCk7CiAgICAgICAgfSk7CgogICAgICAgIHNlbGYudXNlTXVsdGlwbGVBbGVydFRocmVzaG9sZHMuc3Vic2NyaWJlKGZ1bmN0aW9uKHNob3VsZFVzZU11bHRpcGxlVGhyZXNob2xkcykgewogICAgICAgICAgICBpZiAoIXNob3VsZFVzZU11bHRpcGxlVGhyZXNob2xkcykgewogICAgICAgICAgICAgICAgdmFyIHRocmVzaG9sZCA9IHNlbGYuZ2V0U2luZ2xlVGhyZXNob2xkT3JEZWZhdWx0KCk7CiAgICAgICAgICAgICAgICAvLyBQcmVzZXJ2ZSB0aGUgdmFsdWVzIGZyb20gdGhlIG11bHRpcGxlLWVkaXRvciAtIG90aGV3aXNlIHNldHRpbmcgc2V2ZXJpdHkgb3ZlcndyaXRlcyB0aGVtIAogICAgICAgICAgICAgICAgdmFyIHZhbHVlID0gdGhyZXNob2xkLlZhbHVlKCk7CiAgICAgICAgICAgICAgICB2YXIgdW5pdCA9IHRocmVzaG9sZC5Vbml0TmFtZSgpOwoKICAgICAgICAgICAgICAgIHNlbGYuY3VycmVudFNldmVyaXR5KHRocmVzaG9sZC5TZXZlcml0eSgpKTsKCiAgICAgICAgICAgICAgICBzZWxmLmN1cnJlbnRUaHJlc2hvbGQoKS5WYWx1ZSh2YWx1ZSk7CiAgICAgICAgICAgICAgICBzZWxmLmN1cnJlbnRUaHJlc2hvbGQoKS5Vbml0TmFtZSh1bml0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZWxmLm11bHRpcGxlVGhyZXNob2xkc0VuYWJsZWQoc2hvdWxkVXNlTXVsdGlwbGVUaHJlc2hvbGRzKTsKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIHNlbGY7CiAgICB9LAogICAgdGVtcGxhdGU6CiAgICAgICAgJzx0YWJsZSBjbGFzcz0idGhyZXNob2xkRWRpdG9yIj5cCiAgICAgICAgICAgIDx0ciBkYXRhLWJpbmQ9IndpdGg6IGN1cnJlbnRUaHJlc2hvbGQsIGZhZGU6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzIj5cCiAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkQWxpZ25MZWZ0IiBzdHlsZT0id2lkdGg6IDQ0cHggIj5SYWlzZSBhPC90ZD5cCiAgICAgICAgICAgICAgICA8dGQgY2xhc3M9ImFsZXJ0U2V0dGluZ3NPcHRpb25zIj5cCiAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBkYXRhLWJpbmQ9ImZvcmVhY2g6IHsgZGF0YTokcGFyZW50LnNldmVyaXRpZXMsIGFzOiBcJ2l0ZW1cJ30sIHZhbHVlOiAkcGFyZW50LmN1cnJlbnRTZXZlcml0eSwgY3NzOiAkcGFyZW50LnNldmVyaXR5RGlzcGxheU5hbWUoJHBhcmVudC5jdXJyZW50U2V2ZXJpdHkoKSkiPlwKICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiBkYXRhLWJpbmQ9InRleHQ6ICRwYXJlbnRzWzFdLnNldmVyaXR5RGlzcGxheU5hbWUoaXRlbSksIHZhbHVlOiBpdGVtLCBjc3M6ICRwYXJlbnRzWzFdLnNldmVyaXR5RGlzcGxheU5hbWUoaXRlbSkiPjwvb3B0aW9uPlwKICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD5cCiAgICAgICAgICAgICAgICA8L3RkPlwKICAgICAgICAgICAgICAgIDx0ZCBkYXRhLWJpbmQ9InRleHQ6ICRwYXJlbnQuY2FwdGlvbiI+PC90ZD5cCiAgICAgICAgICAgICAgICA8dGQ+XAogICAgICAgICAgICAgICAgPHByZSBkYXRhLWJpbmQ9InRleHQ6IGtvLnRvSlNPTigkZGF0YSwgbnVsbCwgMikiPjwvcHJlPlwKICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgZGF0YS1iaW5kPSJ2YWx1ZTogVmFsdWUyLCBzcGluYm94OiB7bWluOiAkcGFyZW50Lm1pblZhbHVlLCBtYXg6ICRwYXJlbnQubWF4VmFsdWV9IiBjbGFzcz0idGV4dC1ib3ggc2luZ2xlLWxpbmUgc3BpbmJveC1hY3RpdmUiLz48L3RkPlwKICAgICAgICAgICAgICAgIDx0ZD5cCiAgICAgICAgICAgICAgICAgICAgPCEtLSBrbyBpZjogJHBhcmVudC5hbGxvd2VkVW5pdHMubGVuZ3RoID4gMSAtLT5cCiAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBkYXRhLWJpbmQ9Im9wdGlvbnM6JHBhcmVudC5hbGxvd2VkVW5pdHMsIG9wdGlvbnNUZXh0OiAkcGFyZW50LnVuaXREaXNwbGF5TmFtZSwgdmFsdWU6IFVuaXROYW1lIj48L3NlbGVjdD5cCiAgICAgICAgICAgICAgICAgICAgPCEtLSAva28gLS0+XAogICAgICAgICAgICAgICAgICAgIDwhLS0ga28gaWY6ICRwYXJlbnQuYWxsb3dlZFVuaXRzLmxlbmd0aCA9PSAxIC0tPlwKICAgICAgICAgICAgICAgICAgICA8c3BhbiBkYXRhLWJpbmQ9InRleHQ6ICRwYXJlbnQudW5pdERpc3BsYXlOYW1lKFVuaXROYW1lKCkpIj48L3NwYW4+XAogICAgICAgICAgICAgICAgICAgIDwhLS0gL2tvIC0tPlwKICAgICAgICAgICAgICAgIDwvdGQ+XAogICAgICAgICAgICA8L3RyPlwKICAgICAgICA8L3RhYmxlPlwKICAgICAgICA8cCBkYXRhLWJpbmQ9ImlmOiBkdXJhdGlvbiAhPSB1bmRlZmluZWQsIGZhZGU6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzIj5cCiAgICAgICAgPCEtLWtvIHRleHQ6IGR1cmF0aW9uLmNhcHRpb24gLS0+PCEtLS9rby0tPlwKICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgZGF0YS1iaW5kPSJzcGluYm94IDoge21pbjogMCwgbWF4OiA5OTk5OX0sIHZhbHVlOiBkdXJhdGlvbi52YWx1ZSAiLz4gXAogICAgICAgIDwhLS1rbyB0ZXh0OiBkdXJhdGlvbi51bml0cyAtLT48IS0tL2tvLS0+XAogICAgICAgIDwvcD5cCiAgICAgICAgPHRvZ2dsZWJ1dHRvbiBwYXJhbXM9ImNoZWNrZWQ6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzLCB0ZXh0OiBcJ1VzZSBtdWx0aXBsZSBhbGVydCB0aHJlc2hvbGRzIChhZHZhbmNlZClcJyI+PC90b2dnbGVidXR0b24+PGJyIC8+XAogICAgICAgIDx0YWJsZSBkYXRhLWJpbmQ9ImZvcmVhY2g6IHRocmVzaG9sZHMsIHZpc2libGU6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzIj5cCiAgICAgICAgICAgICAgICA8dHI+XAogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGRBbGlnbkxlZnQiID5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5cCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImNoZWNrYm94IiB0eXBlPSJjaGVja2JveCIgZGF0YS1iaW5kPSJjaGVja2VkOiBJc0VuYWJsZWQsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ0lzRW5hYmxlZFwnKSB9LCBjc3M6ICRwYXJlbnQuc2V2ZXJpdHlEaXNwbGF5TmFtZShTZXZlcml0eSgpKSIgdmFsdWU9InRydWUiIC8+XAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnNldmVyaXR5RGlzcGxheU5hbWUoU2V2ZXJpdHkoKSkiPjwvc3Bhbj5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+XAogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBkYXRhLWJpbmQ9InZhbHVlOiBTZXZlcml0eSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnU2V2ZXJpdHlcJykgfSIgLz5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVmFsdWVcJykgfSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPlwKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBrbyBpZjogJHBhcmVudC5hbGxvd2VkVW5pdHMubGVuZ3RoID4gMSAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgZGF0YS1iaW5kPSJvcHRpb25zOiRwYXJlbnQuYWxsb3dlZFVuaXRzLCBvcHRpb25zVGV4dDogJHBhcmVudC51bml0RGlzcGxheU5hbWUsIHZhbHVlOiBVbml0TmFtZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVW5pdE5hbWVcJykgfSI+PC9zZWxlY3Q+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0ga28gaWY6ICRwYXJlbnQuYWxsb3dlZFVuaXRzLmxlbmd0aCA9PSAxIC0tPlwKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnVuaXREaXNwbGF5TmFtZShVbml0TmFtZSgpKSI+PC9zcGFuPlwKICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgZGF0YS1iaW5kPSJ2YWx1ZTogVW5pdE5hbWUsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ1VuaXROYW1lXCcpIH0iIC8+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICA8L3RyPlwKICAgICAgICA8L3RhYmxlPicsCiAgICAgICAgc3luY2hyb25vdXM6IHRydWUKfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuQWRkKAogICAgICAgICAgICAgICAgICAgIFByb3BlcnR5S2luZC5TdGFibGVTYW1wbGUsCiAgICAgICAgICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLk1hY2hpbmUuTG9naWNhbERpc2suVXNlZEJ5dGVzLlByb3BlcnR5TmFtZSwKICAgICAgICAgICAgICAgICAgICBrdnAudGltZSwKICAgICAgICAgICAgICAgICAgICBrdnAudXNlZEJ5dGVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZTIsIHNwaW5ib3g6IHttaW46ICRwYXJlbnQubWluVmFsdWUsIG1heDogJHBhcmVudC5tYXhWYWx1ZX0iIGNsYXNzPSJ0ZXh0LWJveCBzaW5nbGUtbGluZSBzcGluYm94LWFjdGl2ZSIvPjwvdGQ+XAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTWFjaGluZS5Mb2dpY2FsRGlzay5Vc2VkQnl0ZXMuUHJvcGVydHlOYW1lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCg==</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLnNwaW5ib3gnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHRvZ2dsZWJ1dHRvbiBwYXJhbXM9ImNoZWNrZWQ6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzLCB0ZXh0OiBcJ1VzZSBtdWx0aXBsZSBhbGVydCB0aHJlc2hvbGRzIChhZHZhbmNlZClcJyI+PC90b2dnbGVidXR0b24+PGJyIC8+XAogICAgICAgIDx0YWJsZSBkYXRhLWJpbmQ9ImZvcmVhY2g6IHRocmVzaG9sZHMsIHZpc2libGU6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzIj5cCiAgICAgICAgICAgICAgICA8dHI+XAogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGRBbGlnbkxlZnQiID5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5cCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImNoZWNrYm94IiB0eXBlPSJjaGVja2JveCIgZGF0YS1iaW5kPSJjaGVja2VkOiBJc0VuYWJsZWQsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ0lzRW5hYmxlZFwnKSB9LCBjc3M6ICRwYXJlbnQuc2V2ZXJpdHlEaXNwbGF5TmFtZShTZXZlcml0eSgpKSIgdmFsdWU9InRydWUiIC8+XAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnNldmVyaXR5RGlzcGxheU5hbWUoU2V2ZXJpdHkoKSkiPjwvc3Bhbj5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+XAogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBkYXRhLWJpbmQ9InZhbHVlOiBTZXZlcml0eSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnU2V2ZXJpdHlcJykgfSIgLz5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVmFsdWVcJykgfSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPlwKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBrbyBpZjogJHBhcmVudC5hbGxvd2VkVW5pdHMubGVuZ3RoID4gMSAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgZGF0YS1iaW5kPSJvcHRpb25zOiRwYXJlbnQuYWxsb3dlZFVuaXRzLCBvcHRpb25zVGV4dDogJHBhcmVudC51bml0RGlzcGxheU5hbWUsIHZhbHVlOiBVbml0TmFtZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVW5pdE5hbWVcJykgfSI+PC9zZWxlY3Q+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0ga28gaWY6ICRwYXJlbnQuYWxsb3dlZFVuaXRzLmxlbmd0aCA9PSAxIC0tPlwKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnVuaXREaXNwbGF5TmFtZShVbml0TmFtZSgpKSI+PC9zcGFuPlwKICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgZGF0YS1iaW5kPSJ2YWx1ZTogVW5pdE5hbWUsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ1VuaXROYW1lXCcpIH0iIC8+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICA8L3RyPlwKICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vU2hhcmVkL2NvbXBvbmVudHMvTmV3RmVhdHVyZUJhci9OZXdGZWF0dXJlQmFyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZTIiIGNsYXNzPSJ0ZXh0LWJveCBzaW5nbGUtbGluZSIvPjwvdGQ+XAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
