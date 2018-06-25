@@ -423,7 +423,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="24" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529500507269">
+      <file name="/Dummy.txt" timestamp="1529922322225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -461,12 +461,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529921390021">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529922300641">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="22" column="82" />
+        <mark key="]" line="22" column="83" />
+        <mark key="^" line="22" column="83" />
+        <mark key="." line="22" column="83" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/MiniGrid.js" timestamp="1528451836108">
         <mark key="'" line="149" column="12" />
@@ -571,7 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
       <jump line="83" column="82" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
       <jump line="60" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
       <jump line="61" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" />
@@ -656,7 +655,6 @@
       <jump line="43" column="43" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="91" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="40" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
-      <jump line="77" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="64" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
       <jump line="94" column="71" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="492" column="116" filename="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" />
@@ -671,13 +669,15 @@
       <jump line="63" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="69" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="73" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="77" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
+      <jump line="78" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Rename method</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Rename method</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbmFseXplclw+</text>
@@ -686,7 +686,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuQWRkKAogICAgICAgICAgICAgICAgICAgIFByb3BlcnR5S2luZC5TdGFibGVTYW1wbGUsCiAgICAgICAgICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLk1hY2hpbmUuTG9naWNhbERpc2suQ2FwYWNpdHkuVXNlZEJ5dGVzLlByb3BlcnR5TmFtZSwKICAgICAgICAgICAgICAgICAgICBrdnAudGltZSwKICAgICAgICAgICAgICAgICAgICBrdnAudXNlZEJ5dGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtQcm9wZXJ0eUtpbmQuS2V5LCBOYW1lcy5Sb290LkNsdXN0ZXIuTWFjaGluZS5Mb2dpY2FsRGlzay5OYW1lLlByb3BlcnR5TmFtZSwga2V5Q29sbGVjdGlvbkRhdGUsIGxvZ2ljYWxEaXNrTmFtZX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -701,28 +701,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuQWRkKAogICAgICAgICAgICAgICAgICAgIFByb3BlcnR5S2luZC5TdGFibGVTYW1wbGUsCiAgICAgICAgICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLk1hY2hpbmUuTG9naWNhbERpc2suVXNlZEJ5dGVzLlByb3BlcnR5TmFtZSwKICAgICAgICAgICAgICAgICAgICBrdnAudGltZSwKICAgICAgICAgICAgICAgICAgICBrdnAudXNlZEJ5dGVzKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuQWRkKAogICAgICAgICAgICAgICAgICAgIFByb3BlcnR5S2luZC5TdGFibGVTYW1wbGUsCiAgICAgICAgICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLk1hY2hpbmUuTG9naWNhbERpc2suVXNlZEJ5dGVzLlByb3BlcnR5TmFtZSwKICAgICAgICAgICAgICAgICAgICBrdnAudGltZSwKICAgICAgICAgICAgICAgICAgICBrdnAudXNlZEJ5dGVzKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTWFjaGluZS5Mb2dpY2FsRGlzay5Vc2VkQnl0ZXMuUHJvcGVydHlOYW1lLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi8uLi8uLi9TY3JpcHRzU291cmNlL2tub2Nrb3V0LmJpbmRpbmdzLnNwaW5ib3gnCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGEuX1Jvb3QuCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHRvZ2dsZWJ1dHRvbiBwYXJhbXM9ImNoZWNrZWQ6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzLCB0ZXh0OiBcJ1VzZSBtdWx0aXBsZSBhbGVydCB0aHJlc2hvbGRzIChhZHZhbmNlZClcJyI+PC90b2dnbGVidXR0b24+PGJyIC8+XAogICAgICAgIDx0YWJsZSBkYXRhLWJpbmQ9ImZvcmVhY2g6IHRocmVzaG9sZHMsIHZpc2libGU6IHVzZU11bHRpcGxlQWxlcnRUaHJlc2hvbGRzIj5cCiAgICAgICAgICAgICAgICA8dHI+XAogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGRBbGlnbkxlZnQiID5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5cCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImNoZWNrYm94IiB0eXBlPSJjaGVja2JveCIgZGF0YS1iaW5kPSJjaGVja2VkOiBJc0VuYWJsZWQsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ0lzRW5hYmxlZFwnKSB9LCBjc3M6ICRwYXJlbnQuc2V2ZXJpdHlEaXNwbGF5TmFtZShTZXZlcml0eSgpKSIgdmFsdWU9InRydWUiIC8+XAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnNldmVyaXR5RGlzcGxheU5hbWUoU2V2ZXJpdHkoKSkiPjwvc3Bhbj5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+XAogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBkYXRhLWJpbmQ9InZhbHVlOiBTZXZlcml0eSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnU2V2ZXJpdHlcJykgfSIgLz5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVmFsdWVcJykgfSwgc3BpbmJveDoge21pbjogJHBhcmVudC5taW5WYWx1ZSwgbWF4OiAkcGFyZW50Lm1heFZhbHVlfSIgY2xhc3M9InRleHQtYm94IHNpbmdsZS1saW5lIHNwaW5ib3gtYWN0aXZlIi8+PC90ZD5cCiAgICAgICAgICAgICAgICAgICAgPHRkPlwKICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBrbyBpZjogJHBhcmVudC5hbGxvd2VkVW5pdHMubGVuZ3RoID4gMSAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgZGF0YS1iaW5kPSJvcHRpb25zOiRwYXJlbnQuYWxsb3dlZFVuaXRzLCBvcHRpb25zVGV4dDogJHBhcmVudC51bml0RGlzcGxheU5hbWUsIHZhbHVlOiBVbml0TmFtZSwgYXR0cjogeyBuYW1lOiAkcGFyZW50LmdldE5hbWUoJGluZGV4KCksIFwnVW5pdE5hbWVcJykgfSI+PC9zZWxlY3Q+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0ga28gaWY6ICRwYXJlbnQuYWxsb3dlZFVuaXRzLmxlbmd0aCA9PSAxIC0tPlwKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1iaW5kPSJ0ZXh0OiAkcGFyZW50LnVuaXREaXNwbGF5TmFtZShVbml0TmFtZSgpKSI+PC9zcGFuPlwKICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgZGF0YS1iaW5kPSJ2YWx1ZTogVW5pdE5hbWUsIGF0dHI6IHsgbmFtZTogJHBhcmVudC5nZXROYW1lKCRpbmRleCgpLCBcJ1VuaXROYW1lXCcpIH0iIC8+XAogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC9rbyAtLT5cCiAgICAgICAgICAgICAgICAgICAgPC90ZD5cCiAgICAgICAgICAgICAgICA8L3RyPlwKICAgICAgICA8L3RhYmxlPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgancK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5XZWFrQWRkKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGt2cCBpbiBzYW1wbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBidWlsZGVyLkFkZCgKICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eUtpbmQuU3RhYmxlU2FtcGxlLAogICAgICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLkxvZ2ljYWxEaXNrLkNhcGFjaXR5LlVzZWRCeXRlcy5Qcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnRpbWUsCiAgICAgICAgICAgICAgICAgICAga3ZwLnVzZWRCeXRlcyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLWJpbmQ9InZhbHVlOiBWYWx1ZTIiIGNsYXNzPSJ0ZXh0LWJveCBzaW5nbGUtbGluZSIvPjwvdGQ+XAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
