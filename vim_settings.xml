@@ -455,12 +455,16 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/Projection/DatabaseFileProjectionSampler.cs" timestamp="1530027372047">
+        <mark key="'" line="65" column="60" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1529940167190">
         <mark key="[" line="267" column="54" />
         <mark key="]" line="261" column="62" />
         <mark key="^" line="261" column="62" />
         <mark key="." line="267" column="62" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/Projection/FileProjectionDataLoader.cs" timestamp="1530027406134" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="9" column="11" />
@@ -591,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
       <jump line="108" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
       <jump line="162" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" />
       <jump line="153" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" />
@@ -691,6 +694,7 @@
       <jump line="32" column="0" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq183-Seq184.sql" />
       <jump line="17" column="13" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" />
       <jump line="1136" column="31" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" />
+      <jump line="65" column="60" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/Projection/DatabaseFileProjectionSampler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
