@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/Machine/LogicalDisk/Projection/ChannelConfig.xml" timestamp="1530025964528">
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
         <mark key="'" line="7" column="49" />
         <mark key="[" line="10" column="24" />
@@ -258,9 +263,6 @@
         <mark key="^" line="123" column="7" />
         <mark key="." line="123" column="7" />
       </file>
-      <file name="/fragment.js" timestamp="1529924208026">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1528373502468">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="13" column="31" />
@@ -429,6 +431,11 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="4" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Database/File/Projection/ChannelConfig.xml" timestamp="1530026020890">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/ThreadPools/ErrorReportingThreadPool.cs" timestamp="1529935245744">
         <mark key="'" line="70" column="44" />
       </file>
@@ -500,7 +507,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530024994268">
+      <file name="/Dummy.txt" timestamp="1530026023139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
