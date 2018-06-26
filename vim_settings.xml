@@ -247,9 +247,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" timestamp="1530009407074">
-        <mark key="'" line="130" column="51" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" timestamp="1530009471011">
+        <mark key="'" line="131" column="51" />
         <mark key="[" line="122" column="9" />
+        <mark key="]" line="123" column="7" />
+        <mark key="^" line="123" column="7" />
+        <mark key="." line="123" column="7" />
       </file>
       <file name="/fragment.js" timestamp="1529924208026">
         <mark key="[" line="0" column="0" />
