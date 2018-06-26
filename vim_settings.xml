@@ -88,6 +88,9 @@
         <mark key="^" line="15" column="65" />
         <mark key="." line="15" column="65" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/AnalysisGraphDataProvider.cs" timestamp="1530002835192">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/SQLServerImporterParserSpec.js" timestamp="1528906864716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -562,8 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
-      <jump line="148" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
       <jump line="60" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
       <jump line="86" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
       <jump line="87" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/Shared/DisplayTemplates/DatabaseFileUsageViewModel.ascx" />
@@ -662,6 +663,8 @@
       <jump line="70" column="44" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/ThreadPools/ErrorReportingThreadPool.cs" />
       <jump line="126" column="51" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" />
       <jump line="116" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ReportsController.cs" />
+      <jump line="9" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/AnalysisGraphDataProvider.cs" />
+      <jump line="3" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/AnalysisGraphDataProvider.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
