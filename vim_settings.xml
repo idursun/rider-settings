@@ -560,6 +560,12 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tools/SQLMonitorMonitor/Program.cs" timestamp="1530004849168">
+        <mark key="[" line="153" column="23" />
+        <mark key="]" line="153" column="21" />
+        <mark key="^" line="153" column="21" />
+        <mark key="." line="153" column="21" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreenViewModel.js" timestamp="1529500113088">
         <mark key="'" line="12" column="16" />
       </file>
@@ -719,7 +725,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zb3VyY2UuSGFzTW9yZSkKICAgICAgICAgICAgewogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action EditorCompleteStatement</text>
       </register>
     </registers>
     <search>
@@ -768,13 +774,13 @@
         <entry>w</entry>
         <entry>e ideavim</entry>
         <entry>actionlist</entry>
-        <entry>action FindUsages</entry>
         <entry>action SmartComplete</entry>
         <entry>action CompleteCurrentStatement</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action HighlightUsagesInFile</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action Find</entry>
+        <entry>action HighlightUsagesInFile</entry>
+        <entry>action FindUsages</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
