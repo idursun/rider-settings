@@ -493,8 +493,10 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="61" column="13" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" timestamp="1530111906182">
-        <mark key="'" line="32" column="55" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" timestamp="1530113721141">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1529940167190">
         <mark key="[" line="267" column="54" />
@@ -640,7 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="44" filename="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" />
       <jump line="39" column="16" filename="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" />
       <jump line="33" column="51" filename="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" />
       <jump line="17" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
@@ -740,10 +741,11 @@
       <jump line="13" column="69" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" />
       <jump line="32" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
       <jump line="109" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
+      <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Change frequency of database file projection sampling to 15 mins</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbV9EYXRhYmFzZUZpbGVQcm9wZXJ0aWVzRmFjdG9yeS5DcmVhdGUoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Change frequency of database file projection sampling to 15 mins</text>
@@ -755,7 +757,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJuYW1lIj5OYW1lPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFyZFNvdXJjZVdlYnBhY2tQbHVnaW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV9EYXRhYmFzZUZpbGVQcm9wZXJ0aWVzRmFjdG9yeS5DcmVhdGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -770,31 +772,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJuYW1lIj5OYW1lMjwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2hhbm5lbEluc3RhbmNlUmVmLlBpY2tsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFyZFNvdXJjZVdlYnBhY2tQbHVnaW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJuYW1lIj5OYW1lMjwvdGg+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGUuQWRkVXNlZFNpemVTYW1wbGUobm93LkFkZE1pbnV0ZXMoNSksIGkxICogajEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2hhbm5lbEluc3RhbmNlUmVmLlBpY2tsZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name=":" type="4">
-        <text>action HighlightUsagesInFile</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -841,15 +843,15 @@
         <entry encoding="base64">JzwsJz5zLywgLTEvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1NRTCBTZXJ2ZXIgLy9n</entry>
         <entry>e ideavim</entry>
-        <entry>actionlist</entry>
         <entry>action SmartComplete</entry>
         <entry>action CompleteCurrentStatement</entry>
-        <entry>action FindUsages</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>w</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action Find</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action HighlightUsagesInFile</entry>
+        <entry>action FindUsages</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
