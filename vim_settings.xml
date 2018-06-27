@@ -445,12 +445,6 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" timestamp="1529403198286">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq183-Seq184.sql" timestamp="1530024959348">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" timestamp="1528449866572">
         <mark key="'" line="89" column="53" />
         <mark key="[" line="78" column="8" />
@@ -516,10 +510,10 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1529506124285">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1530115958817">
         <mark key="[" line="11" column="116" />
-        <mark key="]" line="11" column="118" />
-        <mark key="." line="11" column="118" />
+        <mark key="]" line="11" column="116" />
+        <mark key="." line="11" column="116" />
         <mark key="^" line="11" column="118" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/entry.js" timestamp="1528455038989">
@@ -744,11 +738,11 @@
       <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbV9EYXRhYmFzZUZpbGVQcm9wZXJ0aWVzRmFjdG9yeS5DcmVhdGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Change frequency of database file projection sampling to 15 mins</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPYnNlcnZhYmxlXD4=</text>
@@ -796,7 +790,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -846,12 +840,12 @@
         <entry>action SmartComplete</entry>
         <entry>action CompleteCurrentStatement</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action HighlightUsagesInFile</entry>
         <entry>action FindUsages</entry>
         <entry>actionlist</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
