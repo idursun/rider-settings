@@ -114,6 +114,13 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" timestamp="1530109345771">
+        <mark key="'" line="188" column="41" />
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="59" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertRepositoryIntegrationTests/Filtering.cs" timestamp="1530028182161">
         <mark key="'" line="12" column="36" />
       </file>
@@ -189,12 +196,12 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1529316704948">
-        <mark key="'" line="152" column="37" />
-        <mark key="[" line="45" column="72" />
-        <mark key="]" line="45" column="72" />
-        <mark key="^" line="45" column="72" />
-        <mark key="." line="45" column="72" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1530109232659">
+        <mark key="'" line="153" column="37" />
+        <mark key="[" line="139" column="11" />
+        <mark key="]" line="139" column="9" />
+        <mark key="." line="139" column="9" />
+        <mark key="^" line="139" column="9" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" timestamp="1530024933123">
         <mark key="'" line="1136" column="31" />
@@ -626,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="133" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="202" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="34" column="16" filename="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" />
@@ -726,22 +732,23 @@
       <jump line="53" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/Projection/FileProjectionDataLoader.cs" />
       <jump line="50" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/Projection/FileProjectionDataLoader.cs" />
       <jump line="65" column="74" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/SqlServers/Database/File/Projection/PerformanceTests.cs" />
+      <jump line="188" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2hhbm5lbEluc3RhbmNlUmVmLlBpY2tsZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>here</text>
       </register>
       <register name="-" type="4">
-        <text>24 * 30</text>
+        <text>here</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPYnNlcnZhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJuYW1lIj5OYW1lPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2hhbm5lbEluc3RhbmNlUmVmLlBpY2tsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFyZFNvdXJjZVdlYnBhY2tQbHVnaW4oKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -756,28 +763,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJuYW1lIj5OYW1lMjwvdGg+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGUuQWRkVXNlZFNpemVTYW1wbGUobm93LkFkZE1pbnV0ZXMoNSksIGkxICogajEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY2hhbm5lbEluc3RhbmNlUmVmLlBpY2tsZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGUuQWRkVXNlZFNpemVTYW1wbGUobm93LkFkZE1pbnV0ZXMoNSksIGkxICogajEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvZ2ljYWxQcm9wZXJ0aWVzID0gbmV3IFF1YWxpZmllZFByb3BlcnR5TmFtZVtdCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuRGF0YWJhc2UuTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuRGF0YWJhc2UuRmlsZS5Vc2VkU2l6ZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuRGF0YWJhc2UuRmlsZS5GaWxlTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuRGF0YWJhc2UuRmlsZS5UeXBlCiAgICAgICAgICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWxLZXlCdWlsZGVyID0gbmV3IENoYW5uZWxLZXlCdWlsZGVyKCk7CiAgICAgICAgICAgIGNoYW5uZWxLZXlCdWlsZGVyLkFkZChOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZS5Qcm9wZXJ0eU5hbWUsICJjbHVzdGVyIik7CiAgICAgICAgICAgIHZhciBjaGFubmVsS2V5ID0gY2hhbm5lbEtleUJ1aWxkZXIuVG9DaGFubmVsS2V5KCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
