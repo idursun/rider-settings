@@ -129,12 +129,12 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" timestamp="1530176659637">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="50" />
-        <mark key="." line="49" column="50" />
-        <mark key="^" line="49" column="50" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" timestamp="1530193717359">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="35" column="87" />
+        <mark key="]" line="35" column="87" />
+        <mark key="." line="35" column="95" />
+        <mark key="^" line="53" column="98" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
         <mark key="'" line="116" column="15" />
@@ -205,10 +205,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1529927636168">
         <mark key="'" line="35" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertRepositoryIntegrationTests/GivenAlertRepository.cs" timestamp="1530028186632">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="83" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529922300641">
         <mark key="'" line="77" column="0" />
@@ -459,7 +455,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530112445395">
+      <file name="/Dummy.txt" timestamp="1530193885315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -528,20 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
-      <jump line="56" column="11" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
-      <jump line="47" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/Home.tsx" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
-      <jump line="90" column="45" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" />
-      <jump line="18" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ServerOverviewViewModel.js" />
-      <jump line="59" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="73" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="151" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="309" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Views/Report/Index.cshtml" />
-      <jump line="53" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" />
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" />
-      <jump line="554" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
-      <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/Reports/ReportsViewModel.js" />
       <jump line="50" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
       <jump line="23" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" />
       <jump line="81" column="5" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
@@ -628,22 +610,44 @@
       <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
       <jump line="21" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
       <jump line="29" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="75" column="74" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="50" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="32" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="35" column="95" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="41" column="80" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="47" column="76" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="53" column="77" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="59" column="72" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="65" column="80" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="71" column="78" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="77" column="75" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="15" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="23" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
+      <jump line="28" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JobFailures_DoesNotThrow</text>
+        <text>m_StartTime</text>
       </register>
       <register name="-" type="4">
-        <text>JobFailures_DoesNotThrow</text>
+        <text>m_StartTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPYnNlcnZhYmxlXD4=</text>
+        <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBHZXRUb3BKb2JGYWlsdXJlc19Eb2VzTm90VGhyb3coKQogICAgICAgIHsKICAgICAgICAgICAgQXNzZXJ0LkRvZXNOb3RUaHJvdygoKSA9PiBtX1JlcG9ydHNSZXBvc2l0b3J5LkdldFRvcEpvYkZhaWx1cmVzKG1fRGF0ZVRpbWUuQWRkRGF5cygtMSksIG1fRGF0ZVRpbWUsICIiKSk7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>m_StartTime.AddDays(-1)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
+      <register name="1" type="8">
+        <text>m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)
+m_StartTime.AddDays(-1)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -658,45 +662,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV9FbmRUaW1lID0gbV9TdGFydFRpbWUuQWRkRGF5cygxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBHZXRMb2dvbkZhaWx1cmVzX0RvZXNOb3RUaHJvdygpCiAgICAgICAgewogICAgICAgICAgICBBc3NlcnQuRG9lc05vdFRocm93KCgpID0+IG1fUmVwb3J0c1JlcG9zaXRvcnkuR2V0KG1fRGF0ZVRpbWUuQWRkRGF5cygtMSksIG1fRGF0ZVRpbWUsICIiKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBub3cgPSBEYXRlVGltZS5VdGNOb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlcG9ydHNSZXBvc2l0b3J5ID0gbmV3IFJlcG9ydHNSZXBvc2l0b3J5KHRoaXMuVGVzdFNxbENvbm5lY3Rpb25Qcm92aWRlciwgTW9jay5PZjxJTm90aWZpY2F0aW9uU2V0dGluZ3NSZXBvc2l0b3J5PigpLCBNb2NrLk9mPElVc2FnZVNlc3Npb24+KCksIE1vY2suT2Y8SVNlbmRNYWlsPigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbV9EYXRhYmFzZUZpbGVQcm9wZXJ0aWVzRmFjdG9yeS5DcmVhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPYnNlcnZhYmxlXD4=</last-search>
+      <last-search encoding="base64">XDxtX1N0YXJ0VGltZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPYnNlcnZhYmxlXD4=</last-pattern>
-      <last-replace>,\r\n</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern encoding="base64">XDxtX1N0YXJ0VGltZVw+</last-pattern>
+      <last-replace>m_StartTime</last-replace>
+      <last-substitute encoding="base64">XDxPYnNlcnZhYmxlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZGRTcWxTZXJ2ZXJNb2RlbFw+</entry>
         <entry>TimeWindowModes</entry>
         <entry>LocalStorage</entry>
         <entry>RedGate</entry>
@@ -716,9 +719,9 @@
         <entry encoding="base64">XDxBbmFseXplclw+</entry>
         <entry encoding="base64">XDxDcmVhdGVTb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxPYnNlcnZhYmxlXD4=</entry>
+        <entry encoding="base64">XDxtX1N0YXJ0VGltZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RoL1RhYmxlLkhlYWRlckNlbGwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RkL1RhYmxlLkNlbGwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0VudGl0aWVzL0RhdGFiYXNlcy9n</entry>
         <entry>wq</entry>
@@ -732,11 +735,12 @@
         <entry>action SmartComplete</entry>
         <entry>action CompleteCurrentStatement</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Find</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action HighlightUsagesInFile</entry>
         <entry>action FindUsages</entry>
         <entry>actionlist</entry>
+        <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5zLy9tX1N0YXJ0VGltZS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
