@@ -25,11 +25,12 @@
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RouteDefinition.cs" timestamp="1529929008947">
         <mark key="'" line="15" column="33" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" timestamp="1531139729272">
-        <mark key="'" line="268" column="32" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" timestamp="1531142666031">
+        <mark key="'" line="270" column="52" />
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="0" />
+        <mark key="^" line="270" column="126" />
+        <mark key="." line="284" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/CookieNames.js" timestamp="1528464908070">
         <mark key="[" line="8" column="1" />
@@ -212,8 +213,8 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" timestamp="1531133494859">
-        <mark key="'" line="66" column="46" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" timestamp="1531142490133">
+        <mark key="'" line="41" column="32" />
         <mark key="[" line="50" column="44" />
         <mark key="k" line="48" column="0" />
         <mark key="]" line="51" column="41" />
@@ -263,8 +264,8 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531138113954">
-        <mark key="'" line="23" column="68" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531142268265">
+        <mark key="'" line="12" column="25" />
         <mark key="[" line="37" column="167" />
         <mark key="]" line="37" column="181" />
         <mark key="^" line="37" column="181" />
@@ -533,7 +534,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531138883530">
+      <file name="/Dummy.txt" timestamp="1531142694483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -620,15 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="33" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/ReactiveExecution/ReactiveRouteExecutor.cs" />
-      <jump line="55" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/ReactiveExecution/ReactiveRouteExecutor.cs" />
-      <jump line="60" column="0" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/ReactiveExecution/ReactiveRouteExecutor.cs" />
-      <jump line="42" column="29" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/ReactiveExecution/ReactiveRouteExecutor.cs" />
-      <jump line="15" column="23" filename="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/Sources/FileSourceDefinition.cs" />
-      <jump line="75" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/5D/QueryLanguage.Conversions.cs" />
-      <jump line="10" column="90" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/AE/ToObservable.cs" />
-      <jump line="70" column="44" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/ThreadPools/ErrorReportingThreadPool.cs" />
-      <jump line="126" column="51" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" />
       <jump line="116" column="40" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ReportsController.cs" />
       <jump line="9" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/AnalysisGraphDataProvider.cs" />
       <jump line="3" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/AnalysisGraphDataProvider.cs" />
@@ -692,8 +684,6 @@
       <jump line="130" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="74" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="32" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="41" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="120" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="66" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="7" column="66" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/services/InstalledVersionsService.js" />
       <jump line="30" column="120" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
@@ -711,28 +701,39 @@
       <jump line="37" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" />
       <jump line="63" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
       <jump line="33" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
-      <jump line="23" column="68" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="32" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/FilteredVersionsTable.jsx" />
       <jump line="39" column="69" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" />
       <jump line="33" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/FilteredVersionsTable.jsx" />
       <jump line="21" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskFilteredTable.jsx" />
       <jump line="102" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
-      <jump line="267" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="7" column="8" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" />
       <jump line="268" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="122" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
+      <jump line="267" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="275" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="280" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="291" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="271" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="23" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
+      <jump line="12" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
+      <jump line="110" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="120" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
+      <jump line="276" column="47" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="41" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
+      <jump line="270" column="52" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbUHJvdG9NZW1iZXIoMSldCiAgICAgICAgcHVibGljIHN0cmluZyBOYW1lIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBncm91cEFzc2lnbm1lbnQgPSBuZXcgTW9jazxJR3JvdXBBc3NpZ25tZW50PigpOwogICAgICAgICAgICAgICAgZ3JvdXBBc3NpZ25tZW50LlNldHVwR2V0KHggPT4geC5BbGxNZW1iZXJzKS5SZXR1cm5zKG5ldyBMaXN0PFR1cGxlPFF1YWxpZmllZENoYW5uZWxOYW1lLCBJRW51bWVyYWJsZTxzdHJpbmc+Pj4oKSk7Ci8vICAgICAgICAgICAgICAgIHZhciBhbGxNZW1iZXJzID0gZ3JvdXBzCi8vICAgICAgICAgICAgICAgICAgICAuR3JvdXBCeSh4ID0+IHguVmFsdWUpCi8vICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KGdyb3VwID0+IFR1cGxlLkNyZWF0ZShRdWFsaWZpZWRDaGFubmVsTmFtZS5QYXJzZShncm91cC5LZXkpLCBncm91cC5Ub0xpc3QoKSkpCi8vICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgbV9Hcm91cFJlcG9zaXRvcnkuU2V0dXAoeCA9PiB4LkdldEdyb3VwcygpKS5SZXR1cm5zKGdyb3VwQXNzaWdubWVudC5PYmplY3QpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -750,28 +751,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIGFsbE1lbWJlcnMgPSBncm91cHMKLy8gICAgICAgICAgICAgICAgICAgIC5Hcm91cEJ5KHggPT4geC5WYWx1ZSkKLy8gICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoZ3JvdXAgPT4gVHVwbGUuQ3JlYXRlKFF1YWxpZmllZENoYW5uZWxOYW1lLlBhcnNlKGdyb3VwLktleSksIGdyb3VwLlRvTGlzdCgpKSkKLy8gICAgICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7aW5zdGFuY2VzfSA9ICB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwQXNzaWdubWVudC5TZXR1cEdldCh4ID0+IHguQWxsTWVtYmVycykuUmV0dXJucyhhbGxNZW1iZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3MgVGVzdEdyb3VwQXNzaWdubWVudCA6IElHcm91cEFzc2lnbm1lbnQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4gbV9Hcm91cE1hcHBpbmdzOwoKICAgICAgICAgICAgICAgIHB1YmxpYyBUZXN0R3JvdXBBc3NpZ25tZW50KElEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPiBncm91cE1hcHBpbmdzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG1fR3JvdXBNYXBwaW5ncyA9IGdyb3VwTWFwcGluZ3M7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcHVibGljIFF1YWxpZmllZENoYW5uZWxOYW1lIEdldEdyb3VwRm9yKHN0cmluZyBjbHVzdGVyTmFtZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUXVhbGlmaWVkQ2hhbm5lbE5hbWUuUGFyc2UobV9Hcm91cE1hcHBpbmdzW2NsdXN0ZXJOYW1lXSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcHVibGljIElFbnVtZXJhYmxlPHN0cmluZz4gR2V0TWVtYmVycyhRdWFsaWZpZWRDaGFubmVsTmFtZSBAZ3JvdXApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBhaXIgaW4gbV9Hcm91cE1hcHBpbmdzKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhaXIuVmFsdWUgPT0gQGdyb3VwLlRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBwYWlyLktleTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8VHVwbGU8UXVhbGlmaWVkQ2hhbm5lbE5hbWUsIElFbnVtZXJhYmxlPHN0cmluZz4+PiBBbGxNZW1iZXJzIHsgZ2V0OyB9ID0+CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwQXNzaWdubWVudC5TZXR1cCh4ID0+IHguR2V0TWVtYmVycygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtncm91cHNbZ3JvdXBOYW1lXS5sZW5ndGggPT09IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IDxFbXB0eVJvdy8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBncm91cHNbZ3JvdXBOYW1lXS5tYXAoKGluc3RhbmNlLCBpbmRleCkgPT4gPFZlcnNpb25Sb3cga2V5PXtpbmRleH0gaW5zdGFuY2U9e2luc3RhbmNlfSBncm91cE5hbWU9e2dyb3VwTmFtZX0gcm93U3Bhbj17aW5kZXggPT09IDAgJiYgZ3JvdXBzW2dyb3VwTmFtZV0ubGVuZ3RofS8+KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGJvZHk+Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtX0dyb3VwTWFwcGluZ3MuVmFsdWVzLkdyb3VwQnkoeCA9PiB4KS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtpbnN0YW5jZS5Hcm91cH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAgICAgICAge2luc3RhbmNlcy5sZW5ndGggPT09IDAKICAgICAgICAgICAgICAgICAgICAgICAgPyA8RW1wdHlSb3cvPgogICAgICAgICAgICAgICAgICAgICAgICA6IGluc3RhbmNlcy5tYXAoKGluc3RhbmNlLCBpbmRleCkgPT4gPFZlcnNpb25Sb3cga2V5PXtpbmRleH0gaW5zdGFuY2U9e2luc3RhbmNlfSByb3dTcGFuPXtpbmRleCAlIDMgPT09IDAgPyAzIDogbnVsbH0vPikKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIDwvdGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4gbV9Hcm91cE1hcHBpbmdzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
