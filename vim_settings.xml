@@ -99,8 +99,8 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" timestamp="1531131033010">
-        <mark key="'" line="53" column="43" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" timestamp="1531132651463">
+        <mark key="'" line="21" column="31" />
         <mark key="[" line="53" column="27" />
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
@@ -485,7 +485,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530193885315">
+      <file name="/Dummy.txt" timestamp="1531132171976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -554,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
       <jump line="590" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreen.js" />
       <jump line="97" column="39" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
       <jump line="216" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/jquery.spinbox.js" />
@@ -654,6 +653,7 @@
       <jump line="32" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/_VersionsTable.scss" />
       <jump line="11" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/_EstateDiskDetailTable.scss" />
       <jump line="53" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" />
+      <jump line="21" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/VersionsTable.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
