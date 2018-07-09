@@ -340,8 +340,8 @@
         <mark key="^" line="62" column="119" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" timestamp="1531130151990">
-        <mark key="'" line="8" column="68" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" timestamp="1531136767279">
+        <mark key="'" line="104" column="16" />
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="81" />
         <mark key="^" line="8" column="81" />
@@ -432,6 +432,9 @@
         <mark key="]" line="27" column="4" />
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="4" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.jsx" timestamp="1531136786539">
+        <mark key="'" line="7" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/_EstateDiskDetailTable.scss" timestamp="1531130991004">
         <mark key="'" line="11" column="0" />
@@ -613,8 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
-      <jump line="73" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="77" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="78" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" />
       <jump line="72" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
@@ -713,6 +714,8 @@
       <jump line="19" column="150" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/MultiBaseMonitorInstalledVersionsRepositoryAdapter.cs" />
       <jump line="20" column="48" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/InstalledVersionsClientStub.cs" />
       <jump line="69" column="16" filename="D:/workspace/sqlmonitor/Source/Common/DomainServices/MonitoredServerVersionInfoExtensions.cs" />
+      <jump line="104" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" />
+      <jump line="7" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
