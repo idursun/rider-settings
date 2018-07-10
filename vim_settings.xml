@@ -188,11 +188,17 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/Nodes/NodeProviderFactory.cs" timestamp="1531234564503">
+        <mark key="'" line="47" column="54" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/entry.js" timestamp="1529504009969">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="80" />
         <mark key="^" line="4" column="80" />
         <mark key="." line="4" column="80" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Trace/TraceSampler.cs" timestamp="1531234833228">
+        <mark key="'" line="15" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ColumnOverview.Master" timestamp="1528454991171">
         <mark key="'" line="16" column="32" />
@@ -207,6 +213,12 @@
         <mark key="]" line="139" column="9" />
         <mark key="." line="139" column="9" />
         <mark key="^" line="139" column="9" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/ILogicalDiskProjectionDataLoader.cs" timestamp="1531234769528">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="11" column="59" />
+        <mark key="^" line="11" column="59" />
+        <mark key="." line="11" column="59" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" timestamp="1530024933123">
         <mark key="'" line="1136" column="31" />
@@ -253,8 +265,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="19" column="105" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1529927636168">
-        <mark key="'" line="35" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1531234741841">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="51" column="103" />
+        <mark key="]" line="51" column="109" />
+        <mark key="." line="51" column="109" />
+        <mark key="^" line="51" column="109" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529922300641">
         <mark key="'" line="77" column="0" />
@@ -567,6 +583,13 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="19" column="7" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionDataLoader.cs" timestamp="1531234764182">
+        <mark key="'" line="11" column="60" />
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="34" column="59" />
+        <mark key="^" line="34" column="59" />
+        <mark key="." line="34" column="59" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528451760258">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="55" column="0" />
@@ -623,11 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
-      <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
-      <jump line="21" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
-      <jump line="29" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
-      <jump line="75" column="74" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
       <jump line="50" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
       <jump line="32" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
       <jump line="35" column="95" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
@@ -723,13 +741,18 @@
       <jump line="285" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="21" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="274" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="47" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/Nodes/NodeProviderFactory.cs" />
+      <jump line="15" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Trace/TraceSampler.cs" />
+      <jump line="123" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
+      <jump line="26" column="4" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
+      <jump line="11" column="60" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionDataLoader.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IExpc3Q8VHVwbGU8UXVhbGlmaWVkQ2hhbm5lbE5hbWUsIElFbnVtZXJhYmxlPHN0cmluZz4+Pigp</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
