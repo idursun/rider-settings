@@ -25,8 +25,8 @@
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/RouteDefinition.cs" timestamp="1529929008947">
         <mark key="'" line="15" column="33" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" timestamp="1531150969684">
-        <mark key="'" line="21" column="42" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" timestamp="1531231645929">
+        <mark key="'" line="274" column="27" />
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
@@ -535,7 +535,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531151005384">
+      <file name="/Dummy.txt" timestamp="1531232123870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -623,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
       <jump line="109" column="52" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" />
       <jump line="25" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
       <jump line="21" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" />
@@ -723,6 +722,7 @@
       <jump line="121" column="34" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="285" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="21" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
+      <jump line="274" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
