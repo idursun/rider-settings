@@ -165,12 +165,24 @@
         <mark key="^" line="136" column="120" />
         <mark key="." line="136" column="120" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1531325002660">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
         <mark key="^" line="31" column="8" />
         <mark key="." line="4" column="4" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" timestamp="1531325129607">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" timestamp="1530193717359">
         <mark key="'" line="28" column="8" />
@@ -459,6 +471,12 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="20" />
         <mark key="." line="55" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Base.Master" timestamp="1531325041017">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/VerticalText/_VerticalText.scss" timestamp="1531130236859">
         <mark key="[" line="0" column="9" />
@@ -759,10 +777,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
