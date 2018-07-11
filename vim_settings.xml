@@ -108,6 +108,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Analysis/Controllers/AnalysisGraphDataProvider.cs" timestamp="1530002835192">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1531134067972">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="12" column="26" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Email/SlackNotificationSender.cs" timestamp="1531147415145">
         <mark key="'" line="19" column="34" />
       </file>
@@ -266,11 +272,10 @@
         <mark key="^" line="19" column="105" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1531234741841">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="51" column="103" />
-        <mark key="]" line="51" column="109" />
-        <mark key="." line="51" column="109" />
-        <mark key="^" line="51" column="109" />
+        <mark key="[" line="16" column="103" />
+        <mark key="]" line="16" column="109" />
+        <mark key="." line="16" column="109" />
+        <mark key="^" line="16" column="109" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529922300641">
         <mark key="'" line="77" column="0" />
