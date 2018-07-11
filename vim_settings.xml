@@ -38,7 +38,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Controllers/GlobalDashboardControllerTests.cs" timestamp="1531147471887" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="8" />
@@ -457,9 +456,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" timestamp="1531300365188">
         <mark key="'" line="125" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="20" />
-        <mark key="." line="60" column="20" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/VerticalText/_VerticalText.scss" timestamp="1531130236859">
         <mark key="[" line="0" column="9" />
