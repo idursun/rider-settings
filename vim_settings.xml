@@ -380,12 +380,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" timestamp="1531406581147">
-        <mark key="'" line="282" column="32" />
-        <mark key="[" line="276" column="19" />
-        <mark key="]" line="276" column="28" />
-        <mark key="^" line="276" column="28" />
-        <mark key="." line="276" column="28" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" timestamp="1531408183023">
+        <mark key="'" line="280" column="32" />
+        <mark key="[" line="286" column="31" />
+        <mark key="]" line="286" column="35" />
+        <mark key="." line="286" column="35" />
+        <mark key="^" line="286" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" timestamp="1528906845661">
         <mark key="'" line="20" column="20" />
@@ -632,7 +632,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531406588628">
+      <file name="/Dummy.txt" timestamp="1531408190409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -823,11 +823,11 @@
       <jump line="280" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>no</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgd3JhcHBlciA9IHthOiAndGVzdCd9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>no</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
@@ -836,7 +836,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZ3VyZSh7YWRhcHRlcjogbmV3IEVuenltZUFkYXB0ZXIoKX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobm90aWZpY2F0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgd3JhcHBlciA9IHthOiAndGVzdCd9Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -851,25 +851,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7PE5vdGlmaWNhdGlvbiBpbmZvPjwvTm90aWZpY2F0aW9uPn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod3JhcHBlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobm90aWZpY2F0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7PE5vdGlmaWNhdGlvbiBpbmZvPjwvTm90aWZpY2F0aW9uPn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpbWl0ZWREYXRhV2FybmluZyBzaG93PXshc2hvd1Nob3J0UHVyZ2VTZXR0aW5nV2FybmluZyAmJiBzaG93TGltaXRlZERhdGFXYXJuaW5nfSAvPgo=</text>
+        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgpCiAgICB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExpbWl0ZWREYXRhV2FybmluZyBzaG93PXshc2hvd1Nob3J0UHVyZ2VTZXR0aW5nV2FybmluZyAmJiBzaG93TGltaXRlZERhdGFXYXJuaW5nfSAvPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
