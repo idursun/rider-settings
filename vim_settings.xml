@@ -248,15 +248,6 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" timestamp="1531150805266">
-        <mark key="'" line="42" column="57" />
-        <mark key="k" line="49" column="0" />
-        <mark key="[" line="42" column="70" />
-        <mark key="m" line="49" column="0" />
-        <mark key="]" line="42" column="70" />
-        <mark key="^" line="42" column="68" />
-        <mark key="." line="42" column="70" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/InstalledVersionsClientStub.cs" timestamp="1531134086317">
         <mark key="'" line="20" column="48" />
       </file>
@@ -328,6 +319,9 @@
         <mark key="]" line="123" column="7" />
         <mark key="^" line="123" column="7" />
         <mark key="." line="123" column="7" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Sql2012DatabaseSampler.cs" timestamp="1531393214057">
+        <mark key="'" line="50" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1528373502468">
         <mark key="'" line="39" column="8" />
@@ -552,6 +546,13 @@
         <mark key="." line="11" column="116" />
         <mark key="^" line="11" column="118" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tools/SqlUpgradeStepGenerator/Program.cs" timestamp="1531392672257">
+        <mark key="'" line="34" column="57" />
+        <mark key="[" line="39" column="50" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/entry.js" timestamp="1528455038989">
         <mark key="'" line="21" column="7" />
         <mark key="[" line="8" column="29" />
@@ -628,6 +629,9 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="19" column="7" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/DatabaseSampler.cs" timestamp="1531393070127">
+        <mark key="'" line="38" column="27" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionDataLoader.cs" timestamp="1531234764182">
         <mark key="'" line="11" column="60" />
         <mark key="[" line="33" column="57" />
@@ -691,9 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="130" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="74" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="32" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="66" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="7" column="66" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/services/InstalledVersionsService.js" />
@@ -791,6 +792,9 @@
       <jump line="121" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="123" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="126" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
+      <jump line="34" column="57" filename="D:/workspace/sqlmonitor/Source/Tools/SqlUpgradeStepGenerator/Program.cs" />
+      <jump line="38" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/DatabaseSampler.cs" />
+      <jump line="50" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Sql2012DatabaseSampler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
