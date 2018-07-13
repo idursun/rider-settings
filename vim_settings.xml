@@ -324,12 +324,11 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531471315190">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531472047211">
         <mark key="'" line="23" column="77" />
-        <mark key="[" line="43" column="118" />
-        <mark key="]" line="43" column="117" />
-        <mark key="^" line="43" column="117" />
-        <mark key="." line="43" column="117" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" timestamp="1529921207356">
         <mark key="'" line="492" column="116" />
@@ -570,8 +569,8 @@
         <mark key="^" line="74" column="14" />
         <mark key="." line="74" column="14" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" timestamp="1531138022385">
-        <mark key="'" line="33" column="53" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" timestamp="1531471915654">
+        <mark key="'" line="49" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -735,7 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="122" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="267" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
       <jump line="275" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
@@ -835,10 +833,11 @@
       <jump line="23" column="77" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="40" column="79" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="45" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
+      <jump line="49" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, sqlInstanceVersionInfo, &quot;Uncaregorized&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, sqlInstanceVersionInfo, &quot;Uncaregorized&quot;</text>
@@ -850,7 +849,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZlcnNpb25zUm93Vmlld01vZGVscyA9IG1hY2hpbmUuU3FsSW5zdGFuY2VzLlNlbGVjdChzcWxJbnN0YW5jZSA9PiBWZXJzaW9uc1Jvd1ZpZXdNb2RlbEZhY3RvcnkuRnJvbShjbHVzdGVyLk5hbWUsIG1hY2hpbmUuTmFtZSwgc3FsSW5zdGFuY2UsIGNsdXN0ZXIuR3JvdXApKS5Ub0xpc3QoKTsKICAgICAgICAgICAgICAgICAgICAgICAgcm93cy5BZGRSYW5nZSh2ZXJzaW9uc1Jvd1ZpZXdNb2RlbHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -865,28 +864,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgd3JhcHBlciA9IHthOiAndGVzdCd9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3dzLkFkZFJhbmdlKGNsdXN0ZXIuU3FsSW5zdGFuY2VzLlNlbGVjdChzcWxJbnN0YW5jZVZlcnNpb25JbmZvID0+IFZlcnNpb25zUm93Vmlld01vZGVsRmFjdG9yeS5Gcm9tKGNsdXN0ZXIuTmFtZSwgc3FsSW5zdGFuY2VWZXJzaW9uSW5mbywgY2x1c3Rlci5Hcm91cCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod3JhcHBlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobm90aWZpY2F0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgd3JhcHBlciA9IHthOiAndGVzdCd9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7PE5vdGlmaWNhdGlvbiBpbmZvPjwvTm90aWZpY2F0aW9uPn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cod3JhcHBlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobm90aWZpY2F0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7PE5vdGlmaWNhdGlvbiBpbmZvPjwvTm90aWZpY2F0aW9uPn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpbWl0ZWREYXRhV2FybmluZyBzaG93PXshc2hvd1Nob3J0UHVyZ2VTZXR0aW5nV2FybmluZyAmJiBzaG93TGltaXRlZERhdGFXYXJuaW5nfSAvPgo=</text>
+        <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
