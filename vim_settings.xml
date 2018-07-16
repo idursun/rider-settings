@@ -646,7 +646,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531731209772">
+      <file name="/Dummy.txt" timestamp="1531732994099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -660,6 +660,12 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxApiController.cs" timestamp="1531388621097">
         <mark key="'" line="20" column="25" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Versions/Components/OutOfDateMessageSpec.jsx" timestamp="1531732858160">
+        <mark key="[" line="6" column="101" />
+        <mark key="]" line="6" column="117" />
+        <mark key="^" line="6" column="117" />
+        <mark key="." line="6" column="117" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/MiniGrid.js" timestamp="1528451836108">
         <mark key="'" line="149" column="12" />
@@ -889,7 +895,7 @@
         <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action HighlightUsagesInFile</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -943,8 +949,8 @@
         <entry>set surround</entry>
         <entry>w</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action Find</entry>
         <entry>action HighlightUsagesInFile</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
