@@ -235,6 +235,12 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/OutOfDateMessage/OutOfDateMessage.jsx" timestamp="1531731193448">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1530109232659">
         <mark key="'" line="153" column="37" />
         <mark key="[" line="139" column="11" />
@@ -623,12 +629,6 @@
         <mark key="." line="199" column="0" />
         <mark key="^" line="193" column="49" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsPage.jsx" timestamp="1529420068457">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileTimeRemainingAlerter.cs" timestamp="1530110152055">
         <mark key="'" line="13" column="69" />
       </file>
@@ -646,7 +646,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531412914303">
+      <file name="/Dummy.txt" timestamp="1531731209772">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
