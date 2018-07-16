@@ -889,7 +889,7 @@
         <text encoding="base64">ICAgIGlmICghc2hvdykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action HighlightUsagesInFile</text>
       </register>
     </registers>
     <search>
@@ -939,12 +939,12 @@
         <entry>action FindUsages</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5zLy9tX1N0YXJ0VGltZS9n</entry>
-        <entry>action HighlightUsagesInFile</entry>
         <entry>enable surround</entry>
         <entry>set surround</entry>
         <entry>w</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action Find</entry>
+        <entry>action HighlightUsagesInFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
