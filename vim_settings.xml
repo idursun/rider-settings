@@ -172,11 +172,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="39" column="1" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" timestamp="1531139098435">
-        <mark key="[" line="136" column="107" />
-        <mark key="]" line="136" column="120" />
-        <mark key="^" line="136" column="120" />
-        <mark key="." line="136" column="120" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" timestamp="1531836772907">
+        <mark key="'" line="142" column="41" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1531385906420">
         <mark key="'" line="115" column="21" />
@@ -308,6 +308,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="19" column="105" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/Notification/Info.jsx" timestamp="1531400362878">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="8" column="78" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" timestamp="1531234741841">
         <mark key="[" line="16" column="103" />
         <mark key="]" line="16" column="109" />
@@ -327,12 +333,12 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531834913466">
-        <mark key="'" line="30" column="119" />
-        <mark key="[" line="41" column="147" />
-        <mark key="]" line="41" column="147" />
-        <mark key="^" line="41" column="147" />
-        <mark key="." line="41" column="147" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531836593729">
+        <mark key="'" line="24" column="79" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="53" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" timestamp="1529921207356">
         <mark key="'" line="492" column="116" />
@@ -425,12 +431,12 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" timestamp="1531835097547">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" timestamp="1531835429874">
         <mark key="'" line="32" column="53" />
-        <mark key="[" line="61" column="58" />
-        <mark key="]" line="61" column="58" />
-        <mark key="." line="61" column="58" />
-        <mark key="^" line="61" column="44" />
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="35" column="56" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" timestamp="1531147428083">
         <mark key="'" line="7" column="18" />
@@ -512,6 +518,11 @@
         <mark key="]" line="78" column="8" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="78" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/VersionsRowViewModalFactoryTests.cs" timestamp="1531835715199">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Base.Master" timestamp="1531385859916">
         <mark key="[" line="17" column="16" />
@@ -655,7 +666,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531834336527">
+      <file name="/Dummy.txt" timestamp="1531836830131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -747,40 +758,14 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/CreateCustomMetric/ConfigureCustomMetricsEditScreenViewModel.js" timestamp="1529500113088">
         <mark key="'" line="12" column="16" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" timestamp="1531834918310">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="28" column="74" />
-        <mark key="]" line="28" column="84" />
-        <mark key="^" line="28" column="84" />
-        <mark key="." line="28" column="84" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" timestamp="1531836753517">
+        <mark key="'" line="155" column="8" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
-      <jump line="42" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="121" column="34" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
-      <jump line="285" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
-      <jump line="21" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
-      <jump line="274" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" />
-      <jump line="47" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Providers/Nodes/NodeProviderFactory.cs" />
-      <jump line="15" column="37" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Trace/TraceSampler.cs" />
-      <jump line="123" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
-      <jump line="26" column="4" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSampler.cs" />
-      <jump line="11" column="60" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionDataLoader.cs" />
-      <jump line="58" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="61" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="65" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="73" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="80" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="90" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="94" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="97" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="99" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="105" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="108" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="109" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="125" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/ErrorLog/FileErrorLogSampler.cs" />
-      <jump line="43" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" />
       <jump line="115" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" />
       <jump line="112" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxApiController.cs" />
       <jump line="27" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxApiController.cs" />
@@ -853,25 +838,50 @@
       <jump line="190" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="15" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
       <jump line="14" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
-      <jump line="32" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
       <jump line="30" column="119" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
-      <jump line="13" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="13" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="37" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
+      <jump line="57" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
+      <jump line="58" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
+      <jump line="36" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
+      <jump line="32" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
+      <jump line="137" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="138" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="142" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="143" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="21" column="37" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/VersionsRowViewModalFactoryTests.cs" />
+      <jump line="16" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/VersionsRowViewModalFactoryTests.cs" />
+      <jump line="12" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/VersionsRowViewModalFactoryTests.cs" />
+      <jump line="10" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="146" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="135" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="139" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="140" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="145" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="122" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="148" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" />
+      <jump line="24" column="79" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
+      <jump line="131" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="155" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
+      <jump line="161" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" />
+      <jump line="142" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;Machine1&quot;</text>
+        <text>Fix import path</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;Machine1&quot;</text>
+        <text>Fix import path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgU3FsSW5zdGFuY2VWZXJzaW9uSW5mbygpIHsgTmFtZSA9ICJTcWwxIn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocm93c1swXS5OYW1lLCBJcy5FcXVhbFRvKCJDbHVzdGVyXFxmY2kxIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTcWxJbnN0YW5jZXMgPSBuZXcgTGlzdDxTcWxJbnN0YW5jZVZlcnNpb25JbmZvPigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgU3FsSW5zdGFuY2VWZXJzaW9uSW5mbygpIHtOYW1lID0gIlNxbDEifQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -886,28 +896,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBzcWxJbnN0YW5jZSBpbiBjbHVzdGVyLlNxbEluc3RhbmNlcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB5aWVsZCByZXR1cm4gRnJvbShjbHVzdGVyLk5hbWUsIHNxbEluc3RhbmNlLCBjbHVzdGVyLkdyb3VwKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocm93c1swXS5OYW1lLCBTdHJpbmcuICkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBNYWNoaW5lVmVyc2lvbkluZm8geyBOYW1lID0gIk1hY2hpbmUyIiB9LAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFJlZEdhdGUuU3FsTW9uaXRvci5Db21tb24uRG9tYWluLlZlcnNpb25zOwp1c2luZyBSZWRHYXRlLlNxbE1vbml0b3IuQ29tbW9uLlV0aWxpdGllczsKdXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLlVJLldlYnNpdGUuU3FsVmVyc2lvbnM7CgpuYW1lc3BhY2UgUmVkR2F0ZS5TcWxNb25pdG9yLlVJLldlYnNpdGUuQXJlYXMuRXN0YXRlLk1vZGVscwp7CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFZlcnNpb25zUm93Vmlld01vZGVsRmFjdG9yeQogICAgewogICAgICAgIHB1YmxpYyBzdGF0aWMgVmVyc2lvbnNSb3dWaWV3TW9kZWwgRnJvbShzdHJpbmcgbWFjaGluZU5hbWUsIFNxbEluc3RhbmNlVmVyc2lvbkluZm8gc3FsSW5zdGFuY2UsIHN0cmluZyBncm91cE5hbWUpCiAgICAgICAgewogICAgICAgICAgICBpZiAoc3FsSW5zdGFuY2UuVmVyc2lvbiA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gV2l0aE5vVmVyc2lvbihzcWxJbnN0YW5jZSwgc3RyaW5nLkVtcHR5LCBtYWNoaW5lTmFtZSwgZ3JvdXBOYW1lKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKHNxbEluc3RhbmNlLklzQXp1cmUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBXaXRoQXp1cmUoc3FsSW5zdGFuY2UsIG1hY2hpbmVOYW1lLCBncm91cE5hbWUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gR2V0Vmlld01vZGVsKHN0cmluZy5FbXB0eSwgbWFjaGluZU5hbWUsIHNxbEluc3RhbmNlLCBncm91cE5hbWUpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBWZXJzaW9uc1Jvd1ZpZXdNb2RlbCBGcm9tKHN0cmluZyBjbHVzdGVyTmFtZSwgc3RyaW5nIG1hY2hpbmVOYW1lLCBTcWxJbnN0YW5jZVZlcnNpb25JbmZvIHNxbEluc3RhbmNlLCBzdHJpbmcgZ3JvdXBOYW1lKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHNxbEluc3RhbmNlLlZlcnNpb24gPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIFdpdGhOb1ZlcnNpb24oc3FsSW5zdGFuY2UsIGNsdXN0ZXJOYW1lLCBtYWNoaW5lTmFtZSwgZ3JvdXBOYW1lKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIEdldFZpZXdNb2RlbChjbHVzdGVyTmFtZSwgbWFjaGluZU5hbWUsIHNxbEluc3RhbmNlLCBncm91cE5hbWUpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBJRW51bWVyYWJsZTxWZXJzaW9uc1Jvd1ZpZXdNb2RlbD4gQ29udmVydChDbHVzdGVyVmVyc2lvbkluZm8gY2x1c3RlcikKICAgICAgICB7CiAgICAgICAgICAgIGlmIChjbHVzdGVyLk1hY2hpbmVzLkNvdW50KCkgPT0gMSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHNxbEluc3RhbmNlIGluIGNsdXN0ZXIuU3FsSW5zdGFuY2VzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBGcm9tKGNsdXN0ZXIuTmFtZSwgc3FsSW5zdGFuY2UsIGNsdXN0ZXIuR3JvdXApOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIG1hY2hpbmUgaW4gY2x1c3Rlci5NYWNoaW5lcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgc3FsSW5zdGFuY2UgaW4gbWFjaGluZS5TcWxJbnN0YW5jZXMpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB5aWVsZCByZXR1cm4gRnJvbShjbHVzdGVyLk5hbWUsIG1hY2hpbmUuTmFtZSwgc3FsSW5zdGFuY2UsIGNsdXN0ZXIuR3JvdXApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgc3FsSW5zdGFuY2UgaW4gY2x1c3Rlci5TcWxJbnN0YW5jZXMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIEZyb20oY2x1c3Rlci5OYW1lLCBzcWxJbnN0YW5jZSwgY2x1c3Rlci5Hcm91cCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIFZlcnNpb25zUm93Vmlld01vZGVsIEdldFZpZXdNb2RlbChzdHJpbmcgY2x1c3Rlck5hbWUsIHN0cmluZyBtYWNoaW5lTmFtZSwgU3FsSW5zdGFuY2VWZXJzaW9uSW5mbyBzcWxJbnN0YW5jZSwgc3RyaW5nIGdyb3VwTmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtb2RlbCA9IG5ldyBWZXJzaW9uc1Jvd1ZpZXdNb2RlbAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDbHVzdGVyTmFtZSA9IGNsdXN0ZXJOYW1lLAogICAgICAgICAgICAgICAgR3JvdXAgPSBncm91cE5hbWUsCiAgICAgICAgICAgICAgICBBbGlhcyA9IHNxbEluc3RhbmNlLkFsaWFzLAogICAgICAgICAgICAgICAgTmFtZSA9ICRAInttYWNoaW5lTmFtZX1ce3NxbEluc3RhbmNlLk5hbWV9IiwKICAgICAgICAgICAgICAgIElzQXp1cmUgPSBzcWxJbnN0YW5jZS5Jc0F6dXJlLAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgQWRkUGF0Y2hJbmZvcm1hdGlvbihzcWxJbnN0YW5jZSwgbW9kZWwpOwoKICAgICAgICAgICAgcmV0dXJuIG1vZGVsOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBBZGRQYXRjaEluZm9ybWF0aW9uKFNxbEluc3RhbmNlVmVyc2lvbkluZm8gc3FsSW5zdGFuY2UsIFZlcnNpb25zUm93Vmlld01vZGVsIG1vZGVsKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGN1cnJlbnRWZXJzaW9uTWF0Y2ggPSBTcWxTZXJ2ZXJWZXJzaW9uTG9va3VwLkluc3RhbmNlLkdldFZlcnNpb25JbmZvKHNxbEluc3RhbmNlLlZlcnNpb24pOwoKICAgICAgICAgICAgbW9kZWwuRWRpdGlvbiA9IEdldFN0cmluZyhzcWxJbnN0YW5jZS5FZGl0aW9uKTsKICAgICAgICAgICAgbW9kZWwuRnJpZW5kbHlWZXJzaW9uID0gR2V0U3RyaW5nKGN1cnJlbnRWZXJzaW9uTWF0Y2guRXZhbHVhdGUobWF0Y2g6IHYgPT4gdi5Ub1NpbXBsZVByb2R1Y3REZXNjcmlwdGlvbigpLCBub01hdGNoOiAoKSA9PiBzdHJpbmcuRW1wdHkpKTsKICAgICAgICAgICAgbW9kZWwuVmVyc2lvbk51bWJlciA9IEdldFZlcnNpb25TdHJpbmcoc3FsSW5zdGFuY2UuVmVyc2lvbik7CgogICAgICAgICAgICB2YXIgY3VycmVudFZlcnNpb25JbmZvID0gY3VycmVudFZlcnNpb25NYXRjaC5WZXJzaW9uSW5mbzsKCiAgICAgICAgICAgIGlmIChjdXJyZW50VmVyc2lvbkluZm8gIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWwuUmF3UHJvZHVjdExldmVsID0gY3VycmVudFZlcnNpb25JbmZvLlByb2R1Y3RMZXZlbDsKICAgICAgICAgICAgICAgIG1vZGVsLlJlbGVhc2VEYXRlID0gY3VycmVudFZlcnNpb25JbmZvLlJlbGVhc2VEYXRlOwogICAgICAgICAgICAgICAgbW9kZWwuRW5kT2ZTdXBwb3J0RGF0ZSA9IGN1cnJlbnRWZXJzaW9uSW5mby5FbmRPZlN1cHBvcnREYXRlOwogICAgICAgICAgICAgICAgbW9kZWwuSXNVcFRvRGF0ZSA9IGN1cnJlbnRWZXJzaW9uSW5mby5Jc1VwVG9EYXRlOwogICAgICAgICAgICAgICAgbW9kZWwuSGFzQWRkaXRpb25hbFBhdGNoZXMgPSBjdXJyZW50VmVyc2lvbk1hdGNoLkV2YWx1YXRlKAogICAgICAgICAgICAgICAgICAgIGNsb3NlTWF0Y2g6IHYgPT4gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBleGFjdE1hdGNoOiB2ID0+IGZhbHNlLAogICAgICAgICAgICAgICAgICAgIG5vTWF0Y2g6ICgpID0+IGZhbHNlCiAgICAgICAgICAgICAgICApOwoKICAgICAgICAgICAgICAgIHZhciBsYXRlc3RVcGRhdGUgPSBjdXJyZW50VmVyc2lvbkluZm8uTGF0ZXN0QXZhaWxhYmxlVXBkYXRlOwoKICAgICAgICAgICAgICAgIG1vZGVsLkxhdGVzdFVwZGF0ZSA9IG5ldyBMYXRlc3RVcGRhdGVWaWV3TW9kZWwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBQcm9kdWN0TGV2ZWwgPSBsYXRlc3RVcGRhdGUuUHJvZHVjdExldmVsLAogICAgICAgICAgICAgICAgICAgIFJlbGVhc2VEYXRlID0gbGF0ZXN0VXBkYXRlLlJlbGVhc2VEYXRlLAogICAgICAgICAgICAgICAgICAgIERvd25sb2FkVXJsID0gbGF0ZXN0VXBkYXRlLkRvd25sb2FkVXJsLAogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgVmVyc2lvbnNSb3dWaWV3TW9kZWwgV2l0aE5vVmVyc2lvbihTcWxJbnN0YW5jZVZlcnNpb25JbmZvIHNxbEluc3RhbmNlLCBzdHJpbmcgY2x1c3Rlck5hbWUsIHN0cmluZyBtYWNoaW5lTmFtZSwgc3RyaW5nIGdyb3VwTmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgVmVyc2lvbnNSb3dWaWV3TW9kZWwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ2x1c3Rlck5hbWUgPSBjbHVzdGVyTmFtZSwKICAgICAgICAgICAgICAgIE5hbWUgPSAkQCJ7bWFjaGluZU5hbWV9XHtzcWxJbnN0YW5jZS5OYW1lfSIsCiAgICAgICAgICAgICAgICBHcm91cCA9IGdyb3VwTmFtZSwKICAgICAgICAgICAgICAgIEFsaWFzID0gc3FsSW5zdGFuY2UuQWxpYXMsCiAgICAgICAgICAgICAgICBJc0F6dXJlID0gc3FsSW5zdGFuY2UuSXNBenVyZSwKICAgICAgICAgICAgICAgIFZlcnNpb25OdW1iZXIgPSBTdHJpbmdDb25zdGFudHMuTm9EYXRhVGV4dCwKICAgICAgICAgICAgICAgIEZyaWVuZGx5VmVyc2lvbiA9IFN0cmluZ0NvbnN0YW50cy5Ob0RhdGFUZXh0CiAgICAgICAgICAgIH07CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHN0YXRpYyBWZXJzaW9uc1Jvd1ZpZXdNb2RlbCBXaXRoQXp1cmUoU3FsSW5zdGFuY2VWZXJzaW9uSW5mbyBzcWxJbnN0YW5jZSwgc3RyaW5nIG1hY2hpbmVOYW1lLCBzdHJpbmcgZ3JvdXBOYW1lKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBWZXJzaW9uc1Jvd1ZpZXdNb2RlbAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDbHVzdGVyTmFtZSA9IHN0cmluZy5FbXB0eSwKICAgICAgICAgICAgICAgIE5hbWUgPSAkQCJ7bWFjaGluZU5hbWV9XHtzcWxJbnN0YW5jZS5OYW1lfSIsCiAgICAgICAgICAgICAgICBHcm91cCA9IGdyb3VwTmFtZSwKICAgICAgICAgICAgICAgIEFsaWFzID0gc3FsSW5zdGFuY2UuQWxpYXMsCiAgICAgICAgICAgICAgICBJc0F6dXJlID0gc3FsSW5zdGFuY2UuSXNBenVyZSwKICAgICAgICAgICAgICAgIFZlcnNpb25OdW1iZXIgPSBHZXRWZXJzaW9uU3RyaW5nKHNxbEluc3RhbmNlLlZlcnNpb24pLAogICAgICAgICAgICAgICAgRnJpZW5kbHlWZXJzaW9uID0gR2V0U3RyaW5nKHNxbEluc3RhbmNlLkVkaXRpb24pLAogICAgICAgICAgICAgICAgSXNVcFRvRGF0ZSA9IHRydWUKICAgICAgICAgICAgfTsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIHN0cmluZyBHZXRTdHJpbmcoc3RyaW5nIHZhbHVlKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5Jc051bGxPckVtcHR5KHZhbHVlKSA/IHN0cmluZy5FbXB0eSA6IHZhbHVlOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgc3RyaW5nIEdldFZlcnNpb25TdHJpbmcoVmVyc2lvbiB2ZXJzaW9uKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHZlcnNpb24gPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHZlcnNpb24uUmV2aXNpb24gPT0gLTEKICAgICAgICAgICAgICAgID8gJCJ7dmVyc2lvbi5Ub1N0cmluZygzKX0uMCIKICAgICAgICAgICAgICAgIDogdmVyc2lvbi5Ub1N0cmluZyg0KTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3FsSW5zdGFuY2VzID0gbmV3IExpc3Q8U3FsSW5zdGFuY2VWZXJzaW9uSW5mbz4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFNxbEluc3RhbmNlVmVyc2lvbkluZm8ge05hbWUgPSAiZmNpMSJ9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFNxbEluc3RhbmNlVmVyc2lvbkluZm8ge05hbWUgPSAiZmNpMiJ9LAogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBNYWNoaW5lVmVyc2lvbkluZm8ge05hbWUgPSAiTTEiLCBTcWxJbnN0YW5jZXMgPSBFbnVtZXJhYmxlLkVtcHR5PFNxbEluc3RhbmNlVmVyc2lvbkluZm8+KCl9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1hY2hpbmVWZXJzaW9uSW5mbyB7TmFtZSA9ICJNMSIsIFNxbEluc3RhbmNlcyA9IEVudW1lcmFibGUuRW1wdHk8U3FsSW5zdGFuY2VWZXJzaW9uSW5mbz4oKX0sCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPFZlcnNpb25zUm93Vmlld01vZGVsPiBDb252ZXJ0KENsdXN0ZXJWZXJzaW9uSW5mbyBjbHVzdGVyKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKGNsdXN0ZXIuTWFjaGluZXMuQ291bnQoKSA9PSAxKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgc3FsSW5zdGFuY2UgaW4gY2x1c3Rlci5TcWxJbnN0YW5jZXMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIEZyb20oY2x1c3Rlci5OYW1lLCBzcWxJbnN0YW5jZSwgY2x1c3Rlci5Hcm91cCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgbWFjaGluZSBpbiBjbHVzdGVyLk1hY2hpbmVzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBzcWxJbnN0YW5jZSBpbiBtYWNoaW5lLlNxbEluc3RhbmNlcykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBGcm9tKGNsdXN0ZXIuTmFtZSwgbWFjaGluZS5OYW1lLCBzcWxJbnN0YW5jZSwgY2x1c3Rlci5Hcm91cCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBzcWxJbnN0YW5jZSBpbiBjbHVzdGVyLlNxbEluc3RhbmNlcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB5aWVsZCByZXR1cm4gRnJvbShjbHVzdGVyLk5hbWUsIHNxbEluc3RhbmNlLCBjbHVzdGVyLkdyb3VwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDbHVzdGVyVmVyc2lvbkluZm8oKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNsdXN0ZXIgaW4gY2x1c3RlclZlcnNpb25JbmZvcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcm93cy5BZGRSYW5nZShWZXJzaW9uc1Jvd1ZpZXdNb2RlbEZhY3RvcnkuQ29udmVydChjbHVzdGVyKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action EditorCompleteStatement</text>
