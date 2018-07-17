@@ -10,6 +10,9 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="10" column="24" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/IDiskUsageRepository.cs" timestamp="1531832987098">
+        <mark key="'" line="7" column="30" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertsGroupDetailsViewModel/WhenLoadedSpec.js" timestamp="1528465387887">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="18" />
@@ -330,12 +333,12 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531825621964">
-        <mark key="'" line="43" column="34" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="34" column="38" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531832966431">
+        <mark key="'" line="45" column="34" />
+        <mark key="[" line="41" column="147" />
+        <mark key="]" line="41" column="147" />
+        <mark key="^" line="41" column="147" />
+        <mark key="." line="41" column="147" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" timestamp="1529921207356">
         <mark key="'" line="492" column="116" />
@@ -572,8 +575,11 @@
         <mark key="^" line="74" column="14" />
         <mark key="." line="74" column="14" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" timestamp="1531818513376">
-        <mark key="'" line="43" column="24" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" timestamp="1531833007680">
+        <mark key="'" line="50" column="27" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -642,7 +648,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531732994099">
+      <file name="/Dummy.txt" timestamp="1531834307891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -653,6 +659,13 @@
         <mark key="]" line="21" column="11" />
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1531834191073">
+        <mark key="'" line="191" column="78" />
+        <mark key="[" line="85" column="53" />
+        <mark key="]" line="85" column="60" />
+        <mark key="^" line="85" column="60" />
+        <mark key="." line="85" column="60" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxApiController.cs" timestamp="1531388621097">
         <mark key="'" line="20" column="25" />
@@ -737,14 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="33" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Email/SlackNotificationSender.cs" />
-      <jump line="19" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Email/SlackNotificationSender.cs" />
-      <jump line="7" column="18" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" />
-      <jump line="132" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="125" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="47" column="41" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/GroupAssignment.cs" />
-      <jump line="271" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="274" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="285" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="288" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="70" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
@@ -837,19 +842,27 @@
       <jump line="44" column="130" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="59" column="67" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="40" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
+      <jump line="38" column="61" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
+      <jump line="34" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
+      <jump line="7" column="30" filename="D:/workspace/sqlmonitor/Source/Common/Services/Disk/IDiskUsageRepository.cs" />
+      <jump line="50" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
+      <jump line="69" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
+      <jump line="134" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
+      <jump line="188" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
+      <jump line="190" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Name</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnVuYzxUQ2x1c3RlciwgSUVudW1lcmFibGU8VFNxbFNlcnZlcj4+IGdldFNxbFNlcnZlcnMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLk5hbWUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -867,31 +880,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnVuYzxUTWFjaGluZSwgSUVudW1lcmFibGU8VFNxbFNlcnZlcj4+IGdldFNxbFNlcnZlcnNGcm9tTWFjaGluZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsdXN0ZXJOb2RlTmFtZXMgPSBhbGxTcWxJbnN0YW5jZXMuU2VsZWN0KHggPT4geC5OYW1lLlRvU3FsU2VydmVyRGlzcGxheU5hbWUoKS5DbHVzdGVyTm9kZU5hbWUoKSkuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFjaGluZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxWZXJzaW9uc1Jvd1ZpZXdNb2RlbD4gcm93cyA9IG5ldyBMaXN0PFZlcnNpb25zUm93Vmlld01vZGVsPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbHVzdGVyLm1hYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiByb3dzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWNoaW5lLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93cy5BZGQodmVyc2lvbnNSb3dWaWV3TW9kZWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3dzLkFkZCh2ZXJzaW9uc1Jvd1ZpZXdNb2RlbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoY2x1c3RlckluZm8sIG1hY2hpbmVJbmZvKSA9PiBBZGREaXNrcyhjbHVzdGVyLkdyb3VwLCBtYWNoaW5lSW5mbywgcm93cykpLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdmVyc2lvbnNSb3dWaWV3TW9kZWxzID0gbWFjaGluZS5TcWxJbnN0YW5jZXMuU2VsZWN0KHNxbEluc3RhbmNlID0+IGNvbnZlcnRNYWNoaW5lKGNsdXN0ZXIsIG1hY2hpbmUsIHNxbEluc3RhbmNlKSk7CiAgICAgICAgICAgICAgICAgICAgcm93cy5BZGRSYW5nZSh2ZXJzaW9uc1Jvd1ZpZXdNb2RlbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnVuYzxUTWFjaGluZSwgSUVudW1lcmFibGU8VFNxbFNlcnZlcj4+IGdldFNxbFNlcnZlcnNGcm9tTWFjaGluZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action EditorCompleteStatement</text>
       </register>
     </registers>
     <search>
@@ -944,9 +957,9 @@
         <entry>enable surround</entry>
         <entry>set surround</entry>
         <entry>w</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action HighlightUsagesInFile</entry>
         <entry>action Find</entry>
+        <entry>action EditorCompleteStatement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
