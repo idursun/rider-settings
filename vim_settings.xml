@@ -60,6 +60,9 @@
         <mark key="." line="52" column="41" />
         <mark key="^" line="27" column="48" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Controllers/GlobalDashboardControllerTests.cs" timestamp="1531929423341">
+        <mark key="'" line="131" column="23" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="8" />
@@ -286,6 +289,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/InstalledVersionsClientStub.cs" timestamp="1531134086317">
         <mark key="'" line="20" column="48" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" timestamp="1531929371094">
+        <mark key="'" line="36" column="12" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/PurgeSettings.cs" timestamp="1529313505882">
         <mark key="'" line="90" column="45" />
       </file>
@@ -337,8 +343,8 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531836593729">
-        <mark key="'" line="24" column="79" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531929292482">
+        <mark key="'" line="24" column="69" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -789,8 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
-      <jump line="117" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="121" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="123" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="126" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
@@ -874,7 +878,6 @@
       <jump line="145" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="122" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="148" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" />
-      <jump line="24" column="79" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="131" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="155" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
@@ -889,6 +892,9 @@
       <jump line="32" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersionLookupFactory.cs" />
       <jump line="2068" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersions.json" />
       <jump line="26" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/GroupToolboxContainer.js" />
+      <jump line="24" column="69" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
+      <jump line="36" column="12" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
+      <jump line="131" column="23" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Controllers/GlobalDashboardControllerTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
