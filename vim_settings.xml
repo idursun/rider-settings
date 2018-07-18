@@ -35,6 +35,12 @@
         <mark key="." line="287" column="0" />
         <mark key="^" line="170" column="15" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1531922415808">
+        <mark key="[" line="108" column="102" />
+        <mark key="]" line="108" column="115" />
+        <mark key="." line="108" column="115" />
+        <mark key="^" line="108" column="115" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/CookieNames.js" timestamp="1528464908070">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -381,6 +387,9 @@
         <mark key="]" line="40" column="60" />
         <mark key="^" line="40" column="60" />
         <mark key="." line="48" column="48" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/GroupToolboxContainer.js" timestamp="1531922179922">
+        <mark key="'" line="26" column="9" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/ReactiveExecution/ReactiveRouteExecutor.cs" timestamp="1529933001324">
         <mark key="'" line="44" column="29" />
@@ -780,7 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="115" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="117" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
       <jump line="121" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Alerting/Alerter/AlertGroupKeyBuilderTests.cs" />
@@ -880,13 +888,14 @@
       <jump line="7" column="87" filename="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersionLookup.cs" />
       <jump line="32" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersionLookupFactory.cs" />
       <jump line="2068" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersions.json" />
+      <jump line="26" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/GroupToolboxContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>SQM</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>SQM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
