@@ -41,6 +41,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/GroupController/GroupToolbox.jsx" timestamp="1531905341654">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Versions/OutOfDateMessageSpec.jsx" timestamp="1531405612354">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="52" column="37" />
@@ -715,7 +720,6 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="/SqlServerVersions.json" timestamp="1531843274404" />
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/DatabaseSampler.cs" timestamp="1531393070127">
         <mark key="'" line="38" column="27" />
       </file>
@@ -879,10 +883,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>22</text>
+        <text encoding="base64">c2hvd0dyb3VwcyAmJiA=</text>
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text encoding="base64">c2hvd0dyb3VwcyAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
@@ -930,7 +934,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -984,8 +988,8 @@
         <entry>w</entry>
         <entry>action HighlightUsagesInFile</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action Find</entry>
         <entry>wq</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
