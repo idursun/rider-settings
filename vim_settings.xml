@@ -343,13 +343,6 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" timestamp="1531929292482">
-        <mark key="'" line="24" column="69" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="53" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" timestamp="1529921207356">
         <mark key="'" line="492" column="116" />
       </file>
@@ -760,11 +753,7 @@
         <mark key="^" line="202" column="47" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1531403038555">
-        <mark key="'" line="52" column="22" />
-        <mark key="[" line="36" column="64" />
-        <mark key="]" line="36" column="68" />
-        <mark key="^" line="36" column="68" />
-        <mark key="." line="36" column="68" />
+        <mark key="'" line="60" column="22" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529499171506">
         <mark key="'" line="120" column="22" />
