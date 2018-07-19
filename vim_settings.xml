@@ -221,6 +221,9 @@
         <mark key="." line="35" column="95" />
         <mark key="^" line="53" column="98" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/GenericDiskDataPresenter.cs" timestamp="1532014381911">
+        <mark key="'" line="8" column="65" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
         <mark key="'" line="116" column="15" />
         <mark key="[" line="2" column="0" />
@@ -343,8 +346,8 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" timestamp="1532013260101">
-        <mark key="'" line="12" column="97" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" timestamp="1532014403443">
+        <mark key="'" line="12" column="77" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDiskVolumeLabel/LogicalDiskVolumeLabelDataPresenter.cs" timestamp="1532012315243">
         <mark key="'" line="59" column="65" />
@@ -788,7 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" />
       <jump line="161" column="10" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" />
       <jump line="52" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" />
       <jump line="14" column="73" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/Notification/Notification.jsx" />
@@ -887,7 +889,8 @@
       <jump line="34" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" />
       <jump line="44" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
       <jump line="52" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
-      <jump line="12" column="97" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
+      <jump line="8" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/GenericDiskDataPresenter.cs" />
+      <jump line="12" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
