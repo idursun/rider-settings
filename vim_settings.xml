@@ -521,7 +521,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1528465277586">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1532533835121">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="43" column="19" />
         <mark key="]" line="43" column="19" />
@@ -764,12 +764,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1531403038555">
         <mark key="'" line="60" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532526500485">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532534021246">
         <mark key="'" line="46" column="15" />
-        <mark key="[" line="136" column="25" />
-        <mark key="]" line="136" column="29" />
-        <mark key="." line="136" column="29" />
-        <mark key="^" line="136" column="29" />
+        <mark key="[" line="156" column="17" />
+        <mark key="]" line="156" column="18" />
+        <mark key="." line="156" column="18" />
+        <mark key="^" line="156" column="17" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenLoadedWithQueryParamsSpec.js" timestamp="1532520271922">
         <mark key="[" line="195" column="21" />
@@ -909,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function</text>
+        <text>Infinity</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>Infinity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
