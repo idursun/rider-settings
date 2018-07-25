@@ -378,12 +378,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/IO/FileLoadStrategy.cs" timestamp="1531843796524">
         <mark key="'" line="8" column="40" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1528373502468">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1532509881015">
         <mark key="'" line="39" column="8" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="6" />
+        <mark key="[" line="415" column="42" />
+        <mark key="]" line="415" column="41" />
+        <mark key="." line="415" column="41" />
+        <mark key="^" line="415" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" timestamp="1529053552941">
         <mark key="'" line="28" column="14" />
@@ -412,7 +412,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/5D/QueryLanguage.Conversions.cs" timestamp="1529933054773">
         <mark key="'" line="75" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/Constants.cs" timestamp="1532079875568" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1530111248419">
         <mark key="'" line="110" column="52" />
         <mark key="[" line="3" column="63" />
@@ -762,8 +761,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1531403038555">
         <mark key="'" line="60" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1529499171506">
-        <mark key="'" line="120" column="22" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532509143236">
+        <mark key="'" line="46" column="15" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Login/entry.js" timestamp="1529053735788">
         <mark key="'" line="26" column="37" />
@@ -791,7 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" />
       <jump line="14" column="73" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/Notification/Notification.jsx" />
       <jump line="136" column="49" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" />
       <jump line="17" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/OutOfDateMessage.jsx" />
@@ -891,22 +889,23 @@
       <jump line="12" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
       <jump line="34" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" />
       <jump line="62" column="73" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDiskVolumeLabel/LogicalDiskVolumeLabelDataPresenter.cs" />
+      <jump line="46" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>checkIfNewAlerts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIkVkaXRpb24iOiAiMjAxNiIsCiAgICAgICJQcm9kdWN0TGV2ZWwiOiAiU1AyIENVMSIsCiAgICAgICJWZXJzaW9uIjogIjEzLjAuNTE0OS4wIiwKICAgICAgIlJlbGVhc2VEYXRlIjogIjIwMTgtMDUtMzAiLAogICAgICAiRW5kT2ZTdXBwb3J0RGF0ZSI6ICIyMDIxLTA3LTEzIiwKICAgICAgIkRvd25sb2FkVXJsIjogImh0dHBzOi8vc3VwcG9ydC5taWNyb3NvZnQuY29tL2VuLXVzL2hlbHAvNDEzNTA0OC9jdW11bGF0aXZlLXVwZGF0ZS0xLWZvci1zcWwtc2VydmVyLTIwMTYtc3AyIgogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FsbGluZyBpbnNpZGUgX2NoZWNrSWZOZXdBbGVydHMoKScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -921,47 +920,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNhYmxlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNhYmxlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewoKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogInNhc3MtbG9hZGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAiY3NzLWxvYWRlciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlTWFwOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewoKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>ExtractTextPlugin.extract({
-                    use: [
-                        {
-                            loader: &quot;css-loader&quot;,
-                            options: {
-                                sourceMap: true
-                            }
-                        },
-                        {
-                            loader: &quot;sass-loader&quot;,
-                            options: {
-                                sourceMap: true
-                            }
-                        }
-                    ],
-                    fallback: &quot;style-loader&quot;
-                })</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogInNhc3MtbG9hZGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEVzdGF0ZVxWaWV3c1xTaGFyZWRcY29tcG9uZW50c1xHcm91cENvbnRyb2xsZXJcR3JvdXBDb250cm9sbGVyLmpzeCIgLz4KICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEVzdGF0ZVxWaWV3c1xTaGFyZWRcY29tcG9uZW50c1xHcm91cENvbnRyb2xsZXJcX0dyb3VwQ29udHJvbGxlci5zY3NzIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAiY3NzLWxvYWRlciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlTWFwOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -997,7 +980,6 @@
         <entry encoding="base64">XDxtX1N0YXJ0VGltZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0VOVElUSUVTL0lOU1RBTkNFUy9n</entry>
         <entry>%s/long?/long/g</entry>
         <entry encoding="base64">JzwsJz5zL3JldHVybi9yZXR1cm4gUnVuKC9n</entry>
         <entry>%s/parent_id/ParentId/g</entry>
@@ -1007,8 +989,6 @@
         <entry>action SmartComplete</entry>
         <entry>action CompleteCurrentStatement</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action FindUsages</entry>
-        <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5zLy9tX1N0YXJ0VGltZS9n</entry>
         <entry>enable surround</entry>
         <entry>set surround</entry>
@@ -1017,6 +997,9 @@
         <entry>wq</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>actionlist</entry>
+        <entry>source ~/.ideavim</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
