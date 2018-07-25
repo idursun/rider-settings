@@ -378,6 +378,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/IO/FileLoadStrategy.cs" timestamp="1531843796524">
         <mark key="'" line="8" column="40" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1532523438606">
+        <mark key="'" line="376" column="20" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" timestamp="1529053552941">
         <mark key="'" line="28" column="14" />
         <mark key="[" line="52" column="25" />
@@ -640,8 +643,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" timestamp="1532519869363">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" timestamp="1532523652131">
         <mark key="'" line="54" column="39" />
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="64" column="12" />
+        <mark key="^" line="64" column="12" />
+        <mark key="." line="64" column="12" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Program.cs" timestamp="1529932121677">
         <mark key="[" line="28" column="44" />
@@ -793,12 +800,11 @@
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" timestamp="1532523498229">
+        <mark key="'" line="58" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" />
-      <jump line="284" column="37" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" />
-      <jump line="46" column="46" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" />
-      <jump line="82" column="45" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskPageSpec.jsx" />
       <jump line="3" column="102" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskPageSpec.jsx" />
       <jump line="46" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Versions/OutOfDateMessageSpec.jsx" />
       <jump line="69" column="54" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" />
@@ -895,22 +901,26 @@
       <jump line="54" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" />
       <jump line="396" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="429" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
+      <jump line="376" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
+      <jump line="132" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
+      <jump line="131" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
+      <jump line="58" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai50aGlyZCA9IDU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>).toEqual(0);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FsbGluZyBpbnNpZGUgX2NoZWNrSWZOZXdBbGVydHMoKScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChvYmouc2Vjb25kLmNhbGxzLmNvdW50KCkpLnRvRXF1YWwoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai50aGlyZCA9IDU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -924,31 +934,31 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4cGVjdChvYmoudGhpcmQpLm5vdC50b0hhdmVCZWVuQ2FsbGVkKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai50aGlyZCA9IDU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBvYmogPSBqYXNtaW5lLmNyZWF0ZVNweU9iaignb2JqZWN0JywgWydmaXJzdCcsICdzZWNvbmQnXSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChvYmouc2Vjb25kLmNhbGxzLmNvdW50KCkpLnRvRXF1YWwoMCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>{
 
         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGlyZWN0aW9uID09PSBQYWdpbmdEaXJlY3Rpb25zLk5ld2VzdCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyhkaXJlY3Rpb24pOwogICAgICAgICAgICBjb25zb2xlLnRyYWNlKCk7CiAgICAgICAgICAgIHRoaXMuY29udHJvbGxlci5tb3ZlTmV3ZXN0KGZpbHRlciwgdGhpcy5jaGFubmVsSW5zdGFuY2VSZWZzKCksIHRoaXMucGFnZVNpemUoKSwgdGhpcy5pc0dyb3VwZWQoKSwgb25TdWNjZXNzLCBvbkZpbmlzaGVkKTsKICAgICAgICB9IGVsc2UgaWYgKGRpcmVjdGlvbiA9PT0gUGFnaW5nRGlyZWN0aW9ucy5PbGRlc3QpIHsKICAgICAgICAgICAgdGhpcy5jb250cm9sbGVyLm1vdmVPbGRlc3QoZmlsdGVyLCB0aGlzLmNoYW5uZWxJbnN0YW5jZVJlZnMoKSwgdGhpcy5wYWdlU2l6ZSgpLCB0aGlzLmlzR3JvdXBlZCgpLCBvblN1Y2Nlc3MsIG9uRmluaXNoZWQpOwogICAgICAgIH0gZWxzZSBpZiAoZGlyZWN0aW9uID09PSBQYWdpbmdEaXJlY3Rpb25zLk5ld2VyKSB7CiAgICAgICAgICAgIHN0YXJ0VGlja3MgPSBwYWdpbmcuc3RhcnRUaWNrczsKICAgICAgICAgICAgYWxlcnRJZCA9IHBhZ2luZy5maXJzdEFsZXJ0SWQ7CiAgICAgICAgICAgIHRoaXMuY29udHJvbGxlci5tb3ZlTmV3ZXIoZmlsdGVyLCB0aGlzLmNoYW5uZWxJbnN0YW5jZVJlZnMoKSwgdGhpcy5wYWdlU2l6ZSgpLCB0aGlzLmlzR3JvdXBlZCgpLCBzdGFydFRpY2tzLCBhbGVydElkLCBvblN1Y2Nlc3MsIG9uRmluaXNoZWQpOwogICAgICAgIH0gZWxzZSBpZiAoZGlyZWN0aW9uID09PSBQYWdpbmdEaXJlY3Rpb25zLk9sZGVyKSB7CiAgICAgICAgICAgIHN0YXJ0VGlja3MgPSBwYWdpbmcuZW5kVGlja3M7CiAgICAgICAgICAgIGFsZXJ0SWQgPSBwYWdpbmcubWF4QWxlcnRJZDsKICAgICAgICAgICAgdGhpcy5jb250cm9sbGVyLm1vdmVPbGRlcihmaWx0ZXIsIHRoaXMuY2hhbm5lbEluc3RhbmNlUmVmcygpLCB0aGlzLnBhZ2VTaXplKCksIHRoaXMuaXNHcm91cGVkKCksIHN0YXJ0VGlja3MsIGFsZXJ0SWQsIG9uU3VjY2Vzcywgb25GaW5pc2hlZCk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
