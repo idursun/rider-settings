@@ -643,7 +643,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" timestamp="1532523652131">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" timestamp="1532526487751">
         <mark key="'" line="54" column="39" />
         <mark key="[" line="64" column="12" />
         <mark key="]" line="64" column="12" />
@@ -764,11 +764,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1531403038555">
         <mark key="'" line="60" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532520391138">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532526500485">
         <mark key="'" line="46" column="15" />
-        <mark key="[" line="145" column="22" />
-        <mark key="]" line="145" column="22" />
-        <mark key="." line="145" column="22" />
+        <mark key="[" line="136" column="25" />
+        <mark key="]" line="136" column="29" />
+        <mark key="." line="136" column="29" />
+        <mark key="^" line="136" column="29" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenLoadedWithQueryParamsSpec.js" timestamp="1532520271922">
         <mark key="[" line="195" column="21" />
@@ -907,11 +908,11 @@
       <jump line="58" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai50aGlyZCA9IDU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>).toEqual(0);</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
@@ -997,7 +998,6 @@
         <entry encoding="base64">XDxtX1N0YXJ0VGltZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JldHVybi9yZXR1cm4gUnVuKC9n</entry>
         <entry>%s/parent_id/ParentId/g</entry>
         <entry encoding="base64">JzwsJz5zLywgLTEvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1NRTCBTZXJ2ZXIgLy9n</entry>
@@ -1016,6 +1016,7 @@
         <entry>action FindUsages</entry>
         <entry>action Find</entry>
         <entry>action SaveDocument</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
