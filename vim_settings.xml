@@ -672,6 +672,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" timestamp="1532535559530">
+        <mark key="[" line="235" column="25" />
+        <mark key="]" line="235" column="34" />
+        <mark key="^" line="235" column="34" />
+        <mark key="." line="235" column="34" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
         <mark key="[" line="199" column="0" />
@@ -764,12 +770,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskPage.jsx" timestamp="1531403038555">
         <mark key="'" line="60" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532534021246">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1532535613499">
         <mark key="'" line="46" column="15" />
-        <mark key="[" line="156" column="17" />
-        <mark key="]" line="156" column="18" />
-        <mark key="." line="156" column="18" />
-        <mark key="^" line="156" column="17" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="24" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="127" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenLoadedWithQueryParamsSpec.js" timestamp="1532520271922">
         <mark key="[" line="195" column="21" />
@@ -908,17 +914,17 @@
       <jump line="58" column="42" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Infinity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAna2FybWEtamFzbWluZScsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Infinity</text>
+        <text>preprocessor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChvYmouc2Vjb25kLmNhbGxzLmNvdW50KCkpLnRvRXF1YWwoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAna2FybWEtamFzbWluZScsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai50aGlyZCA9IDU7Cg==</text>
@@ -998,7 +1004,6 @@
         <entry encoding="base64">XDxtX1N0YXJ0VGltZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/parent_id/ParentId/g</entry>
         <entry encoding="base64">JzwsJz5zLywgLTEvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1NRTCBTZXJ2ZXIgLy9n</entry>
         <entry>e ideavim</entry>
@@ -1009,7 +1014,6 @@
         <entry>enable surround</entry>
         <entry>set surround</entry>
         <entry>action HighlightUsagesInFile</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>wq</entry>
         <entry>actionlist</entry>
         <entry>source ~/.ideavim</entry>
@@ -1017,6 +1021,8 @@
         <entry>action Find</entry>
         <entry>action SaveDocument</entry>
         <entry>W</entry>
+        <entry>action EditorCompleteStatement</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
