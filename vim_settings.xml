@@ -472,12 +472,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" timestamp="1528465442796">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" timestamp="1532513128340">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="69" column="23" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="23" />
-        <mark key="^" line="1" column="18" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="44" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ServerOverviewViewModel.js" timestamp="1529314709030">
         <mark key="[" line="0" column="22" />
