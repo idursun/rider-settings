@@ -118,12 +118,12 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenIsGroupedIsChangedSpec.js" timestamp="1528465249724">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenIsGroupedIsChangedSpec.js" timestamp="1532532658061">
         <mark key="'" line="9" column="34" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="69" column="50" />
-        <mark key="." line="69" column="50" />
-        <mark key="^" line="69" column="50" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/Sources/FileSourceDefinition.cs" timestamp="1529931967158">
         <mark key="'" line="15" column="23" />
@@ -909,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
