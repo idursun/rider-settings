@@ -282,6 +282,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" timestamp="1530024933123">
         <mark key="'" line="1136" column="31" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Alerts/Controllers/AlertInboxPagingApiControllerTests/MoveNewest.cs" timestamp="1532693182082">
+        <mark key="[" line="25" column="85" />
+        <mark key="]" line="25" column="84" />
+        <mark key="." line="25" column="84" />
+        <mark key="^" line="25" column="84" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
         <mark key="'" line="1" column="25" />
         <mark key="[" line="2" column="0" />
@@ -888,11 +894,11 @@
       <jump line="214" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQoJ3Nob3VsZCBmYWlsJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgZXhwZWN0KDEpLnRvRXF1YWwoMik7CiAgICAgICAgICAgIH0pOwoK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
@@ -945,7 +951,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>actionlist symbol</text>
       </register>
     </registers>
     <search>
@@ -981,26 +987,26 @@
         <entry encoding="base64">XDxtX1N0YXJ0VGltZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1NRTCBTZXJ2ZXIgLy9n</entry>
-        <entry>e ideavim</entry>
-        <entry>action SmartComplete</entry>
-        <entry>action CompleteCurrentStatement</entry>
-        <entry encoding="base64">JzwsJz5zLy9tX1N0YXJ0VGltZS9n</entry>
-        <entry>enable surround</entry>
-        <entry>set surround</entry>
-        <entry>action HighlightUsagesInFile</entry>
-        <entry>wq</entry>
-        <entry>actionlist</entry>
-        <entry>action FindUsages</entry>
-        <entry>action SaveDocument</entry>
-        <entry>W</entry>
-        <entry>action EditorCompleteStatement</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>source ~/_ideavim</entry>
         <entry>source ~/.ideavim</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist Na</entry>
+        <entry>actionlist Recent</entry>
+        <entry>RecentFiles</entry>
+        <entry>actionlist GoToFile</entry>
+        <entry>actionlist Hover</entry>
+        <entry>actionlist Type</entry>
+        <entry>actionlist Quick</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action File</entry>
+        <entry>actionlist File</entry>
+        <entry>action GoToFile</entry>
+        <entry>action GotoFile</entry>
+        <entry>actionlist Symbol</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>actionlist symbol</entry>
       </history-cmd>
       <history-expr />
       <history-input />
