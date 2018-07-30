@@ -266,13 +266,6 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1532940342252">
-        <mark key="'" line="196" column="4" />
-        <mark key="[" line="135" column="35" />
-        <mark key="]" line="135" column="37" />
-        <mark key="^" line="135" column="37" />
-        <mark key="." line="135" column="37" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/ILogicalDiskProjectionDataLoader.cs" timestamp="1531234769528">
         <mark key="[" line="10" column="57" />
         <mark key="]" line="11" column="59" />
@@ -792,15 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="23" column="77" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
-      <jump line="40" column="79" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="45" column="45" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
-      <jump line="49" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
-      <jump line="21" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
-      <jump line="41" column="112" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
-      <jump line="31" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
-      <jump line="137" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Domain/New/Data/ChannelHolderTests.cs" />
       <jump line="136" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Domain/New/Data/ChannelHolderTests.cs" />
       <jump line="165" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Domain/New/Data/ChannelHolderTests.cs" />
       <jump line="43" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
@@ -892,22 +876,31 @@
       <jump line="105" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="214" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
       <jump line="196" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="13" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="37" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="39" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="40" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="145" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="147" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="215" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="214" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="174" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogImNzcy1sb2FkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAna2FybWEtY2hyb21lLWxhdW5jaGVyJywK</text>
+        <text encoding="base64">ICAgIG1vZGU6ICdkZXZlbG9wbWVudCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQoJ3Nob3VsZCBmYWlsJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgZXhwZWN0KDEpLnRvRXF1YWwoMik7CiAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogImNzcy1sb2FkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -927,31 +920,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0ZXN0OiAvXC4oc2Nzc3xjc3MpJC8sCiAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAnbnVsbC1sb2FkZXInLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0ZXN0OiAvXC5qcGU/ZyR8XC5zdmckfFwuZ2lmJHxcLnBuZyR8XC5pY298XC5vdGYkfFwud29mZiR8XC53b2ZmMiR8XC5lb3QkfFwudHRmJC9pLAogICAgICAgICAgICAgICAgICAgIGxvYWRlcjogInVybC1sb2FkZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogImNzcy1sb2FkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0ZXN0OiAvXC4oanN8anN4KSQvLAogICAgICAgICAgICAgICAgICAgIGxvYWRlcjogJ2lzdGFuYnVsLWluc3RydW1lbnRlci1sb2FkZXInLAogICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsgZXNNb2R1bGVzOiB0cnVlIH0sCiAgICAgICAgICAgICAgICAgICAgZW5mb3JjZTogJ3Bvc3QnLAogICAgICAgICAgICAgICAgICAgIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXN8bGlifFRlc3R8U3BlYy5qcyQvLAogICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIG1vZGU6ICdkZXZlbG9wbWVudCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAna2FybWEtY292ZXJhZ2UtaXN0YW5idWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogInN0eWxlLWxvYWRlciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdmVyYWdlSXN0YW5idWxSZXBvcnRlcjogewogICAgICAgIHJlcG9ydHM6IFsnaHRtbCcsICd0ZXh0LXN1bW1hcnknXSwKICAgICAgICBmaXhXZWJwYWNrU291cmNlUGF0aHM6IHRydWUsCiAgICAgICAgJ3JlcG9ydC1jb25maWcnOiB7CiAgICAgICAgICAgIGh0bWw6IHsKICAgICAgICAgICAgICAgIHN1YmRpcjogJ3JlcG9ydC1odG1sJwogICAgICAgICAgICB9CgogICAgICAgIH0sCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2U6IFsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2U6IFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAna2FybWEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogInN0eWxlLWxvYWRlciIK</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist symbol</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -987,10 +980,6 @@
         <entry encoding="base64">XDxtX1N0YXJ0VGltZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavim</entry>
-        <entry>action Find</entry>
-        <entry>w</entry>
-        <entry>actionlist</entry>
         <entry>actionlist Na</entry>
         <entry>actionlist Recent</entry>
         <entry>RecentFiles</entry>
@@ -1007,6 +996,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoSymbol</entry>
         <entry>actionlist symbol</entry>
+        <entry>W</entry>
+        <entry>action SaveDocument</entry>
+        <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
