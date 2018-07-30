@@ -266,8 +266,8 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1532007978752">
-        <mark key="'" line="35" column="37" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1532940342252">
+        <mark key="'" line="196" column="4" />
         <mark key="[" line="135" column="35" />
         <mark key="]" line="135" column="37" />
         <mark key="^" line="135" column="37" />
@@ -792,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Components/EstateDiskDetailTableSpec.jsx" />
       <jump line="41" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="23" column="77" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="40" column="79" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
@@ -892,6 +891,7 @@
       <jump line="65" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="105" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="214" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
+      <jump line="196" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
