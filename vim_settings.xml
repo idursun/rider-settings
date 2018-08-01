@@ -272,11 +272,11 @@
         <mark key="^" line="11" column="59" />
         <mark key="." line="11" column="59" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1533117363701">
-        <mark key="'" line="212" column="18" />
-        <mark key="[" line="212" column="18" />
-        <mark key="]" line="212" column="18" />
-        <mark key="." line="212" column="18" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1533117458746">
+        <mark key="'" line="103" column="12" />
+        <mark key="[" line="213" column="26" />
+        <mark key="]" line="213" column="26" />
+        <mark key="." line="213" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" timestamp="1530024933123">
@@ -792,9 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
-      <jump line="74" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
-      <jump line="48" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="73" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="51" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="52" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
@@ -892,13 +889,16 @@
       <jump line="19" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="102" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="212" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="160" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="211" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="103" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cssConfig</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cssConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
