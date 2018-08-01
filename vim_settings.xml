@@ -272,6 +272,13 @@
         <mark key="^" line="11" column="59" />
         <mark key="." line="11" column="59" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1533117363701">
+        <mark key="'" line="212" column="18" />
+        <mark key="[" line="212" column="18" />
+        <mark key="]" line="212" column="18" />
+        <mark key="." line="212" column="18" />
+        <mark key="^" line="4" column="26" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" timestamp="1530024933123">
         <mark key="'" line="1136" column="31" />
       </file>
@@ -785,9 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Domain/New/Data/ChannelHolderTests.cs" />
-      <jump line="165" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/Domain/New/Data/ChannelHolderTests.cs" />
-      <jump line="43" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DisksApiController.cs" />
       <jump line="57" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="74" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="48" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
@@ -885,13 +889,16 @@
       <jump line="215" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="214" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="174" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="19" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="102" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
+      <jump line="212" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogImNzcy1sb2FkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
@@ -944,7 +951,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogInN0eWxlLWxvYWRlciIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -997,9 +1004,9 @@
         <entry>action GotoSymbol</entry>
         <entry>actionlist symbol</entry>
         <entry>W</entry>
-        <entry>action SaveDocument</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
