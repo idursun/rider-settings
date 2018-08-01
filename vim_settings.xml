@@ -670,10 +670,6 @@
         <mark key="]" line="234" column="0" />
         <mark key="." line="234" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/package.json" timestamp="1533126777275">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="25" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
         <mark key="[" line="199" column="0" />
@@ -960,7 +956,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1014,8 +1010,8 @@
         <entry>action GotoSymbol</entry>
         <entry>w</entry>
         <entry>W</entry>
-        <entry>action Find</entry>
         <entry>action SaveDocument</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
