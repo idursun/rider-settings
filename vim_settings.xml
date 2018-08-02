@@ -144,6 +144,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Email/SlackNotificationSender.cs" timestamp="1531147415145">
         <mark key="'" line="19" column="34" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/site.js" timestamp="1533219546967">
+        <mark key="'" line="143" column="16" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/SQLServerImporterParserSpec.js" timestamp="1528906864716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -837,7 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="119" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="13" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="37" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
       <jump line="57" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
@@ -937,6 +939,7 @@
       <jump line="128" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" />
       <jump line="25" column="6" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" />
       <jump line="3" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/LogFile/Index.cshtml" />
+      <jump line="143" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/site.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
