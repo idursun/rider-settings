@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
@@ -194,8 +194,8 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1531385906420">
-        <mark key="'" line="115" column="21" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1533199921686">
+        <mark key="'" line="25" column="6" />
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="50" />
         <mark key="^" line="27" column="50" />
@@ -253,10 +253,10 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersionLookupFactory.cs" timestamp="1531843763872">
         <mark key="'" line="32" column="53" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" timestamp="1533133717931">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="43" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" timestamp="1533199472716">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="1" />
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
       </file>
@@ -502,6 +502,13 @@
         <mark key="]" line="27" column="57" />
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="57" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/LogFile/Index.cshtml" timestamp="1533200176563">
+        <mark key="'" line="3" column="34" />
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="20" column="73" />
+        <mark key="." line="20" column="73" />
+        <mark key="^" line="20" column="58" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ReportsController.cs" timestamp="1530001757859">
         <mark key="'" line="116" column="40" />
@@ -823,11 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="188" column="57" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="190" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="15" column="53" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
-      <jump line="14" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
       <jump line="30" column="119" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="13" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="37" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" />
@@ -923,22 +925,27 @@
       <jump line="97" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" />
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigurePurging/Index.cshtml" />
       <jump line="80" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" />
+      <jump line="50" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" />
+      <jump line="6" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/LogFile/Index.cshtml" />
+      <jump line="128" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" />
+      <jump line="25" column="6" filename="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" />
+      <jump line="3" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/LogFile/Index.cshtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCU9IA==</text>
+        <text encoding="base64">LlJlcGxhY2UoRW52aXJvbm1lbnQuTmV3TGluZSwgIjxici8+Iikp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCU9IA==</text>
+        <text encoding="base64">LlJlcGxhY2UoRW52aXJvbm1lbnQuTmV3TGluZSwgIjxici8+Iikp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHsKICAgIExheW91dCA9ICJ+L1ZpZXdzL1NoYXJlZC9fSG9uZXljb21iQmFzZS5jc2h0bWwiOwp9Cg==</text>
+        <text encoding="base64">QHsKICAgIExheW91dCA9ICJ+L1ZpZXdzL1NoYXJlZC9fU2l0ZS5jc2h0bWwiOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e30K</text>
+        <text encoding="base64">ICAgIDxhc3A6Q29udGVudCBJRD0iTWFpbkNvbnRlbnQiIENvbnRlbnRQbGFjZUhvbGRlcklEPSJNYWluQ29udGVudCIgcnVuYXQ9InNlcnZlciI+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -961,28 +968,28 @@
         <text encoding="base64">e30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuU3FsTW9uaXRvci5EZWZhdWx0LlByb2R1Y3RTcGVjaWZpY3MiICU+CjwlQCBJbXBvcnQgTmFtZXNwYWNlPSJSZWRHYXRlLlNxbE1vbml0b3IuVUkuV2Vic2l0ZS5BdXRob3JpemF0aW9uIiAlPgo=</text>
+        <text encoding="base64">e30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">e30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">e30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IlJlZEdhdGUuU3FsTW9uaXRvci5EZWZhdWx0LlByb2R1Y3RTcGVjaWZpY3MiICU+CjwlQCBJbXBvcnQgTmFtZXNwYWNlPSJSZWRHYXRlLlNxbE1vbml0b3IuVUkuV2Vic2l0ZS5BdXRob3JpemF0aW9uIiAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImdyaWQiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -1034,10 +1041,10 @@
         <entry>actionlist symbol</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoSymbol</entry>
-        <entry>W</entry>
-        <entry>action Find</entry>
-        <entry>action SaveDocument</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
+        <entry>W</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
