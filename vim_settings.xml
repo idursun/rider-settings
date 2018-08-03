@@ -916,7 +916,7 @@
         <text encoding="base64">ICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action GotoSymbol</text>
       </register>
     </registers>
     <search>
@@ -968,10 +968,10 @@
         <entry>actionlist symbol</entry>
         <entry>action Find</entry>
         <entry>W</entry>
-        <entry>action GotoSymbol</entry>
         <entry>w</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SaveDocument</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoSymbol</entry>
       </history-cmd>
       <history-expr />
       <history-input />
