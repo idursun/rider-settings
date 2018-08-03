@@ -204,9 +204,6 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1533292185778">
-        <mark key="'" line="867" column="64" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1533199921686">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="27" column="16" />
@@ -489,6 +486,9 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="/Questions [dainterview@192.168.99.100]" timestamp="1533306790073">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureCustomMetrics/AlertCreationStep.ascx" timestamp="1533131676010">
         <mark key="[" line="0" column="158" />
         <mark key="]" line="0" column="157" />
@@ -586,9 +586,6 @@
         <mark key="^" line="74" column="14" />
         <mark key="." line="74" column="14" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" timestamp="1533292089648">
-        <mark key="'" line="58" column="61" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="9" column="11" />
@@ -661,6 +658,9 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
+      </file>
+      <file name="/dummy.sql" timestamp="1533306792729">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1528452236694">
         <mark key="'" line="0" column="0" />
