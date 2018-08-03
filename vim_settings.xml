@@ -63,6 +63,13 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Controllers/GlobalDashboardControllerTests.cs" timestamp="1531929423341">
         <mark key="'" line="131" column="23" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1533292466483">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="45" column="64" />
+        <mark key="^" line="45" column="64" />
+        <mark key="." line="45" column="64" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="8" />
@@ -203,6 +210,9 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1533292185778">
+        <mark key="'" line="867" column="64" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1533199921686">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="27" column="16" />
@@ -297,6 +307,7 @@
         <mark key="." line="25" column="84" />
         <mark key="^" line="25" column="84" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" timestamp="1533292408258" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
         <mark key="'" line="1" column="25" />
         <mark key="[" line="2" column="0" />
@@ -382,6 +393,7 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/AlertMetricsRepository.cs" timestamp="1533291956631" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" timestamp="1530009471011">
         <mark key="'" line="126" column="51" />
         <mark key="[" line="122" column="9" />
@@ -538,11 +550,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Website.csproj" timestamp="1533129718909">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskFilteredTable.jsx" timestamp="1531138452540">
         <mark key="'" line="21" column="25" />
       </file>
@@ -639,6 +646,7 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/services/InstalledVersionsService.js" timestamp="1531133580262">
         <mark key="'" line="7" column="66" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/IO/ResourceLoadStrategy.cs" timestamp="1533291396019" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Helpers/SpecHelper.js" timestamp="1528465353610">
         <mark key="[" line="4" column="61" />
         <mark key="]" line="4" column="61" />
@@ -656,6 +664,9 @@
         <mark key="]" line="74" column="14" />
         <mark key="^" line="74" column="14" />
         <mark key="." line="74" column="14" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" timestamp="1533292089648">
+        <mark key="'" line="58" column="61" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
         <mark key="'" line="9" column="28" />
@@ -743,7 +754,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533227564000">
+      <file name="/Dummy.txt" timestamp="1533292631367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -807,7 +818,7 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="59" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1529073082888">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1533292109872">
         <mark key="'" line="151" column="20" />
         <mark key="[" line="202" column="23" />
         <mark key="]" line="202" column="23" />
@@ -852,9 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/VersionsRowViewModalFactoryTests.cs" />
-      <jump line="12" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/VersionsRowViewModalFactoryTests.cs" />
-      <jump line="10" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="146" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="135" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
       <jump line="139" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" />
@@ -952,21 +960,22 @@
       <jump line="94" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/site.js" />
       <jump line="43" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ScrollableHeaders.js" />
       <jump line="48" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ScrollableHeaders.js" />
+      <jump line="58" column="61" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertsGroupDetails/Index.cshtml" />
+      <jump line="20" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" />
+      <jump line="867" column="64" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Default negative projection values to 0
-
-This is needed for estate summary and graph trendline to match</text>
+        <text>alertViewModel</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>alertViewModel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBHZXRzUHJvamVjdGlvblRvdGFsc0Fjcm9zc0FsbERpc2soKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGRpc2sxID0gQ3JlYXRlRGlza1dpdGhQcm9qZWN0aW9uKCJkaXNrMSIsCiAgICAgICAgICAgICAgICBuZXdbXSB7KHRpbWU6IG1fRGF0ZVRpbWVQcm92aWRlci5VdGNOb3csIHZhbHVlOiAxMEQpfSwKICAgICAgICAgICAgICAgIG5ld1tdIHsodGltZTogbV9EYXRlVGltZVByb3ZpZGVyLlV0Y05vdywgdmFsdWU6IDIwRCl9LAogICAgICAgICAgICAgICAgMTAwTCwKICAgICAgICAgICAgICAgICh0aW1lOiBtX0RhdGVUaW1lUHJvdmlkZXIuVXRjTm93LCB2YWx1ZTogMjBMKQogICAgICAgICAgICApOwogICAgICAgICAgICB2YXIgZGlzazIgPSBDcmVhdGVEaXNrV2l0aFByb2plY3Rpb24oImRpc2syIiwKICAgICAgICAgICAgICAgIG5ld1tdIHsodGltZTogbV9EYXRlVGltZVByb3ZpZGVyLlV0Y05vdywgdmFsdWU6IDMwRCl9LAogICAgICAgICAgICAgICAgbmV3W10geyh0aW1lOiBtX0RhdGVUaW1lUHJvdmlkZXIuVXRjTm93LCB2YWx1ZTogNDBEKX0sCiAgICAgICAgICAgICAgICAxMDBMLAogICAgICAgICAgICAgICAgKHRpbWU6IG1fRGF0ZVRpbWVQcm92aWRlci5VdGNOb3csIHZhbHVlOiAyMEwpCiAgICAgICAgICAgICk7CgogICAgICAgICAgICB2YXIgY2x1c3RlcnMgPSBDcmVhdGVDbHVzdGVyV2l0aERpc2tzKGRpc2sxLCBkaXNrMik7CgogICAgICAgICAgICB2YXIgcmVwb3NpdG9yeSA9IG5ldyBSZXBvc2l0b3J5QnVpbGRlcigpLkJ1aWxkKGNsdXN0ZXJzKTsKICAgICAgICAgICAgdmFyIGdyYXBoRGF0YSA9IHJlcG9zaXRvcnkuR2V0RGlza1VzYWdlR3JhcGhEYXRhKCk7CgogICAgICAgICAgICBBc3NlcnQuVGhhdChncmFwaERhdGEuVG90YWxQcm9qZWN0ZWRTaXplTm93LCBJcy5FcXVhbFRvKDQwKSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KGdyYXBoRGF0YS5Ub3RhbFByb2plY3RlZFNpemVJbk9uZVllYXIsIElzLkVxdWFsVG8oNjApKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyhhbGVydFZpZXdNb2RlbCk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>Default negative projection values to 0
@@ -1015,7 +1024,7 @@ This is needed for estate summary and graph trendline to match</text>
         <text encoding="base64">e30K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -1066,11 +1075,11 @@ This is needed for estate summary and graph trendline to match</text>
         <entry>source ~/.ideavimrc</entry>
         <entry>actionlist symbol</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoSymbol</entry>
         <entry>action Find</entry>
         <entry>W</entry>
-        <entry>action SaveDocument</entry>
         <entry>w</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
