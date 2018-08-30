@@ -107,6 +107,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="7" column="20" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/SyntaxHighlighter/shCore.js" timestamp="1535645149882">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
         <mark key="'" line="33" column="51" />
         <mark key="[" line="35" column="13" />
@@ -229,12 +235,11 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1535642610438">
-        <mark key="'" line="155" column="21" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1535643610959">
+        <mark key="'" line="154" column="21" />
         <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="60" />
-        <mark key="^" line="153" column="46" />
-        <mark key="." line="153" column="46" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/39570d3d-0755-4011-8985-dc1d011d750b/console.sql" timestamp="1533303971099">
         <mark key="[" line="0" column="0" />
@@ -328,12 +333,12 @@
         <mark key="^" line="11" column="59" />
         <mark key="." line="11" column="59" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1535642836661">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" timestamp="1535644340700">
         <mark key="'" line="44" column="36" />
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="31" />
-        <mark key="^" line="40" column="9" />
-        <mark key="." line="58" column="31" />
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="38" />
+        <mark key="^" line="78" column="38" />
+        <mark key="." line="78" column="38" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq182-Seq183.sql" timestamp="1530024933123">
         <mark key="'" line="1136" column="31" />
@@ -642,12 +647,12 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Base.Master" timestamp="1535642659367">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Base.Master" timestamp="1535644117509">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="125" column="40" />
-        <mark key="]" line="125" column="41" />
-        <mark key="^" line="125" column="48" />
-        <mark key="." line="125" column="41" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="65" />
+        <mark key="." line="125" column="2" />
+        <mark key="^" line="125" column="2" />
       </file>
       <file name="D:/repositories/dotnet/dainterview-net/Controllers/QuestionsController.cs" timestamp="1533305861163">
         <mark key="[" line="20" column="58" />
@@ -804,6 +809,12 @@
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" timestamp="1532680968514">
+        <mark key="'" line="214" column="18" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -1044,19 +1055,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ImJhYmVsLXBvbHlmaWxsIiwg</text>
+        <text>from 'xregexp'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImJhYmVsLXBvbHlmaWxsIiwg</text>
+        <text>from 'xregexp'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1N0YXJ0VGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iPCU6IFVybC5Db21waWxlZFNjcmlwdCgiU2xhdmVNb2RlIikgJT4iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgPHNjcmlwdCBzcmM9IjwlOiBVcmwuQ29tcGlsZWRTY3JpcHQoIlBvbHlmaWxscyIpICU+Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgIDwhW2VuZGlmXS0tPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1076,31 +1087,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1baWYgZXEgSUUgMTFdPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgPHNjcmlwdCBzcmM9IjwlOiBVcmwuQ29tcGlsZWRTY3JpcHQoIlBvbHlmaWxscyIpICU+Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgYnl0ZVtdIFBFTSAoc3RyaW5nIHR5cGUsIGJ5dGVbXSBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgc3RyaW5nIHBlbSA9IEVuY29kaW5nLkFTQ0lJLkdldFN0cmluZyAoZGF0YSk7CiAgICAgICAgICAgIHN0cmluZyBoZWFkZXIgPSBTdHJpbmcuRm9ybWF0ICgiLS0tLS1CRUdJTiB7MH0tLS0tLSIsIHR5cGUpOwogICAgICAgICAgICBzdHJpbmcgZm9vdGVyID0gU3RyaW5nLkZvcm1hdCAoIi0tLS0tRU5EIHswfS0tLS0tIiwgdHlwZSk7CiAgICAgICAgICAgIGludCBzdGFydCA9IHBlbS5JbmRleE9mIChoZWFkZXIpICsgaGVhZGVyLkxlbmd0aDsKICAgICAgICAgICAgaW50IGVuZCA9IHBlbS5JbmRleE9mIChmb290ZXIsIHN0YXJ0KTsKICAgICAgICAgICAgc3RyaW5nIGJhc2U2NCA9IHBlbS5TdWJzdHJpbmcgKHN0YXJ0LCAoZW5kIC0gc3RhcnQpKTsKICAgICAgICAgICAgcmV0dXJuIENvbnZlcnQuRnJvbUJhc2U2NFN0cmluZyAoYmFzZTY0KTsKICAgICAgICB9CgogICAgICAgIHN0YXRpYyBYNTA5Q2VydGlmaWNhdGUyIExvYWRDZXJ0aWZpY2F0ZUZpbGUgKHN0cmluZyBmaWxlbmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIFg1MDlDZXJ0aWZpY2F0ZTIgeDUwOSA9IG51bGw7CiAgICAgICAgICAgIHVzaW5nIChGaWxlU3RyZWFtIGZzID0gRmlsZS5PcGVuUmVhZCAoZmlsZW5hbWUpKSB7CiAgICAgICAgICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlIFtmcy5MZW5ndGhdOwogICAgICAgICAgICAgICAgZnMuUmVhZCAoZGF0YSwgMCwgZGF0YS5MZW5ndGgpOwogICAgICAgICAgICAgICAgaWYgKGRhdGEgWzBdICE9IDB4MzApIHsKICAgICAgICAgICAgICAgICAgICAvLyBtYXliZSBpdCdzIEFTQ0lJIFBFTSBiYXNlNjQgZW5jb2RlZCA/CiAgICAgICAgICAgICAgICAgICAgZGF0YSA9IFBFTSAoIlJTQSBQUklWQVRFIEtFWSIsIGRhdGEpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICB4NTA5ID0gbmV3IFg1MDlDZXJ0aWZpY2F0ZTIgKGRhdGEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB4NTA5OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJAVXJsLkNvbXBpbGVkU2NyaXB0KCJQb2x5ZmlsbHMiKSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vdmFyIGNlcnRpZmljYXRlID0gTG9hZENlcnRpZmljYXRlRmlsZSgiZDpcXHJlcG9zaXRvcmllc1xcanNcXG15LWZpcnN0LWFwcFxcZGFyZW1pbmRlci4yMDE4LTA4LTE3LnByaXZhdGUta2V5LnBlbSIpOwovLyAgICAgICAgICAgIHZhciByc2FDcnlwdG9TZXJ2aWNlUHJvdmlkZXIgPSBuZXcgUlNBQ3J5cHRvU2VydmljZVByb3ZpZGVyKCk7Ci8vICAgICAgICAgICAgcnNhQ3J5cHRvU2VydmljZVByb3ZpZGVyLkZyb21YbWxTdHJpbmcoQCJkOlxyZXBvc2l0b3JpZXNcanNcbXktZmlyc3QtYXBwXGRhcmVtaW5kZXIuMjAxOC0wOC0xNy5wcml2YXRlLWtleS54bWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJzYSA9IChSU0FDcnlwdG9TZXJ2aWNlUHJvdmlkZXIpIGNlcnRpZmljYXRlLlB1YmxpY0tleS5LZXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJTQVBhcmFtZXRlcnMoKQogICAgICAgICAgICB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgYnl0ZVtdIFBFTSAoc3RyaW5nIHR5cGUsIGJ5dGVbXSBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgc3RyaW5nIHBlbSA9IEVuY29kaW5nLkFTQ0lJLkdldFN0cmluZyAoZGF0YSk7CiAgICAgICAgICAgIHN0cmluZyBoZWFkZXIgPSBTdHJpbmcuRm9ybWF0ICgiLS0tLS1CRUdJTiB7MH0tLS0tLSIsIHR5cGUpOwogICAgICAgICAgICBzdHJpbmcgZm9vdGVyID0gU3RyaW5nLkZvcm1hdCAoIi0tLS0tRU5EIHswfS0tLS0tIiwgdHlwZSk7CiAgICAgICAgICAgIGludCBzdGFydCA9IHBlbS5JbmRleE9mIChoZWFkZXIpICsgaGVhZGVyLkxlbmd0aDsKICAgICAgICAgICAgaW50IGVuZCA9IHBlbS5JbmRleE9mIChmb290ZXIsIHN0YXJ0KTsKICAgICAgICAgICAgc3RyaW5nIGJhc2U2NCA9IHBlbS5TdWJzdHJpbmcgKHN0YXJ0LCAoZW5kIC0gc3RhcnQpKTsKICAgICAgICAgICAgcmV0dXJuIENvbnZlcnQuRnJvbUJhc2U2NFN0cmluZyAoYmFzZTY0KTsKICAgICAgICB9CgogICAgICAgIHN0YXRpYyBYNTA5Q2VydGlmaWNhdGUyIExvYWRDZXJ0aWZpY2F0ZUZpbGUgKHN0cmluZyBmaWxlbmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIFg1MDlDZXJ0aWZpY2F0ZTIgeDUwOSA9IG51bGw7CiAgICAgICAgICAgIHVzaW5nIChGaWxlU3RyZWFtIGZzID0gRmlsZS5PcGVuUmVhZCAoZmlsZW5hbWUpKSB7CiAgICAgICAgICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlIFtmcy5MZW5ndGhdOwogICAgICAgICAgICAgICAgZnMuUmVhZCAoZGF0YSwgMCwgZGF0YS5MZW5ndGgpOwogICAgICAgICAgICAgICAgaWYgKGRhdGEgWzBdICE9IDB4MzApIHsKICAgICAgICAgICAgICAgICAgICAvLyBtYXliZSBpdCdzIEFTQ0lJIFBFTSBiYXNlNjQgZW5jb2RlZCA/CiAgICAgICAgICAgICAgICAgICAgZGF0YSA9IFBFTSAoIlJTQSBQUklWQVRFIEtFWSIsIGRhdGEpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICB4NTA5ID0gbmV3IFg1MDlDZXJ0aWZpY2F0ZTIgKGRhdGEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB4NTA5OwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEQgPSBwYXJhbWV0ZXIuUUludgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vdmFyIGNlcnRpZmljYXRlID0gTG9hZENlcnRpZmljYXRlRmlsZSgiZDpcXHJlcG9zaXRvcmllc1xcanNcXG15LWZpcnN0LWFwcFxcZGFyZW1pbmRlci4yMDE4LTA4LTE3LnByaXZhdGUta2V5LnBlbSIpOwovLyAgICAgICAgICAgIHZhciByc2FDcnlwdG9TZXJ2aWNlUHJvdmlkZXIgPSBuZXcgUlNBQ3J5cHRvU2VydmljZVByb3ZpZGVyKCk7Ci8vICAgICAgICAgICAgcnNhQ3J5cHRvU2VydmljZVByb3ZpZGVyLkZyb21YbWxTdHJpbmcoQCJkOlxyZXBvc2l0b3JpZXNcanNcbXktZmlyc3QtYXBwXGRhcmVtaW5kZXIuMjAxOC0wOC0xNy5wcml2YXRlLWtleS54bWwiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1145,17 +1156,17 @@
         <entry>action File</entry>
         <entry>actionlist File</entry>
         <entry>action GoToFile</entry>
-        <entry>action GotoFile</entry>
         <entry>actionlist Symbol</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoSymbol</entry>
         <entry>actionlist symbol</entry>
         <entry>action SaveDocument</entry>
         <entry>jumplist</entry>
-        <entry>action RecentFiles</entry>
-        <entry>W</entry>
-        <entry>w</entry>
         <entry>action Find</entry>
+        <entry>W</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
