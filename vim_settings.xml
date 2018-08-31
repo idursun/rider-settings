@@ -60,11 +60,10 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/GithubApiActor.cs" timestamp="1535716555131">
-        <mark key="[" line="9" column="70" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/GithubApiActor.cs" timestamp="1535720046522">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullRpcSessionFactory.cs" timestamp="1531133127303">
         <mark key="[" line="202" column="148" />
@@ -158,18 +157,23 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="24" column="136" />
       </file>
+      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/Messages/WatchInstallationMessage.cs" timestamp="1535720074892">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Alerts/Controllers/AlertInboxPagingApiControllerTests/MoveNewest.cs" timestamp="1532693182082">
         <mark key="[" line="25" column="85" />
         <mark key="]" line="25" column="84" />
         <mark key="." line="25" column="84" />
         <mark key="^" line="25" column="84" />
       </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" timestamp="1535716558623">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="10" column="90" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" timestamp="1535720100241">
+        <mark key="'" line="26" column="81" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="27" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/common.js" timestamp="1529484337043">
         <mark key="'" line="0" column="12" />
@@ -203,10 +207,10 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Controllers/GithubWebhookController.cs" timestamp="1535715759030">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Controllers/GithubWebhookController.cs" timestamp="1535720031652">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/appsettings.Development.json" timestamp="1535711752156">
         <mark key="'" line="10" column="90" />
@@ -267,7 +271,6 @@
         <mark key="^" line="58" column="53" />
         <mark key="." line="58" column="53" />
       </file>
-      <file name="/webpack.config.js" timestamp="1535639350658" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" timestamp="1532513128340">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="35" column="45" />
@@ -594,7 +597,6 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tools/SQLMonitorMonitorDashboard/wwwroot/js/ChartFactory.js" timestamp="1535618595981" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.prod.js" timestamp="1529075967529">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="1" column="33" />
@@ -602,11 +604,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" timestamp="1535715995156">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" timestamp="1535720113328">
+        <mark key="'" line="17" column="85" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/OutOfDateMessage/OutOfDateMessage.jsx" timestamp="1531731193448">
         <mark key="[" line="2" column="34" />
@@ -855,10 +858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
-      <jump line="8" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/GenericDiskDataPresenter.cs" />
-      <jump line="12" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/LogicalDiskDataPresenter.cs" />
-      <jump line="34" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" />
       <jump line="62" column="73" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDiskVolumeLabel/LogicalDiskVolumeLabelDataPresenter.cs" />
       <jump line="46" column="15" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="54" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" />
@@ -955,22 +954,26 @@
       <jump line="12" column="35" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" />
       <jump line="11" column="86" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" />
       <jump line="32" column="46" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Startup.cs" />
+      <jump line="28" column="18" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
+      <jump line="16" column="85" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
+      <jump line="19" column="34" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
+      <jump line="26" column="81" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLkFwcGxpY2F0aW9uU2VydmljZXMuR2V0U2VydmljZTxJQWN0b3JQcm92aWRlcj4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnaW5nQWRhcHRlciBsb2dnZXIgPSBDb250ZXh0LkdldExvZ2dlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBnaXRIdWJDbGllbnQgPSBuZXcgR2l0SHViQ2xpZW50KG5ldyBDb25uZWN0aW9uKG5ldyBQcm9kdWN0SGVhZGVyVmFsdWUoImRhcmVtaW5kZXIiKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDcmVkZW50aWFscyA9IG5ldyBDcmVkZW50aWFscyhhY2Nlc3NUb2tlbi5Ub2tlbiwgQXV0aGVudGljYXRpb25UeXBlLkJlYXJlcikKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIHZhciByZXBvc2l0b3JpZXMgPSBhd2FpdCBnaXRIdWJDbGllbnQuUmVwb3NpdG9yeS5HZXRBbGxGb3JVc2VyKGluc3RhbGxhdGlvbi5BY2NvdW50LkxvZ2luKTsKICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciByZXBvc2l0b3J5IGluIHJlcG9zaXRvcmllcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgYnJhbmNoZXMgPSBhd2FpdCBnaXRIdWJDbGllbnQuUmVwb3NpdG9yeS5CcmFuY2guR2V0QWxsKHJlcG9zaXRvcnkuSWQpOwogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBicmFuY2ggaW4gYnJhbmNoZXMpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIntyZXBvc2l0b3J5LkZ1bGxOYW1lfSAtIHticmFuY2guTmFtZX0iKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLkFwcGxpY2F0aW9uU2VydmljZXMuR2V0U2VydmljZTxJQWN0b3JQcm92aWRlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbGxhdGlvbnMuRmlyc3QoKS5BY2NvdW50Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -990,28 +993,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuZ2V0cwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdpdGh1YkFwcFRva2VuQnVpbGRlciA9IHNlcnZpY2VQcm92aWRlci5HZXRTZXJ2aWNlPElHaXRodWJBcHBUb2tlbkJ1aWxkZXI+KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgRGFKYW5pdG9yLlNlcnZpY2VzOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQWN0b3JTZWxlY3Rpb24uCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5QcmVTdGFydCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLkFwcGxpY2F0aW9uU2VydmljZXMuR2V0U2VydmljZTxJQWN0b3JQcm92aWRlcj4oKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuZ2V0cwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElBY3RvclJlZiBnaXRodWJBcGlBY3RvcjsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1063,12 +1066,12 @@
         <entry>actionlist symbol</entry>
         <entry>action SaveDocument</entry>
         <entry>jumplist</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5zL1wvXFwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry>W</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
