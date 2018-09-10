@@ -41,7 +41,8 @@
         <mark key="." line="287" column="0" />
         <mark key="^" line="170" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1531922415808">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1536583502926">
+        <mark key="'" line="34" column="35" />
         <mark key="[" line="108" column="102" />
         <mark key="]" line="108" column="115" />
         <mark key="." line="108" column="115" />
@@ -471,6 +472,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1532523438606">
         <mark key="'" line="376" column="20" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" timestamp="1536583175444">
+        <mark key="'" line="18" column="68" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" timestamp="1529053552941">
         <mark key="'" line="28" column="14" />
         <mark key="[" line="52" column="25" />
@@ -761,6 +765,9 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" timestamp="1536583139495">
+        <mark key="'" line="51" column="149" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/DomainServices/ReportsRepository.cs" timestamp="1530176392205">
         <mark key="[" line="74" column="13" />
         <mark key="]" line="74" column="14" />
@@ -974,9 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenOnAnOlderPageSpec.js" />
-      <jump line="396" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="429" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="376" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="132" column="51" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
       <jump line="131" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenAutoRefreshedSpec.js" />
@@ -1074,6 +1078,9 @@
       <jump line="26" column="81" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
       <jump line="17" column="84" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
       <jump line="35" column="93" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/GithubApiActor.cs" />
+      <jump line="51" column="149" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Database/DatabaseFileAlerterBase.cs" />
+      <jump line="18" column="68" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" />
+      <jump line="34" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
