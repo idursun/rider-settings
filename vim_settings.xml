@@ -922,12 +922,6 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" timestamp="1536669471897">
-        <mark key="[" line="24" column="98" />
-        <mark key="]" line="24" column="99" />
-        <mark key="." line="24" column="99" />
-        <mark key="^" line="26" column="39" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" timestamp="1528372295115">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="19" column="7" />
@@ -958,7 +952,6 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="59" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" timestamp="1536656550000" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1533292109872">
         <mark key="'" line="151" column="20" />
         <mark key="[" line="202" column="23" />
@@ -1004,7 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
       <jump line="196" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="13" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="37" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
@@ -1104,10 +1096,11 @@
       <jump line="16" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="120" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="204" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGroupKeyBuilder.cs" />
+      <jump line="24" column="57" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SqlServer.Name,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLAo=</text>
       </register>
       <register name="-" type="4">
         <text>SqlServer.Name,</text>
@@ -1119,7 +1112,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuTmFtZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1139,28 +1132,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuTmFtZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLlNjaGVkdWxlLk5leHRSdW5EYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLlNjaGVkdWxlLk5leHRSdW5EYXRlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbGxhdGlvbi5JZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdpdEh1YkFwcCA9IGF3YWl0IF9naXRodWIuR2l0SHViQXBwc0NsaWVudC5HZXRDdXJyZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbGxhdGlvbi5JZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2R1Y3RIZWFkZXJWYWx1ZSA9IG5ldyBQcm9kdWN0SGVhZGVyVmFsdWUoImRhcmVtaW5kZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdpdEh1YkFwcCA9IGF3YWl0IF9naXRodWIuR2l0SHViQXBwc0NsaWVudC5HZXRDdXJyZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
