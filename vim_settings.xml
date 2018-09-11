@@ -823,7 +823,7 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" timestamp="1536668755866">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" timestamp="1536673969820">
         <mark key="'" line="120" column="37" />
         <mark key="[" line="120" column="52" />
         <mark key="]" line="120" column="77" />
@@ -888,7 +888,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535723509807">
+      <file name="/Dummy.txt" timestamp="1536674178229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -921,6 +921,9 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" timestamp="1536673975329">
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" timestamp="1528372295115">
         <mark key="'" line="0" column="12" />
@@ -997,7 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="13" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="37" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="145" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
@@ -1094,25 +1096,26 @@
       <jump line="13" column="69" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="16" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
-      <jump line="120" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="204" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGroupKeyBuilder.cs" />
       <jump line="24" column="57" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" />
+      <jump line="120" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
+      <jump line="13" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLAo=</text>
+      <register name="&quot;" type="4">
+        <text>dependenciesDataPresenter</text>
       </register>
       <register name="-" type="4">
-        <text>SqlServer.Name,</text>
+        <text>dependenciesDataPresenter</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLkhpc3RvcnkuUnVuRHVyYXRpb24sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLkhpc3RvcnkuUnVuRHVyYXRpb24sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1132,28 +1135,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5OYW1lLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLlNjaGVkdWxlLk5leHRSdW5EYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuTmFtZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLlNjaGVkdWxlLk5leHRSdW5EYXRlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbGxhdGlvbi5JZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdpdEh1YkFwcCA9IGF3YWl0IF9naXRodWIuR2l0SHViQXBwc0NsaWVudC5HZXRDdXJyZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
