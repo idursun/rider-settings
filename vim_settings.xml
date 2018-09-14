@@ -220,6 +220,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" timestamp="1536921853888">
+        <mark key="[" line="4" column="72" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Alerting/AlertRepositoryIntegrationTests/Filtering.cs" timestamp="1530028182161">
         <mark key="'" line="12" column="36" />
       </file>
@@ -1094,10 +1100,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dependenciesDataPresenter</text>
+        <text>Creators</text>
       </register>
       <register name="-" type="4">
-        <text>dependenciesDataPresenter</text>
+        <text>Creators</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
