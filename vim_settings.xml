@@ -620,8 +620,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" timestamp="1536915242431">
-        <mark key="'" line="14" column="35" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" timestamp="1536916008256">
+        <mark key="'" line="24" column="24" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskFilteredTable.jsx" timestamp="1531138452540">
         <mark key="'" line="21" column="25" />
@@ -991,7 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="102" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="212" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="160" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
@@ -1091,6 +1090,7 @@
       <jump line="141" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="6" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" />
       <jump line="14" column="35" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" />
+      <jump line="24" column="24" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
