@@ -249,12 +249,6 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_Base.cshtml" timestamp="1535643610959">
-        <mark key="'" line="154" column="21" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="4" column="4" />
@@ -462,6 +456,9 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupHistoryApiController.cs" timestamp="1536914932929">
+        <mark key="'" line="14" column="37" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" timestamp="1530009471011">
         <mark key="'" line="126" column="51" />
         <mark key="[" line="122" column="9" />
@@ -550,12 +547,6 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/WhatsNew/entry.jsx" timestamp="1535706891341">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/package.json" timestamp="1532608920610">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="23" column="4" />
@@ -628,6 +619,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" timestamp="1536915242431">
+        <mark key="'" line="14" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskFilteredTable.jsx" timestamp="1531138452540">
         <mark key="'" line="21" column="25" />
@@ -845,18 +839,15 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/FilteredVersionsTable.jsx" timestamp="1531138437279">
         <mark key="'" line="33" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" timestamp="1532680968514">
-        <mark key="'" line="214" column="18" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/OutOfDateMessage.jsx" timestamp="1531402477395">
         <mark key="'" line="16" column="26" />
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1536915217259">
+        <mark key="'" line="141" column="31" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -1000,12 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="1" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="37" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="145" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="215" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="214" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
-      <jump line="174" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="19" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="102" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
       <jump line="212" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.js" />
@@ -1100,6 +1085,12 @@
       <jump line="24" column="57" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" />
       <jump line="120" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" />
       <jump line="13" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsController.cs" />
+      <jump line="14" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupHistoryApiController.cs" />
+      <jump line="106" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="142" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="141" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="6" column="36" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" />
+      <jump line="14" column="35" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/BackupInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
