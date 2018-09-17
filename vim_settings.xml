@@ -317,12 +317,6 @@
         <mark key="^" line="4" column="80" />
         <mark key="." line="4" column="80" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" timestamp="1537189579666">
-        <mark key="'" line="26" column="28" />
-        <mark key="]" line="90" column="25" />
-        <mark key="^" line="90" column="25" />
-        <mark key="." line="90" column="25" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Trace/TraceSampler.cs" timestamp="1531234833228">
         <mark key="'" line="15" column="37" />
       </file>
