@@ -42,11 +42,6 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" timestamp="1536922041747">
-        <mark key="'" line="2" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="27" column="10" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Communicators/FileSamplesLoaderPerformanceTest.cs" timestamp="1530028373526">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="23" />
@@ -374,12 +369,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537276379227">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537279703056">
         <mark key="'" line="66" column="12" />
-        <mark key="[" line="40" column="21" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="31" />
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1532533835121">
         <mark key="'" line="48" column="0" />
@@ -515,17 +510,6 @@
         <mark key="]" line="357" column="80" />
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1537276430787">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/API.js" timestamp="1537197186896">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="6" column="67" />
-        <mark key="^" line="6" column="67" />
-        <mark key="." line="6" column="67" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/DatabaseSampler.cs" timestamp="1531393070127">
         <mark key="'" line="38" column="27" />
@@ -707,12 +691,6 @@
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Page.js" timestamp="1537198180902">
-        <mark key="[" line="40" column="53" />
-        <mark key="]" line="40" column="56" />
-        <mark key="^" line="40" column="56" />
-        <mark key="." line="40" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/AE/ToObservable.cs" timestamp="1529933069219">
         <mark key="'" line="10" column="90" />
@@ -949,11 +927,7 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Backups.js" timestamp="1537197473134">
-        <mark key="]" line="10" column="14" />
-        <mark key="^" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Backups.js" timestamp="1537278748709" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/OutOfDateMessage.jsx" timestamp="1531402477395">
         <mark key="'" line="16" column="26" />
         <mark key="[" line="14" column="32" />
@@ -991,6 +965,13 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertInboxApiController.cs" timestamp="1531388621097">
         <mark key="'" line="20" column="25" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Table.js" timestamp="1537278733475">
+        <mark key="'" line="2" column="44" />
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Versions/Components/OutOfDateMessageSpec.jsx" timestamp="1531732858160">
         <mark key="[" line="6" column="101" />
@@ -1044,7 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageGraphDataTests.cs" />
       <jump line="102" column="42" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="153" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="8" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/IO/ResourceLoadStrategy.cs" />
@@ -1144,22 +1124,23 @@
       <jump line="220" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="74" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="185" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/BasicAccountController.cs" />
+      <jump line="3" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Table.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sortedBackups</text>
+        <text>We should group, sort and then slice.</text>
       </register>
       <register name="-" type="4">
-        <text>sortedBackups</text>
+        <text>We should group, sort and then slice.</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IC4uLkRFRkFVTFRfQkFDS1VQLCBEYXRhYmFzZTogImtlZXAiIH0sCg==</text>
+        <text encoding="base64">ICBnZXRTb3J0ZWRCYWNrdXBzKGJhY2t1cHMsIHNob3dHcm91cHMpIHsKICAgIGxldCBzb3J0ZWRCYWNrdXBzID0gYmFja3VwczsKICAgIGxldCBjb21wYXJlciA9IHNvcnRDb21wYXJlci5iaW5kKHRoaXMsIHRoaXMuc3RhdGUuc29ydCk7CiAgICBpZiAoc2hvd0dyb3VwcykgewogICAgICByZXR1cm4gc29ydGVkQmFja3Vwcy5zb3J0KGZ1bmN0aW9uKHgsIHkpIHsKICAgICAgICBsZXQgZ3JvdXBTb3J0ID0gKCIiICsgeC5Hcm91cCkubG9jYWxlQ29tcGFyZSh5Lkdyb3VwKTsKICAgICAgICBpZiAoZ3JvdXBTb3J0ID09PSAwKSB7CiAgICAgICAgICByZXR1cm4gY29tcGFyZXIoeCwgeSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBncm91cFNvcnQ7CiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIGJhY2t1cHMuc29ydChzb3J0Q29tcGFyZXIuYmluZCh0aGlzLCB0aGlzLnN0YXRlLnNvcnQpKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ3JvdXBlZEJhY2t1cHMgPSBfLmdyb3VwQnkoYmFja3Vwc1RvUmVuZGVyKQo=</text>
+        <text encoding="base64">ICAgIGxldCBjb2x1bW5Db21wYXJlciA9IDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1179,30 +1160,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBzb3J0ZWRCYWNrdXBzID0gdGhpcy5wcm9wcy5iYWNrdXBzLnNvcnQoCiAgICAvLyAgIHNvcnRDb21wYXJlci5iaW5kKHRoaXMsIHRoaXMuc3RhdGUuc29ydCkKICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuaXRlbUNvdW50KTsK</text>
+        <text encoding="base64">ICAgIGlmIChzaG93R3JvdXBzKSB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnNob3dHcm91cHMpIHsKICAgICAgICBiYWNrdXBzID0gYmFja3Vwcy4KICAgIH0K</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>else {
-        
+      sortedBackups = backups.sort(comparer);
     }</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBHcm91cDogImdyb3VwIgo=</text>
+        <text encoding="base64">ICAgIGxldCBzb3J0ZWRCYWNrdXBzID0gW107Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBERUZBVUxUX0JBQ0tVUCwK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYXJlciA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoIkFjdGlvbiBjcmVhdG9ycyIsIGZ1bmN0aW9uKCkgewogIGl0KCJzaG91bGQgY3JlYXRlIGFuIGFjdGlvbiB0byB0b2dnbGUgZ3JvdXBzIiwgZnVuY3Rpb24oKSB7CiAgICBjb25zdCBleHBlY3RlZEFjdGlvbiA9IHsKICAgICAgdHlwZTogR1JPVVBfVE9HR0xFLAogICAgICBwYXlsb2FkOiBudWxsCiAgICB9OwogICAgZXhwZWN0KGFjdGlvbkNyZWF0b3JzLnRvZ2dsZUdyb3VwcyhudWxsKSkudG9FcXVhbChleHBlY3RlZEFjdGlvbik7CiAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgc29ydGVkQmFja3VwczogdGhpcy5nZXRTb3J0ZWRCYWNrdXBzKHByb3BzLmJhY2t1cHMsIHByb3BzLnNob3dHcm91cHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBnZXRTb3J0ZWRCYWNrdXBzKGJhY2t1cHMsIHNob3dHcm91cHMpIHsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
@@ -1257,9 +1238,9 @@
         <entry>action GotoFile</entry>
         <entry>action Find</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoSymbol</entry>
+        <entry>w</entry>
         <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
