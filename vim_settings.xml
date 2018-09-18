@@ -374,8 +374,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537274411131">
-        <mark key="'" line="72" column="12" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537276379227">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1532533835121">
         <mark key="'" line="48" column="0" />
@@ -512,7 +516,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537200016355">
+      <file name="/Dummy.txt" timestamp="1537276430787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1143,10 +1147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eCA9PiB4Lkdyb3Vw</text>
+        <text>sortedBackups</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eCA9PiB4Lkdyb3Vw</text>
+        <text>sortedBackups</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1201,7 +1205,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoSymbol</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -1252,11 +1256,11 @@
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry>action GotoFile</entry>
         <entry>action Find</entry>
-        <entry>action SaveDocument</entry>
         <entry>W</entry>
         <entry>w</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoSymbol</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
