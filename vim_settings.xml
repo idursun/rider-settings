@@ -729,6 +729,9 @@
         <mark key="^" line="33" column="50" />
         <mark key="." line="33" column="50" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" timestamp="1537262033724">
+        <mark key="'" line="191" column="22" />
+      </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" timestamp="1535723466416">
         <mark key="'" line="15" column="84" />
       </file>
@@ -1052,7 +1055,6 @@
       <file name="D:/workspace/sqlmonitor/Source/.idea/httpRequests/http-requests-log.http" timestamp="1537197992706" />
     </filemarks>
     <jumps>
-      <jump line="97" column="16" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" />
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigurePurging/Index.cshtml" />
       <jump line="80" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" />
       <jump line="50" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" />
@@ -1152,6 +1154,7 @@
       <jump line="36" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Disks.js" />
       <jump line="93" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="66" column="22" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
+      <jump line="191" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1213,7 +1216,7 @@
         <text encoding="base64">ICAgIGxldCBzb3J0ID0gdGhpcy5zdGF0ZS5zb3J0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1266,9 +1269,9 @@
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry>W</entry>
         <entry>action GotoFile</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
         <entry>action SaveDocument</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
