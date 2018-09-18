@@ -374,12 +374,11 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537200690588">
-        <mark key="'" line="199" column="26" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="47" column="6" />
-        <mark key="." line="47" column="6" />
-        <mark key="^" line="48" column="27" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537260714475">
+        <mark key="'" line="195" column="26" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1532533835121">
         <mark key="'" line="48" column="0" />
@@ -1155,13 +1154,11 @@
       <jump line="66" column="22" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else {
-        
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuaXRlbUNvdW50KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>this.props</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1169,10 +1166,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7IC4uLkRFRkFVTFRfQkFDS1VQLCBEYXRhYmFzZTogImtlZXAiIH0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-        
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuaXRlbUNvdW50KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1192,30 +1187,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBHcm91cDogImdyb3VwIgo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnNob3dHcm91cHMpIHsKICAgICAgICBiYWNrdXBzID0gYmFja3Vwcy4KICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBERUZBVUxUX0JBQ0tVUCwK</text>
+      <register name="3" type="4">
+        <text>else {
+        
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoIkFjdGlvbiBjcmVhdG9ycyIsIGZ1bmN0aW9uKCkgewogIGl0KCJzaG91bGQgY3JlYXRlIGFuIGFjdGlvbiB0byB0b2dnbGUgZ3JvdXBzIiwgZnVuY3Rpb24oKSB7CiAgICBjb25zdCBleHBlY3RlZEFjdGlvbiA9IHsKICAgICAgdHlwZTogR1JPVVBfVE9HR0xFLAogICAgICBwYXlsb2FkOiBudWxsCiAgICB9OwogICAgZXhwZWN0KGFjdGlvbkNyZWF0b3JzLnRvZ2dsZUdyb3VwcyhudWxsKSkudG9FcXVhbChleHBlY3RlZEFjdGlvbik7CiAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBHcm91cDogImdyb3VwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBERUZBVUxUX0JBQ0tVUCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoIkFjdGlvbiBjcmVhdG9ycyIsIGZ1bmN0aW9uKCkgewogIGl0KCJzaG91bGQgY3JlYXRlIHJlcXVlc3QgZGF0YSBhY3Rpb24iLCBmdW5jdGlvbigpIHsKICAgIGNvbnN0IGV4cGVjdGVkQWN0aW9uID0gewogICAgICB0eXBlOiBCQUNLVVBTX1JFUVVFU1QKICAgIH07CiAgICBleHBlY3QoYWN0aW9uQ3JlYXRvcnMucmVxdWVzdERhdGEoKSkudG9FcXVhbChleHBlY3RlZEFjdGlvbik7CiAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">ZGVzY3JpYmUoIkFjdGlvbiBjcmVhdG9ycyIsIGZ1bmN0aW9uKCkgewogIGl0KCJzaG91bGQgY3JlYXRlIGFuIGFjdGlvbiB0byB0b2dnbGUgZ3JvdXBzIiwgZnVuY3Rpb24oKSB7CiAgICBjb25zdCBleHBlY3RlZEFjdGlvbiA9IHsKICAgICAgdHlwZTogR1JPVVBfVE9HR0xFLAogICAgICBwYXlsb2FkOiBudWxsCiAgICB9OwogICAgZXhwZWN0KGFjdGlvbkNyZWF0b3JzLnRvZ2dsZUdyb3VwcyhudWxsKSkudG9FcXVhbChleHBlY3RlZEFjdGlvbik7CiAgfSk7Cn0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBzb3J0ID0gdGhpcy5zdGF0ZS5zb3J0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>backupsToRender.sort(
-            sortComparer.bind(this, this.state.sort)
-          )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVzY3JpYmUoIkFjdGlvbiBjcmVhdG9ycyIsIGZ1bmN0aW9uKCkgewogIGl0KCJzaG91bGQgY3JlYXRlIHJlcXVlc3QgZGF0YSBhY3Rpb24iLCBmdW5jdGlvbigpIHsKICAgIGNvbnN0IGV4cGVjdGVkQWN0aW9uID0gewogICAgICB0eXBlOiBCQUNLVVBTX1JFUVVFU1QKICAgIH07CiAgICBleHBlY3QoYWN0aW9uQ3JlYXRvcnMucmVxdWVzdERhdGEoKSkudG9FcXVhbChleHBlY3RlZEFjdGlvbik7CiAgfSk7Cn0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsdXN0ZXJJbmZvcyA9IG1fQmFja3VwSGlzdG9yeVJlcG9zaXRvcnkuR2V0TGF0ZXN0QnlEYXRhYmFzZSgpOwogICAgICAgICAgICByZXR1cm4gRmxhdHRlbkhpZXJhcmNoeShjbHVzdGVySW5mb3MpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBzb3J0ID0gdGhpcy5zdGF0ZS5zb3J0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
