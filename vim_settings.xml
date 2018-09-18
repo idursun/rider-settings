@@ -374,11 +374,8 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537260714475">
-        <mark key="'" line="195" column="26" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537271295076">
+        <mark key="'" line="193" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1532533835121">
         <mark key="'" line="48" column="0" />
@@ -722,13 +719,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" timestamp="1537197546999">
-        <mark key="'" line="106" column="60" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="50" />
-        <mark key="^" line="33" column="50" />
-        <mark key="." line="33" column="50" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" timestamp="1537262033724">
         <mark key="'" line="191" column="22" />
       </file>
@@ -788,13 +778,6 @@
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupHistoryApiController.cs" timestamp="1537197699194">
-        <mark key="'" line="16" column="37" />
-        <mark key="[" line="37" column="68" />
-        <mark key="]" line="37" column="68" />
-        <mark key="." line="37" column="68" />
-        <mark key="^" line="35" column="31" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Sql2012DatabaseSampler.cs" timestamp="1531393214057">
         <mark key="'" line="50" column="41" />
@@ -885,7 +868,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Table/Table.jsx" timestamp="1537198402042" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Base.Master" timestamp="1535644117509">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="125" column="0" />
@@ -1052,7 +1034,6 @@
         <mark key="." line="72" column="46" />
         <mark key="^" line="72" column="46" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/.idea/httpRequests/http-requests-log.http" timestamp="1537197992706" />
     </filemarks>
     <jumps>
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigurePurging/Index.cshtml" />
@@ -1216,7 +1197,7 @@
         <text encoding="base64">ICAgIGxldCBzb3J0ID0gdGhpcy5zdGF0ZS5zb3J0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -1270,8 +1251,8 @@
         <entry>W</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
-        <entry>action SaveDocument</entry>
         <entry>action Find</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
