@@ -374,12 +374,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537361143067">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" timestamp="1537362816747">
         <mark key="'" line="17" column="36" />
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="64" />
-        <mark key="." line="323" column="0" />
-        <mark key="^" line="48" column="7" />
+        <mark key="[" line="306" column="32" />
+        <mark key="]" line="306" column="33" />
+        <mark key="." line="306" column="33" />
+        <mark key="^" line="306" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedSpec.js" timestamp="1532533835121">
         <mark key="'" line="48" column="0" />
@@ -522,7 +522,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537361247946">
+      <file name="/Dummy.txt" timestamp="1537362820158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
