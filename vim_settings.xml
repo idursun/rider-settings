@@ -620,6 +620,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="7" column="20" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537369329319">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
         <mark key="'" line="33" column="51" />
         <mark key="[" line="35" column="13" />
@@ -639,6 +645,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1537369349008">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
         <mark key="'" line="46" column="38" />
@@ -1054,10 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="22" filename="D:/repositories/dotnet/dainterview-net/ClientApp/src/containers/Questions.js" />
-      <jump line="1" column="0" filename="D:/repositories/dotnet/dainterview-net/ClientApp/src/store/Questions.js" />
-      <jump line="44" column="42" filename="D:/repositories/dotnet/ConsoleApp2/ConsoleApp2/Program.cs" />
-      <jump line="21" column="49" filename="D:/repositories/dotnet/ConsoleApp2/ConsoleApp2/Program.cs" />
       <jump line="24" column="8" filename="D:/repositories/dotnet/ConsoleApp2/ConsoleApp2/Program.cs" />
       <jump line="26" column="8" filename="D:/repositories/dotnet/ConsoleApp2/ConsoleApp2/Program.cs" />
       <jump line="13" column="4" filename="D:/repositories/dotnet/ConsoleApp2/ConsoleApp2/Program.cs" />
@@ -1154,22 +1159,26 @@
       <jump line="184" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="169" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="17" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
+      <jump line="33" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="130" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="177" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="31" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0icmVjb3ZlcnktbW9kZSI+e2JhY2t1cC5SZWNvdmVyeU1vZGV9PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZS5HZXRLZXlQcm9wZXJ0eVZhbHVlKE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLk5hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Add load repositories messags and receiver</text>
+        <text>.RootWithEmptyKey</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9Iml0ZW0iPkhvbWU8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcnVuRHVyYXRpb25zID0gaW5zdGFuY2UuR2V0VmFsdWVTdHJlYW0oTmFtZXMuUm9vdC5DbHVzdGVyLlNxbFNlcnZlci5BZ2VudC5Kb2IuSGlzdG9yeS5SdW5EdXJhdGlvbi5Qcm9wZXJ0eU5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0icmVjb3ZlcnktbW9kZSI+e2JhY2t1cC5SZWNvdmVyeU1vZGV9PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZS5HZXRLZXlQcm9wZXJ0eVZhbHVlKE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLk5hbWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1189,31 +1198,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRoIGNvbFNwYW49ezN9IGNsYXNzTmFtZT0iYmFja3VwLXR5cGUgY2VudGVyZWQtaGVhZGVyIj4KICAgICAgICAgICAgICAgICAgICBMb2cKICAgICAgICAgICAgICAgICAgPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8Q2x1c3RlckpvYkluZm8+IEdldEFjdGl2ZUpvYnMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0iZHVyYXRpb24iPntiYWNrdXAuTG9nICYmIGJhY2t1cC5Mb2cuVG90YWxTZWNvbmRzfTwvdGQ+CiAgICAgIDx0ZCBjbGFzc05hbWU9ImJhY2t1cC1kYXRhIj4KICAgICAgICB7YmFja3VwLkxvZyAmJiBGb3JtYXQuYXNNQihiYWNrdXAuTG9nLlNpemUpfQogICAgICA8L3RkPgogICAgICA8dGQgY2xhc3NOYW1lPSJiYWNrdXAtZGF0YSI+CiAgICAgICAge2JhY2t1cC5Mb2cgJiYgbG9nU3RhcnREYXRlLmZvcm1hdChGb3JtYXQuREFURV9USU1FX0ZPUk1BVF9TVFJJTkcpfQogICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2x1c3RlcnMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcnVuRHVyYXRpb25zID0gaW5zdGFuY2UuR2V0VmFsdWVTdHJlYW0oTmFtZXMuUm9vdC5DbHVzdGVyLlNxbFNlcnZlci5BZ2VudC5Kb2IuSGlzdG9yeS5SdW5EdXJhdGlvbi5Qcm9wZXJ0eU5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFNvcnRhYmxlQ29sdW1uSGVhZGVyCiAgICAgICAgICAgICAgICAgICAgY29sdW1uS2V5PSJMb2cuVG90YWxTZWNvbmRzIgogICAgICAgICAgICAgICAgICAgIGNvbHVtbkxhYmVsPSJEdXJhdGlvbiIKICAgICAgICAgICAgICAgICAgICBjb2x1bW5DbGFzcz0iZHVyYXRpb24iCiAgICAgICAgICAgICAgICAgICAgc29ydGVkPXsKICAgICAgICAgICAgICAgICAgICAgIHNvcnQuY29sdW1uID09PSAiTG9nLlRvdGFsU2Vjb25kcyIgJiYgc29ydC5kaXJlY3Rpb24KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaGFuZGxlU29ydD17dGhpcy5zb3J0Q29sdW1ufQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8U29ydGFibGVDb2x1bW5IZWFkZXIKICAgICAgICAgICAgICAgICAgICBjb2x1bW5LZXk9IkxvZy5TaXplIgogICAgICAgICAgICAgICAgICAgIGNvbHVtbkxhYmVsPSJTaXplIgogICAgICAgICAgICAgICAgICAgIGNvbHVtbkNsYXNzPSJiYWNrdXAtZGF0YSIKICAgICAgICAgICAgICAgICAgICBzb3J0ZWQ9e3NvcnQuY29sdW1uID09PSAiTG9nLlNpemUiICYmIHNvcnQuZGlyZWN0aW9ufQogICAgICAgICAgICAgICAgICAgIGhhbmRsZVNvcnQ9e3RoaXMuc29ydENvbHVtbn0KICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPFNvcnRhYmxlQ29sdW1uSGVhZGVyCiAgICAgICAgICAgICAgICAgICAgY29sdW1uS2V5PSJMb2cuU3RhcnREYXRlIgogICAgICAgICAgICAgICAgICAgIGNvbHVtbkxhYmVsPSJEYXRlIgogICAgICAgICAgICAgICAgICAgIGNvbHVtbkNsYXNzPSJiYWNrdXAtZGF0YSIKICAgICAgICAgICAgICAgICAgICBzb3J0ZWQ9e3NvcnQuY29sdW1uID09PSAiTG9nLlN0YXJ0RGF0ZSIgJiYgc29ydC5kaXJlY3Rpb259CiAgICAgICAgICAgICAgICAgICAgaGFuZGxlU29ydD17dGhpcy5zb3J0Q29sdW1ufQogICAgICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0icmVjb3ZlcnktbW9kZSI+e2JhY2t1cC5SZWNvdmVyeU1vZGV9PC90ZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWkgc2ltcGxlIGRyb3Bkb3duIGl0ZW0iPgogICAgICAgICAgICAgICAgRHJvcGRvd24gPGkgY2xhc3M9ImRyb3Bkb3duIGljb24iPjwvaT4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1lbnUiPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIiBocmVmPSIjIj5MaW5rIEl0ZW08L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Iml0ZW0iIGhyZWY9IiMiPkxpbmsgSXRlbTwvYT4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkaXZpZGVyIj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJoZWFkZXIiPkhlYWRlciBJdGVtPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJkcm9wZG93biBpY29uIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIFN1YiBNZW51CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Iml0ZW0iIGhyZWY9IiMiPkxpbmsgSXRlbTwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIiBocmVmPSIjIj5MaW5rIEl0ZW08L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIiBocmVmPSIjIj5MaW5rIEl0ZW08L2E+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRoIGNvbFNwYW49ezN9IGNsYXNzTmFtZT0iYmFja3VwLXR5cGUgY2VudGVyZWQtaGVhZGVyIj4KICAgICAgICAgICAgICAgICAgICBMb2cKICAgICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9ImxvZ28iIHNyYz0iYXNzZXRzL2ltYWdlcy9sb2dvLnBuZyI+Cg==</text>
+        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0iZHVyYXRpb24iPntiYWNrdXAuTG9nICYmIGJhY2t1cC5Mb2cuVG90YWxTZWNvbmRzfTwvdGQ+CiAgICAgIDx0ZCBjbGFzc05hbWU9ImJhY2t1cC1kYXRhIj4KICAgICAgICB7YmFja3VwLkxvZyAmJiBGb3JtYXQuYXNNQihiYWNrdXAuTG9nLlNpemUpfQogICAgICA8L3RkPgogICAgICA8dGQgY2xhc3NOYW1lPSJiYWNrdXAtZGF0YSI+CiAgICAgICAge2JhY2t1cC5Mb2cgJiYgbG9nU3RhcnREYXRlLmZvcm1hdChGb3JtYXQuREFURV9USU1FX0ZPUk1BVF9TVFJJTkcpfQogICAgICA8L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgaHJlZj0iL0xvZ2luL0luZGV4Ij5Mb2cgSW4gd2l0aCBHaXRIdWI8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -1265,10 +1274,10 @@
         <entry>action GotoFile</entry>
         <entry>action Find</entry>
         <entry>W</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoSymbol</entry>
         <entry>w</entry>
         <entry>action SaveDocument</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
