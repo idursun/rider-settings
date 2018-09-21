@@ -448,7 +448,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1537273262384">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1537519033627">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="11" column="102" />
         <mark key="]" line="11" column="115" />
@@ -1152,10 +1152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>SQM</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>SQM</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
