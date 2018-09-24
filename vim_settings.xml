@@ -629,8 +629,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537791750191">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537793935041">
         <mark key="'" line="39" column="27" />
+        <mark key="[" line="191" column="59" />
+        <mark key="]" line="191" column="60" />
+        <mark key="." line="191" column="60" />
+        <mark key="^" line="191" column="60" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
         <mark key="'" line="33" column="51" />
@@ -1174,25 +1178,25 @@
       <jump line="128" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" />
       <jump line="39" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" />
       <jump line="234" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" />
-      <jump line="39" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="21" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/Page.js" />
       <jump line="64" column="11" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Page.jsx" />
+      <jump line="39" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-history</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-history</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
-      <register name="0" type="4">
-        <text>title={job.Job.Description}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIERhdGEuX1Jvb3QgTG9hZERhdGEobG9uZyBoaXN0b3J5KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG5vdyA9IG1fRGF0ZVRpbWVQcm92aWRlci5VdGNOb3c7CiAgICAgICAgICAgIHZhciBxdWVyeVJhbmdlID0gbmV3IFF1ZXJ5UmFuZ2Uobm93LkFkZERheXMoLWhpc3RvcnkpLCBub3cpOwogICAgICAgICAgICB2YXIgcHJvcGVydGllcyA9IG5ldyBRdWFsaWZpZWRQcm9wZXJ0eU5hbWVbXQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5NYWNoaW5lLk5hbWUsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuU3FsU2VydmVyLk5hbWUsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuU3FsU2VydmVyLkFnZW50LkpvYi5IaXN0b3J5LlJ1bkRhdGUsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuU3FsU2VydmVyLkFnZW50LkpvYi5IaXN0b3J5LlJ1bkR1cmF0aW9uLAogICAgICAgICAgICAgICAgTmFtZXMuUm9vdC5DbHVzdGVyLlNxbFNlcnZlci5BZ2VudC5Kb2IuSGlzdG9yeS5SdW5TdGF0dXMsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuU3FsU2VydmVyLkFnZW50LkpvYi5IaXN0b3J5Lk1lc3NhZ2UsCiAgICAgICAgICAgICAgICBOYW1lcy5Sb290LkNsdXN0ZXIuU3FsU2VydmVyLkFnZW50LkpvYi5TY2hlZHVsZS5OZXh0UnVuRGF0ZSwKICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLkRlc2NyaXB0aW9uLAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgdmFyIHF1ZXJ5QnVpbGRlciA9IG5ldyBDaGFubmVsUXVlcnlUcmVlQnVpbGRlcihxdWVyeVJhbmdlKSB7cHJvcGVydGllc307CiAgICAgICAgICAgIHZhciBjaGFubmVsID0gbV9EYXRhUHJlc2VudGVyLlF1ZXJ5KHF1ZXJ5QnVpbGRlci5Ub0NoYW5uZWxRdWVyeVRyZWUoKSk7CgogICAgICAgICAgICByZXR1cm4gRGF0YS5fUm9vdC5Gcm9tQ2hhbm5lbChjaGFubmVsKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdmVyYWdlc1tpbnN0YW5jZS5DaGFubmVsS2V5XSA9IGF2ZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZ2VudEpvYi4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1212,31 +1216,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcnVuRHVyYXRpb25zID0gaW5zdGFuY2UuR2V0VmFsdWVTdHJlYW0oTmFtZXMuUm9vdC5DbHVzdGVyLlNxbFNlcnZlci5BZ2VudC5Kb2IuSGlzdG9yeS5SdW5EdXJhdGlvbi5Qcm9wZXJ0eU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZS5DaGFubmVsS2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZ2VudEpvYi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYXZlcmFnZXMuQ29udGFpbnNLZXkoaW5zdGFuY2UuQ2hhbm5lbEtleSkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdmVyYWdlc1tpbnN0YW5jZS5DaGFubmVsS2V5XSA9IGF2ZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZS5HZXRLZXlQcm9wZXJ0eVZhbHVlKE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLk5hbWUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8Q2x1c3RlckpvYkluZm8+IEdldEFjdGl2ZUpvYnMoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2x1c3RlcnMuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcnVuRHVyYXRpb25zID0gaW5zdGFuY2UuR2V0VmFsdWVTdHJlYW0oTmFtZXMuUm9vdC5DbHVzdGVyLlNxbFNlcnZlci5BZ2VudC5Kb2IuSGlzdG9yeS5SdW5EdXJhdGlvbi5Qcm9wZXJ0eU5hbWUpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZS5DaGFubmVsS2V5Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYXZlcmFnZXMuQ29udGFpbnNLZXkoaW5zdGFuY2UuQ2hhbm5lbEtleSkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZS5HZXRLZXlQcm9wZXJ0eVZhbHVlKE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLk5hbWUpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS4K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8Q2x1c3RlckpvYkluZm8+IEdldEFjdGl2ZUpvYnMoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1287,11 +1291,11 @@
         <entry>action GotoFile</entry>
         <entry>W</entry>
         <entry>action GotoSymbol</entry>
-        <entry>w</entry>
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
         <entry>action SaveDocument</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
