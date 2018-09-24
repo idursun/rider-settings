@@ -629,12 +629,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537800819544">
-        <mark key="'" line="181" column="72" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
-        <mark key="^" line="206" column="54" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537802102126">
+        <mark key="'" line="106" column="16" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="118" column="74" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
         <mark key="'" line="33" column="51" />
@@ -852,6 +852,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" timestamp="1531147428083">
         <mark key="'" line="7" column="18" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" timestamp="1537802118931">
+        <mark key="'" line="96" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" timestamp="1528367374925">
         <mark key="'" line="0" column="40" />
@@ -1081,8 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="16" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Controllers/GithubWebhookController.cs" />
-      <jump line="34" column="0" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" />
       <jump line="45" column="78" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Controllers/GithubWebhookController.cs" />
       <jump line="8" column="44" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
       <jump line="34" column="8" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
@@ -1179,15 +1180,17 @@
       <jump line="113" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="195" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="126" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
-      <jump line="112" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="181" column="72" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="112" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="106" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="96" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbGFzdFJ1bkRhdGUgPSBhZ2VudEpvYi5IaXN0b3J5Lkxhc3RPck5vbmUoKS5TZWxlY3QoeCA9PiB4LlJ1bkRhdGUpLlZhbHVlT3JEZWZhdWx0KERhdGVUaW1lLk1pblZhbHVlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>DateModified</text>
+        <text>lastJobCollectionDate</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1196,7 +1199,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLkRhdGVNb2RpZmllZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbGFzdFJ1bkRhdGUgPSBhZ2VudEpvYi5IaXN0b3J5Lkxhc3RPck5vbmUoKS5TZWxlY3QoeCA9PiB4LlJ1bkRhdGUpLlZhbHVlT3JEZWZhdWx0KERhdGVUaW1lLk1pblZhbHVlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1216,28 +1219,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsYXN0U2VlblRpbWUgPSBhZ2VudEpvYi5Db2xsZWN0aW9uRGF0ZXMuTGFzdE9yRGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsYXN0U2VlblRpbWUgPSBhZ2VudEpvYi5TY2hlZHVsZS5Db2xsZWN0aW9uRGF0ZXMuTGFzdE9yRGVmYXVsdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9hZFNlZW5EYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpvYkNvbGxlY3Rpb25EYXRlcyA9IHNxbFNlcnZlci5BZ2VudC5Kb2IuU2VsZWN0KHggPT4geC5TY2hlZHVsZS5Db2xsZWN0aW9uRGF0ZXMuTGFzdE9yRGVmYXVsdCgpKS5Ub0xpc3QoKTsKICAgICAgICAgICAgdmFyIGxhc3RKb2JDb2xsZWN0aW9uRGF0ZSA9IERhdGVUaW1lLk1pblZhbHVlOwogICAgICAgICAgICBpZiAoam9iQ29sbGVjdGlvbkRhdGVzLkFueSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBsYXN0Sm9iQ29sbGVjdGlvbkRhdGUgPSBqb2JDb2xsZWN0aW9uRGF0ZXMuTWF4KCk7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5DbHVzdGVyLlNlbGVjdE1hbnkoeCA9PiB4LlNxbFNlcnZlcikuU2VsZWN0TWFueSh4ID0+IHguRGF0YWJhc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLlNjaGVkdWxlLk5leHRSdW5EYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsYXN0U2VlblRpbWUgPSBhZ2VudEpvYi5Db2xsZWN0aW9uRGF0ZXMuTGFzdE9yRGVmYXVsdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZ2VudEpvYi5EYXRlTW9kaWZpZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9hZFNlZW5EYXRhKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZ2VudEpvYi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5DbHVzdGVyLlNlbGVjdE1hbnkoeCA9PiB4LlNxbFNlcnZlcikuU2VsZWN0TWFueSh4ID0+IHguRGF0YWJhc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hbWVzLlJvb3QuQ2x1c3Rlci5TcWxTZXJ2ZXIuQWdlbnQuSm9iLlNjaGVkdWxlLk5leHRSdW5EYXRlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZ2VudEpvYi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZ2VudEpvYi5EYXRlTW9kaWZpZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1292,10 +1295,10 @@
         <entry>action GotoSymbol</entry>
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
-        <entry>W</entry>
         <entry>action Find</entry>
         <entry>action SaveDocument</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
