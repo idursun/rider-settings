@@ -849,12 +849,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" timestamp="1531147428083">
         <mark key="'" line="7" column="18" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" timestamp="1537865499275">
-        <mark key="'" line="53" column="49" />
-        <mark key="[" line="98" column="144" />
-        <mark key="]" line="98" column="174" />
-        <mark key="^" line="98" column="174" />
-        <mark key="." line="98" column="174" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" timestamp="1537872874486">
+        <mark key="'" line="97" column="32" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="48" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" timestamp="1528367374925">
         <mark key="'" line="0" column="40" />
@@ -1084,10 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="46" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Startup.cs" />
-      <jump line="28" column="18" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
-      <jump line="16" column="85" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
-      <jump line="19" column="34" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
       <jump line="26" column="81" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" />
       <jump line="17" column="84" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
       <jump line="35" column="93" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/GithubApiActor.cs" />
@@ -1184,22 +1180,26 @@
       <jump line="98" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="183" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="53" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
+      <jump line="76" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
+      <jump line="82" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
+      <jump line="71" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
+      <jump line="97" column="32" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ISqlServerAliasRepository</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ISqlServerAliasRepository</text>
+        <text>failure.date</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGouU2NoZWR1bGUoeCA9PiB7IHguQWRkTmV4dFJ1bkRhdGVTYW1wbGUoam9iUnVucy5GaXJzdCgpLmRhdGUsIGpvYlJ1bnMuRmlyc3QoKS5kYXRlLkFkZE1pbnV0ZXMoMjUpKTsgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3csIDEpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3cuQWRkTWludXRlcygtNCksIDEpLAogICAgICAgICAgICAgICAgKG5vdy5BZGRNaW51dGVzKC0zKSwgMSksCiAgICAgICAgICAgICAgICAobm93LkFkZE1pbnV0ZXMoLTIpLCAxKSwKICAgICAgICAgICAgICAgIChub3cuQWRkTWludXRlcygtMSksIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1219,28 +1219,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqLlNjaGVkdWxlKHggPT4geyB4LkFkZE5leHRSdW5EYXRlU2FtcGxlKGpvYlJ1bi5kYXRlLCBqb2JSdW4uZGF0ZS5BZGREYXlzKDEpKTsgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Y2Nlc3MgPSAoZGF0ZTogbV9EYXRlVGltZVByb3ZpZGVyLlV0Y05vdy5BZGREYXlzKC0xKSwgc3RhdHVzOiAxKTsKICAgICAgICAgICAgdmFyIGZhaWx1cmUgPSAoZGF0ZTogbV9EYXRlVGltZVByb3ZpZGVyLlV0Y05vdywgc3RhdHVzOiAwKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJ1Y3QgU3VjY2Vzc2Z1bEpvYiA6IFR1cGxlPERhdGVUaW1lLCBpbnQ+CiAgICAgICAgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsdXN0ZXJKb2IgPSBqb2JzLlNpbmdsZSgpOwogICAgICAgICAgICB2YXIgc3FsU2VydmVySm9icyA9IGNsdXN0ZXJKb2IuU3FsSW5zdGFuY2VKb2JzLlNpbmdsZSgpOwogICAgICAgICAgICB2YXIgam9iID0gc3FsU2VydmVySm9icy5Kb2JzLlNpbmdsZSgpOwogICAgICAgICAgICB2YXIgZXhlY3V0aW9ucyA9IGpvYi5Kb2JFeGVjdXRpb25zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3cuQWRkTWludXRlcygtMSksIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZXhlY3V0aW9ucy5GYWlsdXJlQ291bnQsIElzLkVxdWFsVG8oMSkpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChleGVjdXRpb25zLlN1Y2Nlc3NDb3VudCwgSXMuRXF1YWxUbygxKSk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KGV4ZWN1dGlvbnMuRXhlY3V0aW9uQ291bnQsIElzLkVxdWFsVG8oMikpOwoKICAgICAgICAgICAgQXNzZXJ0LlRoYXQoZXhlY3V0aW9ucy5MYXN0U3VjY2Vzc0RhdGUsIElzLkVxdWFsVG8oc3VjY2Vzcy5kYXRlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobmV4dFJ1blNjaGVkdWxlZC5WYWx1ZU9yRGVmYXVsdCgpIDwgdXRjTm93KQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV4dFJ1blNjaGVkdWxlZCA9IE9wdGlvbjxEYXRlVGltZT4uTm9uZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChub3cuQWRkTWludXRlcygtNCksIDEpLAogICAgICAgICAgICAgICAgKG5vdy5BZGRNaW51dGVzKC0zKSwgMSksCiAgICAgICAgICAgICAgICAobm93LkFkZE1pbnV0ZXMoLTIpLCAxKSwKICAgICAgICAgICAgICAgIChub3cuQWRkTWludXRlcygtMSksIDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdXRjTm93ID0gbV9EYXRlVGltZVByb3ZpZGVyLlV0Y05vdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqLlNjaGVkdWxlKHggPT4geyB4LkFkZE5leHRSdW5EYXRlU2FtcGxlKGpvYlJ1bi5kYXRlLCBqb2JSdW4uZGF0ZS5BZGREYXlzKDEpKTsgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgTGV4dG0uU2hhcnBTbm1wTGliLk1lc3NhZ2luZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
