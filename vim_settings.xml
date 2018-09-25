@@ -79,11 +79,11 @@
         <mark key="^" line="35" column="71" />
         <mark key="." line="35" column="71" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullRpcSessionFactory.cs" timestamp="1531133127303">
-        <mark key="[" line="202" column="148" />
-        <mark key="]" line="202" column="166" />
-        <mark key="^" line="202" column="166" />
-        <mark key="." line="202" column="166" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/FullRpcSessionFactory.cs" timestamp="1537865388464">
+        <mark key="[" line="209" column="145" />
+        <mark key="]" line="209" column="167" />
+        <mark key="^" line="209" column="167" />
+        <mark key="." line="209" column="167" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/GroupAssignment.cs" timestamp="1531148012582">
         <mark key="'" line="47" column="41" />
@@ -91,11 +91,6 @@
         <mark key="]" line="11" column="68" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
-      </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Views/_ViewImports.cshtml" timestamp="1537284410848">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1531134067972">
         <mark key="[" line="17" column="21" />
@@ -630,8 +625,8 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537803653008">
-        <mark key="'" line="114" column="65" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1537865366753">
+        <mark key="'" line="183" column="32" />
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
@@ -853,6 +848,13 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" timestamp="1531147428083">
         <mark key="'" line="7" column="18" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" timestamp="1537865499275">
+        <mark key="'" line="53" column="49" />
+        <mark key="[" line="98" column="144" />
+        <mark key="]" line="98" column="174" />
+        <mark key="^" line="98" column="174" />
+        <mark key="." line="98" column="174" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" timestamp="1528367374925">
         <mark key="'" line="0" column="40" />
@@ -1082,9 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="81" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" />
-      <jump line="12" column="35" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" />
-      <jump line="11" column="86" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" />
       <jump line="32" column="46" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Startup.cs" />
       <jump line="28" column="18" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
       <jump line="16" column="85" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" />
@@ -1182,13 +1181,16 @@
       <jump line="102" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="107" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
       <jump line="114" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="98" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="183" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
+      <jump line="53" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add description on job name column</text>
+        <text>ISqlServerAliasRepository</text>
       </register>
       <register name="-" type="4">
-        <text>Add description on job name column</text>
+        <text>ISqlServerAliasRepository</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1241,7 +1243,7 @@
         <text encoding="base64">dXNpbmcgTGV4dG0uU2hhcnBTbm1wTGliLk1lc3NhZ2luZzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1295,8 +1297,8 @@
         <entry>reg</entry>
         <entry>W</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>action SaveDocument</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
