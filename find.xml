@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*Spec.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,5 +16,6 @@
     <mask>*.js</mask>
     <mask>!*.js</mask>
     <mask>*.cs</mask>
+    <mask>*Spec.js</mask>
   </component>
 </application>
