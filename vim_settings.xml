@@ -109,9 +109,6 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" timestamp="1538391424046">
-        <mark key="'" line="97" column="6" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Email/SlackNotificationSender.cs" timestamp="1531147415145">
         <mark key="'" line="19" column="34" />
       </file>
