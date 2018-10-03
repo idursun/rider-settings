@@ -80,12 +80,6 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ServerOverview/BannerViewModelSpec.js" timestamp="1538386376144">
-        <mark key="'" line="220" column="2" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/GithubApiActor.cs" timestamp="1535723432729">
         <mark key="[" line="35" column="51" />
         <mark key="]" line="35" column="71" />
@@ -286,12 +280,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/File/SqlDatabaseFileSampler.cs" timestamp="1536583175444">
         <mark key="'" line="18" column="68" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/UtilsSpec.js" timestamp="1538386338174">
-        <mark key="'" line="96" column="71" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" timestamp="1529053552941">
         <mark key="'" line="28" column="14" />
@@ -543,12 +531,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" timestamp="1537885750131">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" timestamp="1538576208212">
         <mark key="'" line="207" column="20" />
-        <mark key="[" line="255" column="9" />
-        <mark key="]" line="255" column="9" />
-        <mark key="^" line="255" column="9" />
-        <mark key="." line="255" column="9" />
+        <mark key="[" line="243" column="17" />
+        <mark key="]" line="243" column="21" />
+        <mark key="^" line="243" column="21" />
+        <mark key="." line="243" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1528452236694">
         <mark key="'" line="0" column="0" />
@@ -845,18 +833,21 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1538575409838">
-        <mark key="'" line="61" column="35" />
-        <mark key="[" line="58" column="2" />
-        <mark key="]" line="58" column="2" />
-        <mark key="." line="58" column="2" />
-        <mark key="^" line="58" column="2" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1538576320829">
+        <mark key="'" line="59" column="35" />
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Sql2012DatabaseSampler.cs" timestamp="1531393214057">
         <mark key="'" line="50" column="41" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/IO/FileLoadStrategy.cs" timestamp="1531843796524">
         <mark key="'" line="8" column="40" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" timestamp="1538576305118">
+        <mark key="'" line="27" column="15" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/GroupToolboxContainer.js" timestamp="1531922179922">
         <mark key="'" line="26" column="9" />
@@ -1124,6 +1115,9 @@
         <mark key="^" line="17" column="46" />
         <mark key="." line="19" column="7" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/JobsHistoryViewModel.cs" timestamp="1538576309650">
+        <mark key="'" line="6" column="27" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/NotMonitoringAnything.cshtml" timestamp="1533132656279">
         <mark key="[" line="0" column="54" />
         <mark key="]" line="0" column="49" />
@@ -1153,8 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" />
-      <jump line="222" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="66" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="220" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="74" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
@@ -1253,13 +1245,15 @@
       <jump line="1977" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryQueryGenerator.cs" />
       <jump line="431" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlPropertySerializer.cs" />
       <jump line="59" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" />
+      <jump line="27" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" />
+      <jump line="6" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/JobsHistoryViewModel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sqmVersion</text>
+        <text>SqlServer</text>
       </register>
       <register name="-" type="4">
-        <text>sqmVersion</text>
+        <text>SqlServer</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1268,7 +1262,7 @@
         <text>MultipleGroupsFilterTest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2JzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1288,30 +1282,30 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpvYnMpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnN0IERFRkFVTFRfU09SVCA9IHsgY29sdW1uOiAiTmFtZSIsIGRpcmVjdGlvbjogU29ydERpcmVjdGlvbi5Bc2MgfTsKICAgIGNvbnN0IElOU1RBTkNFMSA9IHsKICAgICAgLi4uREVGQVVMVF9JTlNUQU5DRSwKICAgICAgTmFtZTogIkluc3RhbmNlMSIsCiAgICAgIEdyb3VwOiAiR3JvdXAxIiwKICAgICAgRW5kT2ZTdXBwb3J0RGF0ZTogIjIwMTEtMDEtMDIiLAogICAgICBMYXRlc3RVcGRhdGU6IHsgUmVsZWFzZURhdGU6ICIyMDExLTAxLTAyIiB9CiAgICB9OwogICAgY29uc3QgSU5TVEFOQ0UyID0gewogICAgICAuLi5ERUZBVUxUX0lOU1RBTkNFLAogICAgICBOYW1lOiAiSW5zdGFuY2UyIiwKICAgICAgR3JvdXA6ICJHcm91cDIiLAogICAgICBFbmRPZlN1cHBvcnREYXRlOiAiMjAxNy0wNi0wMSIsCiAgICAgIExhdGVzdFVwZGF0ZTogeyBSZWxlYXNlRGF0ZTogIjIwMTctMDYtMDEiIH0KICAgIH07CiAgICBjb25zdCBJTlNUQU5DRTMgPSB7CiAgICAgIC4uLkRFRkFVTFRfSU5TVEFOQ0UsCiAgICAgIE5hbWU6ICJJbnN0YW5jZTMiLAogICAgICBHcm91cDogIkdyb3VwMiIsCiAgICAgIEVuZE9mU3VwcG9ydERhdGU6ICIyMDE1LTExLTEyIiwKICAgICAgTGF0ZXN0VXBkYXRlOiB7IFJlbGVhc2VEYXRlOiAiMjAxNS0xMS0xMiIgfQogICAgfTsKCiAgICBjb25zdCBBTExfSU5TVEFOQ0VTID0gW0lOU1RBTkNFMSwgSU5TVEFOQ0UyLCBJTlNUQU5DRTNdOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Convert arrow syntax to function syntax
 
 (most of the files are automatically formatted by the IDE)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgRmlsdGVyVGVzdCgK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coRmlsdGVyVGVzdCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuRmlsdGVyVGVzdCA9IGZ1bmN0aW9uKGZpbHRlcnMsIEV4cGVjdGVkRW50aXR5TmFtZXMpIHsKICAgICAgdGhpcy52bS5Dcml0aWNhbEVuYWJsZWQoZmlsdGVycy5Dcml0aWNhbEVuYWJsZWQpOwogICAgICB0aGlzLnZtLldhcm5pbmdFbmFibGVkKGZpbHRlcnMuV2FybmluZ0VuYWJsZWQpOwogICAgICB0aGlzLnZtLkhlYWx0aHlFbmFibGVkKGZpbHRlcnMuSGVhbHRoeUVuYWJsZWQpOwoKICAgICAgbGV0IGVudGl0aWVzRGF0YSA9IHsKICAgICAgICBFbnRpdGllczogWwogICAgICAgICAgewogICAgICAgICAgICBOYW1lOiAic2VydmVyXFxzcWwxIiwKICAgICAgICAgICAgR3JvdXA6IHsgTmFtZTogIlByb2R1Y3Rpb24iLCBPcmRlcjogMSB9LAogICAgICAgICAgICBTdGF0dXM6IHsgU2V2ZXJpdHk6ICJDcml0aWNhbCIsIE9yZGVyOiAxIH0KICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIE5hbWU6ICJzZXJ2ZXJcXHNxbDIiLAogICAgICAgICAgICBHcm91cDogeyBOYW1lOiAiUHJvZHVjdGlvbiIsIE9yZGVyOiAxIH0sCiAgICAgICAgICAgIFN0YXR1czogeyBTZXZlcml0eTogIldhcm5pbmciLCBPcmRlcjogMSB9CiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBOYW1lOiAic2VydmVyXFxzcWwzIiwKICAgICAgICAgICAgR3JvdXA6IHsgTmFtZTogIlByb2R1Y3Rpb24iLCBPcmRlcjogMSB9LAogICAgICAgICAgICBTdGF0dXM6IHsgU2V2ZXJpdHk6ICJIZWFsdGh5IiwgT3JkZXI6IDEgfQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfTsKCiAgICAgIHRoaXMudm0uX2NyZWF0ZU1vZGVsKGVudGl0aWVzRGF0YSk7CgogICAgICBjb25zdCBlbnRpdGllcyA9IHRoaXMudm0uZmlsdGVyZWRFbnRpdGllcygpOwoKICAgICAgY29uc3QgZW50aXRpZXNOYW1lcyA9IF8ubWFwKGVudGl0aWVzLCBmdW5jdGlvbih4KSB7CiAgICAgICAgcmV0dXJuIHguTmFtZSgpOwogICAgICB9KTsKCiAgICAgIGV4cGVjdChlbnRpdGllc05hbWVzKS50b0VxdWFsKEV4cGVjdGVkRW50aXR5TmFtZXMpOwogICAgfS5iaW5kKHRoaXMpOwoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIE11bHRpcGxlR3JvdXBzRmlsdGVyVGVzdCgKICAgICAgZmlsdGVycywKICAgICAgc2VsZWN0ZWRHcm91cCwKICAgICAgRXhwZWN0ZWRFbnRpdHlOYW1lcwogICAgKSB7CiAgICAgIHRoaXMudm0uQ3JpdGljYWxFbmFibGVkKGZpbHRlcnMuQ3JpdGljYWxFbmFibGVkKTsKICAgICAgdGhpcy52bS5XYXJuaW5nRW5hYmxlZChmaWx0ZXJzLldhcm5pbmdFbmFibGVkKTsKICAgICAgdGhpcy52bS5IZWFsdGh5RW5hYmxlZChmaWx0ZXJzLkhlYWx0aHlFbmFibGVkKTsKCiAgICAgIGNvbnN0IGVudGl0aWVzRGF0YSA9IHsKICAgICAgICBFbnRpdGllczogWwogICAgICAgICAgewogICAgICAgICAgICBOYW1lOiAic2VydmVyMVxcc3FsIiwKICAgICAgICAgICAgR3JvdXA6IHsgTmFtZTogIlByb2R1Y3Rpb24iLCBPcmRlcjogMSB9LAogICAgICAgICAgICBTdGF0dXM6IHsgU2V2ZXJpdHk6ICJIZWFsdGh5IiwgT3JkZXI6IDEgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgTmFtZTogInNlcnZlcjJcXHNxbCIsCiAgICAgICAgICAgIEdyb3VwOiB7IE5hbWU6ICJQcm9kdWN0aW9uIiwgT3JkZXI6IDEgfSwKICAgICAgICAgICAgU3RhdHVzOiB7IFNldmVyaXR5OiAiQ3JpdGljYWwiLCBPcmRlcjogMSB9CiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBOYW1lOiAic2VydmVyM1xcc3FsIiwKICAgICAgICAgICAgR3JvdXA6IHsgTmFtZTogIlN0YWdpbmciLCBPcmRlcjogMiB9LAogICAgICAgICAgICBTdGF0dXM6IHsgU2V2ZXJpdHk6ICJIZWFsdGh5IiwgT3JkZXI6IDEgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgTmFtZTogInNlcnZlcjRcXHNxbCIsCiAgICAgICAgICAgIEdyb3VwOiB7IE5hbWU6ICJTdGFnaW5nIiwgT3JkZXI6IDIgfSwKICAgICAgICAgICAgU3RhdHVzOiB7IFNldmVyaXR5OiAiQ3JpdGljYWwiLCBPcmRlcjogMSB9CiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBOYW1lOiAic2VydmVyNVxcc3FsIiwKICAgICAgICAgICAgR3JvdXA6IHsgTmFtZTogIkRldmVsb3BtZW50IiwgT3JkZXI6IDMgfSwKICAgICAgICAgICAgU3RhdHVzOiB7IFNldmVyaXR5OiAiSGVhbHRoeSIsIE9yZGVyOiAxIH0KICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIE5hbWU6ICJzZXJ2ZXI2XFxzcWwiLAogICAgICAgICAgICBHcm91cDogeyBOYW1lOiAiRGV2ZWxvcG1lbnQiLCBPcmRlcjogMyB9LAogICAgICAgICAgICBTdGF0dXM6IHsgU2V2ZXJpdHk6ICJDcml0aWNhbCIsIE9yZGVyOiAxIH0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH07CgogICAgICB0aGlzLnZtLl9jcmVhdGVNb2RlbChlbnRpdGllc0RhdGEpOwoKICAgICAgdGhpcy52bS5TZWxlY3RlZEdyb3VwRm9yQ2FyZHMoc2VsZWN0ZWRHcm91cCk7CgogICAgICBjb25zdCBlbnRpdGllcyA9IHRoaXMudm0uZmlsdGVyZWRFbnRpdGllcygpOwoKICAgICAgY29uc3QgZW50aXRpZXNOYW1lcyA9IF8ubWFwKGVudGl0aWVzLCBmdW5jdGlvbih4KSB7CiAgICAgICAgcmV0dXJuIHguTmFtZSgpOwogICAgICB9KTsKCiAgICAgIGV4cGVjdChlbnRpdGllc05hbWVzKS50b0VxdWFsKEV4cGVjdGVkRW50aXR5TmFtZXMpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
