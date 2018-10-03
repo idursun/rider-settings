@@ -845,12 +845,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1537885771078">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1538575409838">
+        <mark key="'" line="61" column="35" />
+        <mark key="[" line="58" column="2" />
+        <mark key="]" line="58" column="2" />
+        <mark key="." line="58" column="2" />
+        <mark key="^" line="58" column="2" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Sql2012DatabaseSampler.cs" timestamp="1531393214057">
         <mark key="'" line="50" column="41" />
@@ -1153,7 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" />
       <jump line="10" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" />
       <jump line="222" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="66" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
@@ -1253,6 +1252,7 @@
       <jump line="6" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Copy/Copy.jsx" />
       <jump line="1977" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryQueryGenerator.cs" />
       <jump line="431" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlPropertySerializer.cs" />
+      <jump line="59" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
