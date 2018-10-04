@@ -148,6 +148,13 @@
         <mark key="." line="35" column="95" />
         <mark key="^" line="53" column="98" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/SuccessfulJobsTableSpec.jsx" timestamp="1538668143432">
+        <mark key="'" line="239" column="13" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="212" column="13" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/LogicalDisk/GenericDiskDataPresenter.cs" timestamp="1532014381911">
         <mark key="'" line="8" column="65" />
       </file>
@@ -186,6 +193,13 @@
         <mark key="]" line="19" column="8" />
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/PageSpec.jsx" timestamp="1538668263025">
+        <mark key="'" line="96" column="4" />
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+        <mark key="." line="81" column="18" />
       </file>
       <file name="D:/repositories/dotnet/dainterview-net/Startup.cs" timestamp="1533303808749">
         <mark key="[" line="3" column="0" />
@@ -482,6 +496,13 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="40" column="39" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/TableSpec.jsx" timestamp="1538668439514">
+        <mark key="'" line="209" column="0" />
+        <mark key="[" line="218" column="30" />
+        <mark key="]" line="218" column="31" />
+        <mark key="^" line="218" column="31" />
+        <mark key="." line="218" column="31" />
+      </file>
       <file name="D:/repositories/dotnet/dainterview-net/ClientApp/src/store/configureStore.js" timestamp="1533305026488">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="38" />
@@ -531,12 +552,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" timestamp="1538576208212">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Table/FailedJobsTable.jsx" timestamp="1538668037114">
         <mark key="'" line="207" column="20" />
-        <mark key="[" line="243" column="17" />
-        <mark key="]" line="243" column="21" />
-        <mark key="^" line="243" column="21" />
-        <mark key="." line="243" column="21" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1528452236694">
         <mark key="'" line="0" column="0" />
@@ -545,11 +565,11 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538477741280">
+      <file name="/Dummy.txt" timestamp="1538669111053">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="53" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+        <mark key="^" line="0" column="43" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlPropertySerializer.cs" timestamp="1538494609645">
         <mark key="'" line="431" column="34" />
@@ -833,12 +853,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1538576320829">
-        <mark key="'" line="59" column="35" />
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="14" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1538668075982">
+        <mark key="'" line="40" column="26" />
+        <mark key="[" line="119" column="6" />
+        <mark key="]" line="119" column="6" />
+        <mark key="." line="119" column="9" />
+        <mark key="^" line="104" column="9" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Sql2012DatabaseSampler.cs" timestamp="1531393214057">
         <mark key="'" line="50" column="41" />
@@ -1147,11 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
-      <jump line="220" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
-      <jump line="74" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
-      <jump line="185" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/BasicAccountController.cs" />
-      <jump line="3" column="44" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Table.js" />
       <jump line="91" column="38" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="50" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="4" column="15" filename="D:/repositories/dotnet/dajanitor/dajanitor-spike/Pages/Index.cshtml" />
@@ -1247,13 +1262,18 @@
       <jump line="59" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" />
       <jump line="27" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" />
       <jump line="6" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/JobsHistoryViewModel.cs" />
+      <jump line="40" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" />
+      <jump line="237" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/SuccessfulJobsTableSpec.jsx" />
+      <jump line="96" column="4" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/PageSpec.jsx" />
+      <jump line="263" column="2" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/TableSpec.jsx" />
+      <jump line="193" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/TableSpec.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SqlServer</text>
+        <text>Use correct parameter name in backups copy</text>
       </register>
       <register name="-" type="4">
-        <text>SqlServer</text>
+        <text>Use correct parameter name in backups copy</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1262,7 +1282,7 @@
         <text>MultipleGroupsFilterTest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2JzKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2IuTmFtZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1282,30 +1302,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpvYnMpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2JzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpvYnMpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IERFRkFVTFRfU09SVCA9IHsgY29sdW1uOiAiTmFtZSIsIGRpcmVjdGlvbjogU29ydERpcmVjdGlvbi5Bc2MgfTsKICAgIGNvbnN0IElOU1RBTkNFMSA9IHsKICAgICAgLi4uREVGQVVMVF9JTlNUQU5DRSwKICAgICAgTmFtZTogIkluc3RhbmNlMSIsCiAgICAgIEdyb3VwOiAiR3JvdXAxIiwKICAgICAgRW5kT2ZTdXBwb3J0RGF0ZTogIjIwMTEtMDEtMDIiLAogICAgICBMYXRlc3RVcGRhdGU6IHsgUmVsZWFzZURhdGU6ICIyMDExLTAxLTAyIiB9CiAgICB9OwogICAgY29uc3QgSU5TVEFOQ0UyID0gewogICAgICAuLi5ERUZBVUxUX0lOU1RBTkNFLAogICAgICBOYW1lOiAiSW5zdGFuY2UyIiwKICAgICAgR3JvdXA6ICJHcm91cDIiLAogICAgICBFbmRPZlN1cHBvcnREYXRlOiAiMjAxNy0wNi0wMSIsCiAgICAgIExhdGVzdFVwZGF0ZTogeyBSZWxlYXNlRGF0ZTogIjIwMTctMDYtMDEiIH0KICAgIH07CiAgICBjb25zdCBJTlNUQU5DRTMgPSB7CiAgICAgIC4uLkRFRkFVTFRfSU5TVEFOQ0UsCiAgICAgIE5hbWU6ICJJbnN0YW5jZTMiLAogICAgICBHcm91cDogIkdyb3VwMiIsCiAgICAgIEVuZE9mU3VwcG9ydERhdGU6ICIyMDE1LTExLTEyIiwKICAgICAgTGF0ZXN0VXBkYXRlOiB7IFJlbGVhc2VEYXRlOiAiMjAxNS0xMS0xMiIgfQogICAgfTsKCiAgICBjb25zdCBBTExfSU5TVEFOQ0VTID0gW0lOU1RBTkNFMSwgSU5TVEFOQ0UyLCBJTlNUQU5DRTNdOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Convert arrow syntax to function syntax
 
 (most of the files are automatically formatted by the IDE)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgRmlsdGVyVGVzdCgK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coRmlsdGVyVGVzdCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1318,7 +1338,7 @@
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1360,9 +1380,9 @@
         <entry>action GotoSymbol</entry>
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
-        <entry>action Find</entry>
         <entry>action SaveDocument</entry>
         <entry>W</entry>
+        <entry>action Find</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
