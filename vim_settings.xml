@@ -481,7 +481,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1537519033627">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1539078744626">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="11" column="102" />
         <mark key="]" line="11" column="115" />
@@ -1149,7 +1149,6 @@
         <mark key="^" line="34" column="59" />
         <mark key="." line="34" column="59" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" timestamp="1539009113357" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1533292109872">
         <mark key="'" line="151" column="20" />
         <mark key="[" line="202" column="23" />
