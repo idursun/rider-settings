@@ -105,7 +105,8 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" timestamp="1538729420894">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" timestamp="1539076325245">
+        <mark key="'" line="32" column="21" />
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="4" />
@@ -583,6 +584,12 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/Page.js" timestamp="1537791894010">
         <mark key="'" line="21" column="45" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenLoadedWithQueryParamsSpec.js" timestamp="1539075674459">
+        <mark key="[" line="210" column="2" />
+        <mark key="]" line="210" column="2" />
+        <mark key="^" line="210" column="2" />
+        <mark key="." line="210" column="2" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" timestamp="1529079298281">
         <mark key="'" line="26" column="27" />
@@ -1159,9 +1166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="19" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
-      <jump line="169" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
-      <jump line="17" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/Table.jsx" />
       <jump line="33" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="130" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="177" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
@@ -1259,13 +1263,16 @@
       <jump line="80" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" />
       <jump line="45" column="23" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" />
       <jump line="77" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenLoadedMaintenanceWindowMessageSpec.js" />
+      <jump line="155" column="38" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenLoadedWithQueryParamsSpec.js" />
+      <jump line="32" column="10" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenShiftSelectingSpec.js" />
+      <jump line="32" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1320,7 +1327,7 @@
 (most of the files are automatically formatted by the IDE)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1373,9 +1380,9 @@
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
         <entry>action SaveDocument</entry>
-        <entry>action Find</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
