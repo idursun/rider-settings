@@ -268,6 +268,13 @@
         <mark key="^" line="22" column="83" />
         <mark key="." line="22" column="83" />
       </file>
+      <file name="D:/repositories/safe/test2/src/Client/Client.fs" timestamp="1539173797465">
+        <mark key="'" line="80" column="15" />
+        <mark key="[" line="92" column="38" />
+        <mark key="]" line="92" column="38" />
+        <mark key="." line="92" column="38" />
+        <mark key="^" line="92" column="37" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/EstateDiskDetailTableSpec.jsx" timestamp="1529420032205">
         <mark key="[" line="2" column="64" />
         <mark key="]" line="2" column="73" />
@@ -1178,7 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="195" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="126" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="181" column="72" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
@@ -1278,15 +1284,14 @@
       <jump line="117" column="10" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
       <jump line="41" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
       <jump line="19" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/containers/DrillDownTableRow.js" />
+      <jump line="80" column="15" filename="D:/repositories/safe/test2/src/Client/Client.fs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Change controller creation in beforeEach block
-
-(possible cause of moveNewest failure in the whole test suit)</text>
+        <text encoding="base64">IFRlbXBsYXRl</text>
       </register>
       <register name="-" type="4">
-        <text>01/12/2018</text>
+        <text encoding="base64">IFRlbXBsYXRl</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1393,10 +1398,10 @@
         <entry>action GotoSymbol</entry>
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
-        <entry>action SaveDocument</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>action SaveDocument</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
