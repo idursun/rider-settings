@@ -364,11 +364,12 @@
         <mark key="^" line="58" column="53" />
         <mark key="." line="58" column="53" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/Shared/DrillDownTableRowSpec.jsx" timestamp="1539081938150">
-        <mark key="[" line="68" column="38" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="68" column="40" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/Shared/DrillDownTableRowSpec.jsx" timestamp="1539184361385">
+        <mark key="'" line="71" column="6" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="53" column="6" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ServerOverviewViewModel.js" timestamp="1529314709030">
         <mark key="[" line="0" column="22" />
@@ -1185,7 +1186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="126" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="181" column="72" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="112" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
@@ -1285,10 +1285,11 @@
       <jump line="41" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
       <jump line="19" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/containers/DrillDownTableRow.js" />
       <jump line="80" column="15" filename="D:/repositories/safe/test2/src/Client/Client.fs" />
+      <jump line="71" column="6" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/Shared/DrillDownTableRowSpec.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFRlbXBsYXRl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEpvYnNUYWJsZSBmcm9tICIuLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL0FyZWFzL0VzdGF0ZS9WaWV3cy9Kb2JzL2NvbXBvbmVudHMvU2hhcmVkL0pvYnNUYWJsZS5qc3giOwppbXBvcnQgRmFpbGVkVGFibGVSb3cgZnJvbSAiLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vVUkvV2Vic2l0ZS9BcmVhcy9Fc3RhdGUvVmlld3MvSm9icy9jb21wb25lbnRzL1RhYmxlL0ZhaWxlZEpvYnNUYWJsZS9GYWlsZWRUYWJsZVJvdy5qc3giOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFRlbXBsYXRl</text>
@@ -1299,10 +1300,8 @@
       <register name="0" type="4">
         <text>MultipleGroupsFilterTest</text>
       </register>
-      <register name="1" type="4">
-        <text>Change controller creation in beforeEach block
-
-(possible cause of moveNewest failure in the whole test suit)</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IEpvYnNUYWJsZSBmcm9tICIuLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL0FyZWFzL0VzdGF0ZS9WaWV3cy9Kb2JzL2NvbXBvbmVudHMvU2hhcmVkL0pvYnNUYWJsZS5qc3giOwppbXBvcnQgRmFpbGVkVGFibGVSb3cgZnJvbSAiLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vVUkvV2Vic2l0ZS9BcmVhcy9Fc3RhdGUvVmlld3MvSm9icy9jb21wb25lbnRzL1RhYmxlL0ZhaWxlZEpvYnNUYWJsZS9GYWlsZWRUYWJsZVJvdy5qc3giOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1321,29 +1320,31 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVUaW1lRm9ybWF0U3RyaW5nKTsK</text>
+      <register name="2" type="4">
+        <text>Change controller creation in beforeEach block
+
+(possible cause of moveNewest failure in the whole test suit)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge21vbWVudChqb2IuRGF0ZVJ1bikuZm9ybWF0KGRhdGVUaW1lRm9ybWF0U3RyaW5nKX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVUaW1lRm9ybWF0U3RyaW5nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB4ZGVzY3JpYmUoIndoZW4gcGFnZSBsb2FkZWQiLCAoKSA9PiB7CiAgICBjb25zdCBpbml0aWFsUGFnZVJlc3VsdCA9IHsKICAgICAgSXRlbXM6IFtdLAogICAgICBNaW5UaW1lc3RhbXA6IDIwMCwKICAgICAgTWF4VGltZXN0YW1wOiAyMDEsCiAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgRmlyc3RBbGVydElkOiAyMCwKICAgICAgTWF4QWxlcnRJZDogMjEKICAgIH07CgogICAgYmVmb3JlRWFjaChmdW5jdGlvbigpIHsKICAgICAgY29uc3QgbW9ja09wdGlvbnMgPSB7CiAgICAgICAgVXJsczoge30sCiAgICAgICAgU2VydmVyVHJlZU9wdGlvbnM6IHt9LAogICAgICAgIEFsZXJ0VHlwZXM6IFtdLAogICAgICAgIEN1c3RvbUZpbHRlcnM6IFtdCiAgICAgIH07CgogICAgICBjb25zdCBjb250cm9sbGVyID0gamFzbWluZS5jcmVhdGVTcHlPYmooImNvbnRyb2xsZXIiLCBbCiAgICAgICAgImxvYWQiLAogICAgICAgICJtb3ZlTmV3ZXN0IiwKICAgICAgICAiZ3JvdXBUb2dnbGVDaGFuZ2VkIgogICAgICBdKTsKCiAgICAgIGNvbnRyb2xsZXIubG9hZC5hbmQuY2FsbEZha2UoCiAgICAgICAgKAogICAgICAgICAgZmlsdGVyTW9kZWwsCiAgICAgICAgICBjaGFubmVsSW5zdGFuY2VSZWYsCiAgICAgICAgICBwYWdlU2l6ZSwKICAgICAgICAgIGlzR3JvdXBlZCwKICAgICAgICAgIHN0YXJ0VGlja3MsCiAgICAgICAgICBhbGVydElkLAogICAgICAgICAgY2FsbGJhY2sKICAgICAgICApID0+IHsKICAgICAgICAgIGNhbGxiYWNrKGluaXRpYWxQYWdlUmVzdWx0KTsKICAgICAgICB9CiAgICAgICk7CgogICAgICB0aGlzLnZpZXdNb2RlbCA9IG5ldyBBbGVydEluYm94Vmlld01vZGVsKG1vY2tPcHRpb25zLCBjb250cm9sbGVyKTsKICAgIH0pOwoKICAgIGl0KCJzaG91bGQgY29ycmVjdGx5IHNldCBJbmJveGxvY2F0aW9uIHdoZW4gaW4gZ3JvdXBlZCB2aWV3IiwgZnVuY3Rpb24oKSB7CiAgICAgIHRoaXMudmlld01vZGVsLmlzR3JvdXBlZCh0cnVlKTsKICAgICAgdGhpcy52aWV3TW9kZWwubG9hZEN1cnJlbnRBbGVydHMoKTsKCiAgICAgIGNvbnN0IGN1cnJlbnRMb2NhdGlvbiA9IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICB1cmw6IHdpbmRvdy5sb2NhdGlvbi5ocmVmLAogICAgICAgIHR5cGU6ICJncm91cGVkaW5ib3giCiAgICAgIH0pOwoKICAgICAgZXhwZWN0KExvY2FsU3RvcmFnZS5zZXRJdGVtKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgKICAgICAgICBDb29raWVOYW1lcy5JbmJveExvY2F0aW9uLAogICAgICAgIGN1cnJlbnRMb2NhdGlvbgogICAgICApOwogICAgfSk7CgogICAgaXQoInNob3VsZCBjb3JyZWN0bHkgc2V0IEluYm94bG9jYXRpb24gd2hlbiBpbiB1bmdyb3VwZWQgdmlldyIsIGZ1bmN0aW9uKCkgewogICAgICB0aGlzLnZpZXdNb2RlbC5pc0dyb3VwZWQoZmFsc2UpOwogICAgICB0aGlzLnZpZXdNb2RlbC5sb2FkQ3VycmVudEFsZXJ0cygpOwoKICAgICAgY29uc3QgY3VycmVudExvY2F0aW9uID0gSlNPTi5zdHJpbmdpZnkoewogICAgICAgIHVybDogd2luZG93LmxvY2F0aW9uLmhyZWYsCiAgICAgICAgdHlwZTogInVuZ3JvdXBlZGluYm94IgogICAgICB9KTsKCiAgICAgIGV4cGVjdChMb2NhbFN0b3JhZ2Uuc2V0SXRlbSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoCiAgICAgICAgQ29va2llTmFtZXMuSW5ib3hMb2NhdGlvbiwKICAgICAgICBjdXJyZW50TG9jYXRpb24KICAgICAgKTsKICAgIH0pOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge21vbWVudChqb2IuRGF0ZVJ1bikuZm9ybWF0KGRhdGVUaW1lRm9ybWF0U3RyaW5nKX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW5pdGlhbFBhZ2VSZXN1bHQgPSB7CiAgICAgICAgSXRlbXM6IFtdLAogICAgICAgIE1pblRpbWVzdGFtcDogMjAwLAogICAgICAgIE1heFRpbWVzdGFtcDogMjAxLAogICAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgICBGaXJzdEFsZXJ0SWQ6IDIwLAogICAgICAgIE1heEFsZXJ0SWQ6IDIxCiAgICAgIH07Cgo=</text>
+        <text encoding="base64">ICB4ZGVzY3JpYmUoIndoZW4gcGFnZSBsb2FkZWQiLCAoKSA9PiB7CiAgICBjb25zdCBpbml0aWFsUGFnZVJlc3VsdCA9IHsKICAgICAgSXRlbXM6IFtdLAogICAgICBNaW5UaW1lc3RhbXA6IDIwMCwKICAgICAgTWF4VGltZXN0YW1wOiAyMDEsCiAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgRmlyc3RBbGVydElkOiAyMCwKICAgICAgTWF4QWxlcnRJZDogMjEKICAgIH07CgogICAgYmVmb3JlRWFjaChmdW5jdGlvbigpIHsKICAgICAgY29uc3QgbW9ja09wdGlvbnMgPSB7CiAgICAgICAgVXJsczoge30sCiAgICAgICAgU2VydmVyVHJlZU9wdGlvbnM6IHt9LAogICAgICAgIEFsZXJ0VHlwZXM6IFtdLAogICAgICAgIEN1c3RvbUZpbHRlcnM6IFtdCiAgICAgIH07CgogICAgICBjb25zdCBjb250cm9sbGVyID0gamFzbWluZS5jcmVhdGVTcHlPYmooImNvbnRyb2xsZXIiLCBbCiAgICAgICAgImxvYWQiLAogICAgICAgICJtb3ZlTmV3ZXN0IiwKICAgICAgICAiZ3JvdXBUb2dnbGVDaGFuZ2VkIgogICAgICBdKTsKCiAgICAgIGNvbnRyb2xsZXIubG9hZC5hbmQuY2FsbEZha2UoCiAgICAgICAgKAogICAgICAgICAgZmlsdGVyTW9kZWwsCiAgICAgICAgICBjaGFubmVsSW5zdGFuY2VSZWYsCiAgICAgICAgICBwYWdlU2l6ZSwKICAgICAgICAgIGlzR3JvdXBlZCwKICAgICAgICAgIHN0YXJ0VGlja3MsCiAgICAgICAgICBhbGVydElkLAogICAgICAgICAgY2FsbGJhY2sKICAgICAgICApID0+IHsKICAgICAgICAgIGNhbGxiYWNrKGluaXRpYWxQYWdlUmVzdWx0KTsKICAgICAgICB9CiAgICAgICk7CgogICAgICB0aGlzLnZpZXdNb2RlbCA9IG5ldyBBbGVydEluYm94Vmlld01vZGVsKG1vY2tPcHRpb25zLCBjb250cm9sbGVyKTsKICAgIH0pOwoKICAgIGl0KCJzaG91bGQgY29ycmVjdGx5IHNldCBJbmJveGxvY2F0aW9uIHdoZW4gaW4gZ3JvdXBlZCB2aWV3IiwgZnVuY3Rpb24oKSB7CiAgICAgIHRoaXMudmlld01vZGVsLmlzR3JvdXBlZCh0cnVlKTsKICAgICAgdGhpcy52aWV3TW9kZWwubG9hZEN1cnJlbnRBbGVydHMoKTsKCiAgICAgIGNvbnN0IGN1cnJlbnRMb2NhdGlvbiA9IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICB1cmw6IHdpbmRvdy5sb2NhdGlvbi5ocmVmLAogICAgICAgIHR5cGU6ICJncm91cGVkaW5ib3giCiAgICAgIH0pOwoKICAgICAgZXhwZWN0KExvY2FsU3RvcmFnZS5zZXRJdGVtKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgKICAgICAgICBDb29raWVOYW1lcy5JbmJveExvY2F0aW9uLAogICAgICAgIGN1cnJlbnRMb2NhdGlvbgogICAgICApOwogICAgfSk7CgogICAgaXQoInNob3VsZCBjb3JyZWN0bHkgc2V0IEluYm94bG9jYXRpb24gd2hlbiBpbiB1bmdyb3VwZWQgdmlldyIsIGZ1bmN0aW9uKCkgewogICAgICB0aGlzLnZpZXdNb2RlbC5pc0dyb3VwZWQoZmFsc2UpOwogICAgICB0aGlzLnZpZXdNb2RlbC5sb2FkQ3VycmVudEFsZXJ0cygpOwoKICAgICAgY29uc3QgY3VycmVudExvY2F0aW9uID0gSlNPTi5zdHJpbmdpZnkoewogICAgICAgIHVybDogd2luZG93LmxvY2F0aW9uLmhyZWYsCiAgICAgICAgdHlwZTogInVuZ3JvdXBlZGluYm94IgogICAgICB9KTsKCiAgICAgIGV4cGVjdChMb2NhbFN0b3JhZ2Uuc2V0SXRlbSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoCiAgICAgICAgQ29va2llTmFtZXMuSW5ib3hMb2NhdGlvbiwKICAgICAgICBjdXJyZW50TG9jYXRpb24KICAgICAgKTsKICAgIH0pOwogIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb29raWVzfSBmcm9tICIuLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL1NjcmlwdHNTb3VyY2UvY29va2llcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5pdGlhbFBhZ2VSZXN1bHQgPSB7CiAgICAgICAgSXRlbXM6IFtdLAogICAgICAgIE1pblRpbWVzdGFtcDogMjAwLAogICAgICAgIE1heFRpbWVzdGFtcDogMjAxLAogICAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgICBGaXJzdEFsZXJ0SWQ6IDIwLAogICAgICAgIE1heEFsZXJ0SWQ6IDIxCiAgICAgIH07Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29udHJvbGxlciA9IGphc21pbmUuY3JlYXRlU3B5T2JqKCdjb250cm9sbGVyJywgWydsb2FkJ10pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtDb29raWVzfSBmcm9tICIuLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL1NjcmlwdHNTb3VyY2UvY29va2llcyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2IuTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29udHJvbGxlciA9IGphc21pbmUuY3JlYXRlU3B5T2JqKCdjb250cm9sbGVyJywgWydsb2FkJ10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2JzKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqb2IuTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
