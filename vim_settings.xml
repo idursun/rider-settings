@@ -669,6 +669,9 @@
         <mark key="^" line="45" column="64" />
         <mark key="." line="45" column="64" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AnalysisGraphStateSpec.js" timestamp="1539185280389">
+        <mark key="'" line="22" column="29" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/knockout.bindings.spinbox.js" timestamp="1529505566272">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -1186,7 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="181" column="72" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="112" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="106" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
@@ -1286,6 +1288,7 @@
       <jump line="19" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/containers/DrillDownTableRow.js" />
       <jump line="80" column="15" filename="D:/repositories/safe/test2/src/Client/Client.fs" />
       <jump line="71" column="6" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/Shared/DrillDownTableRowSpec.jsx" />
+      <jump line="22" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AnalysisGraphStateSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
