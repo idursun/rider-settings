@@ -800,11 +800,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" timestamp="1539081949785">
-        <mark key="'" line="41" column="4" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" timestamp="1539334308790">
+        <mark key="'" line="125" column="65" />
+        <mark key="[" line="157" column="18" />
+        <mark key="]" line="160" column="5" />
+        <mark key="." line="160" column="5" />
+        <mark key="^" line="160" column="5" />
       </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationWatcherActor.cs" timestamp="1535723466416">
         <mark key="'" line="15" column="84" />
@@ -1192,8 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="78" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
-      <jump line="106" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="96" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
       <jump line="88" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="100" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
@@ -1292,13 +1291,15 @@
       <jump line="71" column="6" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/Shared/DrillDownTableRowSpec.jsx" />
       <jump line="22" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AnalysisGraphStateSpec.js" />
       <jump line="35" column="8" filename="D:/repositories/safe/test2/src/Server/Server.fs" />
+      <jump line="132" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
+      <jump line="125" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Headless</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>Headless</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1307,7 +1308,7 @@
         <text encoding="base64">ICAgICJyZWFjdC1yZWR1eCI6ICJeNS4wLjciLAogICAgInJlZHV4IjogIl40LjAuMCIsCiAgICAicmVkdXgtdGh1bmsiOiAiXjIuMy4wIiwKICAgICJyZWR1eC1wZXJzaXN0IjogIl41LjEwLjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgaW1wb3J0ICAicmVkdXgiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1327,30 +1328,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJyZWFjdC1yZWR1eCI7Cg==</text>
+        <text encoding="base64">ICAgaW1wb3J0ICAicmVkdXgiOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0ICJyZWFjdC1yZWR1eCI7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IEpvYnNUYWJsZSBmcm9tICIuLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL0FyZWFzL0VzdGF0ZS9WaWV3cy9Kb2JzL2NvbXBvbmVudHMvU2hhcmVkL0pvYnNUYWJsZS5qc3giOwppbXBvcnQgRmFpbGVkVGFibGVSb3cgZnJvbSAiLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vVUkvV2Vic2l0ZS9BcmVhcy9Fc3RhdGUvVmlld3MvSm9icy9jb21wb25lbnRzL1RhYmxlL0ZhaWxlZEpvYnNUYWJsZS9GYWlsZWRUYWJsZVJvdy5qc3giOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Change controller creation in beforeEach block
 
 (possible cause of moveNewest failure in the whole test suit)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVUaW1lRm9ybWF0U3RyaW5nKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge21vbWVudChqb2IuRGF0ZVJ1bikuZm9ybWF0KGRhdGVUaW1lRm9ybWF0U3RyaW5nKX0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB4ZGVzY3JpYmUoIndoZW4gcGFnZSBsb2FkZWQiLCAoKSA9PiB7CiAgICBjb25zdCBpbml0aWFsUGFnZVJlc3VsdCA9IHsKICAgICAgSXRlbXM6IFtdLAogICAgICBNaW5UaW1lc3RhbXA6IDIwMCwKICAgICAgTWF4VGltZXN0YW1wOiAyMDEsCiAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgRmlyc3RBbGVydElkOiAyMCwKICAgICAgTWF4QWxlcnRJZDogMjEKICAgIH07CgogICAgYmVmb3JlRWFjaChmdW5jdGlvbigpIHsKICAgICAgY29uc3QgbW9ja09wdGlvbnMgPSB7CiAgICAgICAgVXJsczoge30sCiAgICAgICAgU2VydmVyVHJlZU9wdGlvbnM6IHt9LAogICAgICAgIEFsZXJ0VHlwZXM6IFtdLAogICAgICAgIEN1c3RvbUZpbHRlcnM6IFtdCiAgICAgIH07CgogICAgICBjb25zdCBjb250cm9sbGVyID0gamFzbWluZS5jcmVhdGVTcHlPYmooImNvbnRyb2xsZXIiLCBbCiAgICAgICAgImxvYWQiLAogICAgICAgICJtb3ZlTmV3ZXN0IiwKICAgICAgICAiZ3JvdXBUb2dnbGVDaGFuZ2VkIgogICAgICBdKTsKCiAgICAgIGNvbnRyb2xsZXIubG9hZC5hbmQuY2FsbEZha2UoCiAgICAgICAgKAogICAgICAgICAgZmlsdGVyTW9kZWwsCiAgICAgICAgICBjaGFubmVsSW5zdGFuY2VSZWYsCiAgICAgICAgICBwYWdlU2l6ZSwKICAgICAgICAgIGlzR3JvdXBlZCwKICAgICAgICAgIHN0YXJ0VGlja3MsCiAgICAgICAgICBhbGVydElkLAogICAgICAgICAgY2FsbGJhY2sKICAgICAgICApID0+IHsKICAgICAgICAgIGNhbGxiYWNrKGluaXRpYWxQYWdlUmVzdWx0KTsKICAgICAgICB9CiAgICAgICk7CgogICAgICB0aGlzLnZpZXdNb2RlbCA9IG5ldyBBbGVydEluYm94Vmlld01vZGVsKG1vY2tPcHRpb25zLCBjb250cm9sbGVyKTsKICAgIH0pOwoKICAgIGl0KCJzaG91bGQgY29ycmVjdGx5IHNldCBJbmJveGxvY2F0aW9uIHdoZW4gaW4gZ3JvdXBlZCB2aWV3IiwgZnVuY3Rpb24oKSB7CiAgICAgIHRoaXMudmlld01vZGVsLmlzR3JvdXBlZCh0cnVlKTsKICAgICAgdGhpcy52aWV3TW9kZWwubG9hZEN1cnJlbnRBbGVydHMoKTsKCiAgICAgIGNvbnN0IGN1cnJlbnRMb2NhdGlvbiA9IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICB1cmw6IHdpbmRvdy5sb2NhdGlvbi5ocmVmLAogICAgICAgIHR5cGU6ICJncm91cGVkaW5ib3giCiAgICAgIH0pOwoKICAgICAgZXhwZWN0KExvY2FsU3RvcmFnZS5zZXRJdGVtKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgKICAgICAgICBDb29raWVOYW1lcy5JbmJveExvY2F0aW9uLAogICAgICAgIGN1cnJlbnRMb2NhdGlvbgogICAgICApOwogICAgfSk7CgogICAgaXQoInNob3VsZCBjb3JyZWN0bHkgc2V0IEluYm94bG9jYXRpb24gd2hlbiBpbiB1bmdyb3VwZWQgdmlldyIsIGZ1bmN0aW9uKCkgewogICAgICB0aGlzLnZpZXdNb2RlbC5pc0dyb3VwZWQoZmFsc2UpOwogICAgICB0aGlzLnZpZXdNb2RlbC5sb2FkQ3VycmVudEFsZXJ0cygpOwoKICAgICAgY29uc3QgY3VycmVudExvY2F0aW9uID0gSlNPTi5zdHJpbmdpZnkoewogICAgICAgIHVybDogd2luZG93LmxvY2F0aW9uLmhyZWYsCiAgICAgICAgdHlwZTogInVuZ3JvdXBlZGluYm94IgogICAgICB9KTsKCiAgICAgIGV4cGVjdChMb2NhbFN0b3JhZ2Uuc2V0SXRlbSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoCiAgICAgICAgQ29va2llTmFtZXMuSW5ib3hMb2NhdGlvbiwKICAgICAgICBjdXJyZW50TG9jYXRpb24KICAgICAgKTsKICAgIH0pOwogIH0pOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW5pdGlhbFBhZ2VSZXN1bHQgPSB7CiAgICAgICAgSXRlbXM6IFtdLAogICAgICAgIE1pblRpbWVzdGFtcDogMjAwLAogICAgICAgIE1heFRpbWVzdGFtcDogMjAxLAogICAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgICBGaXJzdEFsZXJ0SWQ6IDIwLAogICAgICAgIE1heEFsZXJ0SWQ6IDIxCiAgICAgIH07Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb29raWVzfSBmcm9tICIuLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL1NjcmlwdHNTb3VyY2UvY29va2llcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5pdGlhbFBhZ2VSZXN1bHQgPSB7CiAgICAgICAgSXRlbXM6IFtdLAogICAgICAgIE1pblRpbWVzdGFtcDogMjAwLAogICAgICAgIE1heFRpbWVzdGFtcDogMjAxLAogICAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgICBGaXJzdEFsZXJ0SWQ6IDIwLAogICAgICAgIE1heEFsZXJ0SWQ6IDIxCiAgICAgIH07Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
