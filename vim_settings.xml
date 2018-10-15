@@ -223,8 +223,8 @@
         <mark key="." line="25" column="84" />
         <mark key="^" line="25" column="84" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" timestamp="1531929371094">
-        <mark key="'" line="36" column="12" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" timestamp="1539593393968">
+        <mark key="'" line="34" column="34" />
       </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" timestamp="1535720100241">
         <mark key="'" line="26" column="81" />
@@ -1191,7 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="16" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="100" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
       <jump line="21" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
       <jump line="102" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
@@ -1291,6 +1290,7 @@
       <jump line="132" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
       <jump line="125" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
       <jump line="25" column="68" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
+      <jump line="34" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
