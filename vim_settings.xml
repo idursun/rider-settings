@@ -550,12 +550,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/FilteredVersionsTable.jsx" timestamp="1531138437279">
         <mark key="'" line="33" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1539704274266">
-        <mark key="'" line="46" column="38" />
-        <mark key="[" line="92" column="51" />
-        <mark key="]" line="92" column="55" />
-        <mark key="^" line="92" column="55" />
-        <mark key="." line="92" column="55" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1539707424990">
+        <mark key="'" line="66" column="19" />
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="47" column="47" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -1199,9 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
-      <jump line="107" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
-      <jump line="114" column="65" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="98" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="183" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="53" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
@@ -1299,22 +1296,25 @@
       <jump line="34" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="107" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="46" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="47" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="111" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="68" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Minutes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Minutes</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5UmFuZ2UgPSBtX1F1ZXJ5UmFuZ2VQcm92aWRlci5HZXRNb3N0UmVjZW50Q29sbGVjdGlvblJhbmdlKG1fRGF0ZVRpbWVQcm92aWRlci5VdGNOb3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3QgPSBMb2FkQmFja3VwRGF0YShhY3RpdmVEYXRhYmFzZUNpcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1334,30 +1334,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgaW1wb3J0ICAicmVkdXgiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICJyZWFjdC1yZWR1eCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlRGF0YWJhc2VDaXJzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEpvYnNUYWJsZSBmcm9tICIuLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi9VSS9XZWJzaXRlL0FyZWFzL0VzdGF0ZS9WaWV3cy9Kb2JzL2NvbXBvbmVudHMvU2hhcmVkL0pvYnNUYWJsZS5qc3giOwppbXBvcnQgRmFpbGVkVGFibGVSb3cgZnJvbSAiLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vVUkvV2Vic2l0ZS9BcmVhcy9Fc3RhdGUvVmlld3MvSm9icy9jb21wb25lbnRzL1RhYmxlL0ZhaWxlZEpvYnNUYWJsZS9GYWlsZWRUYWJsZVJvdy5qc3giOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3QyID0gTG9hZEJhY2t1cERhdGEoYWN0aXZlRGF0YWJhc2VDaXJzKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>Change controller creation in beforeEach block
-
-(possible cause of moveNewest failure in the whole test suit)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5DbHVzdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVUaW1lRm9ybWF0U3RyaW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge21vbWVudChqb2IuRGF0ZVJ1bikuZm9ybWF0KGRhdGVUaW1lRm9ybWF0U3RyaW5nKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB4ZGVzY3JpYmUoIndoZW4gcGFnZSBsb2FkZWQiLCAoKSA9PiB7CiAgICBjb25zdCBpbml0aWFsUGFnZVJlc3VsdCA9IHsKICAgICAgSXRlbXM6IFtdLAogICAgICBNaW5UaW1lc3RhbXA6IDIwMCwKICAgICAgTWF4VGltZXN0YW1wOiAyMDEsCiAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgRmlyc3RBbGVydElkOiAyMCwKICAgICAgTWF4QWxlcnRJZDogMjEKICAgIH07CgogICAgYmVmb3JlRWFjaChmdW5jdGlvbigpIHsKICAgICAgY29uc3QgbW9ja09wdGlvbnMgPSB7CiAgICAgICAgVXJsczoge30sCiAgICAgICAgU2VydmVyVHJlZU9wdGlvbnM6IHt9LAogICAgICAgIEFsZXJ0VHlwZXM6IFtdLAogICAgICAgIEN1c3RvbUZpbHRlcnM6IFtdCiAgICAgIH07CgogICAgICBjb25zdCBjb250cm9sbGVyID0gamFzbWluZS5jcmVhdGVTcHlPYmooImNvbnRyb2xsZXIiLCBbCiAgICAgICAgImxvYWQiLAogICAgICAgICJtb3ZlTmV3ZXN0IiwKICAgICAgICAiZ3JvdXBUb2dnbGVDaGFuZ2VkIgogICAgICBdKTsKCiAgICAgIGNvbnRyb2xsZXIubG9hZC5hbmQuY2FsbEZha2UoCiAgICAgICAgKAogICAgICAgICAgZmlsdGVyTW9kZWwsCiAgICAgICAgICBjaGFubmVsSW5zdGFuY2VSZWYsCiAgICAgICAgICBwYWdlU2l6ZSwKICAgICAgICAgIGlzR3JvdXBlZCwKICAgICAgICAgIHN0YXJ0VGlja3MsCiAgICAgICAgICBhbGVydElkLAogICAgICAgICAgY2FsbGJhY2sKICAgICAgICApID0+IHsKICAgICAgICAgIGNhbGxiYWNrKGluaXRpYWxQYWdlUmVzdWx0KTsKICAgICAgICB9CiAgICAgICk7CgogICAgICB0aGlzLnZpZXdNb2RlbCA9IG5ldyBBbGVydEluYm94Vmlld01vZGVsKG1vY2tPcHRpb25zLCBjb250cm9sbGVyKTsKICAgIH0pOwoKICAgIGl0KCJzaG91bGQgY29ycmVjdGx5IHNldCBJbmJveGxvY2F0aW9uIHdoZW4gaW4gZ3JvdXBlZCB2aWV3IiwgZnVuY3Rpb24oKSB7CiAgICAgIHRoaXMudmlld01vZGVsLmlzR3JvdXBlZCh0cnVlKTsKICAgICAgdGhpcy52aWV3TW9kZWwubG9hZEN1cnJlbnRBbGVydHMoKTsKCiAgICAgIGNvbnN0IGN1cnJlbnRMb2NhdGlvbiA9IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICB1cmw6IHdpbmRvdy5sb2NhdGlvbi5ocmVmLAogICAgICAgIHR5cGU6ICJncm91cGVkaW5ib3giCiAgICAgIH0pOwoKICAgICAgZXhwZWN0KExvY2FsU3RvcmFnZS5zZXRJdGVtKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgKICAgICAgICBDb29raWVOYW1lcy5JbmJveExvY2F0aW9uLAogICAgICAgIGN1cnJlbnRMb2NhdGlvbgogICAgICApOwogICAgfSk7CgogICAgaXQoInNob3VsZCBjb3JyZWN0bHkgc2V0IEluYm94bG9jYXRpb24gd2hlbiBpbiB1bmdyb3VwZWQgdmlldyIsIGZ1bmN0aW9uKCkgewogICAgICB0aGlzLnZpZXdNb2RlbC5pc0dyb3VwZWQoZmFsc2UpOwogICAgICB0aGlzLnZpZXdNb2RlbC5sb2FkQ3VycmVudEFsZXJ0cygpOwoKICAgICAgY29uc3QgY3VycmVudExvY2F0aW9uID0gSlNPTi5zdHJpbmdpZnkoewogICAgICAgIHVybDogd2luZG93LmxvY2F0aW9uLmhyZWYsCiAgICAgICAgdHlwZTogInVuZ3JvdXBlZGluYm94IgogICAgICB9KTsKCiAgICAgIGV4cGVjdChMb2NhbFN0b3JhZ2Uuc2V0SXRlbSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoCiAgICAgICAgQ29va2llTmFtZXMuSW5ib3hMb2NhdGlvbiwKICAgICAgICBjdXJyZW50TG9jYXRpb24KICAgICAgKTsKICAgIH0pOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5jb20K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW5pdGlhbFBhZ2VSZXN1bHQgPSB7CiAgICAgICAgSXRlbXM6IFtdLAogICAgICAgIE1pblRpbWVzdGFtcDogMjAwLAogICAgICAgIE1heFRpbWVzdGFtcDogMjAxLAogICAgICAgIEhhc01vcmVJdGVtczogdHJ1ZSwKICAgICAgICBGaXJzdEFsZXJ0SWQ6IDIwLAogICAgICAgIE1heEFsZXJ0SWQ6IDIxCiAgICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
