@@ -549,8 +549,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/FilteredVersionsTable.jsx" timestamp="1531138437279">
         <mark key="'" line="33" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1536915217259">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1539700169464">
         <mark key="'" line="141" column="31" />
+        <mark key="[" line="94" column="12" />
+        <mark key="]" line="94" column="11" />
+        <mark key="^" line="94" column="11" />
+        <mark key="." line="94" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -704,6 +708,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1539700084451">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
         <mark key="'" line="46" column="38" />
