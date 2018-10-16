@@ -371,11 +371,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="54" column="6" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" timestamp="1539703173905">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Alerter/Sql/BackupOverdueAlerter.cs" timestamp="1539704671525">
         <mark key="[" line="160" column="52" />
-        <mark key="]" line="160" column="52" />
-        <mark key="^" line="160" column="55" />
-        <mark key="." line="160" column="52" />
+        <mark key="]" line="160" column="74" />
+        <mark key="^" line="160" column="74" />
+        <mark key="." line="160" column="74" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/ServerOverview/ServerOverviewViewModel.js" timestamp="1529314709030">
         <mark key="[" line="0" column="22" />
@@ -550,12 +550,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/FilteredVersionsTable.jsx" timestamp="1531138437279">
         <mark key="'" line="33" column="15" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1539704159692">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" timestamp="1539704274266">
         <mark key="'" line="46" column="38" />
-        <mark key="[" line="94" column="63" />
-        <mark key="]" line="94" column="63" />
-        <mark key="^" line="94" column="63" />
-        <mark key="." line="94" column="63" />
+        <mark key="[" line="92" column="51" />
+        <mark key="]" line="92" column="55" />
+        <mark key="^" line="92" column="55" />
+        <mark key="." line="92" column="55" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
@@ -1302,10 +1302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Minutes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Minutes</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
