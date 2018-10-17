@@ -936,6 +936,12 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="36" column="63" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.cshtml" timestamp="1539765721662">
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="25" />
+        <mark key="^" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Repositories/IGroupRepository.cs" timestamp="1531147428083">
         <mark key="'" line="7" column="18" />
       </file>
