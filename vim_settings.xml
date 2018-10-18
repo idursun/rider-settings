@@ -428,6 +428,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/TestUtilities/Sql/TransactionIsolatedLocalDbTestSuite.cs" timestamp="1539865707345">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Reports/entry.js" timestamp="1529403198286">
         <mark key="'" line="0" column="0" />
       </file>
@@ -776,6 +782,13 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" timestamp="1539865703914">
+        <mark key="'" line="19" column="66" />
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="43" column="11" />
+        <mark key="." line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/AE/ToObservable.cs" timestamp="1529933069219">
         <mark key="'" line="10" column="90" />
       </file>
@@ -820,6 +833,10 @@
         <mark key="]" line="11" column="59" />
         <mark key="^" line="11" column="59" />
         <mark key="." line="11" column="59" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/TestUtilities/BuildDependencies.cs" timestamp="1539865388441">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="85" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
         <mark key="'" line="1" column="25" />
@@ -878,6 +895,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/IO/FileLoadStrategy.cs" timestamp="1531843796524">
         <mark key="'" line="8" column="40" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryCommitter.cs" timestamp="1539865125678">
+        <mark key="'" line="27" column="46" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" timestamp="1538576305118">
         <mark key="'" line="27" column="15" />
@@ -1198,8 +1218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
-      <jump line="183" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" />
       <jump line="53" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
       <jump line="76" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
       <jump line="82" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/JobHistoryRepositoryTests.cs" />
@@ -1298,22 +1316,24 @@
       <jump line="47" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="111" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="68" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
+      <jump line="27" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryCommitter.cs" />
+      <jump line="19" column="66" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3QgPSBMb2FkQmFja3VwRGF0YShhY3RpdmVEYXRhYmFzZUNpcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzcWxEYXRhU2VyaWFsaXplciA9IG5ldyBTcWxEYXRhU2VyaWFsaXplcihzcWxQcm9wZXJ0eVNlcmlhbGl6ZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1333,22 +1353,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVJlcG9zaXRvcnlDb21taXRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlRGF0YWJhc2VDaXJzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNxbFByb3BlcnR5U2VyaWFsaXplciA9IG5ldyBTcWxQcm9wZXJ0eVNlcmlhbGl6ZXIoZGF0ZVRpbWVTZXJpYWxpemVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3QyID0gTG9hZEJhY2t1cERhdGEoYWN0aXZlRGF0YWJhc2VDaXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5DbHVzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlRGF0YWJhc2VDaXJzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvb3QyID0gTG9hZEJhY2t1cERhdGEoYWN0aXZlRGF0YWJhc2VDaXJzKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1368,10 +1388,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5jb20K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5DbHVzdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1426,10 +1446,10 @@
         <entry>action GotoSymbol</entry>
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
-        <entry>W</entry>
         <entry>action SaveDocument</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
