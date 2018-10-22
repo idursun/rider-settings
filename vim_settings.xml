@@ -826,6 +826,13 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Controllers/ConfigureAlertsController.cs" timestamp="1537262033724">
         <mark key="'" line="191" column="22" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/LiveFeeds/SqlVersions/SqlServerVersionInfoMatchTests.cs" timestamp="1540202471158">
+        <mark key="'" line="13" column="50" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/BackupHistoryRepositoryTests.cs" timestamp="1539865951570">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="222" column="8" />
@@ -854,6 +861,16 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/TestUtilities/BuildDependencies.cs" timestamp="1539865388441">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="85" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/LiveFeeds/SqlVersions/SqlServerVersionLookupTests.cs" timestamp="1540202525193">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/LiveFeeds/SqlVersions/SqlServerVersionInfoTests.cs" timestamp="1540202357262">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
         <mark key="'" line="1" column="25" />
@@ -1130,6 +1147,9 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/LiveFeeds/SqlVersions/SqlServerVersionInfoMatch.cs" timestamp="1540202498228">
+        <mark key="'" line="37" column="29" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/package.json" timestamp="1539252280173">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="29" />
@@ -1264,8 +1284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="6" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" />
-      <jump line="243" column="69" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenPagingSpec.js" />
       <jump line="96" column="71" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/UtilsSpec.js" />
       <jump line="220" column="2" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ServerOverview/BannerViewModelSpec.js" />
       <jump line="56" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/GlobalDashboardViewModelSpec.js" />
@@ -1364,22 +1382,24 @@
       <jump line="59" column="20" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" />
       <jump line="48" column="54" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" />
       <jump line="18" column="17" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
+      <jump line="13" column="50" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/LiveFeeds/SqlVersions/SqlServerVersionInfoMatchTests.cs" />
+      <jump line="37" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/LiveFeeds/SqlVersions/SqlServerVersionInfoMatch.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>double</text>
+        <text>123.456.789</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>123.456.789</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoYW5uZWwgPSBuZXcgQ2hhbm5lbChOYW1lcy5Sb290LkNoYW5uZWxOYW1lLCBuZXcgW10ge2NoYW5uZWxJbnN0YW5jZX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW1Rlc3RDYXNlKCIxMjMuNDU2Ljc4OSIpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVNwYW4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZ1bGxWZXJzaW9uID0gaW5mby5Ub0Z1bGxQcm9kdWN0RGVzY3JpcHRpb24oKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1399,22 +1419,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBNRVRIT0QoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGluZm8gPSBuZXcgU3FsU2VydmVyVmVyc2lvbkluZm8geyBFZGl0aW9uID0gIm15IGVkaXRpb24iLCBWZXJzaW9uID0gVmVyc2lvbi5QYXJzZSgiMTMuMC41MjAxIiksIH07CiAgICAgICAgICAgIHZhciBmdWxsVmVyc2lvbiA9IGluZm8uVG9GdWxsUHJvZHVjdERlc2NyaXB0aW9uKCk7CiAgICAgICAgICAgIEFzc2VydC5UaGF0KGZ1bGxWZXJzaW9uLCBJcy5FcXVhbFRvKCJTUUwgU2VydmVyIG15IGVkaXRpb24iKSk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gVG8gZmlsdGVyIHRvIG11bHRpcGxlIENJUnMgdXNlIDxzZWUgY3JlZj0iQ29tYmluZUFsbCIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW4uTmV3Owp1c2luZyBSZWRHYXRlLlNxbE1vbml0b3IuQ29tbW9uLkRvbWFpbi5OZXcuUXVlcmllczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZVNwYW4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENoYW5uZWxUcmVlPENoYW5uZWxRdWVyeT4gQ3JlYXRlTW9ja0RhdGEoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gVG8gZmlsdGVyIHRvIG11bHRpcGxlIENJUnMgdXNlIDxzZWUgY3JlZj0iQ29tYmluZUFsbCIvPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1434,10 +1454,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Bc3NlcnQuVGhhdChiYWNrdXBIaXN0b3J5SW5mb3MuQ291bnQoKSwgSXMuRXF1YWxUbygxKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW4uTmV3Owp1c2luZyBSZWRHYXRlLlNxbE1vbml0b3IuQ29tbW9uLkRvbWFpbi5OZXcuUXVlcmllczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
