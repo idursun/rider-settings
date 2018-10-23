@@ -1455,10 +1455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Remove console logging</text>
+        <text>ChromiumHeadless</text>
       </register>
       <register name="-" type="4">
-        <text>Remove console logging</text>
+        <text>ChromiumHeadless</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1582,8 +1582,8 @@
         <entry>reg</entry>
         <entry>action Find</entry>
         <entry>w</entry>
-        <entry>W</entry>
         <entry>action SaveDocument</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
