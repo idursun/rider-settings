@@ -16,5 +16,6 @@
     <mask>!*.js</mask>
     <mask>*.cs</mask>
     <mask>*Spec.js</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
