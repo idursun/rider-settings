@@ -557,6 +557,9 @@
         <mark key="]" line="36" column="34" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1540558835241">
+        <mark key="'" line="1001" column="12" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.sqlmon_master.config" timestamp="1540397955411">
         <mark key="[" line="5" column="63" />
         <mark key="]" line="5" column="66" />
@@ -1194,8 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="22" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
-      <jump line="125" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/DrillDownTableRow.jsx" />
       <jump line="25" column="68" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/InstalledVersionsApiController.cs" />
       <jump line="34" column="34" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/InstalledVersionsRepository.cs" />
       <jump line="107" column="25" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
@@ -1294,6 +1295,8 @@
       <jump line="195" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Converters/BackupInfoToBackupHistoryInfoConverterTests.cs" />
       <jump line="171" column="69" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Converters/BackupInfoToBackupHistoryInfoConverterTests.cs" />
       <jump line="32" column="13" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Converters/BackupInfoToBackupHistoryInfoConverterTests.cs" />
+      <jump line="749" column="35" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
+      <jump line="1001" column="12" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
