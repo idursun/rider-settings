@@ -1208,6 +1208,9 @@
         <mark key="^" line="34" column="59" />
         <mark key="." line="34" column="59" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" timestamp="1540827810593">
+        <mark key="'" line="35" column="53" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1540300563316">
         <mark key="'" line="149" column="20" />
         <mark key="[" line="194" column="41" />
@@ -1224,7 +1227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="28" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="44" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="6" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="46" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
@@ -1324,6 +1326,7 @@
       <jump line="70" column="49" filename="D:/workspace/sqlmonitor/Source/RPC/Backups/BackupInfoExtensions.cs" />
       <jump line="113" column="9" filename="D:/workspace/sqlmonitor/Source/Common/Utilities/DateTimeExtensions.cs" />
       <jump line="72" column="32" filename="D:/workspace/sqlmonitor/Source/RPC/Backups/BackupInfoExtensions.cs" />
+      <jump line="35" column="53" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
