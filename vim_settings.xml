@@ -1158,11 +1158,18 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="59" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1540482929346">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1540812999098">
         <mark key="[" line="184" column="60" />
         <mark key="]" line="184" column="60" />
         <mark key="^" line="184" column="65" />
         <mark key="." line="184" column="60" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" timestamp="1540813688784">
+        <mark key="'" line="77" column="42" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1540300563316">
         <mark key="'" line="149" column="20" />
@@ -1200,7 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="24" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="111" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="68" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupHistoryRepository.cs" />
       <jump line="27" column="46" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/Sql/SqlDataRepositoryCommitter.cs" />
@@ -1300,13 +1306,14 @@
       <jump line="315" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" />
       <jump line="183" column="54" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="632" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
+      <jump line="76" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Whitelist GetBackupHistory method</text>
+        <text>backup.Full.StartDate</text>
       </register>
       <register name="-" type="4">
-        <text>Whitelist GetBackupHistory method</text>
+        <text>backup.Full.StartDate</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1376,7 +1383,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1429,9 +1436,9 @@
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
         <entry>W</entry>
+        <entry>action Find</entry>
         <entry>action SaveDocument</entry>
         <entry>w</entry>
-        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
