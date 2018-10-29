@@ -205,6 +205,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1540814448939">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="92" column="127" />
+        <mark key="^" line="92" column="127" />
+        <mark key="." line="92" column="127" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1531134067972">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="22" />
@@ -1310,10 +1316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>backup.Full.StartDate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>backup.Full.StartDate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -1383,7 +1389,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -1437,8 +1443,8 @@
         <entry>reg</entry>
         <entry>W</entry>
         <entry>action Find</entry>
-        <entry>action SaveDocument</entry>
         <entry>w</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
