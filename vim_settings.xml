@@ -106,8 +106,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1540816778189">
-        <mark key="'" line="33" column="29" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1541001018670">
+        <mark key="'" line="54" column="92" />
+        <mark key="[" line="54" column="109" />
+        <mark key="]" line="54" column="112" />
+        <mark key="." line="54" column="112" />
+        <mark key="^" line="54" column="112" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1531134067972">
         <mark key="[" line="17" column="21" />
@@ -1045,6 +1049,12 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="56" column="37" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/BackupHistoryViewModel.cs" timestamp="1541000830849">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureNotifications/Index.aspx" timestamp="1533038945758">
         <mark key="[" line="2" column="48" />
         <mark key="]" line="2" column="48" />
@@ -1237,8 +1247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
-      <jump line="14" column="51" filename="D:/workspace/sqlmonitor/Source/Default/Names/PreStorage/Names.cs" />
       <jump line="53" column="73" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="64" column="101" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="1" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
@@ -1337,22 +1345,24 @@
       <jump line="47" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
       <jump line="22" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
+      <jump line="50" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
+      <jump line="54" column="92" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Field</text>
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>new Field</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBEYXRlVGltZS5TcGVjaWZ5S2luZChkYXRlVGltZS5WYWx1ZSwgRGF0ZVRpbWVLaW5kLlV0Yyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZG91YmxlIEF2ZXJhZ2VMb2dCYWNrdXBJbnRlcnZhbCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFjawo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1372,22 +1382,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWU/IEVuc3VyZVV0YyhEYXRlVGltZT8gZGF0ZVRpbWUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmICghZGF0ZVRpbWUuSGFzVmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIERhdGVUaW1lLlNwZWNpZnlLaW5kKGRhdGVUaW1lLlZhbHVlLCBEYXRlVGltZUtpbmQuVXRjKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW4uQmFja3VwczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0RGF0ZSA9IEVuc3VyZVV0Yyhtc2cuU3RhcnREYXRlKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5VdGlsaXRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWU/IEVuc3VyZVV0YyhEYXRlVGltZT8gZGF0ZVRpbWUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmICghZGF0ZVRpbWUuSGFzVmFsdWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIERhdGVUaW1lLlNwZWNpZnlLaW5kKGRhdGVUaW1lLlZhbHVlLCBEYXRlVGltZUtpbmQuVXRjKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja3VwLlN0YXJ0RGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0RGF0ZSA9IEVuc3VyZVV0Yyhtc2cuU3RhcnREYXRlKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ByaXZhdGUgc3RhdGljIHJlYWRvbmx5IFRlc3RVdGNEYXRlVGltZVByb3ZpZGVyIHNfRGF0ZVRpbWVQcm92aWRlciA9IG5ldyBUZXN0VXRjRGF0ZVRpbWVQcm92aWRlcigpOwogICAgICAgIC8vcHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgRGF0ZVRpbWUgc19DcmVhdGVEYXRlID0gc19EYXRlVGltZVByb3ZpZGVyLlV0Y05vdy5BZGREYXlzKC0xMCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5VdGlsaXRpZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IHNfRGF0ZVRpbWVQcm92aWRlci5VdGNOb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja3VwLlN0YXJ0RGF0ZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1407,13 +1417,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IHNfRGF0ZVRpbWVQcm92aWRlci5VdGNOb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3ByaXZhdGUgc3RhdGljIHJlYWRvbmx5IFRlc3RVdGNEYXRlVGltZVByb3ZpZGVyIHNfRGF0ZVRpbWVQcm92aWRlciA9IG5ldyBUZXN0VXRjRGF0ZVRpbWVQcm92aWRlcigpOwogICAgICAgIC8vcHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgRGF0ZVRpbWUgc19DcmVhdGVEYXRlID0gc19EYXRlVGltZVByb3ZpZGVyLlV0Y05vdy5BZGREYXlzKC0xMCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IHNfRGF0ZVRpbWVQcm92aWRlci5VdGNOb3c7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1466,9 +1476,9 @@
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
         <entry>action SaveDocument</entry>
-        <entry>w</entry>
         <entry>W</entry>
         <entry>action Find</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
