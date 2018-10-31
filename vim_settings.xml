@@ -106,11 +106,11 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1541002052001">
-        <mark key="[" line="63" column="43" />
-        <mark key="]" line="63" column="86" />
-        <mark key="^" line="63" column="86" />
-        <mark key="." line="63" column="86" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1541003917248">
+        <mark key="[" line="71" column="66" />
+        <mark key="]" line="72" column="35" />
+        <mark key="^" line="72" column="35" />
+        <mark key="." line="72" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1531134067972">
         <mark key="[" line="17" column="21" />
@@ -454,6 +454,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/BackupHistory.js" timestamp="1541004058690">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersions.json" timestamp="1531844137827">
         <mark key="'" line="2068" column="32" />
