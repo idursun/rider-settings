@@ -623,11 +623,12 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="59" column="73" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1540812999098">
-        <mark key="[" line="184" column="60" />
-        <mark key="]" line="184" column="60" />
-        <mark key="^" line="184" column="65" />
-        <mark key="." line="184" column="60" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1540980814499">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="311" column="60" />
+        <mark key="]" line="311" column="60" />
+        <mark key="^" line="311" column="65" />
+        <mark key="." line="311" column="60" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" timestamp="1540813688784">
         <mark key="'" line="76" column="42" />
@@ -1236,9 +1237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
-      <jump line="39" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
-      <jump line="43" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="45" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
       <jump line="14" column="51" filename="D:/workspace/sqlmonitor/Source/Default/Names/PreStorage/Names.cs" />
       <jump line="53" column="73" filename="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" />
@@ -1336,6 +1334,9 @@
       <jump line="54" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" />
       <jump line="89" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" />
       <jump line="301" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Controllers/ServerOverviewController.cs" />
+      <jump line="47" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
+      <jump line="22" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
+      <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1412,7 +1413,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IHNfRGF0ZVRpbWVQcm92aWRlci5VdGNOb3c7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1464,10 +1465,10 @@
         <entry>action GotoSymbol</entry>
         <entry>action RecentFiles</entry>
         <entry>reg</entry>
-        <entry>action Find</entry>
         <entry>action SaveDocument</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
