@@ -541,7 +541,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" timestamp="1541075462199">
         <mark key="a" line="183" column="0" />
-        <mark key="'" line="155" column="11" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -1175,10 +1174,10 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupHistorySpec.js" timestamp="1541073415921">
         <mark key="'" line="23" column="29" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="23" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Table.js" timestamp="1537278733475">
         <mark key="'" line="2" column="44" />
