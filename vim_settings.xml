@@ -539,11 +539,12 @@
         <mark key="^" line="96" column="32" />
         <mark key="." line="96" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" timestamp="1541075462199">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" timestamp="1541517191375">
         <mark key="a" line="183" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="12" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Shared/FormatSpec.js" timestamp="1541070988147">
         <mark key="'" line="107" column="6" />
@@ -1372,11 +1373,11 @@
       <jump line="86" column="62" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgTW9uby5TZWN1cml0eS5DcnlwdG9ncmFwaHk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>Full</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
@@ -1446,7 +1447,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhY2t1cHNSZXBvc2l0b3J5ID0gbmV3IE1vY2s8SUJhY2t1cHNSZXBvc2l0b3J5PigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -1493,7 +1494,6 @@
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry>action GotoFile</entry>
         <entry>reg</entry>
-        <entry>action SaveDocument</entry>
         <entry encoding="base64">JzwsJz5zL0Z1bGwvRGlmZi9n</entry>
         <entry encoding="base64">JzwsJz5zL0Z1bGwvTG9nL2c=</entry>
         <entry>action Find</entry>
@@ -1502,6 +1502,7 @@
         <entry>action GotoSymbol</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
