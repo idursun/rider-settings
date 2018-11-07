@@ -896,6 +896,13 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/modules/Page.js" timestamp="1541591951760">
+        <mark key="'" line="53" column="3" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="56" column="42" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/JobHistory/JobHistoryInfoMessage.cs" timestamp="1540222468220">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="22" />
@@ -909,10 +916,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/ConfigureStore.js" timestamp="1541588971370">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/ConfigureStore.js" timestamp="1541592031990">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="68" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="1" />
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
@@ -1106,11 +1113,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/ConfigureStore.js" timestamp="1541590773847">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="10" column="27" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/ConfigureStore.js" timestamp="1541591785940">
+        <mark key="'" line="12" column="3" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Helpers/SpecHelper.js" timestamp="1528465353610">
         <mark key="[" line="4" column="61" />
@@ -1202,11 +1210,11 @@
         <mark key="^" line="85" column="60" />
         <mark key="." line="85" column="60" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" timestamp="1539082011640">
-        <mark key="[" line="67" column="26" />
-        <mark key="]" line="67" column="27" />
-        <mark key="." line="67" column="27" />
-        <mark key="^" line="60" column="29" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" timestamp="1541592049840">
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="69" column="44" />
+        <mark key="^" line="69" column="44" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupHistorySpec.js" timestamp="1541073415921">
         <mark key="'" line="23" column="29" />
@@ -1306,11 +1314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownGraph.jsx" />
-      <jump line="93" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/Page.jsx" />
-      <jump line="92" column="12" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/Page.jsx" />
-      <jump line="91" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/Page.jsx" />
-      <jump line="7" column="11" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/GroupToolbox/GroupToolbox.jsx" />
       <jump line="1" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/GroupToolbox/GroupToolbox.jsx" />
       <jump line="26" column="10" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/containers/GroupToolbox.js" />
       <jump line="0" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/containers/GroupToolbox.js" />
@@ -1406,10 +1409,15 @@
       <jump line="21" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/entry.jsx" />
       <jump line="19" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/entry.jsx" />
       <jump line="23" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/entry.jsx" />
+      <jump line="13" column="56" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/ConfigureStore.js" />
+      <jump line="41" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/modules/Page.js" />
+      <jump line="3" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/ConfigureStore.js" />
+      <jump line="18" column="3" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/ConfigureStore.js" />
+      <jump line="53" column="3" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/modules/Page.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgcGVyc2lzdENvbmZpZyA9IHsKICBrZXk6ICJlc3RhdGUiLAogIHN0b3JhZ2U6IHN0b3JhZ2UsCiAgd2hpdGVsaXN0OiBbImdyb3VwVG9nZ2xlIiwgImhpc3RvcnkiXQp9Owo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1418,10 +1426,10 @@
         <text>td</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGVyc2lzdEdhdGUgfSBmcm9tICJyZWR1eC1wZXJzaXN0L2ludGVncmF0aW9uL3JlYWN0IjsK</text>
+        <text encoding="base64">Y29uc3QgcGVyc2lzdENvbmZpZyA9IHsKICBrZXk6ICJlc3RhdGUiLAogIHN0b3JhZ2U6IHN0b3JhZ2UsCiAgd2hpdGVsaXN0OiBbImdyb3VwVG9nZ2xlIiwgImhpc3RvcnkiXQp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGVyc2lzdEdhdGUgfSBmcm9tICJyZWR1eC1wZXJzaXN0L2ludGVncmF0aW9uL3JlYWN0IjsK</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JhZ2UgZnJvbSAicmVkdXgtcGVyc2lzdC9saWIvc3RvcmFnZSI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1441,22 +1449,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdG9yZS5zdWJzY3JpYmUoKCkgPT4gdXBkYXRlU3RvcmVkU3RhdGUoc3RvcmUpKTsK</text>
+        <text encoding="base64">Y29uc3QgcGVyc2lzdENvbmZpZyA9IHsKICBrZXk6ICJlc3RhdGUiLAogIHN0b3JhZ2U6IHN0b3JhZ2UsCiAgd2hpdGVsaXN0OiBbImdyb3VwVG9nZ2xlIiwgImZpbHRlciJdCn07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbml0aWFsU3RhdGUgPSB7CiAgICAuLi5pbml0aWFsU3RhdGUsCiAgICAuLi5zdG9yZWRTdGF0ZQogIH07Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZWRTdGF0ZSA9IGxvYWRTdG9yZWRTdGF0ZSgpOwo=</text>
+        <text encoding="base64">Y29uc3QgcGVyc2lzdGVkUmVkdWNlciA9IHBlcnNpc3RSZWR1Y2VyKHBlcnNpc3RDb25maWcsIFBhZ2VSZWR1Y2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGVyc2lzdENvbmZpZyA9IHsKICBrZXk6ICJlc3RhdGUiLAogIHN0b3JhZ2U6IHN0b3JhZ2UsCiAgd2hpdGVsaXN0OiBbImdyb3VwVG9nZ2xlIiwgImZpbHRlciJdCn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUGVyc2lzdEdhdGUgfSBmcm9tICJyZWR1eC1wZXJzaXN0L2ludGVncmF0aW9uL3JlYWN0IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHByZXZpb3VzU3RhdGU7CmZ1bmN0aW9uIHVwZGF0ZVN0b3JlZFN0YXRlKHN0b3JlKSB7CiAgY29uc3QgbmV3U3RhdGUgPSBzdG9yZS5nZXRTdGF0ZSgpOwoKICBpZiAocHJldmlvdXNTdGF0ZSAmJiBuZXdTdGF0ZSAhPT0gcHJldmlvdXNTdGF0ZSkgewogICAgaWYgKAogICAgICBwcmV2aW91c1N0YXRlLmdyb3VwVG9nZ2xlICYmCiAgICAgIG5ld1N0YXRlLmdyb3VwVG9nZ2xlICE9PSBwcmV2aW91c1N0YXRlLmdyb3VwVG9nZ2xlCiAgICApIHsKICAgICAgaWYgKAogICAgICAgIG5ld1N0YXRlLmdyb3VwVG9nZ2xlLnNob3dHcm91cHMgIT09IHByZXZpb3VzU3RhdGUuZ3JvdXBUb2dnbGUuc2hvd0dyb3VwcwogICAgICApIHsKICAgICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgKICAgICAgICAgICJlc3RhdGUuc2hvd0dyb3VwcyIsCiAgICAgICAgICBKU09OLnN0cmluZ2lmeShuZXdTdGF0ZS5ncm91cFRvZ2dsZS5zaG93R3JvdXBzKQogICAgICAgICk7CiAgICAgIH0KICAgIH0KICB9CgogIHByZXZpb3VzU3RhdGUgPSBuZXdTdGF0ZTsKfQo=</text>
+        <text encoding="base64">ICBzdG9yZS5zdWJzY3JpYmUoKCkgPT4gdXBkYXRlU3RvcmVkU3RhdGUoc3RvcmUpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1476,7 +1484,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbG9hZFN0b3JlZFN0YXRlKCkgewogIGxldCBzdG9yZWRTdGF0ZSA9IHt9OwoKICBsZXQgc2hvd0dyb3Vwc0Zyb21TdG9yYWdlID0gSlNPTi5wYXJzZSgKICAgIGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJlc3RhdGUuc2hvd0dyb3VwcyIpCiAgKTsKICBpZiAoc2hvd0dyb3Vwc0Zyb21TdG9yYWdlICE9PSBudWxsKSB7CiAgICBzdG9yZWRTdGF0ZS5ncm91cFRvZ2dsZSA9IHsKICAgICAgc2hvd0dyb3Vwczogc2hvd0dyb3Vwc0Zyb21TdG9yYWdlCiAgICB9OwogIH0KCiAgcmV0dXJuIHN0b3JlZFN0YXRlOwp9Cg==</text>
+        <text encoding="base64">ICBpbml0aWFsU3RhdGUgPSB7CiAgICAuLi5pbml0aWFsU3RhdGUsCiAgICAuLi5zdG9yZWRTdGF0ZQogIH07Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBjb25zdCBzdG9yZWRTdGF0ZSA9IGxvYWRTdG9yZWRTdGF0ZSgpOwo=</text>
