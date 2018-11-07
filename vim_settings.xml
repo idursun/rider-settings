@@ -349,6 +349,11 @@
         <mark key="^" line="123" column="7" />
         <mark key="." line="123" column="7" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Shared/SubNavBarSpec.jsx" timestamp="1541600100855">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" timestamp="1540810053946">
         <mark key="'" line="632" column="8" />
       </file>
@@ -1469,19 +1474,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add selectedGroups to persistence configuration</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Add selectedGroups to persistence configuration</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRHcm91cHMoam9icykpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSBhIikuZGVidWcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRHcm91cHMoam9icykpOwogIGNvbnNvbGUubG9nKGpvYnMubWFwKHggPT4geC5Hcm91cCkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JhcHBlci5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSIpLmRlYnVnKCkpOwogICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLmZpbmQoImxpIGEiKS5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSBhIHNwYW4iKS5kZWJ1ZygpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1501,22 +1506,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXBzLCBCQUNLVVBTX0xPQURFRCB9IGZyb20gIi4vQmFja3VwcyI7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRHcm91cHMoam9icykpOwogIGNvbnNvbGUubG9nKGpvYnMubWFwKHggPT4geC5Hcm91cCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXBzLCBCQUNLVVBTX0xPQURFRCB9IGZyb20gIi4vQmFja3VwcyI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQkFDS1VQU19MT0FERUQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQuYmFja3VwcykK</text>
+        <text encoding="base64">ICAgIGNhc2UgQkFDS1VQU19MT0FERUQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUKICAgICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQuYmFja3VwcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQuam9icyksCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1536,10 +1541,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TW92ZSBwZXJzaXN0IGNvbmZpZ3VyYXRpb25zIG5leHQgdG8gUGFnZVJlZHVjZXIK</text>
+        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQuam9icyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JhZ2UgZnJvbSAicmVkdXgtcGVyc2lzdC9saWIvc3RvcmFnZSI7Cg==</text>
+        <text encoding="base64">TW92ZSBwZXJzaXN0IGNvbmZpZ3VyYXRpb25zIG5leHQgdG8gUGFnZVJlZHVjZXIK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
