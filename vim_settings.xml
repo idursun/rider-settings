@@ -46,6 +46,12 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" timestamp="1541687668191">
+        <mark key="[" line="200" column="9" />
+        <mark key="]" line="201" column="5" />
+        <mark key="." line="201" column="5" />
+        <mark key="^" line="201" column="5" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Communicators/FileSamplesLoaderPerformanceTest.cs" timestamp="1530028373526">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="23" />
@@ -655,7 +661,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541671072632">
+      <file name="/Dummy.txt" timestamp="1541687675784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1058,8 +1064,8 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Filter.js" timestamp="1541597159282">
-        <mark key="'" line="33" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Filter.js" timestamp="1541687028836">
+        <mark key="'" line="47" column="7" />
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
@@ -1374,10 +1380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="315" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" />
-      <jump line="183" column="54" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
-      <jump line="632" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="76" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" />
       <jump line="33" column="29" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
       <jump line="20" column="66" filename="D:/workspace/sqlmonitor/Source/RPC/Backups/BackupsRepositoryRpcClient.cs" />
@@ -1474,34 +1476,26 @@
       <jump line="51" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" />
       <jump line="57" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
       <jump line="27" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" />
+      <jump line="36" column="4" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
+      <jump line="0" column="21" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
+      <jump line="184" column="19" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
+      <jump line="47" column="7" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Filter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Include selected groups in jobs group list
-
-Group list is being pulled from the jobs list, but if the selected 
-groups don't appear not in the list of the jobs then the groups 
-selection filter looks different than the ones in the other pages.
-
-This change fixes this glitch.</text>
+        <text>state.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;filter&quot;</text>
+        <text>state.</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZJTFRFUl9QRVJTSVNURU5DRV9LRVkgPSAiZXN0YXRlLmZpbHRlciI7Cg==</text>
+        <text encoding="base64">ICAgICAgaXQoInNob3VsZCByZXNldCB0aGUgc2VsZWN0ZWQgZGlzayBuYW1lcyIsIGZ1bmN0aW9uKCkgewogICAgICAgIGNvbnN0IHN0YXRlID0gewogICAgICAgICAgYWxsRGlza05hbWVzOiBbIkRpc2sxIiwgIkRpc2syIl0sCiAgICAgICAgICBzZWxlY3RlZERpc2tOYW1lczogWyJEaXNrMSJdCiAgICAgICAgfTsKICAgICAgICBjb25zdCBuZXh0U3RhdGUgPSBmaWx0ZXJSZWR1Y2VyKHN0YXRlLCBhY3Rpb25DcmVhdG9ycy5jbGVhckZpbHRlcnMoKSk7CiAgICAgICAgZXhwZWN0KG5leHRTdGF0ZS5zZWxlY3RlZERpc2tOYW1lcykudG9CZShzdGF0ZS5hbGxEaXNrTmFtZXMpOwogICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Include selected groups in jobs group list
-
-Group list is being pulled from the jobs list, but if the selected 
-groups don't appear not in the list of the jobs then the groups 
-selection filter looks different than the ones in the other pages.
-
-This change fixes this glitch.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkRGlza05hbWVzOiBbIkRpc2sxIl0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1521,22 +1515,28 @@ This change fixes this glitch.</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCJzaG91bGQgcmVzZXQgdGhlIHNlbGVjdGVkIGdyb3VwcyIsIGZ1bmN0aW9uKCkgewogICAgICBjb25zdCBzdGF0ZSA9IHsKICAgICAgICBhbGxHcm91cHM6IFsiRzEiLCAiRzIiXSwKICAgICAgICBzZWxlY3RlZEdyb3VwczogWyJHMSJdCiAgICAgIH07CiAgICAgIGNvbnN0IG5leHRTdGF0ZSA9IGZpbHRlclJlZHVjZXIoc3RhdGUsIGFjdGlvbkNyZWF0b3JzLmNsZWFyRmlsdGVycygpKTsKICAgICAgZXhwZWN0KG5leHRTdGF0ZS5zZWxlY3RlZEdyb3VwcykudG9CZShzdGF0ZS5hbGxHcm91cHMpOwogICAgfSk7CgogICAgaXQoInNob3VsZCByZXNldCB0aGUgc2VsZWN0ZWQgZGlzayBuYW1lcyIsIGZ1bmN0aW9uKCkgewogICAgICBjb25zdCBzdGF0ZSA9IHsKICAgICAgICBhbGxEaXNrTmFtZXM6IFsiRGlzazEiLCAiRGlzazIiXSwKICAgICAgICBzZWxlY3RlZERpc2tOYW1lczogWyJEaXNrMSJdCiAgICAgIH07CiAgICAgIGNvbnN0IG5leHRTdGF0ZSA9IGZpbHRlclJlZHVjZXIoc3RhdGUsIGFjdGlvbkNyZWF0b3JzLmNsZWFyRmlsdGVycygpKTsKICAgICAgZXhwZWN0KG5leHRTdGF0ZS5zZWxlY3RlZERpc2tOYW1lcykudG9CZShzdGF0ZS5hbGxEaXNrTmFtZXMpOwogICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEpPQlNfUEVSU0lTVEVOQ0VfS0VZID0gImVzdGF0ZS5qb2JzIjsK</text>
+        <text encoding="base64">ICAgIGl0KCJzaG91bGQgcmVzZXQgc2VsZWN0ZWRHcm91cHMiLCBmdW5jdGlvbigpIHsKICAgICAgY29uc3Qgc3RhdGUgPSB7CiAgICAgICAgYWxsR3JvdXBzOiBbIkcxIiwgIkcyIl0sCiAgICAgICAgc2VsZWN0ZWRHcm91cHM6IFsiRzEiXQogICAgICB9OwogICAgICBjb25zdCBuZXh0U3RhdGUgPSBmaWx0ZXJSZWR1Y2VyKHN0YXRlLCBhY3Rpb25DcmVhdG9ycy5jbGVhckZpbHRlcnMoKSk7CiAgICAgIGV4cGVjdChuZXh0U3RhdGUuc2VsZWN0ZWRHcm91cHMpLnRvQmUoc3RhdGUuYWxsR3JvdXBzKTsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW51bSBQZXJzCg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgiZmlsdGVyRGlza3MiLCBmdW5jdGlvbigpIHsKICAgIGNvbnN0IERFRkFVTFRfRElTSyA9IHsKICAgICAgSXNGdWxsOiBmYWxzZSwKICAgICAgT2JqZWN0SWNvbjogIiIsCiAgICAgIE1hY2hpbmVOYW1lOiAiIiwKICAgICAgRGlza05hbWU6ICIiLAogICAgICBTcWxJbnN0YW5jZXM6IFtdLAogICAgICBTaXplOiAwLAogICAgICBVc2VkOiAwLAogICAgICBQZXJjZW50RnVsbDogMAogICAgfTsKCiAgICBkZXNjcmliZSgid2hlbiBkZWZhdWx0IGZpbHRlciBpcyBwcm92aWRlZCIsIGZ1bmN0aW9uKCkgewogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uKCkgewogICAgICAgIHRoaXMuYWxsRGlza3MgPSBbCiAgICAgICAgICB7IC4uLkRFRkFVTFRfRElTSywgTWFjaGluZU5hbWU6ICJNYWNoaW5lMSIsIEdyb3VwOiAiMSAtIFByb2R1Y3Rpb24iIH0sCiAgICAgICAgICB7IC4uLkRFRkFVTFRfRElTSywgTWFjaGluZU5hbWU6ICJNYWNoaW5lMiIsIEdyb3VwOiAiMiAtIFRlc3RpbmciIH0KICAgICAgICBdOwogICAgICB9KTsKCiAgICAgIGl0KCJzaG91bGQga2VlcCBhbGwgZGlza3MiLCBmdW5jdGlvbigpIHsKICAgICAgICBjb25zdCBmaWx0ZXJlZERpc2tzID0gZmlsdGVyRGlza3ModGhpcy5hbGxEaXNrcywgewogICAgICAgICAgZmlsdGVyVGV4dDogIiIsCiAgICAgICAgICBzZWxlY3RlZEdyb3VwczogWyIxIC0gUHJvZHVjdGlvbiIsICIyIC0gVGVzdGluZyJdCiAgICAgICAgfSk7CgogICAgICAgIGV4cGVjdChmaWx0ZXJlZERpc2tzLmxlbmd0aCkudG9CZSgyKTsKICAgICAgfSk7CiAgICB9KTsKCiAgICBkZXNjcmliZSgid2hlbiBjdXN0b20gZmlsdGVyIGlzIHByb3ZpZGVkIiwgZnVuY3Rpb24oKSB7CiAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CiAgICAgICAgdGhpcy5hbGxEaXNrcyA9IFsKICAgICAgICAgIHsKICAgICAgICAgICAgLi4uREVGQVVMVF9ESVNLLAogICAgICAgICAgICBNYWNoaW5lTmFtZTogIk1hY2hpbmUxIiwKICAgICAgICAgICAgU3FsSW5zdGFuY2VzOiBbCiAgICAgICAgICAgICAgeyBOYW1lOiAic3FsMjAxNCIgfSwKICAgICAgICAgICAgICB7IE5hbWU6ICJzcWwyMDAwIiwgQWxpYXM6ICJvbGQgaW5zdGFuY2UiIH0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgR3JvdXA6ICIxIC0gUHJvZHVjdGlvbiIsCiAgICAgICAgICAgIERpc2tOYW1lOiAiQzoiCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAuLi5ERUZBVUxUX0RJU0ssCiAgICAgICAgICAgIE1hY2hpbmVOYW1lOiAiTWFjaGluZTIiLAogICAgICAgICAgICBTcWxJbnN0YW5jZXM6IFt7IE5hbWU6ICJzcWwyMDE0IiB9XSwKICAgICAgICAgICAgR3JvdXA6ICIyIC0gVGVzdGluZyIsCiAgICAgICAgICAgIERpc2tOYW1lOiAiQzoiCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICAuLi5ERUZBVUxUX0RJU0ssCiAgICAgICAgICAgIE1hY2hpbmVOYW1lOiAiTWFjaGluZTMiLAogICAgICAgICAgICBTcWxJbnN0YW5jZXM6IFt7IE5hbWU6ICJzcWwyMDE2IiB9XSwKICAgICAgICAgICAgR3JvdXA6ICIyIC0gVGVzdGluZyIsCiAgICAgICAgICAgIERpc2tOYW1lOiAiRDoiCiAgICAgICAgICB9CiAgICAgICAgXTsKICAgICAgfSk7CgogICAgICBkZXNjcmliZSgid2l0aCBmaWx0ZXJUZXh0IG9ubHkiLCBmdW5jdGlvbigpIHsKICAgICAgICBpdCgic2hvdWxkIGZpbHRlciBtYWNoaW5lIG5hbWVzIGJhc2VkIG9uIGZpbHRlclRleHQiLCBmdW5jdGlvbigpIHsKICAgICAgICAgIGNvbnN0IGZpbHRlcmVkRGlza3MgPSBmaWx0ZXJEaXNrcyh0aGlzLmFsbERpc2tzLCB7CiAgICAgICAgICAgIGZpbHRlclRleHQ6ICJNYWNoaW5lMSIsCiAgICAgICAgICAgIHNlbGVjdGVkR3JvdXBzOiBbIjEgLSBQcm9kdWN0aW9uIiwgIjIgLSBUZXN0aW5nIl0KICAgICAgICAgIH0pOwoKICAgICAgICAgIGV4cGVjdChmaWx0ZXJlZERpc2tzLmxlbmd0aCkudG9CZSgxKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoInNob3VsZCBmaWx0ZXIgaW5zdGFuY2UgbmFtZXMgYmFzZWQgb24gZmlsdGVyVGV4dCIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgY29uc3QgZmlsdGVyZWREaXNrcyA9IGZpbHRlckRpc2tzKHRoaXMuYWxsRGlza3MsIHsKICAgICAgICAgICAgZmlsdGVyVGV4dDogInNxbDIwMTQiLAogICAgICAgICAgICBzZWxlY3RlZEdyb3VwczogWyIxIC0gUHJvZHVjdGlvbiIsICIyIC0gVGVzdGluZyJdCiAgICAgICAgICB9KTsKCiAgICAgICAgICBleHBlY3QoZmlsdGVyZWREaXNrcy5sZW5ndGgpLnRvQmUoMik7CiAgICAgICAgfSk7CgogICAgICAgIGl0KCJzaG91bGQgZmlsdGVyIGluc3RhbmNlIGFsaWFzZXMgYmFzZWQgb24gZmlsdGVyVGV4dCIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgY29uc3QgZmlsdGVyZWREaXNrcyA9IGZpbHRlckRpc2tzKHRoaXMuYWxsRGlza3MsIHsKICAgICAgICAgICAgZmlsdGVyVGV4dDogIm9sZCBpbnN0YW5jZSIsCiAgICAgICAgICAgIHNlbGVjdGVkR3JvdXBzOiBbIjEgLSBQcm9kdWN0aW9uIiwgIjIgLSBUZXN0aW5nIl0KICAgICAgICAgIH0pOwoKICAgICAgICAgIGV4cGVjdChmaWx0ZXJlZERpc2tzLmxlbmd0aCkudG9CZSgxKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoInNob3VsZCBpZ25vcmUgY2FzZSIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgY29uc3QgZmlsdGVyZWREaXNrcyA9IGZpbHRlckRpc2tzKHRoaXMuYWxsRGlza3MsIHsKICAgICAgICAgICAgZmlsdGVyVGV4dDogIm1BQ0hpTkUxIiwKICAgICAgICAgICAgc2VsZWN0ZWRHcm91cHM6IFsiMSAtIFByb2R1Y3Rpb24iLCAiMiAtIFRlc3RpbmciXQogICAgICAgICAgfSk7CgogICAgICAgICAgZXhwZWN0KGZpbHRlcmVkRGlza3MubGVuZ3RoKS50b0JlKDEpOwogICAgICAgIH0pOwoKICAgICAgICBpdCgic2hvdWxkIGlnbm9yZSB0cmFpbGluZyBhbmQgbGVhZGluZyB3aGl0ZSBzcGFjZSIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgY29uc3QgZmlsdGVyZWREaXNrcyA9IGZpbHRlckRpc2tzKHRoaXMuYWxsRGlza3MsIHsKICAgICAgICAgICAgZmlsdGVyVGV4dDogIiAgbUFDSGlORTEgICIsCiAgICAgICAgICAgIHNlbGVjdGVkR3JvdXBzOiBbIjEgLSBQcm9kdWN0aW9uIiwgIjIgLSBUZXN0aW5nIl0KICAgICAgICAgIH0pOwoKICAgICAgICAgIGV4cGVjdChmaWx0ZXJlZERpc2tzLmxlbmd0aCkudG9CZSgxKTsKICAgICAgICB9KTsKICAgICAgfSk7CgogICAgICBkZXNjcmliZSgid2l0aCBzZWxlY3RlZEdyb3VwcyBvbmx5IiwgZnVuY3Rpb24oKSB7CiAgICAgICAgaXQoInNob3VsZCBmaWx0ZXIgYmFzZWQgb24gc2VsZWN0ZWRHcm91cHMiLCBmdW5jdGlvbigpIHsKICAgICAgICAgIGNvbnN0IGZpbHRlcmVkRGlza3MgPSBmaWx0ZXJEaXNrcyh0aGlzLmFsbERpc2tzLCB7CiAgICAgICAgICAgIGZpbHRlclRleHQ6ICIiLAogICAgICAgICAgICBzZWxlY3RlZEdyb3VwczogWyIyIC0gVGVzdGluZyJdCiAgICAgICAgICB9KTsKCiAgICAgICAgICBleHBlY3QoZmlsdGVyZWREaXNrcy5sZW5ndGgpLnRvQmUoMik7CiAgICAgICAgfSk7CiAgICAgIH0pOwoKICAgICAgZGVzY3JpYmUoIndpdGggc2VsZWN0ZWREaXNrTmFtZXMgb25seSIsIGZ1bmN0aW9uKCkgewogICAgICAgIGl0KCJzaG91bGQgZmlsdGVyIGJhc2VkIG9uIHNlbGVjdGVkR3JvdXBzIiwgZnVuY3Rpb24oKSB7CiAgICAgICAgICBjb25zdCBmaWx0ZXJlZERpc2tzID0gZmlsdGVyRGlza3ModGhpcy5hbGxEaXNrcywgewogICAgICAgICAgICBmaWx0ZXJUZXh0OiAiIiwKICAgICAgICAgICAgc2VsZWN0ZWRHcm91cHM6IFsiMSAtIFByb2R1Y3Rpb24iLCAiMiAtIFRlc3RpbmciXSwKICAgICAgICAgICAgc2VsZWN0ZWREaXNrTmFtZXM6IFsiRDoiXQogICAgICAgICAgfSk7CgogICAgICAgICAgZXhwZWN0KGZpbHRlcmVkRGlza3MubGVuZ3RoKS50b0JlKDEpOwogICAgICAgIH0pOwogICAgICB9KTsKCiAgICAgIGRlc2NyaWJlKCJ3aXRoIGFsbCBmaWx0ZXJzIiwgZnVuY3Rpb24oKSB7CiAgICAgICAgaXQoInNob3VsZCBmaWx0ZXIgYmFzZWQgb24gZmlsdGVyIGNvbWJpbmF0aW9uIiwgZnVuY3Rpb24oKSB7CiAgICAgICAgICBjb25zdCBmaWx0ZXJlZERpc2tzID0gZmlsdGVyRGlza3ModGhpcy5hbGxEaXNrcywgewogICAgICAgICAgICBmaWx0ZXJUZXh0OiAiTWFjaGluZTIiLAogICAgICAgICAgICBzZWxlY3RlZEdyb3VwczogWyIyIC0gVGVzdGluZyJdCiAgICAgICAgICB9KTsKCiAgICAgICAgICBleHBlY3QoZmlsdGVyZWREaXNrcy5sZW5ndGgpLnRvQmUoMSk7CiAgICAgICAgfSk7CiAgICAgIH0pOwogICAgfSk7CiAgfSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JhcHBlci5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSIpLmRlYnVnKCkpOwogICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLmZpbmQoImxpIGEiKS5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSBhIHNwYW4iKS5kZWJ1ZygpKTsK</text>
+      <register name="6" type="4">
+        <text>Include selected groups in jobs group list
+
+Group list is being pulled from the jobs list, but if the selected 
+groups don't appear not in the list of the jobs then the groups 
+selection filter looks different than the ones in the other pages.
+
+This change fixes this glitch.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRHcm91cHMoam9icykpOwogIGNvbnNvbGUubG9nKGpvYnMubWFwKHggPT4geC5Hcm91cCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1556,10 +1556,10 @@ This change fixes this glitch.</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXBzLCBCQUNLVVBTX0xPQURFRCB9IGZyb20gIi4vQmFja3VwcyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEpPQlNfUEVSU0lTVEVOQ0VfS0VZID0gImVzdGF0ZS5qb2JzIjsK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
@@ -1598,7 +1598,6 @@ This change fixes this glitch.</text>
         <entry>td</entry>
       </history-search>
       <history-cmd>
-        <entry>action File</entry>
         <entry>actionlist File</entry>
         <entry>action GoToFile</entry>
         <entry>actionlist Symbol</entry>
@@ -1617,6 +1616,7 @@ This change fixes this glitch.</text>
         <entry>action GotoSymbol</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
