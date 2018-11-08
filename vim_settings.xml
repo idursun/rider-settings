@@ -657,7 +657,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541598775320">
+      <file name="/Dummy.txt" timestamp="1541671072632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -871,12 +871,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="18" column="165" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Page.js" timestamp="1541596120860">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Page.js" timestamp="1541671014896">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Views/Shared/_Layout.cshtml" timestamp="1537286179995">
         <mark key="[" line="11" column="19" />
@@ -936,12 +936,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/modules/Page.js" timestamp="1541670306137">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/modules/Page.js" timestamp="1541670929241">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/JobHistory/JobHistoryInfoMessage.cs" timestamp="1540222468220">
         <mark key="[" line="23" column="21" />
@@ -1095,6 +1095,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="55" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/PersistenceKeys.js" timestamp="1541671050667">
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/DrillDownTableRow.js" timestamp="1541005281833">
         <mark key="'" line="23" column="42" />
@@ -1253,12 +1258,12 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Page.js" timestamp="1541596097901">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="23" column="42" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Page.js" timestamp="1541670992877">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1532078101060">
         <mark key="[" line="85" column="53" />
@@ -1266,12 +1271,12 @@
         <mark key="^" line="85" column="60" />
         <mark key="." line="85" column="60" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" timestamp="1541596082340">
-        <mark key="'" line="84" column="48" />
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="42" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" timestamp="1541670968000">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupHistorySpec.js" timestamp="1541073415921">
         <mark key="'" line="23" column="29" />
@@ -1371,7 +1376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1001" column="12" filename="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" />
       <jump line="11" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
       <jump line="315" column="45" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" />
       <jump line="183" column="54" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxViewModel.js" />
@@ -1471,22 +1475,35 @@
       <jump line="93" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
       <jump line="51" column="25" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" />
       <jump line="57" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
+      <jump line="27" column="18" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Include selected groups in jobs group list
+
+Group list is being pulled from the jobs list, but if the selected 
+groups don't appear not in the list of the jobs then the groups 
+selection filter looks different than the ones in the other pages.
+
+This change fixes this glitch.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;filter&quot;</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSBhIikuZGVidWcoKSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZJTFRFUl9QRVJTSVNURU5DRV9LRVkgPSAiZXN0YXRlLmZpbHRlciI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JhcHBlci5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSIpLmRlYnVnKCkpOwogICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLmZpbmQoImxpIGEiKS5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSBhIHNwYW4iKS5kZWJ1ZygpKTsK</text>
+      <register name="1" type="4">
+        <text>Include selected groups in jobs group list
+
+Group list is being pulled from the jobs list, but if the selected 
+groups don't appear not in the list of the jobs then the groups 
+selection filter looks different than the ones in the other pages.
+
+This change fixes this glitch.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1506,22 +1523,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRHcm91cHMoam9icykpOwogIGNvbnNvbGUubG9nKGpvYnMubWFwKHggPT4geC5Hcm91cCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXBzLCBCQUNLVVBTX0xPQURFRCB9IGZyb20gIi4vQmFja3VwcyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEpPQlNfUEVSU0lTVEVOQ0VfS0VZID0gImVzdGF0ZS5qb2JzIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQkFDS1VQU19MT0FERUQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUKICAgICAgfTsK</text>
+        <text encoding="base64">ZW51bSBQZXJzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQuYmFja3VwcykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JhcHBlci5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSIpLmRlYnVnKCkpOwogICAgICBjb25zb2xlLmxvZyh3cmFwcGVyLmZpbmQoImxpIGEiKS5kZWJ1ZygpKTsKICAgICAgY29uc29sZS5sb2cod3JhcHBlci5maW5kKCJsaSBhIHNwYW4iKS5kZWJ1ZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRHcm91cHMoam9icykpOwogIGNvbnNvbGUubG9nKGpvYnMubWFwKHggPT4geC5Hcm91cCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1541,10 +1558,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQuam9icyksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXBzLCBCQUNLVVBTX0xPQURFRCB9IGZyb20gIi4vQmFja3VwcyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TW92ZSBwZXJzaXN0IGNvbmZpZ3VyYXRpb25zIG5leHQgdG8gUGFnZVJlZHVjZXIK</text>
+        <text encoding="base64">ICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBnZXRHcm91cHMoYWN0aW9uLnBheWxvYWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
