@@ -892,12 +892,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="18" column="165" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Page.js" timestamp="1541671014896">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Page.js" timestamp="1541762891883">
         <mark key="'" line="57" column="4" />
-        <mark key="[" line="30" column="7" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="28" />
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="65" />
+        <mark key="." line="32" column="65" />
+        <mark key="^" line="32" column="65" />
       </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Views/Shared/_Layout.cshtml" timestamp="1537286179995">
         <mark key="[" line="11" column="19" />
@@ -911,6 +911,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" timestamp="1541762909111">
+        <mark key="'" line="209" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Versions/Components/TableSpec.jsx" timestamp="1538390739726">
         <mark key="[" line="2" column="13" />
@@ -1439,10 +1445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
-      <jump line="106" column="2" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/DrillDownTableRowSpec.jsx" />
-      <jump line="69" column="20" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/DrillDownTableRowSpec.jsx" />
-      <jump line="196" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" />
       <jump line="23" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupHistorySpec.js" />
       <jump line="26" column="29" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupHistorySpec.js" />
       <jump line="46" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" />
@@ -1534,18 +1536,22 @@
       <jump line="200" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="1" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="180" column="9" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
-      <jump line="219" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
       <jump line="0" column="10" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="33" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" />
       <jump line="24" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Disks.js" />
       <jump line="189" column="47" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
+      <jump line="63" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
+      <jump line="219" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
+      <jump line="22" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
+      <jump line="4" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
+      <jump line="210" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Fix broken action creator test of Jobs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGVyc2lzdFJlZHVjZXIgfSBmcm9tICJyZWR1eC1wZXJzaXN0IjsK</text>
       </register>
       <register name="-" type="4">
-        <text>Fix broken action creator test of Jobs</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
@@ -1554,7 +1560,7 @@
         <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLkdyb3VwcywKICAgICAgICAgIHN0YXRlLmFsbEdyb3VwcywKICAgICAgICAgIHN0YXRlLnNlbGVjdGVkR3JvdXBz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcGVyc2lzdFJlZHVjZXIgfSBmcm9tICJyZWR1eC1wZXJzaXN0IjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1574,22 +1580,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3R3JvdXBzID0gXy5kaWZmZXJlbmNlKGFjdGlvbi5wYXlsb2FkLkdyb3Vwcywgc3RhdGUuYWxsR3JvdXBzKTsKICAgICAgY29uc3Qgc2VsZWN0ZWRHcm91cHNUaGF0U3RpbGxFeGlzdHMgPSBfLmludGVyc2VjdGlvbigKICAgICAgICBhY3Rpb24ucGF5bG9hZC5Hcm91cHMsCiAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JhZ2UgZnJvbSAicmVkdXgtcGVyc2lzdC9saWIvc3RvcmFnZSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxHcm91cHM6IGFjdGlvbi5wYXlsb2FkLkdyb3VwcywKICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBfLmNvbmNhdChzZWxlY3RlZEdyb3Vwc1RoYXRTdGlsbEV4aXN0cywgbmV3R3JvdXBzKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEdyb3VwczogaW50ZWxsaU1lcmdlKAogICAgICAgICAgYWN0aW9uLnBheWxvYWQuR3JvdXBzLAogICAgICAgICAgc3RhdGUuYWxsR3JvdXBzLAogICAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgICApLAo=</text>
+        <text encoding="base64">Y29uc3QgcGVyc2lzdENvbmZpZyA9IHsKICBrZXk6ICJhdXRoIiwKICBzdG9yYWdlOiBzdG9yYWdlLAogIHdoaXRlbGlzdDogInNob3dTeXN0ZW1EYXRhYmFzZXMiCn07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3R3JvdXBzID0gXy5kaWZmZXJlbmNlKGFjdGlvbi5wYXlsb2FkLkdyb3Vwcywgc3RhdGUuYWxsR3JvdXBzKTsKICAgICAgY29uc3Qgc2VsZWN0ZWRHcm91cHNUaGF0U3RpbGxFeGlzdHMgPSBfLmludGVyc2VjdGlvbigKICAgICAgICBhY3Rpb24ucGF5bG9hZC5Hcm91cHMsCiAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3R3JvdXBzID0gXy5kaWZmZXJlbmNlKGFjdGlvbi5wYXlsb2FkLkdyb3Vwcywgc3RhdGUuYWxsR3JvdXBzKTsKICAgICAgY29uc3Qgc2VsZWN0ZWRHcm91cHNUaGF0U3RpbGxFeGlzdHMgPSBfLmludGVyc2VjdGlvbigKICAgICAgICBhY3Rpb24ucGF5bG9hZC5Hcm91cHMsCiAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBhbGxHcm91cHM6IGFjdGlvbi5wYXlsb2FkLkdyb3VwcywKICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBfLmNvbmNhdChzZWxlY3RlZEdyb3Vwc1RoYXRTdGlsbEV4aXN0cywgbmV3R3JvdXBzKSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1609,10 +1615,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0U3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEdyb3VwczogaW50ZWxsaU1lcmdlKAogICAgICAgICAgYWN0aW9uLnBheWxvYWQuR3JvdXBzLAogICAgICAgICAgc3RhdGUuYWxsR3JvdXBzLAogICAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgICApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3R3JvdXBzID0gXy5kaWZmZXJlbmNlKGFjdGlvbi5wYXlsb2FkLkdyb3Vwcywgc3RhdGUuYWxsR3JvdXBzKTsKICAgICAgY29uc3Qgc2VsZWN0ZWRHcm91cHNUaGF0U3RpbGxFeGlzdHMgPSBfLmludGVyc2VjdGlvbigKICAgICAgICBhY3Rpb24ucGF5bG9hZC5Hcm91cHMsCiAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
