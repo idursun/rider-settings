@@ -46,12 +46,11 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" timestamp="1541760138817">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" timestamp="1541760444054">
         <mark key="'" line="190" column="47" />
-        <mark key="[" line="197" column="38" />
-        <mark key="]" line="197" column="43" />
-        <mark key="^" line="197" column="43" />
-        <mark key="." line="197" column="43" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Communicators/FileSamplesLoaderPerformanceTest.cs" timestamp="1530028373526">
         <mark key="[" line="11" column="0" />
@@ -664,7 +663,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541693363139">
+      <file name="/Dummy.txt" timestamp="1541761769050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1115,11 +1114,12 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Filter.js" timestamp="1541691575166">
-        <mark key="'" line="47" column="7" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="77" column="2" />
-        <mark key="." line="0" column="35" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Filter.js" timestamp="1541761240126">
+        <mark key="'" line="57" column="7" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupsSpec.js" timestamp="1541693308815">
         <mark key="[" line="22" column="40" />
@@ -1542,19 +1542,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Be</text>
+        <text>Fix broken action creator test of Jobs</text>
       </register>
       <register name="-" type="4">
-        <text>Be</text>
+        <text>Fix broken action creator test of Jobs</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlza3M6IFtdCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLkdyb3VwcywKICAgICAgICAgIHN0YXRlLmFsbEdyb3VwcywKICAgICAgICAgIHN0YXRlLnNlbGVjdGVkR3JvdXBz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1574,22 +1574,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXQoInNob3VsZCByZXNldCB0aGUgc2VsZWN0ZWQgZGF0YWJhc2VzIGZpbHRlciBvcHRpb25zIG9wdGlvbiIsIGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3R3JvdXBzID0gXy5kaWZmZXJlbmNlKGFjdGlvbi5wYXlsb2FkLkdyb3Vwcywgc3RhdGUuYWxsR3JvdXBzKTsKICAgICAgY29uc3Qgc2VsZWN0ZWRHcm91cHNUaGF0U3RpbGxFeGlzdHMgPSBfLmludGVyc2VjdGlvbigKICAgICAgICBhY3Rpb24ucGF5bG9hZC5Hcm91cHMsCiAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxHcm91cHM6IGFjdGlvbi5wYXlsb2FkLkdyb3VwcywKICAgICAgICAvL3NlbGVjdGVkR3JvdXBzOiBfLmNvbmNhdChzZWxlY3RlZEdyb3Vwc1RoYXRTdGlsbEV4aXN0cywgbmV3R3JvdXBzKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXQoInNob3VsZCByZXNldCBzZWxlY3RlZCBncm91cHMiLCBmdW5jdGlvbigpIHsKICAgICAgICBjb25zdCBzdGF0ZSA9IHsKICAgICAgICAgIAogICAgICAgIH07CiAgICAgICAgdmFyIG5leHRTdGF0ZSA9IGZpbHRlclJlZHVjZXIoc3RhdGUsIGFjdGlvbkNyZWF0b3JzLmNsZWFyRmlsdGVycygpKTsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEdyb3VwczogaW50ZWxsaU1lcmdlKAogICAgICAgICAgYWN0aW9uLnBheWxvYWQuR3JvdXBzLAogICAgICAgICAgc3RhdGUuYWxsR3JvdXBzLAogICAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgICApLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3R3JvdXBzID0gXy5kaWZmZXJlbmNlKGFjdGlvbi5wYXlsb2FkLkdyb3Vwcywgc3RhdGUuYWxsR3JvdXBzKTsKICAgICAgY29uc3Qgc2VsZWN0ZWRHcm91cHNUaGF0U3RpbGxFeGlzdHMgPSBfLmludGVyc2VjdGlvbigKICAgICAgICBhY3Rpb24ucGF5bG9hZC5Hcm91cHMsCiAgICAgICAgc3RhdGUuc2VsZWN0ZWRHcm91cHMKICAgICAgKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxUb2dnbGUKICAgICAgb25DaGFuZ2U9e3RvZ2dsZX0KICAgICAgaWNvbnM9e2ZhbHNlfQogICAgICBjaGVja2VkPXshY2hlY2tlZENvbmRpdGlvbn0KICAgICAgY2xhc3NOYW1lPSJncm91cC10b2dnbGUiCiAgICAvPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGVjdGVkR3JvdXBzOiBbIkcxIl0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1609,10 +1609,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0U3RhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLlVJLldlYnNpdGUuQ29udHJvbGxlcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
