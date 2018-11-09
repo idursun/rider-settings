@@ -950,8 +950,8 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" timestamp="1541693332395">
-        <mark key="'" line="53" column="25" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" timestamp="1541756286221">
+        <mark key="'" line="33" column="35" />
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="18" />
         <mark key="^" line="20" column="19" />
@@ -1412,7 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="6" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Shared/FormatSpec.js" />
       <jump line="65" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
       <jump line="95" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
       <jump line="14" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" />
@@ -1512,6 +1511,7 @@
       <jump line="180" column="9" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="219" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
       <jump line="0" column="10" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
+      <jump line="33" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
