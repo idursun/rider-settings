@@ -213,7 +213,7 @@
         <mark key="." line="79" column="23" />
         <mark key="^" line="79" column="23" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/JobSampler.cs" timestamp="1542016546148" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/JobSampler.cs" timestamp="1542027329511" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/entry.js" timestamp="1529504009969">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="80" />
@@ -594,6 +594,7 @@
         <mark key="^" line="96" column="32" />
         <mark key="." line="96" column="32" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Agent/Job/History/ChannelConfig.xml" timestamp="1542027419199" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Shared/FormatSpec.js" timestamp="1541070988147">
         <mark key="'" line="107" column="6" />
       </file>
@@ -798,8 +799,8 @@
         <mark key="^" line="91" column="19" />
         <mark key="." line="91" column="19" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" timestamp="1542023877178">
-        <mark key="'" line="67" column="19" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" timestamp="1542027697488">
+        <mark key="'" line="253" column="36" />
         <mark key="[" line="252" column="3" />
         <mark key="]" line="252" column="3" />
         <mark key="^" line="221" column="47" />
@@ -891,6 +892,7 @@
         <mark key="^" line="25" column="49" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobHistoryDataPresenter.cs" timestamp="1542027485304" />
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/IJobsRepository.cs" timestamp="1536668702890">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="10" />
@@ -1036,6 +1038,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/SqlServers/RawSqlServerDataPresenterFactory.cs" timestamp="1542023394006">
         <mark key="'" line="56" column="35" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Default/Names/PostStorage/Data.cs" timestamp="1542027555927" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfigurationViewModel.js" timestamp="1528365255549">
         <mark key="'" line="239" column="0" />
         <mark key="[" line="6" column="40" />
@@ -1478,7 +1481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
       <jump line="72" column="72" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
       <jump line="50" column="81" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
       <jump line="90" column="81" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
@@ -1578,6 +1580,7 @@
       <jump line="57" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobStepsDataPresenter.cs" />
       <jump line="44" column="8" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobStepsDataPresenter.cs" />
       <jump line="56" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenterFactories/Clusters/SqlServers/RawSqlServerDataPresenterFactory.cs" />
+      <jump line="253" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
