@@ -671,6 +671,9 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlResultSetSampler.cs" timestamp="1542019825853">
+        <mark key="'" line="73" column="32" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528451760258">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="55" column="0" />
@@ -788,6 +791,13 @@
         <mark key="]" line="91" column="19" />
         <mark key="^" line="91" column="19" />
         <mark key="." line="91" column="19" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" timestamp="1542020399124">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="221" column="48" />
+        <mark key="]" line="221" column="47" />
+        <mark key="^" line="221" column="47" />
+        <mark key="." line="221" column="47" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
         <mark key="'" line="33" column="51" />
@@ -1458,9 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" />
-      <jump line="37" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/BackupRunIntervalSummary.jsx" />
-      <jump line="47" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/BackupRunIntervalSummary.jsx" />
       <jump line="156" column="11" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTableRow.jsx" />
       <jump line="47" column="63" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
       <jump line="34" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" />
@@ -1558,6 +1565,9 @@
       <jump line="59" column="17" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobStepsDataPresenter.cs" />
       <jump line="39" column="0" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobScheduleDataPresenter.cs" />
       <jump line="54" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobStepsDataPresenter.cs" />
+      <jump line="267" column="55" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" />
+      <jump line="67" column="19" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" />
+      <jump line="73" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/SqlResultSetSampler.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
