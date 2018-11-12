@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Copy/Copy.jsx" timestamp="1538477608747">
@@ -605,12 +605,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1539078744626">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1542030214449">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="102" />
-        <mark key="]" line="11" column="115" />
-        <mark key="." line="11" column="115" />
-        <mark key="^" line="11" column="115" />
+        <mark key="[" line="11" column="116" />
+        <mark key="]" line="11" column="101" />
+        <mark key="." line="11" column="101" />
+        <mark key="^" line="11" column="101" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tools/SqlUpgradeStepGenerator/Program.cs" timestamp="1531392672257">
         <mark key="'" line="34" column="57" />
@@ -799,12 +799,12 @@
         <mark key="^" line="91" column="19" />
         <mark key="." line="91" column="19" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" timestamp="1542029110582">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" timestamp="1542030641902">
         <mark key="'" line="179" column="18" />
-        <mark key="[" line="239" column="27" />
-        <mark key="]" line="239" column="28" />
+        <mark key="[" line="241" column="25" />
+        <mark key="]" line="241" column="25" />
         <mark key="^" line="239" column="28" />
-        <mark key="." line="239" column="28" />
+        <mark key="." line="241" column="25" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
         <mark key="'" line="33" column="51" />
@@ -825,6 +825,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1542029929071">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Default/Config/Root/Cluster/SqlServer/Agent/Job/ChannelConfig.xml" timestamp="1542028682727" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
@@ -1585,10 +1588,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[msdb].[dbo].[sysjobs]</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>[msdb].[dbo].[sysjobs]</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
