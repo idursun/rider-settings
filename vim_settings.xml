@@ -230,11 +230,11 @@
         <mark key="^" line="4" column="80" />
         <mark key="." line="4" column="80" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/JobHistoryGraph.js" timestamp="1542285894360">
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="39" />
-        <mark key="^" line="73" column="39" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/JobHistoryGraph.js" timestamp="1542286643229">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="20" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" timestamp="1533199472716">
         <mark key="'" line="50" column="0" />
@@ -701,7 +701,7 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542214610953">
+      <file name="/Dummy.txt" timestamp="1542286682532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1637,10 +1637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
@@ -1648,8 +1648,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvblN0cmluZ0J1aWxkZXIuRGF0YVNvdXJjZSA9ICIiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICByZXR1cm4gcmV0LnNvcnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1669,22 +1669,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0Lk1MLlRyYWluZXJzLkZhc3RUcmVlOyB1c2luZyBNaWNyb3NvZnQuTUwuVHJhbnNmb3JtczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRyYXdpbmc7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLkFwcGVuZChuZXcgRmFzdFRyZWVUd2VlZGllVHJhaW5lcihtbENvbnRleHQsICJMYWJlbCIsICJGZWF0dXJlcyIpKTsK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0Lk1MLlRyYWluZXJzLkZhc3RUcmVlOyB1c2luZyBNaWNyb3NvZnQuTUwuVHJhbnNmb3JtczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRyYXdpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BcHBlbmQoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLkFwcGVuZChuZXcgRmFzdFRyZWVUd2VlZGllVHJhaW5lcihtbENvbnRleHQsICJMYWJlbCIsICJGZWF0dXJlcyIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1704,10 +1704,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BcHBlbmQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8RGlza1VzYWdlRGF0YT4gZGF0YSA9IFJlYWREaXNrVXNhZ2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
