@@ -230,6 +230,12 @@
         <mark key="^" line="4" column="80" />
         <mark key="." line="4" column="80" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Shared/JobHistoryGraph.js" timestamp="1542285894360">
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" timestamp="1533199472716">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="5" column="0" />
@@ -1631,10 +1637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DayOfTheWeek</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>DayOfTheWeek</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>td</text>
