@@ -177,6 +177,7 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/Queries/PreSql2014BackedUpBeforeQuery.cs" timestamp="1542364516854" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="4" column="4" />
@@ -666,6 +667,9 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Filter/Filter.jsx" timestamp="1542213124257">
         <mark key="'" line="10" column="2" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/BackupSamplerQueryProviderFactory.cs" timestamp="1542364524597">
+        <mark key="'" line="24" column="28" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
         <mark key="'" line="197" column="22" />
         <mark key="[" line="199" column="0" />
@@ -706,6 +710,9 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/JobHistory/SqlInstanceJobInfoMessage.cs" timestamp="1542209905205">
         <mark key="'" line="18" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/PostSql2012BackupSamplerQueryProvider.cs" timestamp="1542364526772">
+        <mark key="'" line="14" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Filter.js" timestamp="1541690047595">
         <mark key="'" line="26" column="46" />
@@ -1310,6 +1317,9 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/PreSql2014BackupSamplerQueryProvider.cs" timestamp="1542364508738">
+        <mark key="'" line="14" column="27" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/Summary.js" timestamp="1542213643625">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="19" />
@@ -1498,8 +1508,8 @@
         <mark key="^" line="34" column="59" />
         <mark key="." line="34" column="59" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" timestamp="1540893257406">
-        <mark key="'" line="89" column="8" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" timestamp="1542364495030">
+        <mark key="'" line="18" column="171" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" timestamp="1541688750227">
         <mark key="'" line="87" column="62" />
@@ -1530,11 +1540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Filter/Filter.jsx" />
-      <jump line="63" column="10" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
-      <jump line="100" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/FilterSpec.js" />
-      <jump line="192" column="4" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
-      <jump line="200" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="1" column="16" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="180" column="9" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
       <jump line="0" column="10" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
@@ -1630,6 +1635,11 @@
       <jump line="136" column="4" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="131" column="28" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="63" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Page.js" />
+      <jump line="18" column="171" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/DatabaseBackupSampler.cs" />
+      <jump line="20" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/BackupSamplerQueryProviderFactory.cs" />
+      <jump line="14" column="27" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/PreSql2014BackupSamplerQueryProvider.cs" />
+      <jump line="24" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/BackupSamplerQueryProviderFactory.cs" />
+      <jump line="14" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/PostSql2012BackupSamplerQueryProvider.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
