@@ -536,6 +536,9 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
       </file>
+      <file name="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/training.csv" timestamp="1542369550058">
+        <mark key="'" line="6" column="21" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/RPC/JobHistory/JobHistoryRepositoryRpcServer.cs" timestamp="1540397622102">
         <mark key="'" line="6" column="56" />
       </file>
@@ -690,12 +693,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" timestamp="1542367757718">
-        <mark key="'" line="56" column="16" />
-        <mark key="[" line="109" column="100" />
-        <mark key="]" line="109" column="100" />
-        <mark key="." line="109" column="100" />
-        <mark key="^" line="109" column="100" />
+      <file name="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" timestamp="1542369882986">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1540809956050">
         <mark key="'" line="315" column="45" />
@@ -1542,11 +1545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="9" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
-      <jump line="0" column="10" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" />
-      <jump line="33" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" />
-      <jump line="24" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Disks.js" />
-      <jump line="189" column="47" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
       <jump line="63" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
       <jump line="219" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
       <jump line="22" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
@@ -1622,7 +1620,6 @@
       <jump line="81" column="46" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="37" column="45" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="59" column="82" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
-      <jump line="39" column="38" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="110" column="68" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="126" column="43" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="49" column="12" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
@@ -1642,22 +1639,28 @@
       <jump line="24" column="28" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/BackupSamplerQueryProviderFactory.cs" />
       <jump line="14" column="26" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Database/Backup/PostSql2012BackupSamplerQueryProvider.cs" />
       <jump line="56" column="16" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
+      <jump line="84" column="40" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
+      <jump line="88" column="16" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
+      <jump line="85" column="20" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
+      <jump line="6" column="21" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/training.csv" />
+      <jump line="39" column="51" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
+      <jump line="122" column="0" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>30</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZWZvcmUgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>VARIABLE</text>
       </register>
       <register name="/" type="4">
-        <text>td</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFzdFVzYWdlID0gdGlja3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd3JpdGVyLldyaXRlTGluZSgkInt1c2FnZURhdGEuTWludXRlc0Fnb318e3VzYWdlRGF0YS5EYXlPZlllYXJ9fHt1c2FnZURhdGEuRGF5T2ZUaGVXZWVrfXx7dXNhZ2VEYXRhLlVzYWdlfSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFzdFRpY2tzID0gdGlja3M7CiAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RVc2FnZSA9IHVzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZWZvcmUgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1677,22 +1680,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRhID0gLktlZXBXaGlsZShwIChwcmV2LG5leHQpID0+IHByZXYuVXNhZ2UgIT0gbmV4dC5Vc2FnZSkuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoInswfSwgezF9IiwgZGF0YS5QZXJpb2QsIGRhdGEuVXNhZ2VEZWx0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cml0ZXIuV3JpdGVMaW5lKCQiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZGF0YS5QZXJpb2QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHVzYWdlRGF0YSBpbiBkYXRhKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXNrVXNhZ2VEYXRhIGxhc3QgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3NxbENvbW1hbmQuQ29tbWFuZFRleHQgPSAkIlNFTEVDVCBDb2xsZWN0aW9uRGF0ZSwgX0ZyZWVCeXRlcyBGUk9NIGRhdGEuQ2x1c3Rlcl9NYWNoaW5lX0xvZ2ljYWxEaXNrX0NhcGFjaXR5X1Vuc3RhYmxlU2FtcGxlcyBXSEVSRSBJZCA9IDMyIE9SREVSIEJZIENvbGxlY3Rpb25EYXRlIEFTQyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1712,28 +1715,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNxbENvbW1hbmQuQ29tbWFuZFRleHQgPSAkQCJTRUxFQ1QKLy8gICAgICAgICAgICAgICAgICAgIHVzLkNvbGxlY3Rpb25EYXRlLCBzcy5fVG90YWxCeXRlcyAtIHVzLl9GcmVlQnl0ZXMKLy8gICAgICAgICAgICAgICAgICAgIEZST00gZGF0YS5DbHVzdGVyX01hY2hpbmVfTG9naWNhbERpc2tfQ2FwYWNpdHlfVW5zdGFibGVTYW1wbGVzIHVzCi8vICAgICAgICAgICAgICAgICAgICBJTk5FUiBKT0lOIGRhdGEuQ2x1c3Rlcl9NYWNoaW5lX0xvZ2ljYWxEaXNrX0NhcGFjaXR5X1N0YWJsZVNhbXBsZXMgc3MgT04gc3MuaWQgPSB1cy5JZAovLyAgICAgICAgICAgICAgICAgICAgV0hFUkUgdXMuSWQgPSAzMiBBTkQgdXMuQ29sbGVjdGlvbkRhdGUge29wfSB1dGlscy5EYXRlVGltZVRvVGlja3MoREFURUFERChEQVksIC0zMCxHRVRVVENEQVRFKCkpKQovLyAgICAgICAgICAgICAgICAgICAgT1JERVIgQlkgQ29sbGVjdGlvbkRhdGUgQVNDIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFzdFRpY2tzID0gdGlja3M7CiAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RVc2FnZSA9IHVzYWdlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFzdFRpY2tzID0gdGlja3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
-      <last-search>td</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>td</last-pattern>
-      <last-replace>th</last-replace>
-      <last-substitute>td</last-substitute>
+      <last-pattern>;</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onClick</entry>
-        <entry encoding="base64">XDxDb29raWVzXD4=</entry>
         <entry encoding="base64">XDxSZWRHYXRlXD4=</entry>
         <entry>core</entry>
         <entry>warning</entry>
@@ -1752,11 +1753,10 @@
         <entry>\\</entry>
         <entry>Full</entry>
         <entry>td</entry>
+        <entry>|</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist Symbol</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>actionlist symbol</entry>
         <entry>jumplist</entry>
         <entry encoding="base64">JzwsJz5zL1wvXFwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
@@ -1764,7 +1764,6 @@
         <entry encoding="base64">JzwsJz5zL0Z1bGwvRGlmZi9n</entry>
         <entry encoding="base64">JzwsJz5zL0Z1bGwvTG9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RkL3RoL2c=</entry>
-        <entry>W</entry>
         <entry>action EditorCompleteStatement</entry>
         <entry>action Find</entry>
         <entry>action GotoFile</entry>
@@ -1773,6 +1772,10 @@
         <entry>buffer</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3wvOy9n</entry>
+        <entry encoding="base64">JzwsJz5zL3wvLC9n</entry>
+        <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
+        <entry>W</entry>
         <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
