@@ -128,15 +128,6 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/ClusterVersionInfoMessage.cs" timestamp="1542210078946">
-        <mark key="a" line="12" column="26" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="23" />
-        <mark key="m" line="21" column="0" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" timestamp="1539076325245">
         <mark key="'" line="32" column="21" />
         <mark key="[" line="3" column="2" />
@@ -176,6 +167,9 @@
         <mark key="]" line="171" column="37" />
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" timestamp="1542625860845">
+        <mark key="'" line="151" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
@@ -235,6 +229,9 @@
         <mark key="]" line="71" column="20" />
         <mark key="^" line="71" column="26" />
         <mark key="." line="71" column="20" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/PerformanceData.cshtml" timestamp="1542625709593">
+        <mark key="'" line="98" column="23" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" timestamp="1533199472716">
         <mark key="'" line="50" column="0" />
@@ -1212,6 +1209,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/Schedule/JobScheduleSampler.cs" timestamp="1542016801795">
         <mark key="'" line="34" column="20" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542625866614">
+        <mark key="'" line="111" column="42" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/RPC/JobHistory/JobHistoryInfoExtensions.cs" timestamp="1540222112451">
         <mark key="'" line="141" column="23" />
         <mark key="[" line="149" column="41" />
@@ -1546,9 +1546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
-      <jump line="4" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
-      <jump line="210" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Filter.js" />
       <jump line="23" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" />
       <jump line="39" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/Schedule/JobScheduleSampler.cs" />
       <jump line="34" column="20" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/Schedule/JobScheduleSampler.cs" />
@@ -1646,6 +1643,9 @@
       <jump line="122" column="0" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" />
       <jump line="3647" column="22" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/training.csv" />
       <jump line="0" column="0" filename="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/training.csv" />
+      <jump line="98" column="23" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/PerformanceData.cshtml" />
+      <jump line="151" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Controllers/AlertDetailsController.cs" />
+      <jump line="111" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
