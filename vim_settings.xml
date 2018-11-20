@@ -273,7 +273,7 @@
         <mark key="'" line="12" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" timestamp="1542627077375">
-        <mark key="'" line="482" column="37" />
+        <mark key="'" line="412" column="37" />
       </file>
       <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" timestamp="1535720100241">
         <mark key="'" line="26" column="81" />
@@ -358,6 +358,12 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/CommentDialog.js" timestamp="1542712010094">
+        <mark key="[" line="94" column="50" />
+        <mark key="]" line="94" column="50" />
+        <mark key="." line="94" column="50" />
+        <mark key="^" line="94" column="50" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/New/ValueStreams/ValueStream.cs" timestamp="1540558835241">
         <mark key="'" line="1001" column="12" />
@@ -1216,10 +1222,10 @@
         <mark key="'" line="34" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542627218182">
-        <mark key="'" line="108" column="42" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+        <mark key="'" line="111" column="42" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/RPC/JobHistory/JobHistoryInfoExtensions.cs" timestamp="1540222112451">
         <mark key="'" line="141" column="23" />
@@ -1533,13 +1539,6 @@
         <mark key="^" line="27" column="136" />
         <mark key="." line="27" column="136" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1542626747556">
-        <mark key="'" line="66" column="10" />
-        <mark key="[" line="194" column="41" />
-        <mark key="]" line="194" column="52" />
-        <mark key="." line="200" column="23" />
-        <mark key="^" line="200" column="47" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1542015682753">
         <mark key="'" line="23" column="0" />
       </file>
@@ -1657,17 +1656,17 @@
       <jump line="482" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEB7CiAgICAgICAgICAgICAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>list.FirstOrDefault();</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd3JpdGVyLldyaXRlTGluZSgkInt1c2FnZURhdGEuTWludXRlc0Fnb318e3VzYWdlRGF0YS5EYXlPZlllYXJ9fHt1c2FnZURhdGEuRGF5T2ZUaGVXZWVrfXx7dXNhZ2VEYXRhLlVzYWdlfSIpOwo=</text>
+      <register name="0" type="4">
+        <text>$(&quot;.commentsList&quot;, container)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEB7CiAgICAgICAgICAgICAgICB9Cgo=</text>
