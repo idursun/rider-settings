@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Copy/Copy.jsx" timestamp="1538477608747">
@@ -744,7 +744,7 @@
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/JobHistory/SqlInstanceJobInfoMessage.cs" timestamp="1542209905205">
         <mark key="'" line="18" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/AlertDetailsTopBar.jsx" timestamp="1542722270298">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/AlertDetailsTopBar.jsx" timestamp="1542723213300">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="44" />
         <mark key="^" line="24" column="44" />
