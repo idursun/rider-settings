@@ -273,7 +273,6 @@
         <mark key="'" line="12" column="20" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" timestamp="1542721192109">
-        <mark key="'" line="27" column="47" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1258,12 +1257,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/Schedule/JobScheduleSampler.cs" timestamp="1542016801795">
         <mark key="'" line="34" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542885393424">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542887860367">
         <mark key="'" line="134" column="25" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="128" column="47" />
+        <mark key="[" line="74" column="34" />
+        <mark key="]" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+        <mark key="^" line="74" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/RPC/JobHistory/JobHistoryInfoExtensions.cs" timestamp="1540222112451">
         <mark key="'" line="141" column="23" />
@@ -1584,13 +1583,6 @@
         <mark key="^" line="27" column="136" />
         <mark key="." line="27" column="136" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" timestamp="1542722538044">
-        <mark key="'" line="127" column="28" />
-        <mark key="[" line="128" column="3" />
-        <mark key="]" line="128" column="13" />
-        <mark key="." line="128" column="13" />
-        <mark key="^" line="128" column="13" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/karma.conf.js" timestamp="1542015682753">
         <mark key="'" line="23" column="0" />
       </file>
@@ -1715,11 +1707,11 @@
       <jump line="134" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBbGVydERldGFpbHMuaW5pdGlhbGl6ZShjbGllbnRTaWRlVmlld01vZGVsLCBvcHRpb25zLCBASHRtbC5SYXcoSnNvbi5FbmNvZGUodG9wUXVlcnlPcHRpb25zKSksIGNvbW1hbmRCYXJPcHRpb25zLCBjb21tZW50RGlhbG9nLCBjYWxsYmFja3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>InboxUrl</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>InboxUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmFpbGFibGVDb21tYW5kc1w+</text>
