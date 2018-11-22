@@ -645,12 +645,6 @@
         <mark key="^" line="96" column="32" />
         <mark key="." line="96" column="32" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" timestamp="1542890852023">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="6" />
-        <mark key="^" line="124" column="6" />
-        <mark key="." line="124" column="6" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Shared/FormatSpec.js" timestamp="1541070988147">
         <mark key="'" line="107" column="6" />
       </file>
@@ -916,12 +910,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" timestamp="1542890814023">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" timestamp="1542891946807">
         <mark key="'" line="29" column="26" />
-        <mark key="[" line="37" column="59" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="59" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="59" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
         <mark key="'" line="46" column="38" />
@@ -1618,10 +1612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/containers/Filter.js" />
-      <jump line="1" column="9" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/IsLoading.js" />
-      <jump line="3" column="6" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Graph.js" />
-      <jump line="4" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/IsLoadingSpec.js" />
       <jump line="182" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
       <jump line="1" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/IsLoadingSpec.js" />
       <jump line="18" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/IsLoadingSpec.js" />
@@ -1718,22 +1708,26 @@
       <jump line="40" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" />
       <jump line="3" column="8" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" />
       <jump line="34" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" />
+      <jump line="87" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
+      <jump line="147" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
+      <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
+      <jump line="69" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;Cleared&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Cleared&quot;</text>
+        <text>clearted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmFpbGFibGVDb21tYW5kc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLndyYXBwZXIuZmluZCgiLml0ZW0tY2xlYXJlZCIpLmxlbmd0aCkudG9CZSgxKTsK</text>
+        <text encoding="base64">ICAgICAgZGF0YVRvUmVuZGVyLmZpbHRlcih4ID0+IGRhdGVDbGVhcmVkIDwgRGF0ZUNoYW5nZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAubGFzdCgpCiAgICAgICAgLnRleHQoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1753,22 +1747,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
+        <text encoding="base64">ICAgIGRhdGFUb1JlbmRlci5maWx0ZXIoeCA9PiB4LikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFUb1JlbmRlci5maW5kOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBkYXRlQ2xlYXJlZCA9ICIxMTExIjsK</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5maW5kKCIuaXRlbS1jbGVhcmVkIikuZGVidWcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGFUb1JlbmRlciA9IC5zZXZlcml0eUhpc3RvcnkubWFwKChzZXZlcml0eUhpc3RvcnlJdGVtLCBpbmRleCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDbGVhcmVkUm93Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9jYWxTdG9yYWdlIH0gZnJvbSAiLi4vLi4vLi4vLi4vLi4vVUkvV2Vic2l0ZS9TY3JpcHRzU291cmNlL2xvY2Fsc3RvcmFnZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW1hZ2VBbmRTdGF0dXMgPSAoCiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tcmFpc2VkIiAvPgogICAgICAgICAgICAgICAgICAgICAgUmFpc2VkCiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1788,10 +1782,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBbGVydERldGFpbHMuaW5pdGlhbGl6ZShjbGllbnRTaWRlVmlld01vZGVsLCBvcHRpb25zLCBASHRtbC5SYXcoSnNvbi5FbmNvZGUodG9wUXVlcnlPcHRpb25zKSksIGNvbW1hbmRCYXJPcHRpb25zLCBjb21tZW50RGlhbG9nLCBjYWxsYmFja3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW1hZ2VBbmRTdGF0dXMgPSAoCiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tZW5kZWQiIC8+CiAgICAgICAgICAgICAgICAgICAgICBFbmRlZAogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHVsIGNsYXNzPSJzdGF0dXNTdW1tYXJ5Ij4KICAgIDxsaT5TdGF0dXM6IDxzcGFuIGNsYXNzPSJhbGVydFN0YXR1c1RleHQiPjwvc3Bhbj48L2xpPgogICAgPGxpPlRpbWUgcmFpc2VkOiBAdGltZVJhaXNlZDwvbGk+CiAgICBAaWYgKGVuZGVkRGF0ZS5Jc1NvbWUpCiAgICB7CiAgICAgICAgPGxpPlRpbWUgZW5kZWQ6IEBIdG1sLkRhdGVUaW1lKGVuZGVkRGF0ZS5WYWx1ZSk8L2xpPgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW1hZ2VBbmRTdGF0dXMgPSAoCiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tZXNjYWxhdGVkIiAvPgogICAgICAgICAgICAgICAgICAgICAgRXNjYWxhdGVkCiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
