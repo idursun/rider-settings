@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Copy/Copy.jsx" timestamp="1538477608747">
@@ -1258,8 +1258,8 @@
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/Schedule/JobScheduleSampler.cs" timestamp="1542016801795">
         <mark key="'" line="34" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542722525274">
-        <mark key="'" line="112" column="21" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542885393424">
+        <mark key="'" line="134" column="25" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
@@ -1509,7 +1509,6 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="/CommentDialog.js" timestamp="1542722874047" />
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Table.js" timestamp="1537278733475">
         <mark key="'" line="2" column="44" />
         <mark key="[" line="2" column="38" />
@@ -1614,7 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Filter/Filter.jsx" />
       <jump line="10" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Filter/Filter.jsx" />
       <jump line="48" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Graph.js" />
       <jump line="69" column="32" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Page.js" />
@@ -1714,6 +1712,7 @@
       <jump line="22" column="27" filename="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Redgate/FlashMessageQueue.js" />
       <jump line="112" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" />
       <jump line="127" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" />
+      <jump line="134" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1800,7 +1799,7 @@
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
