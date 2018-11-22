@@ -41,6 +41,9 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="/a.dummy" timestamp="1542893661869">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/RPC/Backups/BackupsRepositoryRpcServer.cs" timestamp="1540398328062">
         <mark key="'" line="8" column="54" />
       </file>
@@ -50,12 +53,6 @@
         <mark key="]" line="3" column="36" />
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" timestamp="1542214128049">
-        <mark key="'" line="182" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="126" />
-        <mark key="." line="213" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Communicators/FileSamplesLoaderPerformanceTest.cs" timestamp="1530028373526">
         <mark key="[" line="11" column="0" />
@@ -555,12 +552,6 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/training.csv" timestamp="1542372656528">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3647" column="19" />
-        <mark key="]" line="3647" column="23" />
-        <mark key="." line="3647" column="23" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/RPC/JobHistory/JobHistoryRepositoryRpcServer.cs" timestamp="1540397622102">
         <mark key="'" line="6" column="56" />
       </file>
@@ -644,6 +635,12 @@
         <mark key="]" line="96" column="32" />
         <mark key="^" line="96" column="32" />
         <mark key="." line="96" column="32" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" timestamp="1542893780217">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="108" column="9" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="66" column="17" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Shared/FormatSpec.js" timestamp="1541070988147">
         <mark key="'" line="107" column="6" />
@@ -735,10 +732,11 @@
         <mark key="." line="357" column="80" />
         <mark key="^" line="357" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542722320150">
+      <file name="/Dummy.txt" timestamp="1542893357720">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/JobHistory/SqlInstanceJobInfoMessage.cs" timestamp="1542209905205">
         <mark key="'" line="18" column="20" />
@@ -910,12 +908,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" timestamp="1542891946807">
-        <mark key="'" line="29" column="26" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="59" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" timestamp="1542893306160">
+        <mark key="'" line="60" column="26" />
+        <mark key="[" line="103" column="36" />
+        <mark key="]" line="103" column="40" />
+        <mark key="^" line="103" column="40" />
+        <mark key="." line="103" column="40" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
         <mark key="'" line="46" column="38" />
@@ -1156,6 +1154,9 @@
         <mark key="]" line="29" column="55" />
         <mark key="^" line="29" column="55" />
         <mark key="." line="29" column="55" />
+      </file>
+      <file name="/fragment.js" timestamp="1542893661863">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Web.Master.config" timestamp="1540397972891">
         <mark key="[" line="202" column="33" />
@@ -1612,7 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/FilterSpec.js" />
       <jump line="1" column="7" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/IsLoadingSpec.js" />
       <jump line="18" column="41" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Disks/Modules/IsLoadingSpec.js" />
       <jump line="32" column="0" filename="D:/workspace/sqlmonitor/Source/Default/Config/SqlUpgradeSteps/Seq212-Seq213.sql" />
@@ -1712,22 +1712,23 @@
       <jump line="147" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
       <jump line="9" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
       <jump line="69" column="36" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/SeverityHistoryTable.jsx" />
+      <jump line="71" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
+        <text encoding="base64">ICAgIDx0ZD4KICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tY2xlYXJlZCIgLz4KICAgICAgQ2xlYXJlZAogICAgPC90ZD4K</text>
       </register>
       <register name="-" type="4">
-        <text>clearted</text>
+        <text>this.props.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdmFpbGFibGVDb21tYW5kc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVRvUmVuZGVyLmZpbHRlcih4ID0+IGRhdGVDbGVhcmVkIDwgRGF0ZUNoYW5nZWQpOwo=</text>
+        <text encoding="base64">ICAgIDx0ZD4KICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tY2xlYXJlZCIgLz4KICAgICAgQ2xlYXJlZAogICAgPC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
+        <text encoding="base64">Y29uc3QgUmFpc2VkID0gIlJhaXNlZCI7CmNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1747,22 +1748,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFUb1JlbmRlci5maWx0ZXIoeCA9PiB4LikK</text>
+        <text encoding="base64">Y29uc3QgUmFpc2VkID0gIlJhaXNlZCI7CmNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGFUb1JlbmRlci5maW5kOwo=</text>
+        <text encoding="base64">Y2xhc3MgU2V2ZXJpdHlUeXBlcyB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICBjb25zdCBSYWlzZWQgPSAiUmFpc2VkIjsKICAgIGNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGFUb1JlbmRlciA9IC5zZXZlcml0eUhpc3RvcnkubWFwKChzZXZlcml0eUhpc3RvcnlJdGVtLCBpbmRleCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7c2hvdWxkUmVuZGVyICYmICgKICAgICAgICAgICAgICAgICAgICAgIDxDbGVhcmVkUm93CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZTEySG91ckNsb2NrPXt1c2UxMkhvdXJDbG9ja30KICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZUNsZWFyZWQ9e2RhdGVDbGVhcmVkfQogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICApfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBzaG91bGRSZW5kZXIgPQogICAgICAgICAgICAgICAgICAhaGFzUmVuZGVyZWRDbGVhcmVkUm93ICYmCiAgICAgICAgICAgICAgICAgIGRhdGVDbGVhcmVkICYmCiAgICAgICAgICAgICAgICAgIGRhdGVDbGVhcmVkIDwgc2V2ZXJpdHlIaXN0b3J5SXRlbS5EYXRlQ2hhbmdlZDsKICAgICAgICAgICAgICAgIGlmIChzaG91bGRSZW5kZXIpIHsKICAgICAgICAgICAgICAgICAgaGFzUmVuZGVyZWRDbGVhcmVkUm93ID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW1hZ2VBbmRTdGF0dXMgPSAoCiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tcmFpc2VkIiAvPgogICAgICAgICAgICAgICAgICAgICAgUmFpc2VkCiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgKTsK</text>
+      <register name="7" type="4">
+        <text>Change DateEnded calculation to match the one in the razor view
+
+(we have removed the one in the razor view but noticed that they were not matching each other anyway, and concluded that this calculation is the right one)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1782,10 +1785,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW1hZ2VBbmRTdGF0dXMgPSAoCiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tZW5kZWQiIC8+CiAgICAgICAgICAgICAgICAgICAgICBFbmRlZAogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgRGF0ZUNoYW5nZWQ6ICIxMDEwIiwKICAgICAgICAgICAgTmV3U2V2ZXJpdHk6IDIKICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW1hZ2VBbmRTdGF0dXMgPSAoCiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tZXNjYWxhdGVkIiAvPgogICAgICAgICAgICAgICAgICAgICAgRXNjYWxhdGVkCiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
