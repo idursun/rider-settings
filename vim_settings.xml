@@ -321,6 +321,9 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
+      <file name="/C# Console" timestamp="1543240417165">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/DrillDownTableRowSpec.jsx" timestamp="1541073306325">
         <mark key="'" line="71" column="20" />
         <mark key="[" line="15" column="0" />
@@ -391,6 +394,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" timestamp="1543240424783">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" timestamp="1530009471011">
         <mark key="'" line="126" column="51" />
@@ -1716,7 +1725,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0ZD4KICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tY2xlYXJlZCIgLz4KICAgICAgQ2xlYXJlZAogICAgPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>this.props.</text>
@@ -1728,7 +1737,7 @@
         <text encoding="base64">ICAgIDx0ZD4KICAgICAgPGRpdiBjbGFzc05hbWU9Iml0ZW0tY2xlYXJlZCIgLz4KICAgICAgQ2xlYXJlZAogICAgPC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUmFpc2VkID0gIlJhaXNlZCI7CmNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1748,24 +1757,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgUmFpc2VkID0gIlJhaXNlZCI7CmNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU2V2ZXJpdHlUeXBlcyB7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBSYWlzZWQgPSAiUmFpc2VkIjsKICAgIGNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cg==</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIE1haW4oc3RyaW5nW10gYXJncykgewp2YXIgYSA9IG5ldyBbXSB7MSwyLDMsNCw1fTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7c2hvdWxkUmVuZGVyICYmICgKICAgICAgICAgICAgICAgICAgICAgIDxDbGVhcmVkUm93CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZTEySG91ckNsb2NrPXt1c2UxMkhvdXJDbG9ja30KICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZUNsZWFyZWQ9e2RhdGVDbGVhcmVkfQogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICApfQo=</text>
+        <text encoding="base64">Y29uc3QgUmFpc2VkID0gIlJhaXNlZCI7CmNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBzaG91bGRSZW5kZXIgPQogICAgICAgICAgICAgICAgICAhaGFzUmVuZGVyZWRDbGVhcmVkUm93ICYmCiAgICAgICAgICAgICAgICAgIGRhdGVDbGVhcmVkICYmCiAgICAgICAgICAgICAgICAgIGRhdGVDbGVhcmVkIDwgc2V2ZXJpdHlIaXN0b3J5SXRlbS5EYXRlQ2hhbmdlZDsKICAgICAgICAgICAgICAgIGlmIChzaG91bGRSZW5kZXIpIHsKICAgICAgICAgICAgICAgICAgaGFzUmVuZGVyZWRDbGVhcmVkUm93ID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">Y29uc3QgUmFpc2VkID0gIlJhaXNlZCI7CmNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Change DateEnded calculation to match the one in the razor view
-
-(we have removed the one in the razor view but noticed that they were not matching each other anyway, and concluded that this calculation is the right one)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgU2V2ZXJpdHlUeXBlcyB7Cn0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1785,10 +1792,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgRGF0ZUNoYW5nZWQ6ICIxMDEwIiwKICAgICAgICAgICAgTmV3U2V2ZXJpdHk6IDIKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCBSYWlzZWQgPSAiUmFpc2VkIjsKICAgIGNvbnN0IERvd25ncmFkZWQgPSAiRG93bmdyYWRlZCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud3JhcHBlci5kZWJ1ZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7c2hvdWxkUmVuZGVyICYmICgKICAgICAgICAgICAgICAgICAgICAgIDxDbGVhcmVkUm93CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZTEySG91ckNsb2NrPXt1c2UxMkhvdXJDbG9ja30KICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZUNsZWFyZWQ9e2RhdGVDbGVhcmVkfQogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICApfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
@@ -1834,7 +1841,6 @@
         <entry encoding="base64">JzwsJz5zL0Z1bGwvRGlmZi9n</entry>
         <entry encoding="base64">JzwsJz5zL0Z1bGwvTG9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RkL3RoL2c=</entry>
-        <entry>action EditorCompleteStatement</entry>
         <entry>action GotoFile</entry>
         <entry>buffers</entry>
         <entry>buffer</entry>
@@ -1846,6 +1852,7 @@
         <entry>W</entry>
         <entry>action GotoSymbol</entry>
         <entry>action Find</entry>
+        <entry>action EditorCompleteStatement</entry>
         <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
