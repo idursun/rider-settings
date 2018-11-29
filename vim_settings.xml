@@ -10,10 +10,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/DatabaseFileUsageInfoMessage.cs" timestamp="1543488501675">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/DatabaseFileUsageInfoMessage.cs" timestamp="1543491846830">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
         <mark key="'" line="7" column="49" />
@@ -1128,10 +1129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>15</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
