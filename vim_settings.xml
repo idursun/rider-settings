@@ -186,8 +186,12 @@
         <mark key="." line="171" column="37" />
         <mark key="^" line="171" column="37" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" timestamp="1543836206155">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" timestamp="1543842723344">
         <mark key="'" line="46" column="1" />
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="30" />
+        <mark key="." line="85" column="30" />
+        <mark key="^" line="85" column="30" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
         <mark key="'" line="4" column="4" />
@@ -291,11 +295,11 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/Index.cshtml" timestamp="1543838249274">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="24" column="28" />
-        <mark key="." line="24" column="28" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/Index.cshtml" timestamp="1543842663627">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="75" />
+        <mark key="^" line="25" column="75" />
+        <mark key="." line="25" column="75" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DiskUsageViewModel.cs" timestamp="1543406153410">
         <mark key="'" line="22" column="30" />
@@ -695,11 +699,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1543836239198">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1543842631176">
+        <mark key="[" line="13" column="82" />
+        <mark key="]" line="13" column="128" />
+        <mark key="." line="13" column="128" />
+        <mark key="^" line="13" column="128" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" timestamp="1528449866572">
         <mark key="'" line="89" column="53" />
@@ -1169,41 +1173,41 @@
       <jump line="21" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/Table.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vZmV0Y2goKQo=</text>
+      <register name="&quot;" type="4">
+        <text>array</text>
       </register>
       <register name="-" type="4">
-        <text>this.props</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX0RhdGFQcmVzZW50ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogICAgbG9hZERpc2tzOiAiIiwKICAgIGxvYWRHcmFwaDogIiIsCiAgICBiYXNlVXJsOiAiIiwKICAgIGZ1cjp7CiAgICAgICAgZmlsdGVyQXBwbGllZDogIiIsCiAgICAgICAgZ3JvdXBpbmdUb2dnbGVkOiIiLAogICAgICAgIGRhdGFTb3J0ZWQ6IiIKICAgIH0sCiAgICBpbml0aWFsaXNlICh1cmxzKXsKICAgICAgICB0aGlzLmJhc2VVcmwgPSB1cmxzLmJhc2VVcmw7CiAgICAgICAgY29uc3QgZmVhdHVyZUJhc2VVcmwgPSBgJHt1cmxzLmJhc2VVcmx9YXBpL2VzdGF0ZS9kaXNrLXVzYWdlYDsKICAgICAgICB0aGlzLmxvYWREaXNrcyA9IGAke2ZlYXR1cmVCYXNlVXJsfS9kaXNrc2A7CiAgICAgICAgdGhpcy5sb2FkR3JhcGggPSBgJHtmZWF0dXJlQmFzZVVybH0vaGlzdG9yaWMtdXNhZ2VgOwogICAgICAgIHRoaXMuZnVyLmZpbHRlckFwcGxpZWQgPSBgJHtmZWF0dXJlQmFzZVVybH0vZmlsdGVyLWFwcGxpZWRgOwogICAgICAgIHRoaXMuZnVyLmdyb3VwaW5nVG9nZ2xlZCA9IGAke2ZlYXR1cmVCYXNlVXJsfS9ncm91cGluZy10b2dnbGVkYDsKICAgICAgICB0aGlzLmZ1ci5kYXRhU29ydGVkID0gYCR7ZmVhdHVyZUJhc2VVcmx9L2RhdGEtc29ydGVkYDsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICBzcWxTZXJ2ZXJJbnN0YW5jZXM6IFByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vZmV0Y2goKQo=</text>
+        <text encoding="base64">ICBjbHVzdGVyTmFtZTogUHJvcFR5cGVzLmFycmF5LmlzUmVxdWlyZWQK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vZmV0Y2goKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZlYXR1cmVCYXNlVXJsID0gYCR7dXJscy5iYXNlVXJsfWFwaS9lc3RhdGUvZGlzay11c2FnZS1kZXRhaWxzYDsK</text>
+        <text encoding="base64">dwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2FkR3JhcGg6ICIiLAogIGJhc2VVcmw6ICIiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZlYXR1cmVCYXNlVXJsID0gYCR7dXJscy5iYXNlVXJsfWFwaS9lc3RhdGUvZGlzay11c2FnZS1kZXRhaWxzYDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmdXI6ewogICAgZmlsdGVyQXBwbGllZDogIiIsCiAgICBncm91cGluZ1RvZ2dsZWQ6IiIsCiAgICBkYXRhU29ydGVkOiIiCiAgfSwK</text>
+        <text encoding="base64">ICBsb2FkR3JhcGg6ICIiLAogIGJhc2VVcmw6ICIiLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1223,10 +1227,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9hZEdyYXBoID0gYCR7ZmVhdHVyZUJhc2VVcmx9L2hpc3RvcmljLXVzYWdlYDsKICAgIHRoaXMuZnVyLmZpbHRlckFwcGxpZWQgPSBgJHtmZWF0dXJlQmFzZVVybH0vZmlsdGVyLWFwcGxpZWRgOwogICAgdGhpcy5mdXIuZ3JvdXBpbmdUb2dnbGVkID0gYCR7ZmVhdHVyZUJhc2VVcmx9L2dyb3VwaW5nLXRvZ2dsZWRgOwogICAgdGhpcy5mdXIuZGF0YVNvcnRlZCA9IGAke2ZlYXR1cmVCYXNlVXJsfS9kYXRhLXNvcnRlZGA7Cg==</text>
+        <text encoding="base64">ICBmdXI6ewogICAgZmlsdGVyQXBwbGllZDogIiIsCiAgICBncm91cGluZ1RvZ2dsZWQ6IiIsCiAgICBkYXRhU29ydGVkOiIiCiAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZnVyLmZpbHRlckFwcGxpZWQgPSBgJHtmZWF0dXJlQmFzZVVybH0vZmlsdGVyLWFwcGxpZWRgOwogICAgdGhpcy5mdXIuZ3JvdXBpbmdUb2dnbGVkID0gYCR7ZmVhdHVyZUJhc2VVcmx9L2dyb3VwaW5nLXRvZ2dsZWRgOwogICAgdGhpcy5mdXIuZGF0YVNvcnRlZCA9IGAke2ZlYXR1cmVCYXNlVXJsfS9kYXRhLXNvcnRlZGA7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZEdyYXBoID0gYCR7ZmVhdHVyZUJhc2VVcmx9L2hpc3RvcmljLXVzYWdlYDsKICAgIHRoaXMuZnVyLmZpbHRlckFwcGxpZWQgPSBgJHtmZWF0dXJlQmFzZVVybH0vZmlsdGVyLWFwcGxpZWRgOwogICAgdGhpcy5mdXIuZ3JvdXBpbmdUb2dnbGVkID0gYCR7ZmVhdHVyZUJhc2VVcmx9L2dyb3VwaW5nLXRvZ2dsZWRgOwogICAgdGhpcy5mdXIuZGF0YVNvcnRlZCA9IGAke2ZlYXR1cmVCYXNlVXJsfS9kYXRhLXNvcnRlZGA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
