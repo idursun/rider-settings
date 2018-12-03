@@ -452,8 +452,8 @@
         <mark key="." line="119" column="9" />
         <mark key="^" line="104" column="9" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" timestamp="1543495874384">
-        <mark key="'" line="43" column="9" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" timestamp="1543833926753">
+        <mark key="'" line="39" column="17" />
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="195" />
       </file>
@@ -895,11 +895,11 @@
         <mark key="^" line="70" column="3" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1543497465216">
-        <mark key="'" line="102" column="67" />
-        <mark key="[" line="102" column="38" />
-        <mark key="]" line="102" column="42" />
-        <mark key="^" line="102" column="42" />
-        <mark key="." line="102" column="42" />
+        <mark key="'" line="101" column="67" />
+        <mark key="[" line="101" column="38" />
+        <mark key="]" line="101" column="42" />
+        <mark key="^" line="101" column="42" />
+        <mark key="." line="101" column="42" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" timestamp="1541670968000">
         <mark key="'" line="31" column="18" />
@@ -1035,7 +1035,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="63" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/CommandBar.jsx" />
       <jump line="149" column="65" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertDetails.js" />
       <jump line="230" column="8" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" />
       <jump line="126" column="10" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/entry.js" />
@@ -1135,6 +1134,7 @@
       <jump line="50" column="14" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsApiController.cs" />
       <jump line="13" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="7" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
+      <jump line="39" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1153,21 +1153,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="67" mods="130" />
-          <key char="108" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="67" mods="130" />
-          <key char="48" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>kj</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ewogICJjbHVzdGVyTmFtZSI6ICJhZ3dpbmNsdXN0ZXIuc21kb21haW4ubG9jYWwiLAogICJzcWxJbnN0YW5jZU5hbWVzIjogWyJzbS1kcmRjbm9kZTJcXCIsICIiXSwKICAiZGlzayI6ICJDOiIKfQo=</text>
@@ -1221,7 +1207,7 @@
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
