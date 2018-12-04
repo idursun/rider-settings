@@ -365,11 +365,11 @@
         <mark key="^" line="0" column="154" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/Table.jsx" timestamp="1543857557971">
-        <mark key="[" line="145" column="32" />
-        <mark key="]" line="145" column="32" />
-        <mark key="^" line="149" column="58" />
-        <mark key="." line="145" column="32" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/Table.jsx" timestamp="1543929293378">
+        <mark key="[" line="126" column="76" />
+        <mark key="]" line="126" column="76" />
+        <mark key="^" line="126" column="78" />
+        <mark key="." line="126" column="76" />
       </file>
       <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
         <mark key="'" line="14" column="31" />
@@ -1015,7 +1015,7 @@
         <mark key="." line="72" column="46" />
         <mark key="^" line="72" column="46" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1543845928304">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1543928955966">
         <mark key="'" line="22" column="82" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -1148,10 +1148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>25</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>25</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
