@@ -3,178 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Copy/Copy.jsx" timestamp="1538477608747">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfiguration.js" timestamp="1528365206990">
-        <mark key="'" line="7" column="49" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="10" column="24" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/IDiskUsageRepository.cs" timestamp="1543409219956">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="8" column="97" />
-        <mark key="]" line="8" column="103" />
-        <mark key="^" line="8" column="103" />
-        <mark key="." line="8" column="103" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/InstalledVersionsRepositoryTests.cs" timestamp="1531231645929">
-        <mark key="'" line="274" column="27" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-        <mark key="^" line="170" column="15" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config" timestamp="1543403948841">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="102" />
-        <mark key="]" line="108" column="115" />
-        <mark key="." line="108" column="115" />
-        <mark key="^" line="108" column="115" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDrillDownApiController.cs" timestamp="1543327458709">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Versions/OutOfDateMessageSpec.jsx" timestamp="1531405612354">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="41" />
-        <mark key="^" line="27" column="48" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.aspx" timestamp="1533292466483">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="45" column="55" />
-        <mark key="]" line="45" column="64" />
-        <mark key="^" line="45" column="64" />
-        <mark key="." line="45" column="64" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/AjaxTable.js" timestamp="1528452477977">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/JobHistoryRepository.cs" timestamp="1543327440088">
-        <mark key="'" line="92" column="38" />
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="91" column="19" />
-        <mark key="^" line="91" column="19" />
-        <mark key="." line="91" column="19" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/SqlServers/Job/History/JobHistorySampler.cs" timestamp="1542030641902">
-        <mark key="'" line="179" column="18" />
-        <mark key="[" line="241" column="25" />
-        <mark key="]" line="241" column="25" />
-        <mark key="^" line="239" column="28" />
-        <mark key="." line="241" column="25" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/Controllers/RoutesController.cs" timestamp="1529077909152">
-        <mark key="'" line="33" column="51" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-      </file>
-      <file name="D:/repositories/dotnet/dainterview-net/ClientApp/src/store/Questions.js" timestamp="1533305147286">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-        <mark key="^" line="8" column="50" />
-      </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/ActorProvider.cs" timestamp="1535717134862">
-        <mark key="'" line="11" column="86" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="12" column="12" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertDetails/SeverityHistoryTableSpec.jsx" timestamp="1542893306160">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="103" column="36" />
-        <mark key="]" line="103" column="40" />
-        <mark key="^" line="103" column="40" />
-        <mark key="." line="103" column="40" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/SparklineModelRenderer.js" timestamp="1528452741079">
-        <mark key="'" line="46" column="38" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="48" column="20" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Settings/GroupAssignment.cs" timestamp="1531148012582">
-        <mark key="'" line="47" column="41" />
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="68" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1541688521063">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="46" column="25" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="81" />
-        <mark key="." line="46" column="25" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxViewModel/WhenServerTreeClickedSpec.js" timestamp="1539076325245">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/Definitions/Sources/FileSourceDefinition.cs" timestamp="1529931967158">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="15" column="65" />
-        <mark key="^" line="15" column="65" />
-        <mark key="." line="15" column="65" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/ConfigureStore.js" timestamp="1541595098825">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/FilterSpec.js" timestamp="1541693132461">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="228" column="61" />
-        <mark key="]" line="228" column="83" />
-        <mark key="." line="228" column="83" />
-        <mark key="^" line="228" column="83" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Table/_Table.scss" timestamp="1543848880392">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="50" column="19" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/VersionsTable/_VersionsTable.scss" timestamp="1531146701874">
-        <mark key="'" line="36" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="39" column="1" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Models/VersionsRowViewModelFactoryTests.cs" timestamp="1531837514147">
-        <mark key="'" line="170" column="51" />
-        <mark key="[" line="171" column="24" />
-        <mark key="]" line="171" column="37" />
-        <mark key="." line="171" column="37" />
-        <mark key="^" line="171" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" timestamp="1543857510643">
         <mark key="'" line="47" column="13" />
@@ -183,175 +15,14 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxController.js" timestamp="1528373413091">
-        <mark key="'" line="4" column="4" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="31" column="8" />
-        <mark key="." line="4" column="4" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/_HoneycombBase.cshtml" timestamp="1535642627717">
-        <mark key="'" line="40" column="16" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="60" />
-        <mark key="^" line="25" column="49" />
-        <mark key="." line="116" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/DomainServices/ReportsRepositoryTests.cs" timestamp="1530193717359">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="35" column="87" />
-        <mark key="]" line="35" column="87" />
-        <mark key="." line="35" column="95" />
-        <mark key="^" line="53" column="98" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/SuccessfulJobsTableSpec.jsx" timestamp="1538668143432">
-        <mark key="'" line="239" column="13" />
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="212" column="13" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Integration/Engine/Monitoring/Repositories/BackupHistoryRepositoryTests.cs" timestamp="1540471850740">
-        <mark key="'" line="17" column="41" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="18" column="165" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/SideNavigationViewModel.js" timestamp="1528454672510">
-        <mark key="'" line="116" column="15" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Page.js" timestamp="1543251375799">
-        <mark key="'" line="45" column="31" />
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="65" />
-        <mark key="." line="32" column="65" />
-        <mark key="^" line="32" column="65" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1540471819090">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="79" column="23" />
-        <mark key="." line="79" column="23" />
-        <mark key="^" line="79" column="23" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/webpack.config.prod.js" timestamp="1529075967529">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Disks/DatabaseFileUsageInfo.cs" timestamp="1543497426725">
-        <mark key="'" line="20" column="12" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="30" column="23" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/ConfigureStore.js" timestamp="1541595214236">
-        <mark key="'" line="10" column="43" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="21" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/DiskUsageDetails/PageSpec.js" timestamp="1543857366580">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="42" />
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureTrace/Index.cshtml" timestamp="1533199472716">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/ColumnOverview.Master" timestamp="1528454991171">
-        <mark key="'" line="16" column="32" />
-        <mark key="[" line="32" column="100" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/PageSpec.jsx" timestamp="1539080687516">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="80" column="13" />
-        <mark key="]" line="81" column="18" />
-        <mark key="^" line="81" column="18" />
-        <mark key="." line="81" column="18" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DiskUsageViewModel.cs" timestamp="1543406153410">
         <mark key="'" line="22" column="30" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/LiveFeeds/SqlVersions/SqlServerVersionLookupTests.cs" timestamp="1540203816414">
-        <mark key="'" line="52" column="79" />
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="49" />
-        <mark key="." line="58" column="49" />
-        <mark key="^" line="58" column="49" />
-      </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Actor/InstallationManagerActor.cs" timestamp="1535720100241">
-        <mark key="'" line="26" column="81" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="41" />
-        <mark key="^" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/AvailabilityGroups/AvailabilityReplicasViewModel.js" timestamp="1528449286431">
-        <mark key="'" line="1" column="25" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/modules/Page.js" timestamp="1541670929241">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="52" />
-        <mark key="^" line="9" column="52" />
-        <mark key="." line="9" column="52" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Modules/JobsSpec.js" timestamp="1541756286221">
-        <mark key="'" line="33" column="35" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="18" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/common.js" timestamp="1539252330112">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="20" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/containers/GroupSelection.js" timestamp="1540384348818">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="57" />
-        <mark key="^" line="1" column="82" />
-        <mark key="." line="6" column="10" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/GroupToolbox/GroupToolbox.jsx" timestamp="1540383710390">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="12" column="14" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/ConfigureStore.js" timestamp="1541595242871">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageTests.cs" timestamp="1543404655046">
         <mark key="'" line="22" column="59" />
@@ -371,83 +42,6 @@
         <mark key="^" line="126" column="78" />
         <mark key="." line="126" column="76" />
       </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/webpack.config.vendor.js" timestamp="1527863401973">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="97" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="19" column="105" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/DrillDownTableRowSpec.jsx" timestamp="1541073306325">
-        <mark key="'" line="71" column="20" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="73" column="24" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/Machines/LogicalDisk/LogicalDiskProjectionSamplerTest.cs" timestamp="1529922300641">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="22" column="82" />
-        <mark key="]" line="22" column="83" />
-        <mark key="^" line="22" column="83" />
-        <mark key="." line="22" column="83" />
-      </file>
-      <file name="D:/repositories/safe/test2/src/Client/Client.fs" timestamp="1539173797465">
-        <mark key="'" line="80" column="15" />
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="38" />
-        <mark key="." line="92" column="38" />
-        <mark key="^" line="92" column="37" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/CommentDialog.js" timestamp="1542713860745">
-        <mark key="'" line="91" column="35" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="93" column="46" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/ConfigureLicensing/LicensingConfigurationViewModel.js" timestamp="1528365255549">
-        <mark key="'" line="239" column="0" />
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDatabaseFileUsagesTests.cs" timestamp="1543505399258">
-        <mark key="'" line="28" column="9" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="7" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/utilities/Format.js" timestamp="1541598865438">
-        <mark key="'" line="57" column="28" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="80" column="53" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" timestamp="1543403900862">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="12" />
-        <mark key="^" line="25" column="31" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Reports/Repositories/SummaryReportRepository.cs" timestamp="1530009471011">
-        <mark key="'" line="126" column="51" />
-        <mark key="[" line="122" column="9" />
-        <mark key="]" line="123" column="7" />
-        <mark key="^" line="123" column="7" />
-        <mark key="." line="123" column="7" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/FailedJobsTableSpec.jsx" timestamp="1538668075982">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="119" column="6" />
-        <mark key="]" line="119" column="6" />
-        <mark key="." line="119" column="9" />
-        <mark key="^" line="104" column="9" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" timestamp="1543835103446">
         <mark key="'" line="19" column="24" />
         <mark key="[" line="35" column="0" />
@@ -455,219 +49,16 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Utilities/DateTimeExtensions.cs" timestamp="1540817302111">
-        <mark key="'" line="122" column="9" />
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="55" />
-        <mark key="^" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/RPC/Backups/BackupInfoExtensions.cs" timestamp="1540817331300">
-        <mark key="'" line="70" column="32" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="71" column="57" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/BasicAccount/LogIn.aspx" timestamp="1529053552941">
-        <mark key="'" line="28" column="14" />
-        <mark key="[" line="52" column="25" />
-        <mark key="]" line="52" column="29" />
-        <mark key="." line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/containers/Filter.js" timestamp="1541691756382">
-        <mark key="'" line="24" column="30" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/WhatsNew.cshtml" timestamp="1531385486002">
-        <mark key="'" line="43" column="27" />
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="40" column="60" />
-        <mark key="^" line="40" column="60" />
-        <mark key="." line="48" column="48" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsHistoryApiController.cs" timestamp="1539946331300">
-        <mark key="'" line="48" column="54" />
-        <mark key="[" line="50" column="52" />
-        <mark key="]" line="50" column="54" />
-        <mark key="." line="50" column="54" />
-        <mark key="^" line="50" column="54" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/JobsApiController.cs" timestamp="1543505668522">
-        <mark key="'" line="50" column="14" />
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Console/Stream/ReactiveExecution/ReactiveRouteExecutor.cs" timestamp="1529933001324">
-        <mark key="'" line="44" column="29" />
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="44" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Scripts/Models/EditAlertConfiguration/knockout.components.threshold-editor.js" timestamp="1530111248419">
-        <mark key="'" line="110" column="52" />
-        <mark key="[" line="3" column="63" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/ConfigureBaseMonitorsViewModel/ConfigureBaseMonitorsViewModelSpec.js" timestamp="1528906845661">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/DataPresenters/Machines/SqlServers/JobStepsDataPresenter.cs" timestamp="1542023123617">
-        <mark key="'" line="44" column="8" />
-        <mark key="[" line="76" column="97" />
-        <mark key="]" line="76" column="104" />
-        <mark key="." line="76" column="104" />
-        <mark key="^" line="76" column="104" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Filter/Filter.jsx" timestamp="1541690898898">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="49" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Communicators/SqlServers/Database/File/Projection/PerformanceTests.cs" timestamp="1530089496388">
-        <mark key="'" line="83" column="74" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="62" column="119" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ClusterOverview/entry.js" timestamp="1528452759776">
-        <mark key="'" line="28" column="39" />
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/EstateDiskDetailTable/EstateDiskDetailTable.jsx" timestamp="1531406398370">
-        <mark key="'" line="69" column="54" />
-        <mark key="[" line="147" column="67" />
-        <mark key="]" line="147" column="71" />
-        <mark key="^" line="147" column="71" />
-        <mark key="." line="147" column="71" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/InstalledVersionsApiControllerTests.cs" timestamp="1531835429874">
-        <mark key="'" line="32" column="53" />
-        <mark key="[" line="36" column="62" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="35" column="56" />
-        <mark key="." line="36" column="63" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Filter.js" timestamp="1541761240126">
-        <mark key="'" line="57" column="7" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="50" column="7" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/containers/GroupToggle.js" timestamp="1540383813636">
-        <mark key="'" line="14" column="47" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="8" column="37" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/AlertInboxFilterRepository.js" timestamp="1528367374925">
-        <mark key="'" line="0" column="40" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Jobs/Components/Shared/DrillDownTableRowSpec.jsx" timestamp="1539184361385">
-        <mark key="'" line="72" column="6" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="54" column="6" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDatabaseFileUsageTests.cs" timestamp="1543932572711">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="79" column="115" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="/DiskUsageDetailsApiController.cs" timestamp="1543845842752">
         <mark key="[" line="22" column="70" />
         <mark key="]" line="22" column="148" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Converters/BackupInfoToBackupHistoryInfoConverterTests.cs" timestamp="1540472393348">
-        <mark key="'" line="30" column="13" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="164" column="79" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/ShowAlertDetails.cshtml" timestamp="1542887860367">
-        <mark key="'" line="134" column="25" />
-        <mark key="[" line="74" column="34" />
-        <mark key="]" line="74" column="33" />
-        <mark key="." line="74" column="33" />
-        <mark key="^" line="74" column="33" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/RPC/JobHistory/JobHistoryInfoExtensions.cs" timestamp="1540222112451">
-        <mark key="'" line="141" column="23" />
-        <mark key="[" line="149" column="41" />
-        <mark key="]" line="150" column="44" />
-        <mark key="^" line="150" column="44" />
-        <mark key="." line="150" column="44" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/LogFile/Index.cshtml" timestamp="1533200176563">
-        <mark key="'" line="3" column="34" />
-        <mark key="[" line="20" column="73" />
-        <mark key="]" line="20" column="73" />
-        <mark key="." line="20" column="73" />
-        <mark key="^" line="20" column="58" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/IsLoading.js" timestamp="1542279346700">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/DateTimePicker.js" timestamp="1528449737479">
-        <mark key="'" line="158" column="34" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/BackupHistory.js" timestamp="1541068205389">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/SqlVersions/SqlServerVersions.json" timestamp="1531844137827">
-        <mark key="'" line="2068" column="32" />
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="28" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/DrillDownTableRow.js" timestamp="1541005281833">
-        <mark key="'" line="23" column="42" />
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/AlertInboxFilter/WhenCreatingAdvancedFilterSpec.js" timestamp="1528366489154">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1543845572985">
         <mark key="'" line="19" column="12" />
@@ -676,95 +67,18 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/slavemode.js" timestamp="1528449866572">
-        <mark key="'" line="89" column="53" />
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="78" column="8" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="78" column="8" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/ScrollableHeaders.js" timestamp="1533227481398">
-        <mark key="'" line="48" column="1" />
-        <mark key="[" line="49" column="1" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Graph.js" timestamp="1542213740737">
-        <mark key="'" line="3" column="6" />
-        <mark key="[" line="116" column="61" />
-        <mark key="]" line="116" column="80" />
-        <mark key="^" line="116" column="80" />
-        <mark key="." line="116" column="80" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/entry.jsx" timestamp="1541590692192">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="62" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Table/Table.jsx" timestamp="1543857475531">
         <mark key="'" line="109" column="41" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="54" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/Shared/Base.Master" timestamp="1535644117509">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="65" />
-        <mark key="." line="125" column="2" />
-        <mark key="^" line="125" column="2" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Page.jsx" timestamp="1539080808695">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="56" column="37" />
-        <mark key="^" line="56" column="37" />
-        <mark key="." line="56" column="37" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.jsx" timestamp="1543836220803">
         <mark key="'" line="12" column="10" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Filter.js" timestamp="1541691811400">
-        <mark key="'" line="96" column="5" />
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="39" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Views/AlertDetails/CommandBar.jsx" timestamp="1542722110415">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="201" column="26" />
-        <mark key="." line="81" column="11" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/API.js" timestamp="1543836082254">
         <mark key="'" line="7" column="20" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="1" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/ConfigureStore.js" timestamp="1541591785940">
-        <mark key="'" line="12" column="3" />
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Core/Engine/AlertGroupKeyBuilder.cs" timestamp="1536669279921">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="222" column="44" />
-        <mark key="]" line="222" column="57" />
-        <mark key="^" line="222" column="57" />
-        <mark key="." line="222" column="57" />
-      </file>
-      <file name="D:/repositories/dotnet/dainterview-net/appsettings.Development.json" timestamp="1533303856311">
-        <mark key="'" line="9" column="82" />
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/_Table.scss" timestamp="1543857614496">
         <mark key="'" line="6" column="23" />
@@ -773,122 +87,6 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="D:/repositories/dotnet/dainterview-net/ClientApp/src/containers/Questions.js" timestamp="1533305811660">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="50" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-      </file>
-      <file name="D:/repositories/dotnet/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1535548356163">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/BackInTime.js" timestamp="1528452166020">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Alerting/Base.Service/RedGate.SqlMonitor.Engine.Alerting.Base.Service.exe.settings.config.dev.xdt" timestamp="1542208844266">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="116" />
-        <mark key="]" line="11" column="101" />
-        <mark key="." line="11" column="101" />
-        <mark key="^" line="11" column="101" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tools/SqlUpgradeStepGenerator/Program.cs" timestamp="1531392672257">
-        <mark key="'" line="34" column="57" />
-        <mark key="[" line="39" column="50" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="39" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Components/TableSpec.jsx" timestamp="1538668439514">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="218" column="30" />
-        <mark key="]" line="218" column="31" />
-        <mark key="^" line="218" column="31" />
-        <mark key="." line="218" column="31" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Models/SideNavigation/entry.js" timestamp="1528455038989">
-        <mark key="'" line="21" column="7" />
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/DependencyInjection/ManualControllerFactory.cs" timestamp="1536673969820">
-        <mark key="'" line="120" column="37" />
-        <mark key="[" line="120" column="52" />
-        <mark key="]" line="120" column="77" />
-        <mark key="^" line="120" column="77" />
-        <mark key="." line="120" column="77" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/modules/Backups.js" timestamp="1543251466653">
-        <mark key="'" line="37" column="28" />
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Versions/components/OutOfDateMessage.jsx" timestamp="1531402477395">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Configuration/Views/ConfigureLicensing/Index.aspx" timestamp="1528365328748">
-        <mark key="'" line="197" column="22" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="193" column="49" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Shared/components/VerticalText/VerticalText.jsx" timestamp="1531130163481">
-        <mark key="'" line="2" column="11" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
-      <file name="D:/repositories/dotnet/MLNet-DiskUsage/MLNet-DiskUsage/Program.cs" timestamp="1542372545295">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="27" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/PageSpec.js" timestamp="1537882554003">
-        <mark key="'" line="32" column="36" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Utils.js" timestamp="1540809956050">
-        <mark key="'" line="315" column="45" />
-        <mark key="[" line="357" column="61" />
-        <mark key="]" line="357" column="80" />
-        <mark key="." line="357" column="80" />
-        <mark key="^" line="357" column="80" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDrilldownApiController.cs" timestamp="1543326763751">
-        <mark key="'" line="16" column="49" />
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-        <mark key="^" line="19" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1543854010727">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/API.js" timestamp="1543853968434">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="21" column="0" />
@@ -896,156 +94,22 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Alerts/Scripts/TimeWindowMode.js" timestamp="1528465004661">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="11" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1543932113875">
+        <mark key="'" line="120" column="28" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="121" column="27" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Page.js" timestamp="1542362318991">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="69" column="53" />
-        <mark key="]" line="70" column="3" />
-        <mark key="." line="70" column="3" />
-        <mark key="^" line="70" column="3" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1543835489156">
-        <mark key="'" line="121" column="28" />
-        <mark key="[" line="122" column="27" />
-        <mark key="]" line="122" column="27" />
-        <mark key="^" line="122" column="27" />
-        <mark key="." line="122" column="27" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/modules/Page.js" timestamp="1541670968000">
-        <mark key="'" line="31" column="18" />
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/Backups/Modules/BackupHistorySpec.js" timestamp="1541073415921">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Table.js" timestamp="1537278733475">
-        <mark key="'" line="2" column="44" />
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="44" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/containers/Filter.js" timestamp="1541690047595">
-        <mark key="'" line="26" column="46" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="26" column="19" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Controls/MiniGrid.js" timestamp="1528451836108">
-        <mark key="'" line="149" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="D:/repositories/dotnet/dajanitor/dajanitor-spike/Pages/Index.cshtml" timestamp="1537286355755">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/localstorage.js" timestamp="1528372295115">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="19" column="7" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Communicators/Machines/LogicalDisk/LogicalDiskProjectionDataLoader.cs" timestamp="1531234764182">
-        <mark key="'" line="11" column="60" />
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="34" column="59" />
-        <mark key="^" line="34" column="59" />
-        <mark key="." line="34" column="59" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Views/ClusterOverview/ClusterOverview.aspx" timestamp="1528451760258">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="8" />
-        <mark key="." line="55" column="8" />
-        <mark key="^" line="59" column="73" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1540980814499">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="313" column="60" />
-        <mark key="]" line="313" column="60" />
-        <mark key="^" line="313" column="65" />
-        <mark key="." line="313" column="60" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Jobs/components/Filter/Filter.jsx" timestamp="1541691616006">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" timestamp="1540813688784">
-        <mark key="'" line="76" column="42" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/BackupsApiControllerTests.cs" timestamp="1541688750227">
-        <mark key="'" line="87" column="62" />
-        <mark key="[" line="27" column="111" />
-        <mark key="]" line="27" column="136" />
-        <mark key="^" line="27" column="136" />
-        <mark key="." line="27" column="136" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Login/entry.js" timestamp="1529053735788">
-        <mark key="'" line="26" column="37" />
-        <mark key="[" line="70" column="1" />
-        <mark key="]" line="72" column="46" />
-        <mark key="." line="72" column="46" />
-        <mark key="^" line="72" column="46" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1543928955966">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1543931887091">
         <mark key="'" line="22" column="82" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="24" column="101" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="D:/repositories/dotnet/etl-spike/ETL.Web/ClientApp/components/fromEditors/HttpFromEditor.tsx" timestamp="1529079298281">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="40" />
-        <mark key="^" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/VersionsRowViewModelFactory.cs" timestamp="1531837530718">
-        <mark key="'" line="155" column="8" />
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="38" column="11" />
-        <mark key="." line="38" column="11" />
-        <mark key="^" line="38" column="11" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/ScriptsSource/Redgate/FlashMessageQueue.js" timestamp="1542722463942">
-        <mark key="'" line="22" column="27" />
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="26" />
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDrillDownApiController.cs" />
       <jump line="229" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="68" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/BaseDiskUsageRepositoryTest.cs" />
       <jump line="25" column="30" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/BaseDiskUsageRepositoryTest.cs" />
@@ -1145,43 +209,44 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="109" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Table/Table.jsx" />
       <jump line="47" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
+      <jump line="28" column="9" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDatabaseFileUsageTests.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoRmlsZSgiZGV2LWJveCIsICIiLCAiREIyIiwgIkRCMiIsIDIsIGZpbGVQYXRoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">bmV3IExpc3Q8c3RyaW5nPiB7InNxbHNlcnZlciIsICJzcWxzZXJ2ZXIyIn0=</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICYuZmlsZS1uYW1lIHsKICAgICAgd2lkdGg6IDI1JTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoRmlsZSgiZGV2LWJveCIsICIiLCAiREIxIiwgIkRCMSIsIDEsIGZpbGVQYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoRmlsZSgiZGV2LWJveCIsICIiLCAiREIyIiwgIkRCMiIsIDIsIGZpbGVQYXRoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpOwogICAgICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoRmlsZSgiY2x1c3RlciIsICJzcWxzZXJ2ZXIyIiwgIkRCMiIsICJEQjIiLCAxLCBmaWxlUGF0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhxdWVyeVBhcmFtcyk7Cg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5VdGlsaXRpZXM7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCJjYWxsaW5nIGRvbmUiKTsKICAgICAgICBkb25lKCk7CiAgICAgIH0pOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpOwogICAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHF1ZXJ5UGFyYW1zKTsKICAgICAgICAgIGNvbnN0IHVybCA9IGRlY29kZVVSSUNvbXBvbmVudChxdWVyeVBhcmFtcyk7CiAgICAgICAgICBleHBlY3QodXJsKS50b0NvbnRhaW4oImNsdXN0ZXJOYW1lPWNsdXN0ZXJOYW1lIik7CiAgICAgICAgICBleHBlY3QodXJsKS50b0NvbnRhaW4oInNxbEluc3RhbmNlTmFtZXM9YSIpOwogICAgICAgICAgZXhwZWN0KHVybCkudG9Db250YWluKCJzcWxJbnN0YW5jZU5hbWVzPWIiKTsKICAgICAgICAgIGV4cGVjdCh1cmwpLnRvQ29udGFpbigiZGlzaz1DOiIpOwogICAgICAgICAgY29uc29sZS5sb2codXJsKTsKICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhxdWVyeVBhcmFtcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1200,11 +265,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHVybCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCJjYWxsaW5nIGRvbmUiKTsKICAgICAgICBkb25lKCk7CiAgICAgIH0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
