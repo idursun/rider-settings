@@ -56,11 +56,8 @@
         <mark key="." line="21" column="54" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/modules/Disks.js" timestamp="1544014892813" />
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DatabaseFileUsageViewModel.cs" timestamp="1544010648672">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="/Dummy.cs" timestamp="1544023710724">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1544003815708" />
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageTests.cs" timestamp="1544015859834">
@@ -123,8 +120,8 @@
         <mark key="." line="10" column="117" />
         <mark key="^" line="10" column="117" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544019483369">
-        <mark key="'" line="239" column="31" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544023743068">
+        <mark key="'" line="112" column="77" />
         <mark key="[" line="239" column="16" />
         <mark key="]" line="239" column="16" />
         <mark key="." line="239" column="16" />
@@ -154,12 +151,6 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcServer.cs" timestamp="1544010064672">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="70" />
-        <mark key="^" line="18" column="70" />
-        <mark key="." line="18" column="70" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Table/Table.jsx" timestamp="1544010789420">
         <mark key="'" line="109" column="41" />
         <mark key="[" line="298" column="0" />
@@ -184,8 +175,8 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/entry.jsx" timestamp="1543836220803">
         <mark key="'" line="12" column="10" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1544011094120">
-        <mark key="'" line="31" column="37" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1544023729467">
+        <mark key="'" line="38" column="46" />
         <mark key="[" line="31" column="41" />
         <mark key="]" line="32" column="70" />
         <mark key="^" line="32" column="70" />
@@ -200,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="54" column="4" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
       <jump line="23" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/Table.jsx" />
       <jump line="99" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
       <jump line="22" column="82" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
@@ -300,6 +289,8 @@
       <jump line="19" column="50" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" />
       <jump line="46" column="24" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" />
       <jump line="34" column="88" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" />
+      <jump line="38" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
+      <jump line="112" column="77" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
