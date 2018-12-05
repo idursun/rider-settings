@@ -82,7 +82,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544019896081">
+      <file name="/Dummy.txt" timestamp="1544021579725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -99,12 +99,12 @@
         <mark key="^" line="126" column="78" />
         <mark key="." line="126" column="76" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcClient.cs" timestamp="1544010008650">
+      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcClient.cs" timestamp="1544021575105">
         <mark key="'" line="20" column="41" />
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="69" />
-        <mark key="^" line="20" column="69" />
-        <mark key="." line="20" column="69" />
+        <mark key="[" line="18" column="95" />
+        <mark key="]" line="18" column="101" />
+        <mark key="^" line="18" column="101" />
+        <mark key="." line="18" column="101" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/BaseDiskUsageRepositoryTest.cs" timestamp="1544017375575">
         <mark key="'" line="100" column="21" />
