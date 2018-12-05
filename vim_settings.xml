@@ -55,6 +55,11 @@
         <mark key="^" line="7" column="31" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1544003815708" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageTests.cs" timestamp="1544015639213">
+        <mark key="'" line="22" column="59" />
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="70" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1544007176579">
         <mark key="'" line="10" column="12" />
         <mark key="[" line="14" column="0" />
@@ -92,6 +97,12 @@
         <mark key="]" line="20" column="69" />
         <mark key="^" line="20" column="69" />
         <mark key="." line="20" column="69" />
+      </file>
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" timestamp="1544015646169">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544009744202">
         <mark key="'" line="216" column="38" />
@@ -250,16 +261,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0idGltZS11bnRpbC1mdWxsIj57dGltZVVudGlsRnVsbChkaXNrKX08L3RkPgo=</text>
+      <register name="0" type="4">
+        <text>: BaseDiskUsageRepositoryTest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InRleHQtLXJpZ2h0Ij4KICAgICAgICAgICAge0Zvcm1hdC5hc0R1cmF0aW9uKGRpc2tJbmZvLlRpbWVVbnRpbEZ1bGwpfQogICAgICAgICAgPC90ZD4K</text>
