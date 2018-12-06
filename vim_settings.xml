@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/IDiskUsageRepository.cs" timestamp="1544101491312">
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/IDiskUsageRepository.cs" timestamp="1544106248480">
         <mark key="[" line="7" column="95" />
         <mark key="]" line="7" column="101" />
         <mark key="^" line="7" column="101" />
@@ -22,18 +22,18 @@
         <mark key="^" line="39" column="96" />
         <mark key="." line="79" column="96" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Services/IDiskUsageRpcServer.cs" timestamp="1544101585165">
-        <mark key="[" line="16" column="84" />
-        <mark key="]" line="16" column="103" />
-        <mark key="^" line="16" column="103" />
-        <mark key="." line="16" column="103" />
+      <file name="D:/workspace/sqlmonitor/Source/Common/Services/Services/IDiskUsageRpcServer.cs" timestamp="1544106484946">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="89" />
+        <mark key="^" line="10" column="89" />
+        <mark key="." line="10" column="89" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/FakeDiskUsageRepository.cs" timestamp="1544101827990">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/FakeDiskUsageRepository.cs" timestamp="1544106586234">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="50" column="90" />
-        <mark key="]" line="50" column="109" />
-        <mark key="." line="50" column="109" />
-        <mark key="^" line="50" column="109" />
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="38" column="46" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DatabaseFileUsageViewModel.cs" timestamp="1544010648672">
         <mark key="[" line="7" column="24" />
@@ -44,26 +44,25 @@
       <file name="/Dummy.cs" timestamp="1544104891137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/MultiBaseMonitorDiskUsageRepositoryAdapter.cs" timestamp="1544101707673">
-        <mark key="'" line="20" column="217" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/MultiBaseMonitorDiskUsageRepositoryAdapter.cs" timestamp="1544106404356">
+        <mark key="'" line="20" column="84" />
         <mark key="[" line="20" column="242" />
-        <mark key="]" line="20" column="242" />
-        <mark key="^" line="20" column="255" />
-        <mark key="." line="20" column="242" />
+        <mark key="]" line="20" column="254" />
+        <mark key="^" line="20" column="254" />
+        <mark key="." line="20" column="254" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcClient.cs" timestamp="1544104779302">
-        <mark key="'" line="20" column="44" />
-        <mark key="[" line="24" column="91" />
-        <mark key="]" line="24" column="91" />
-        <mark key="^" line="26" column="78" />
-        <mark key="." line="24" column="91" />
+      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcClient.cs" timestamp="1544106538240">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="78" />
+        <mark key="^" line="20" column="78" />
+        <mark key="." line="20" column="78" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" timestamp="1544019868751">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" timestamp="1544106241797">
         <mark key="'" line="34" column="88" />
-        <mark key="[" line="32" column="64" />
-        <mark key="]" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-        <mark key="^" line="32" column="63" />
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="20" column="68" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Services/Disk/DiskInfoMessage.cs" timestamp="1544094000148">
         <mark key="[" line="33" column="21" />
@@ -78,19 +77,19 @@
         <mark key="^" line="45" column="68" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1544097815796">
-        <mark key="'" line="18" column="12" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1544106680384">
+        <mark key="'" line="19" column="12" />
         <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/DiskUsageIteratorTests.cs" timestamp="1544102050050">
-        <mark key="'" line="80" column="44" />
-        <mark key="[" line="80" column="92" />
-        <mark key="]" line="80" column="98" />
-        <mark key="^" line="80" column="98" />
-        <mark key="." line="80" column="98" />
+        <mark key="'" line="13" column="44" />
+        <mark key="[" line="13" column="92" />
+        <mark key="]" line="13" column="98" />
+        <mark key="^" line="13" column="98" />
+        <mark key="." line="13" column="98" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactoryTests.cs" timestamp="1544103868787">
         <mark key="'" line="218" column="31" />
@@ -119,7 +118,7 @@
         <mark key="^" line="23" column="61" />
         <mark key="." line="23" column="61" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/Index.cshtml" timestamp="1544097829709">
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/Index.cshtml" timestamp="1544106670656">
         <mark key="[" line="25" column="50" />
         <mark key="]" line="25" column="60" />
         <mark key="." line="25" column="60" />
@@ -146,11 +145,16 @@
         <mark key="^" line="0" column="126" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/API.js" timestamp="1544104307785">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/API.js" timestamp="1544106694547">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544106739769">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/Table.jsx" timestamp="1543929293378">
         <mark key="[" line="126" column="76" />
@@ -171,12 +175,12 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544101503341">
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544106729181">
         <mark key="'" line="20" column="54" />
-        <mark key="[" line="91" column="91" />
-        <mark key="]" line="91" column="110" />
-        <mark key="." line="91" column="110" />
-        <mark key="^" line="91" column="110" />
+        <mark key="[" line="68" column="116" />
+        <mark key="]" line="68" column="126" />
+        <mark key="." line="68" column="126" />
+        <mark key="^" line="68" column="126" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageSummaryTests.cs" timestamp="1544017520517">
         <mark key="'" line="46" column="45" />
@@ -190,12 +194,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcServer.cs" timestamp="1544104785119">
-        <mark key="'" line="7" column="62" />
-        <mark key="[" line="18" column="66" />
-        <mark key="]" line="18" column="78" />
-        <mark key="^" line="18" column="78" />
-        <mark key="." line="18" column="78" />
+      <file name="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcServer.cs" timestamp="1544106473568">
+        <mark key="'" line="7" column="45" />
+        <mark key="[" line="18" column="67" />
+        <mark key="]" line="18" column="79" />
+        <mark key="^" line="18" column="79" />
+        <mark key="." line="18" column="79" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactory.cs" timestamp="1544101753026">
         <mark key="'" line="12" column="61" />
@@ -203,7 +207,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/RPC/Disks/DiskUsageRpcClientTests.cs" timestamp="1544101877709">
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Common/RPC/Disks/DiskUsageRpcClientTests.cs" timestamp="1544106551313">
         <mark key="[" line="16" column="84" />
         <mark key="]" line="16" column="84" />
         <mark key="^" line="16" column="84" />
@@ -216,12 +220,12 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1544104576537">
-        <mark key="'" line="38" column="48" />
-        <mark key="[" line="29" column="78" />
-        <mark key="]" line="29" column="90" />
-        <mark key="." line="29" column="90" />
-        <mark key="^" line="29" column="90" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1544106653826">
+        <mark key="'" line="23" column="48" />
+        <mark key="[" line="23" column="82" />
+        <mark key="]" line="23" column="101" />
+        <mark key="^" line="23" column="101" />
+        <mark key="." line="23" column="101" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/DiskDataPresenterBuilder.cs" timestamp="1544019536380">
         <mark key="'" line="74" column="48" />
@@ -326,25 +330,25 @@
       <jump line="10" column="66" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageIterator.cs" />
       <jump line="43" column="83" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" />
       <jump line="20" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
-      <jump line="7" column="62" filename="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcServer.cs" />
-      <jump line="20" column="217" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/MultiBaseMonitorDiskUsageRepositoryAdapter.cs" />
       <jump line="12" column="61" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactory.cs" />
       <jump line="80" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/DiskUsageIteratorTests.cs" />
       <jump line="218" column="31" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactoryTests.cs" />
       <jump line="20" column="44" filename="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcClient.cs" />
+      <jump line="20" column="84" filename="D:/workspace/sqlmonitor/Source/UI/Website/Infrastructure/MultiBaseMonitorDiskUsageRepositoryAdapter.cs" />
+      <jump line="7" column="45" filename="D:/workspace/sqlmonitor/Source/RPC/Disks/DiskUsageRpcServer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>clusterName</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>clusterName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxJbnN0YW5jZU5hbWVzLm1hcCh4ID0+IGBzcWxJbnN0YW5jZU5hbWVzPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHgpfWApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShjbHVzdGVyTmFtZSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHF1ZXJ5QnVpbGRlci5XZWFrQ29tYmluZShOYW1lcy5Sb290LkNsdXN0ZXIuTmFtZSwgbmV3IFByb3BlcnR5UXVlcnkoUHJvcGVydHlSZXN0cmljdGlvbi5OZXcoY2x1c3Rlck5hbWUpKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
