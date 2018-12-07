@@ -237,12 +237,12 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1544178758829">
-        <mark key="'" line="43" column="30" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="49" column="92" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" timestamp="1544180050197">
+        <mark key="'" line="23" column="58" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/DiskDataPresenterBuilder.cs" timestamp="1544019536380">
         <mark key="'" line="74" column="48" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="109" column="41" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Disks/components/Table/Table.jsx" />
       <jump line="47" column="13" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
       <jump line="28" column="9" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDatabaseFileUsageTests.cs" />
@@ -353,13 +352,14 @@
       <jump line="44" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
       <jump line="82" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="221" column="38" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
+      <jump line="24" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>clusterName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>clusterName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
@@ -368,28 +368,28 @@
         <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQoY2x1c3RlckRpc2tJbmZvcy5TZWxlY3QoeCA9PiB4Lk5hbWUpLkRpc3RpbmN0KCksIElzLkVxdWl2YWxlbnRUbyhuZXdbXSB7ImNsdXN0ZXIifSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW47Cg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNoYW5uZWxzLlBpY2tsZTsK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbEluc3RhbmNlTmFtZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzay5VblBpY2tsZUNoYW5uZWxJbnN0YW5jZVJlZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsSW5zdGFuY2VOYW1lcy5GaXJzdCgpLlRvU3FsU2VydmVyRGlzcGxheU5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbEluc3RhbmNlTmFtZXMuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsSW5zdGFuY2VOYW1lcy5GaXJzdCgpLkNsdXN0ZXJOb2RlTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsSW5zdGFuY2VOYW1lcy5GaXJzdCgpLlRvU3FsU2VydmVyRGlzcGxheU5hbWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbml0aXplZFNxbEluc3RhbmNlTmFtZXMgPSBzcWxJbnN0YW5jZU5hbWVzLk9yRW1wdHlJZk51bGwoKQogICAgICAgICAgICAgICAgLldoZXJlKHggPT4geCAhPSBudWxsKQogICAgICAgICAgICAgICAgLlRvTGlzdCgpOwogICAgICAgICAgICBzcWxJbnN0YW5jZU5hbWVzLkZpcnN0KCkuSW5zdGFuY2VOYW1lKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -409,10 +409,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsSW5zdGFuY2VOYW1lcy5GaXJzdCgpLkNsdXN0ZXJOb2RlTmFtZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhbml0aXplZFNxbEluc3RhbmNlTmFtZXMgPSBzcWxJbnN0YW5jZU5hbWVzLk9yRW1wdHlJZk51bGwoKQogICAgICAgICAgICAgICAgLldoZXJlKHggPT4geCAhPSBudWxsKQogICAgICAgICAgICAgICAgLlRvTGlzdCgpOwogICAgICAgICAgICBzcWxJbnN0YW5jZU5hbWVzLkZpcnN0KCkuSW5zdGFuY2VOYW1lKCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
