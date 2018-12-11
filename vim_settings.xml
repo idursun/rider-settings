@@ -191,12 +191,12 @@
       <file name="D:/workspace/sqlmonitor/Source/Channels/Data/ChannelKey.cs" timestamp="1544092046870">
         <mark key="'" line="105" column="12" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" timestamp="1544540618685">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="133" column="54" />
-        <mark key="]" line="133" column="54" />
-        <mark key="." line="133" column="54" />
-        <mark key="^" line="133" column="54" />
+      <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" timestamp="1544541922366">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="75" column="54" />
+        <mark key="]" line="75" column="64" />
+        <mark key="." line="75" column="64" />
+        <mark key="^" line="75" column="64" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/DiskUsageIteratorTests.cs" timestamp="1544102050050">
         <mark key="'" line="13" column="44" />
@@ -250,21 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="43" filename="D:/workspace/sqlmonitor/Source/UI/Website/Models/Overview/DatabaseOverview/DatabaseFileModelFactory.cs" />
-      <jump line="37" column="17" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
-      <jump line="73" column="68" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="8" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="35" column="24" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
-      <jump line="63" column="35" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="74" column="34" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="31" column="37" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
-      <jump line="10" column="27" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Disks/MachineDiskInfo.cs" />
-      <jump line="43" column="21" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="94" column="46" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="68" column="25" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="62" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="45" column="42" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Page.jsx" />
-      <jump line="14" column="27" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageTests.cs" />
       <jump line="20" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/FakeDiskUsageRepository.cs" />
       <jump line="8" column="50" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/FakeDiskUsageRepository.cs" />
       <jump line="61" column="80" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/DiskDataPresenterBuilder.cs" />
@@ -345,48 +330,63 @@
       <jump line="17" column="74" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Base.Service/FullBaseMonitorTests.cs" />
       <jump line="64" column="33" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="65" column="71" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="73" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="129" column="35" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="163" column="44" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="122" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="6" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="127" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="131" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="119" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="75" column="22" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="186" column="73" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="185" column="64" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="183" column="64" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="189" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="184" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="187" column="116" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="3" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="190" column="67" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="74" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="73" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="72" column="17" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="137" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8uQWRkRmlsZU5hbWVTYW1wbGUoRGF0ZVRpbWUuVXRjTm93LCBmaWxlLkZpbGVQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERhdGFiYXNlRmlsZVVzYWdlSW5mb0RhdGFCdWlsZGVyIFdpdGhVc2VkU2l6ZVNhbXBsZXMobG9uZ1tdIHNhbXBsZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBhZGRlZEZpbGUgPSBtX0ZpbGVzLkxhc3QoKTsKICAgICAgICAgICAgICAgIGFkZGVkRmlsZS5TcWxVc2VkID0gc2FtcGxlczsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZGVkRmlsZS5TaXplID0gc2l6ZTsK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfLkFkZEZpbGVOYW1lU2FtcGxlKG5vdy5BZGRTZWNvbmRzKDEpLCBmaWxlLkZpbGVQYXRoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8uQWRkRmlsZU5hbWVTYW1wbGUobm93LCBmaWxlLkZpbGVQYXRoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8uQWRkVXNlZFNpemVTYW1wbGUobm93LCBmaWxlLkZpbGVQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfLkFkZEZpbGVOYW1lU2FtcGxlKG5vdy5BZGRTZWNvbmRzKDEpLCBmaWxlLkZpbGVQYXRoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERhdGFiYXNlRmlsZVVzYWdlSW5mb0RhdGFCdWlsZGVyIFdpdGhGaWxlVXNhZ2Uoc3RyaW5nIGNsdXN0ZXIsIHN0cmluZyBzcWxTZXJ2ZXJJbnN0YW5jZSwgc3RyaW5nIGRhdGFiYXNlLCBzdHJpbmcgZmlsZU5hbWUsIGxvbmcgZmlsZVR5cGUsIHN0cmluZyBmaWxlUGF0aCwgbG9uZ1tdIHNxbFVzZWQsIGxvbmdbXSBhbGxvY2F0ZWRTcWwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1fRmlsZXMuQWRkKG5ldyBGaWxlSW5mbwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENsdXN0ZXIgPSBjbHVzdGVyLAogICAgICAgICAgICAgICAgICAgIEluc3RhbmNlID0gc3FsU2VydmVySW5zdGFuY2UsCiAgICAgICAgICAgICAgICAgICAgRGF0YWJhc2UgPSBkYXRhYmFzZSwKICAgICAgICAgICAgICAgICAgICBGaWxlID0gZmlsZU5hbWUsCiAgICAgICAgICAgICAgICAgICAgRmlsZVR5cGUgPSBmaWxlVHlwZS5Ub1N0cmluZygpLAogICAgICAgICAgICAgICAgICAgIEZpbGVQYXRoID0gZmlsZVBhdGgsCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXy5BZGRGaWxlTmFtZVNhbXBsZShub3cuQWRkU2Vjb25kcygxKSwgZmlsZS5GaWxlUGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgUmVkR2F0ZS5TcWxNb25pdG9yLkNvbW1vbi5Eb21haW4uRGlza3M7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlcnZpY2VNb2RlbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBsb25nIFVzZWQgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgcHVibGljIGxvbmcgQ2FwYWNpdHkgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXy5BZGQobm93LkFkZFNlY29uZHMoMSksIGZpbGUuU2l6ZVtpXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfLkFkZEZpbGVOYW1lU2FtcGxlKG5vdy5BZGRTZWNvbmRzKDEpLCBmaWxlLkZpbGVQYXRoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXy5BZGRVc2VkU2l6ZVNhbXBsZShub3cuQWRkU2Vjb25kcygxKSwgaSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -406,13 +406,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdHJpbmcgRmlsZVBhdGggeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSByZWFkb25seSBMaXN0PERhdGFiYXNlRmlsZVVzYWdlSW5mbz4gbV9GaWxlczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action GotoSymbol</text>
       </register>
     </registers>
     <search>
@@ -461,13 +461,13 @@
         <entry encoding="base64">JzwsJz5zL3wvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry>W</entry>
-        <entry>action GotoSymbol</entry>
         <entry>action EditorCompleteStatement</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzovPS9n</entry>
         <entry>nohl</entry>
         <entry>action SaveDocument</entry>
+        <entry>action Find</entry>
+        <entry>action GotoSymbol</entry>
       </history-cmd>
       <history-expr />
       <history-input />
