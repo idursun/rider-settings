@@ -84,6 +84,13 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Graph/Graph.jsx" timestamp="1544606936927">
+        <mark key="'" line="82" column="62" />
+        <mark key="[" line="75" column="71" />
+        <mark key="]" line="75" column="72" />
+        <mark key="^" line="82" column="40" />
+        <mark key="." line="75" column="72" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1544007176579">
         <mark key="'" line="10" column="12" />
         <mark key="[" line="14" column="0" />
@@ -257,8 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="55" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageWithFilterTests.cs" />
-      <jump line="28" column="67" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/RepositoryBuilder.cs" />
       <jump line="239" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="79" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/DiskDataPresenterBuilder.cs" />
       <jump line="74" column="48" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/DiskDataPresenterBuilder.cs" />
@@ -357,10 +362,12 @@
       <jump line="238" column="39" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
       <jump line="93" column="49" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="146" column="12" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
+      <jump line="6" column="2" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Graph/Graph.jsx" />
+      <jump line="82" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Graph/Graph.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERhdGFiYXNlRmlsZVVzYWdlSW5mb0RhdGFCdWlsZGVyIFdpdGhMb2dpY2FsRGlzayhzdHJpbmcgZGlzaywgbG9uZ1tdIGZyZWVCeXRlcywgbG9uZ1tdIHRvdGFsQnl0ZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1fRGlzayA9IGRpc2s7CiAgICAgICAgICAgICAgICBtX0ZyZWVCeXRlcyA9IGZyZWVCeXRlczsKICAgICAgICAgICAgICAgIG1fVG90YWxCeXRlcyA9IHRvdGFsQnl0ZXM7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>color: Colours.blue.shade(1)</text>
       </register>
       <register name="-" type="4">
         <text>L</text>
@@ -368,8 +375,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjYXBhY2l0eSA9IGxvZ2ljYWxEaXNrLkNhcGFjaXR5LlRvdGFsQnl0ZXMuV2hlcmUoeCA9PiB4LktleS5EYXRlID09IGRhdGUpLlNlbGVjdCh4ID0+IHguVmFsdWUpLkZpcnN0T3JOb25lKCkuQ29sbGFwc2UoKS5WYWx1ZU9yRGVmYXVsdCgpOwo=</text>
+      <register name="0" type="4">
+        <text>color: Colours.blue.shade(1)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERhdGFiYXNlRmlsZVVzYWdlSW5mb0RhdGFCdWlsZGVyIFdpdGhMb2dpY2FsRGlzayhzdHJpbmcgZGlzaywgbG9uZ1tdIGZyZWVCeXRlcywgbG9uZ1tdIHRvdGFsQnl0ZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1fRGlzayA9IGRpc2s7CiAgICAgICAgICAgICAgICBtX0ZyZWVCeXRlcyA9IGZyZWVCeXRlczsKICAgICAgICAgICAgICAgIG1fVG90YWxCeXRlcyA9IHRvdGFsQnl0ZXM7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICAgICAgfQoK</text>
