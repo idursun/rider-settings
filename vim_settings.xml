@@ -163,12 +163,11 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Graph/Graph.jsx" timestamp="1544606936927">
-        <mark key="'" line="82" column="62" />
-        <mark key="[" line="75" column="71" />
-        <mark key="]" line="75" column="72" />
-        <mark key="^" line="82" column="40" />
-        <mark key="." line="75" column="72" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Graph/Graph.jsx" timestamp="1544610819567">
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="76" column="56" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1544007176579">
         <mark key="'" line="10" column="12" />
@@ -208,11 +207,11 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544608670750">
-        <mark key="[" line="212" column="119" />
-        <mark key="]" line="212" column="135" />
-        <mark key="." line="212" column="135" />
-        <mark key="^" line="212" column="135" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" timestamp="1544610681314">
+        <mark key="[" line="257" column="21" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+        <mark key="^" line="254" column="66" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageSummaryTests.cs" timestamp="1544017520517">
         <mark key="'" line="46" column="45" />
@@ -369,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgeyBkYXRhOiB1c2VkU3FsLCBuYW1lOiAiVXNlZCBTUUwiLCBjb2xvcjogQ29sb3Vycy5ibHVlLnNoYWRlKDcpIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>blue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
@@ -381,28 +380,28 @@
         <text>color: Colours.blue.shade(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgeyBkYXRhOiB1c2VkU3FsLCBuYW1lOiAiVXNlZCBTUUwiLCBjb2xvcjogQ29sb3Vycy5ibHVlLnNoYWRlKDcpIH0K</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0Q29sbGVjdGlvbkRhdGUgPSBwYWlyLktleS5EYXRlOwogICAgICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBuZXcgS2V5VmFsdWVQYWlyPERhdGVUaW1lLCBPcHRpb248bG9uZz4+KGxhc3RDb2xsZWN0aW9uRGF0ZS5EYXRlLCBwYWlyLlZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNhcGFjaXR5ID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb2xsZWN0aW9uRGF0ZSA9IHBhaXIuS2V5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltbXV0YWJsZVZhbHVlU3RyZWFtPGxvbmc+KCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjYXBhY2l0eVZhbHVlcy5Db3VudCA+IDApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVTdHJlYW08bG9uZz4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXBhY2l0eSA9IEdldExhc3RWYWx1ZUZvckRheShjYXBhY2l0eVZhbHVlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERhdGFiYXNlRmlsZVVzYWdlSW5mb0RhdGFCdWlsZGVyIFdpdGhMb2dpY2FsRGlzayhzdHJpbmcgZGlzaywgbG9uZ1tdIGZyZWVCeXRlcywgbG9uZ1tdIHRvdGFsQnl0ZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG1fRGlzayA9IGRpc2s7CiAgICAgICAgICAgICAgICBtX0ZyZWVCeXRlcyA9IGZyZWVCeXRlczsKICAgICAgICAgICAgICAgIG1fVG90YWxCeXRlcyA9IHRvdGFsQnl0ZXM7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgY2FwYWNpdHkgPSAwOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -422,10 +421,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleVZhbHVlUGFpcjwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjYXBhY2l0eSA9IGxvZ2ljYWxEaXNrLkNhcGFjaXR5LlRvdGFsQnl0ZXMuV2hlcmUoeCA9PiB4LktleS5EYXRlID09IGRhdGUpLlNlbGVjdCh4ID0+IHguVmFsdWUpLkZpcnN0T3JOb25lKCkuQ29sbGFwc2UoKS5WYWx1ZU9yRGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
