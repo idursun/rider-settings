@@ -220,11 +220,11 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544619519747">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="49" />
+      <file name="/Dummy.txt" timestamp="1545060165569">
+        <mark key="[" line="2" column="146" />
+        <mark key="]" line="2" column="151" />
+        <mark key="." line="2" column="151" />
+        <mark key="^" line="2" column="151" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/components/Table/Table.jsx" timestamp="1543929293378">
         <mark key="[" line="126" column="76" />
