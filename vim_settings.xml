@@ -160,6 +160,12 @@
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsController.cs" timestamp="1544096899685">
         <mark key="'" line="12" column="21" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTable.jsx" timestamp="1545067229994">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Website.JavaScript.Unit.Tests/Tests/WebpackTests/Estate/DiskUsageDetails/PageSpec.js" timestamp="1543857366580">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="42" />
@@ -270,12 +276,12 @@
         <mark key="^" line="94" column="57" />
         <mark key="." line="102" column="54" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1545061371421">
-        <mark key="'" line="270" column="32" />
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
-        <mark key="^" line="270" column="33" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1545066732450">
+        <mark key="'" line="271" column="32" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="269" column="58" />
+        <mark key="^" line="271" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/SqlServerNameExtensions.cs" timestamp="1544176042730">
         <mark key="'" line="114" column="94" />
@@ -305,9 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="59" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
-      <jump line="44" column="30" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
-      <jump line="24" column="58" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
       <jump line="45" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageDetailsApiController.cs" />
       <jump line="72" column="55" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/DiskUsageApiController.cs" />
       <jump line="82" column="44" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/DiskUsageRepository.cs" />
@@ -405,43 +408,46 @@
       <jump line="173" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/BackupsRepositoryTests.cs" />
       <jump line="157" column="52" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/BackupsRepositoryTests.cs" />
       <jump line="271" column="32" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
+      <jump line="66" column="31" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTable.jsx" />
+      <jump line="202" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTable.jsx" />
+      <jump line="195" column="0" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/DrillDownTable.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjFcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMzOk9EUywiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW5DbGFzcz0ibmFycm93Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>7:Cluster,1,4:Name,s26:rg-sql01-clus.red-gate.com,9:SqlServer,1,4:Name,s12:rg-sql01-n2\\,8:Database,1,4:Name,s14:AuditAndErrors,</text>
+        <text>small</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjFcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMzOk9EUywiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNvcnRhYmxlQ29sdW1uSGVhZGVyCiAgICAgICAgICAgICAgY29sdW1uS2V5PSJUeXBlIgogICAgICAgICAgICAgIGNvbHVtbkxhYmVsPSJUeXBlIgogICAgICAgICAgICAgIGNvbHVtbkNsYXNzPSJzbWFsbCIKICAgICAgICAgICAgICBzb3J0ZWQ9e3NvcnQuY29sdW1uID09PSAiVHlwZSIgJiYgc29ydC5kaXJlY3Rpb259CiAgICAgICAgICAgICAgaGFuZGxlU29ydD17dGhpcy5zb3J0Q29sdW1ufQogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjJcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMzOk9EUywiLAogICI3OkNsdXN0ZXIsMSw0Ok5hbWUsczI2OnJnLXNxbDAxLWNsdXMucmVkLWdhdGUuY29tLDk6U3FsU2VydmVyLDEsNDpOYW1lLHMxMjpyZy1zcWwwMS1uM1xcLDg6RGF0YWJhc2UsMSw0Ok5hbWUsczM6T0RTLCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW5DbGFzcz0ibmFycm93Igo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwNDIyNTQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwNDIyMDUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU1MzUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0NDMuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0MTEuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUzMDQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUxMzcuMjAwLmpzb24K</text>
+        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjJcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMzOk9EUywiLAogICI3OkNsdXN0ZXIsMSw0Ok5hbWUsczI2OnJnLXNxbDAxLWNsdXMucmVkLWdhdGUuY29tLDk6U3FsU2VydmVyLDEsNDpOYW1lLHMxMjpyZy1zcWwwMS1uM1xcLDg6RGF0YWJhc2UsMSw0Ok5hbWUsczM6T0RTLCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjNcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMxNDpBdWRpdEFuZEVycm9ycywiCg==</text>
+        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwNDIyNTQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwNDIyMDUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU1MzUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0NDMuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0MTEuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUzMDQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUxMzcuMjAwLmpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja3VwSGlzdG9yaWVzLkFkZFJhbmdlKGJhY2t1cEhpc3RvcnkpOwo=</text>
+        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjNcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMxNDpBdWRpdEFuZEVycm9ycywiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhY2t1cEhpc3RvcmllcyA9IG5ldyBMaXN0PEJhY2t1cEluZm8+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja3VwSGlzdG9yaWVzLkFkZFJhbmdlKGJhY2t1cEhpc3RvcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwMjUxMjQuNTAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUwMjIuNTAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhY2t1cEhpc3RvcmllcyA9IG5ldyBMaXN0PEJhY2t1cEluZm8+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZ3JvdXBlZEJ5RGF0YWJhc2UgPSBncm91cC5Hcm91cEJ5KHggPT4geC5kYXRhYmFzZU5hbWUpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwMjUxMjQuNTAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUwMjIuNTAwLmpzb24K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -461,10 +467,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2UuQmFja3VwVHlwZShiYWNrdXAuVHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZ3JvdXBlZEJ5RGF0YWJhc2UgPSBncm91cC5Hcm91cEJ5KHggPT4geC5kYXRhYmFzZU5hbWUpLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgYmFja3VwIGluIGJhY2t1cHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2UuQmFja3VwVHlwZShiYWNrdXAuVHlwZSwK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
@@ -503,10 +509,6 @@
         <entry encoding="base64">XDxkaXNrSW5mb1w+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0Z1bGwvRGlmZi9n</entry>
-        <entry encoding="base64">JzwsJz5zL0Z1bGwvTG9nL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3RkL3RoL2c=</entry>
-        <entry>action GotoFile</entry>
         <entry>buffers</entry>
         <entry>buffer</entry>
         <entry>action RecentFiles</entry>
@@ -522,6 +524,10 @@
         <entry>W</entry>
         <entry>action GotoSymbol</entry>
         <entry>registers</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist comment</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
