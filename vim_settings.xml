@@ -59,6 +59,9 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="/Dummy.cs" timestamp="1545218608012">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_3.http" timestamp="1545063999850">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="29" column="88" />
@@ -66,7 +69,9 @@
         <mark key="." line="29" column="89" />
         <mark key="^" line="30" column="119" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1545140014348" />
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1545217986730">
+        <mark key="'" line="48" column="50" />
+      </file>
       <file name="/JSON Fragment (rest-api_3.http:3888).json" timestamp="1545058347639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="95" />
@@ -115,6 +120,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Base.Service/FullBaseMonitorTests.cs" timestamp="1544447167397">
         <mark key="'" line="17" column="74" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/DatabaseBackupInfo.cs" timestamp="1545217908511">
+        <mark key="'" line="8" column="16" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1544106680384">
         <mark key="'" line="19" column="12" />
         <mark key="[" line="15" column="27" />
@@ -137,6 +145,9 @@
       <file name="D:/workspace/sqlmonitor/Source/Channels/Data/ChannelKey.cs" timestamp="1544092046870">
         <mark key="'" line="105" column="12" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/BackupRowViewModelFactory.cs" timestamp="1545217991054">
+        <mark key="'" line="12" column="62" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/DiskUsageIteratorTests.cs" timestamp="1544102050050">
         <mark key="'" line="13" column="44" />
         <mark key="[" line="13" column="92" />
@@ -144,12 +155,12 @@
         <mark key="^" line="13" column="98" />
         <mark key="." line="13" column="98" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1545216253560">
-        <mark key="'" line="46" column="35" />
-        <mark key="[" line="119" column="131" />
-        <mark key="]" line="119" column="160" />
-        <mark key="^" line="119" column="160" />
-        <mark key="." line="119" column="160" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1545219094490">
+        <mark key="'" line="119" column="49" />
+        <mark key="[" line="119" column="43" />
+        <mark key="]" line="119" column="42" />
+        <mark key="^" line="119" column="42" />
+        <mark key="." line="119" column="42" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactoryTests.cs" timestamp="1544103868787">
         <mark key="'" line="218" column="31" />
@@ -277,8 +288,8 @@
         <mark key="^" line="94" column="57" />
         <mark key="." line="102" column="54" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1545140584559">
-        <mark key="'" line="48" column="31" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1545217903752">
+        <mark key="'" line="46" column="30" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/SqlServerNameExtensions.cs" timestamp="1544176042730">
         <mark key="'" line="114" column="94" />
@@ -308,14 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="119" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="186" column="73" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="185" column="64" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="183" column="64" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="189" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="184" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
-      <jump line="3" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="74" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="137" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="71" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
@@ -400,7 +403,6 @@
       <jump line="44" column="15" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
       <jump line="7" column="28" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DatabaseBackupInfoViewModel.cs" />
       <jump line="158" column="43" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
-      <jump line="48" column="53" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
       <jump line="47" column="26" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
       <jump line="51" column="36" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
       <jump line="41" column="97" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
@@ -408,13 +410,22 @@
       <jump line="48" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
       <jump line="42" column="103" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
       <jump line="46" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="69" column="54" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="113" column="23" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="53" column="41" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="46" column="30" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
+      <jump line="8" column="16" filename="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/DatabaseBackupInfo.cs" />
+      <jump line="48" column="50" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" />
+      <jump line="12" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/BackupRowViewModelFactory.cs" />
+      <jump line="90" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="119" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sqlServerDisplayName.InstanceName()</text>
+        <text>.InstanceName()</text>
       </register>
       <register name="-" type="4">
-        <text>sqlServerDisplayName.InstanceName()</text>
+        <text>.InstanceName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
@@ -422,29 +433,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBbUmV0cnkoQ29uZmlndXJhdGlvbi5QYWdlUmV0cmllcyldCiAgICAgICAgcHVibGljIHZvaWQgQ2hlY2tDb25maWd1cmF0aW9uVGFiKCkKICAgICAgICB7CiAgICAgICAgICAgIE5hdmlnYXRlVG9UYWIoImNvbmZpZ3VyYXRpb24iKTsKCiAgICAgICAgICAgIHZhciBjb25maWd1cmF0aW9uR3JvdXBzID0gQnJvd3Nlci5GaW5kRWxlbWVudHMoQnkuQ2xhc3NOYW1lKCJjb25maWd1cmF0aW9uLWdyb3VwIikpOwogICAgICAgICAgICBBc3NlcnQuVGhhdChjb25maWd1cmF0aW9uR3JvdXBzLCBJcy5Ob3QuRW1wdHkpOwogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW5DbGFzcz0ibmFycm93Igo=</text>
+      <register name="1" type="4">
+        <text>instanceName.IsClusterNodeName()
+                ? instanceName.ToQualifiedSqlServerName(clusterName).ToSqlServerDisplayName()</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjJcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMzOk9EUywiLAogICI3OkNsdXN0ZXIsMSw0Ok5hbWUsczI2OnJnLXNxbDAxLWNsdXMucmVkLWdhdGUuY29tLDk6U3FsU2VydmVyLDEsNDpOYW1lLHMxMjpyZy1zcWwwMS1uM1xcLDg6RGF0YWJhc2UsMSw0Ok5hbWUsczM6T0RTLCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW5DbGFzcz0ibmFycm93Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwNDIyNTQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwNDIyMDUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU1MzUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0NDMuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0MTEuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUzMDQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUxMzcuMjAwLmpzb24K</text>
+        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjJcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMzOk9EUywiLAogICI3OkNsdXN0ZXIsMSw0Ok5hbWUsczI2OnJnLXNxbDAxLWNsdXMucmVkLWdhdGUuY29tLDk6U3FsU2VydmVyLDEsNDpOYW1lLHMxMjpyZy1zcWwwMS1uM1xcLDg6RGF0YWJhc2UsMSw0Ok5hbWUsczM6T0RTLCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjNcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMxNDpBdWRpdEFuZEVycm9ycywiCg==</text>
+        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwNDIyNTQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwNDIyMDUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU1MzUuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0NDMuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjU0MTEuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUzMDQuMjAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUxMzcuMjAwLmpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja3VwSGlzdG9yaWVzLkFkZFJhbmdlKGJhY2t1cEhpc3RvcnkpOwo=</text>
+        <text encoding="base64">ICAiNzpDbHVzdGVyLDEsNDpOYW1lLHMyNjpyZy1zcWwwMS1jbHVzLnJlZC1nYXRlLmNvbSw5OlNxbFNlcnZlciwxLDQ6TmFtZSxzMTI6cmctc3FsMDEtbjNcXCw4OkRhdGFiYXNlLDEsNDpOYW1lLHMxNDpBdWRpdEFuZEVycm9ycywiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhY2t1cEhpc3RvcmllcyA9IG5ldyBMaXN0PEJhY2t1cEluZm8+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja3VwSGlzdG9yaWVzLkFkZFJhbmdlKGJhY2t1cEhpc3RvcnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwMjUxMjQuNTAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUwMjIuNTAwLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhY2t1cEhpc3RvcmllcyA9IG5ldyBMaXN0PEJhY2t1cEluZm8+KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -464,10 +476,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZ3JvdXBlZEJ5RGF0YWJhc2UgPSBncm91cC5Hcm91cEJ5KHggPT4geC5kYXRhYmFzZU5hbWUpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">PD4gMjAxOC0xMi0xN1QwMjUxMjQuNTAwLmpzb24KPD4gMjAxOC0xMi0xN1QwMjUwMjIuNTAwLmpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2UuQmFja3VwVHlwZShiYWNrdXAuVHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZ3JvdXBlZEJ5RGF0YWJhc2UgPSBncm91cC5Hcm91cEJ5KHggPT4geC5kYXRhYmFzZU5hbWUpLlRvTGlzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
