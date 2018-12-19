@@ -69,9 +69,6 @@
         <mark key="." line="29" column="89" />
         <mark key="^" line="30" column="119" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1545217986730">
-        <mark key="'" line="48" column="50" />
-      </file>
       <file name="/JSON Fragment (rest-api_3.http:3888).json" timestamp="1545058347639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="95" />
@@ -120,9 +117,6 @@
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Base.Service/FullBaseMonitorTests.cs" timestamp="1544447167397">
         <mark key="'" line="17" column="74" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Common/Domain/Backups/DatabaseBackupInfo.cs" timestamp="1545217908511">
-        <mark key="'" line="8" column="16" />
-      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/DiskUsageDetails/entry.jsx" timestamp="1544106680384">
         <mark key="'" line="19" column="12" />
         <mark key="[" line="15" column="27" />
@@ -144,9 +138,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Channels/Data/ChannelKey.cs" timestamp="1544092046870">
         <mark key="'" line="105" column="12" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/BackupRowViewModelFactory.cs" timestamp="1545217991054">
-        <mark key="'" line="12" column="62" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/DiskUsageIteratorTests.cs" timestamp="1544102050050">
         <mark key="'" line="13" column="44" />
