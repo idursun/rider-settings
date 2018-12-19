@@ -59,9 +59,6 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="/Dummy.cs" timestamp="1544615794483">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_3.http" timestamp="1545063999850">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="29" column="88" />
@@ -69,9 +66,7 @@
         <mark key="." line="29" column="89" />
         <mark key="^" line="30" column="119" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1545140014348">
-        <mark key="'" line="47" column="26" />
-      </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Controllers/BackupsApiController.cs" timestamp="1545140014348" />
       <file name="/JSON Fragment (rest-api_3.http:3888).json" timestamp="1545058347639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="95" />
@@ -149,12 +144,12 @@
         <mark key="^" line="13" column="98" />
         <mark key="." line="13" column="98" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1545212881248">
-        <mark key="'" line="41" column="103" />
-        <mark key="[" line="41" column="76" />
-        <mark key="]" line="42" column="19" />
-        <mark key="^" line="42" column="19" />
-        <mark key="." line="42" column="19" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1545216253560">
+        <mark key="'" line="46" column="35" />
+        <mark key="[" line="119" column="131" />
+        <mark key="]" line="119" column="160" />
+        <mark key="^" line="119" column="160" />
+        <mark key="." line="119" column="160" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactoryTests.cs" timestamp="1544103868787">
         <mark key="'" line="218" column="31" />
@@ -204,9 +199,6 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="33" column="41" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/DatabaseBackupInfoViewModel.cs" timestamp="1545139857169">
-        <mark key="'" line="7" column="28" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/RepositoryBuilder.cs" timestamp="1544019739680">
         <mark key="'" line="28" column="67" />
@@ -287,10 +279,6 @@
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" timestamp="1545140584559">
         <mark key="'" line="48" column="31" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="269" column="58" />
-        <mark key="^" line="271" column="33" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Common/Domain/SqlServerNameExtensions.cs" timestamp="1544176042730">
         <mark key="'" line="114" column="94" />
@@ -320,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="39" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="131" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="119" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="186" column="73" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
@@ -420,13 +407,14 @@
       <jump line="39" column="52" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
       <jump line="48" column="31" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Repositories/BackupsRepository.cs" />
       <jump line="42" column="103" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="46" column="35" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClusterNodeName</text>
+        <text>sqlServerDisplayName.InstanceName()</text>
       </register>
       <register name="-" type="4">
-        <text>ClusterNodeName</text>
+        <text>sqlServerDisplayName.InstanceName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
