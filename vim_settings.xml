@@ -149,12 +149,12 @@
         <mark key="^" line="13" column="98" />
         <mark key="." line="13" column="98" />
       </file>
-      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1545140892645">
-        <mark key="'" line="42" column="103" />
-        <mark key="[" line="42" column="81" />
-        <mark key="]" line="42" column="91" />
-        <mark key="^" line="42" column="91" />
-        <mark key="." line="42" column="91" />
+      <file name="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" timestamp="1545212881248">
+        <mark key="'" line="41" column="103" />
+        <mark key="[" line="41" column="76" />
+        <mark key="]" line="42" column="19" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="42" column="19" />
       </file>
       <file name="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Website/Areas/Estate/Controllers/ExcelExport/DiskUsage/RowModelFactoryTests.cs" timestamp="1544103868787">
         <mark key="'" line="218" column="31" />
@@ -423,10 +423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>ClusterNodeName</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>ClusterNodeName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
