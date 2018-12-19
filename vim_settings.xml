@@ -238,8 +238,8 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545060165569">
-        <mark key="[" line="2" column="146" />
+      <file name="/Dummy.txt" timestamp="1545224836551">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="151" />
         <mark key="." line="2" column="151" />
         <mark key="^" line="2" column="151" />
@@ -300,6 +300,13 @@
         <mark key="^" line="16" column="84" />
         <mark key="." line="16" column="84" />
       </file>
+      <file name="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" timestamp="1545224607201">
+        <mark key="'" line="90" column="33" />
+        <mark key="[" line="154" column="34" />
+        <mark key="]" line="154" column="33" />
+        <mark key="." line="154" column="33" />
+        <mark key="^" line="154" column="33" />
+      </file>
       <file name="D:/workspace/sqlmonitor/Source/UI/Website/Models/Overview/DatabaseOverview/DatabaseFileModelFactory.cs" timestamp="1544009561962">
         <mark key="'" line="43" column="43" />
       </file>
@@ -319,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="18" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="137" column="0" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="71" column="36" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
       <jump line="106" column="26" filename="D:/workspace/sqlmonitor/Source/Tests/Unit.Tests/Engine/Monitoring.Core.Tests/Repositories/DiskUsageRepositoryTests/GetDiskUsageDetailTests.cs" />
@@ -419,13 +425,14 @@
       <jump line="12" column="62" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Models/BackupRowViewModelFactory.cs" />
       <jump line="90" column="47" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
       <jump line="119" column="49" filename="D:/workspace/sqlmonitor/Source/Engine/Monitoring/Core/Converters/BackupInfoToBackupHistoryInfoConverter.cs" />
+      <jump line="90" column="33" filename="D:/workspace/sqlmonitor/Source/UI/Website/Areas/Estate/Views/Backups/components/Table/TableRow.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.InstanceName()</text>
+        <text>{&quot; &quot;}</text>
       </register>
       <register name="-" type="4">
-        <text>.InstanceName()</text>
+        <text>{&quot; &quot;}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNrSW5mb1w+</text>
